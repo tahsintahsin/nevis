@@ -1,0 +1,35 @@
+{
+  "meetingId": "110",
+  "tickets": [
+    {
+      "templateId": "16995f94-ef6c-5a22-ab66-51b66b8e9006",
+      "title": "Start retirement plan rollover",
+      "text": "Start preparing Nadia Copperwisp’s Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and the company-stock portion.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-06 to start preparing the Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and company-stock portion."
+    },
+    {
+      "templateId": "8c612259-b800-506e-8ebd-7f9d271f4e87",
+      "title": "Collect tax notice follow-up details",
+      "text": "Complete the blanks before reviewing or responding to a tax notice.\n\nNotice recipient: ____\nTax year or period: ____\nIssuing agency: ____\nNotice number or reference code: ____\nDate shown on notice: ____\nResponse requested by agency: ____\nAmount due, refund change, or proposed adjustment: ____\nReason stated in notice: ____\nDocuments already available: ____\nCPA or tax preparer involved: ____\nClient questions or concerns: ____\nRecommended next action: ____",
+      "priority": "medium",
+      "dueDate": "2024-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2024-08-23, the formal pension election packet is needed because only portal estimates were available."
+    },
+    {
+      "templateId": null,
+      "title": "Review first-year retirement income and withholding",
+      "text": "Review Nadia Copperwisp’s first-year retirement income and withholding. Address Tobin’s note that the final paycheck, unused vacation payout, and first pension timing were not yet in the tax projection.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-13 to review first-year retirement income and withholding because Tobin noted final paycheck, unused vacation payout, and first pension timing were not yet in the tax projection."
+    }
+  ]
+}

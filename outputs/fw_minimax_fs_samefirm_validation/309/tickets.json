@@ -1,0 +1,85 @@
+{
+  "meetingId": "309",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review new employer benefits elections",
+      "text": "Review Pocket Lantern Analytics benefits elections for Lena Copperwisp, comparing medical tiers, the HSA option, supplemental disability choices, and group life amounts. Focus on household cost and coverage tradeoffs before Lena submits elections, keeping in mind her preference for simple, low-maintenance choices that avoid extra administrative work for Jonah.",
+      "priority": null,
+      "dueDate": "2026-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the benefits elections by 2026-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Compare old 401(k) options for the Copperwisp household",
+      "text": "Compare options for Lena Copperwisp's old Velvet Acorn Robotics 401(k) held at Tin Sparrow Retirement Services: leave in place, move to the new Pocket Lantern Analytics plan, or roll eligible money to an IRA. Account contains pre-tax, Roth, and employer match money with an estimated balance of $290,000.",
+      "priority": null,
+      "dueDate": "2026-02-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare those retirement plan options by 2026-02-13."
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing Tin Sparrow plan documents",
+      "text": "Obtain the Velvet Acorn Robotics plan fee disclosure, summary plan description, and complete transaction history for the most recent quarter from Tin Sparrow Retirement Services. Needed to evaluate fees, investment restrictions, and any transfer limitations for Lena Copperwisp's old 401(k).",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those records are needed to evaluate fees, investment restrictions, and any transfer limitations by 2026-02-06."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Tin Sparrow balance discrepancy",
+      "text": "Investigate why the Tin Sparrow Retirement Services login balance Lena Copperwisp read during the call was lower than the amount shown on the last downloaded statement. Determine whether market movement, a distribution, or a posting delay explains the difference.",
+      "priority": null,
+      "dueDate": "2026-02-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "that issue needs follow-up by 2026-02-12."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Access recovery request\n\nClient name: Lena Copperwisp\nAffected portal or institution: Tin Sparrow Retirement Services\nUser ID or known login email: [________________]\nIssue type: outdated MFA phone number (former work phone)\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [yes / no / location: ________]\nSecurity notes or restrictions: [________________]\nNext action required: [________________]\n\nLena's multi-factor authentication prompt still uses a former work phone number, preventing her from retrieving plan notices and beneficiary screens without custodian assistance.",
+      "priority": "high",
+      "dueDate": "2026-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the access problem by 2026-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm old 401(k) beneficiary designations",
+      "text": "Confirm whether Jonah and Emery Copperwisp are reflected under current beneficiary designations on Lena Copperwisp's old Velvet Acorn Robotics 401(k) at Tin Sparrow Retirement Services. The Copperwisp estate documents predate the new employer benefits package.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "this information needs follow-up by 2026-02-27."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh household cash-flow and withholding",
+      "text": "Refresh paycheck withholding and reserve targets for the Copperwisp household given Lena's move from Velvet Acorn Robotics to Pocket Lantern Analytics. Account for new salary of $188,000, target bonus of 18%, benefits deductions, equity income potential, and Jonah's variable self-employment income coordinated with CPA Nora Thimblefern.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to refresh those items by 2026-02-18."
+    },
+    {
+      "templateId": "b64462f8-34be-598b-98ef-27befa5cee1d",
+      "title": "Contact client about concentrated position review",
+      "text": "Subject: Concentrated position review for Pocket Lantern Analytics restricted stock units\n\nHello Lena Copperwisp,\n\nWe would like to review the concentrated position in Pocket Lantern Analytics restricted stock units as part of your broader planning work. The goal is to understand risk, tax impact, liquidity needs, restrictions, and whether any staged diversification strategy should be considered.\n\nBefore our discussion, please send or confirm:\n- Current share count or market value: [________]\n- Cost basis information, if available: [________]\n- Account location or custodian: [________]\n- Any trading windows, lockups, insider restrictions, or employer rules: [________]\n- Near-term cash needs or planned charitable gifts: [________]\n- CPA or attorney contact for coordination, if authorized: [________]\n\nProposed discussion points:\n1. Why the position is held and whether the original purpose has changed.\n2. Tax consequences of selling, gifting, donating, or holding.\n3. Risk tolerance and impact on the overall portfolio.\n4. Potential diversification pace and decision criteria.\n\nPlease let us know a convenient time to review these items.\n\nThe new RSUs could eventually add employer-stock exposure on top of the existing taxable brokerage allocation at Cloudberry Kite Custody, so position size, vesting schedule, and any trading-window rules need to be reviewed together.",
+      "priority": "medium",
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review those equity details together by 2026-02-20."
+    }
+  ]
+}

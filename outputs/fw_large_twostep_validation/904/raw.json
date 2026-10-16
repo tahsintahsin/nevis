@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"904\",\n\"followups\": [\n{\n\"evidence\": \"the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09.\",\n\"action\": \"Prepare and submit the inherited account beneficiary package.\"\n},\n{\n\"evidence\": \"the agreed post-inheritance plan refresh is due 2024-02-23.\",\n\"action\": \"Refresh the post‑inheritance financial plan.\"\n},\n{\n\"evidence\": \"the agreed estate arrangement review after family changes is due 2024-03-08.\",\n\"action\": \"Conduct the estate arrangement review.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2390,
+    "output_tokens": 595,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 40
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"904\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Prepare inherited account beneficiary package\",\n\"text\": \"Prepare and submit the inherited account beneficiary package for Elian Thimblefern, using the beneficiary claim packets received from Velvet Acorn Custody, to meet the February 9, 2024 deadline. Ensure all required paperwork is completed for the estate’s next transfer batch.\",\n\"priority\": null,\n\"dueDate\": \"2024-02-09\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09.\"\n},\n{\n\"templateId\": \"b69561c0-d94b-5366-9da1-17d83160108e\",\n\"title\": \"Review financial plan assumptions and recommendations\",\n\"text\": \"Review Elian Thimblefern’s financial plan for current assumptions, retirement income projections, investment allocation alignment, tax‑aware planning opportunities, and open action items. Confirm whether the newly inherited taxable brokerage, IRA, and cabin interest require updated recommendations or a follow‑up meeting agenda.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2024-02-23\",\n\"assigneeId\": \"2ca7893e-43b2-59f5-aea6-48ca520deb27\",\n\"subTasks\": [],\n\"evidence\": \"the agreed post-inheritance plan refresh is due 2024-02-23.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Conduct estate arrangement review\",\n\"text\": \"Conduct an estate arrangement review for Elian Thimblefern, examining the 2012 estate documents that name the late spouse Corin Mossbutton as primary health‑care agent and personal representative, to address the new inherited assets and family changes. Coordinate with estate coordinator Nessa Cloudpuddle to update fiduciary designations and beneficiary information.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-08\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed estate arrangement review after family changes is due 2024-03-08.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1581,
+    "output_tokens": 1649,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1810
+   },
+   "stop": "stop"
+  }
+ ]
+}

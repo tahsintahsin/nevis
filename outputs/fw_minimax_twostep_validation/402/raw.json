@@ -1,0 +1,18 @@
+{
+ "config": "fw_minimax_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"402\", \"followups\": []}",
+   "usage": {
+    "input_tokens": 2567,
+    "output_tokens": 351,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3460
+   },
+   "stop": "stop"
+  }
+ ]
+}

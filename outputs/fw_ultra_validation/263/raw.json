@@ -1,0 +1,18 @@
+{
+ "config": "fw_ultra",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"263\",\n\"tickets\": [\n{\n\"title\": \"Reset credentials, review sessions, strengthen MFA\",\n\"text\": \"Reset Jared Wrenpuddle's portal credentials, review active sessions, and implement stronger MFA via approved channels for the Velvet Acorn Custody Roth IRA account.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-18\",\n\"assigneeId\": null,\n\"subTasks\": [\n{\n\"title\": \"Reset portal credentials\",\n\"text\": \"Reset Jared Wrenpuddle's portal credentials for Velvet Acorn Custody Roth IRA access.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Review active sessions\",\n\"text\": \"Review active sessions for Jared Wrenpuddle's portal access.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Strengthen MFA via approved channels\",\n\"text\": \"Implement stronger MFA via approved channels for Jared Wrenpuddle's portal.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n}\n],\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\",\n\"templateId\": null\n},\n{\n\"title\": \"Check Teacup Comet Bank transfer instructions, profile changes\",\n\"text\": \"Check transfer instructions and profile changes for the pending Teacup Comet Bank link on the joint taxable brokerage account for Jared and Ava Wrenpuddle.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-19\",\n\"assigneeId\": null,\n\"subTasks\": [\n{\n\"title\": \"Check transfer instructions\",\n\"text\": \"Check transfer instructions for the pending Teacup Comet Bank link on the joint taxable brokerage account.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Check profile changes\",\n\"text\": \"Check profile changes for the pending Teacup Comet Bank link on the joint taxable brokerage account.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n}\n],\n\"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 5322,
+    "output_tokens": 2756,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

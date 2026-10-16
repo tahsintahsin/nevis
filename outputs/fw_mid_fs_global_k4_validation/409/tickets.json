@@ -1,0 +1,35 @@
+{
+  "meetingId": "409",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain missing tax forms and charitable giving summary",
+      "text": "Obtain the Velvet Acorn consolidated tax form and charitable giving summary that Beren Nettlewhisk of Paper Otter Tax Services requested for the 2022 federal return review. These records are missing from the notice packet available to Apricot Compass Advisory.",
+      "priority": null,
+      "dueDate": "2024-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the notice packet available to Apricot Compass lacked the Velvet Acorn consolidated tax form and charitable giving summary Beren requested; the agreed follow-up is to obtain those records by April 18, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian income variance",
+      "text": "Resolve the variance between the IRS correspondence listing $14,860 of ordinary dividends from the Velvet Acorn taxable account and the return worksheet showing $7,440 for the same income category. Obtain and reconcile the custodian records to confirm the correct dividend amount.",
+      "priority": null,
+      "dueDate": "2024-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Tobin noted a variance: the IRS correspondence lists $14,860 of ordinary dividends from the Velvet Acorn taxable account, while the return worksheet reviewed during the call shows $7,440 for the same income category; resolution of the custodian income variance is needed by April 24, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Send authorized tax documents via secure delivery",
+      "text": "Send the IRS notice, relevant tax forms, and account statements to Anika Pebblefizz through secure delivery by April 16, 2024, as authorized by Anika. Include only the notice, relevant tax forms, and account statements as requested.",
+      "priority": null,
+      "dueDate": "2024-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Anika authorized coordination with Beren and requested that only the notice, relevant tax forms, and account statements be sent through secure delivery by April 16, 2024."
+    }
+  ]
+}

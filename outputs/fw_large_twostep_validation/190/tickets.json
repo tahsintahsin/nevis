@@ -1,0 +1,25 @@
+{
+  "meetingId": "190",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare share‑transfer instructions for Moonbadger",
+      "text": "Prepare and deliver share‑transfer instructions for Sela Mossbutton, using her Velvet Acorn Growth Fund shares valued at approximately $25,000, to be sent to Moonbadger Arts Center by 2026-01-23 with the verified brokerage delivery details.",
+      "priority": null,
+      "dueDate": "2026-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "asked for agreed 2026-01-23 approximately-$25,000 share-transfer instructions to Moonbadger using verified brokerage-delivery details."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain updated pledge confirmation language",
+      "text": "Obtain or draft updated pledge‑confirmation and receipt language for Sela Mossbutton’s gift to Moonbadger Arts Center, ensuring the document reflects the planned $25,000 share donation and meets the February 6, 2026 deadline.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Evan noted file has Moonbadger prior-year acknowledgment, not current planned-gift pledge-confirmation/receipt-language on goods/services; agreed 2026-02-06."
+    }
+  ]
+}

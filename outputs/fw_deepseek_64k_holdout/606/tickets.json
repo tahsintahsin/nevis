@@ -1,0 +1,65 @@
+{
+  "meetingId": "606",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare first-year education funding comparison",
+      "text": "Prepare a side-by-side schedule for Nora Pebblefizz showing how Lena Pebblefizz's Velvet Acorn Custody 529 account, the $28,000 Teacup Comet Bank education savings CD, taxable account sales, and household cash can cover the first academic year at Thimble Harbor University while preserving the $50,000 cash reserve floor.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora asked for a side-by-side schedule showing how Lena’s 529 account, the education savings CD, taxable account sales, and household cash could cover the first academic year while preserving the stated cash reserve floor; the agreed follow-up is due 2025-01-24."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain itemized Thimble Harbor University cost documentation",
+      "text": "Obtain itemized school cost documentation from Thimble Harbor University for Nora Pebblefizz that separates tuition, mandatory fees, housing, meal plan, books, travel, and personal expenses, since the available portal screenshot shows only the $74,000 gross cost estimate and $18,000 merit award.",
+      "priority": null,
+      "dueDate": "2025-01-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Itemized school cost documentation remains needed by 2025-01-21 because the available school portal screenshot shows the gross cost estimate and merit award but does not separate tuition, mandatory fees, housing, meal plan, books, travel, and personal expenses"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile merit award treatment in four-year projection",
+      "text": "Reconcile the merit award treatment in Nora Pebblefizz's four-year college projection for Lena Pebblefizz at Thimble Harbor University, since the university aid letter describes the $18,000 award as renewable while the household spreadsheet treated it as a single-year reduction.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The merit award treatment in the four-year projection remains needed by 2025-02-03 because the university aid letter describes the award as renewable, while the household spreadsheet treated it as a single-year reduction"
+    },
+    {
+      "templateId": "54d327a7-d222-5018-aa69-8e607d8f0625",
+      "title": "Follow up on account security concern",
+      "text": "Review the reported account security concern, confirm Nora Pebblefizz has taken appropriate protective steps, coordinate any custodian security procedures, and document the outcome. Use placeholders for account references and avoid storing sensitive credentials in the task. Nora Pebblefizz's Velvet Acorn Custody 529 distribution page rejected the saved Teacup Comet Bank link twice and provided no confirmation number, leaving the preferred payment path uncertain.",
+      "priority": "high",
+      "dueDate": "2025-01-17",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "the distribution page rejected the saved Teacup Comet Bank link twice and did not provide a confirmation number, leaving the preferred payment path uncertain; the agreed follow-up is due 2025-01-17."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash-flow stress from Evan's job change",
+      "text": "Review the household cash-flow stress tied to Evan Pebblefizz's possible shift from salaried employee to remote contractor at Moonbadger Robotics, which could affect monthly income timing, benefits, and stock compensation while Nora Pebblefizz's tuition payments for Lena Pebblefizz begin.",
+      "priority": null,
+      "dueDate": "2025-02-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Evan’s possible shift from salaried employee to remote contractor could affect monthly income timing, benefits, and stock compensation while tuition payments are beginning; the agreed follow-up is due 2025-02-07."
+    },
+    {
+      "templateId": null,
+      "title": "Determine funding decision date before fall registration",
+      "text": "Identify the latest practical date for Nora Pebblefizz to choose among the education funding options before fall registration protection at Thimble Harbor University, since the student account notice links course registration protection to either a payment plan election or confirmed funding source.",
+      "priority": null,
+      "dueDate": "2025-06-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "An internal decision point before fall registration protection remains needed by 2025-06-20 because the student account notice links course registration protection to either a payment plan election or confirmed funding source"
+    }
+  ]
+}

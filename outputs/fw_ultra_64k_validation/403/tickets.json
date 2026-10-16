@@ -1,0 +1,94 @@
+{
+  "meetingId": "403",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare education funding calendar for Nico and Lila",
+      "text": "Prepare a side-by-side schedule showing 529 distributions, taxable brokerage withdrawals, expected Calder reimbursements, and Teacup Comet Bank cash for Nico's first university bill and Lila's school payments for Selena Thimblefern.",
+      "priority": null,
+      "dueDate": "2026-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed work is to prepare that funding calendar by 2026-05-15."
+    },
+    {
+      "templateId": null,
+      "title": "Check Tin Sparrow University billing and payment logistics",
+      "text": "Check withdrawal lead times, payee instructions, account settlement timing, and payment method limits for Tin Sparrow University's first billing cycle for Selena Thimblefern.",
+      "priority": null,
+      "dueDate": "2026-06-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to check those billing and payment logistics by 2026-06-05."
+    },
+    {
+      "templateId": "ca0beb64-4823-5deb-8d28-1f7a5f7d128e",
+      "title": "Collect Client Tax Documents",
+      "text": "Request and organize current tax documents for planning review, including prior-year federal and state returns, W-2s, 1099s, K-1s, estimated tax payment records, charitable giving summaries, and any tax notices. Track missing items and route complete packet to the planning team. Collect Selena Thimblefern's most recently filed federal and state returns, current wage information, and education-related tax forms referenced by Petra Nettlewhisk at Coral Badger Tax for education funding planning.",
+      "priority": "medium",
+      "dueDate": "2026-05-12",
+      "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb",
+      "subTasks": [],
+      "evidence": "The committed follow-up is to collect the tax packet by 2026-05-12."
+    },
+    {
+      "templateId": "5e79e466-5ab1-5dbb-b640-48dd21ca6ee1",
+      "title": "Collect Education Account Setup Details",
+      "text": "Please complete the following fields before preparing education account paperwork:\n\nAccount type requested: [529 plan / custodial account / other]\nAccount owner: Daphne Willowdoodle\nAccount owner contact information: [phone and email]\nBeneficiary student: Nico Thimblefern and Lila Thimblefern\nBeneficiary date of birth: [MM/DD/YYYY]\nBeneficiary relationship to owner: grandmother\nBeneficiary state of residence: Oregon\nInitial contribution amount or transfer estimate: [$ amount]\nFunding source: [bank account / transfer / rollover / other]\nInvestment option preference: [age-based / static / advisor recommendation / other]\nSuccessor owner, if applicable: [full legal name]\nSpecial instructions or constraints: Grandparent-owned education account for Nico and Lila's education funding\nRequired documents uploaded: [yes/no/list]",
+      "priority": "medium",
+      "dueDate": "2026-05-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to collect the setup information by 2026-05-22."
+    },
+    {
+      "templateId": "9a857c70-2f94-5743-b175-02e061844b04",
+      "title": "Coordinate Missing Signature Follow-Up",
+      "text": "Use this coordination workflow when paperwork cannot be submitted or processed because a signature, initials, date, or required authorization is missing. Confirm the needed correction before contacting the client and keep the request limited to the deficient item. Correct the Velvet Acorn Custody 529 bank authorization package for Selena Thimblefern which shows her printed name and Teacup Comet Bank information but lacks the required authorization signature page.",
+      "priority": "medium",
+      "dueDate": "2026-05-09",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Validate the missing signature requirement",
+          "text": "Review the form package and processing notes to identify the exact missing signature, initials, date, or authorization. Confirm whether wet signature, e-signature, or custodian-specific language is required.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb"
+        },
+        {
+          "title": "Confirm planning or account impact",
+          "text": "Determine whether the missing signature affects account opening, transfer timing, trading authority, beneficiary changes, or other planning deadlines. Note any client-facing implications for the advisor.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9268210f-ef66-5a4b-88ad-788a4cfe5d2d"
+        },
+        {
+          "title": "Send corrected signature request",
+          "text": "Contact the client through the approved secure channel with clear instructions, the corrected form or signature page, and a brief explanation of what is needed. Avoid sending unnecessary pages containing sensitive information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb"
+        },
+        {
+          "title": "Advisor confirmation before resubmission",
+          "text": "Review the completed correction and confirm the package is ready for resubmission or escalation if the client has questions about the request.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5"
+        }
+      ],
+      "evidence": "The committed follow-up is to correct the authorization package by 2026-05-09."
+    },
+    {
+      "templateId": "432e4a09-cd76-510d-b173-4fe70356ef9a",
+      "title": "Recover Client Portal Access",
+      "text": "Restore Selena Thimblefern's Apricot Compass Advisory portal multi-factor authentication access after her mobile carrier change prevented upload of the Tin Sparrow University aid letter.",
+      "priority": null,
+      "dueDate": "2026-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to restore portal access by 2026-05-08."
+    }
+  ]
+}

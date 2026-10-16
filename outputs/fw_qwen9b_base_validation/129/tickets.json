@@ -1,0 +1,35 @@
+{
+  "meetingId": "129",
+  "tickets": [
+    {
+      "templateId": "f893c20e-c44a-568a-9217-439053a4b55d",
+      "title": "Request estate document package",
+      "text": "Obtain the current estate document package from Nolan Wrenpuddle, including any restatements, trustee acceptance language, durable power of attorney, health care directive, or attorney summary letter, to resolve discrepancies in his revocable trust and beneficiary records.",
+      "priority": "medium",
+      "dueDate": "2026-02-19",
+      "assigneeId": "c4974bf8-45b1-514a-913d-ed0a029805ab",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the current estate document package by 2026-02-19."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve IRA beneficiary inconsistency",
+      "text": "Resolve the inconsistency where the traditional IRA lists Lena and Oscar equally as beneficiaries while the Roth IRA still lists the 2014 revocable trust as the sole beneficiary, ensuring both accounts align with Nolan Wrenpuddle's expectation of direct passage to his children.",
+      "priority": "medium",
+      "dueDate": "2026-02-26",
+      "assigneeId": "c4974bf8-45b1-514a-913d-ed0a029805ab",
+      "subTasks": [],
+      "evidence": "Further follow-up is needed by 2026-02-26 on the IRA beneficiary inconsistency, because Nolan expected both retirement accounts to pass directly to his children unless there was a specific reason to keep the trust on one account."
+    },
+    {
+      "templateId": null,
+      "title": "Verify successor trustee sequence and authority",
+      "text": "Verify the successor trustee sequence and authority evidence for Nolan Wrenpuddle's revocable trust, specifically confirming whether his sister Priya Nettlewhisk signed any acceptance or if another child should be added to the sequence given Carla Wrenpuddle remains the first successor.",
+      "priority": "medium",
+      "dueDate": "2026-03-05",
+      "assigneeId": "c4974bf8-45b1-514a-913d-ed0a029805ab",
+      "subTasks": [],
+      "evidence": "Further follow-up is also needed by 2026-03-05 on the successor trustee sequence and authority evidence, because Carla remains ahead of Priya and Nolan is unsure whether Priya signed any acceptance or whether another child should be added later; this affects the estate review and possible future tru"
+    }
+  ]
+}

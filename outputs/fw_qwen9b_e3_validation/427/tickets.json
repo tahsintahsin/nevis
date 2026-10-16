@@ -1,0 +1,55 @@
+{
+  "meetingId": "427",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Martin Cloudpuddle’s care-cost runway projection",
+      "text": "Prepare a care-cost runway projection for Helena and Martin Cloudpuddle comparing the current Pocket Lantern Home Care aide schedule with a higher-coverage scenario. Show when cash reserves would require an increased taxable-account withdrawal.",
+      "priority": null,
+      "dueDate": "2024-01-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Helena asked for a care-cost runway projection comparing the current aide schedule with a higher-coverage scenario and showing when cash reserves would require an increased taxable-account withdrawal; the agreed follow-up is due 2024-01-05."
+    },
+    {
+      "templateId": null,
+      "title": "Document a family caregiver reimbursement approach",
+      "text": "Document a reimbursement approach for Lila Cloudpuddle’s weekday transportation and medication supervision that distinguishes gifts, wages, and shared household costs.",
+      "priority": null,
+      "dueDate": "2024-01-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Helena wants a documented family caregiver reimbursement approach that does not blur gifts, wages, and shared household costs; the agreed follow-up is due 2024-01-12."
+    },
+    {
+      "templateId": null,
+      "title": "Collect long-term care claim file materials",
+      "text": "Collect the full Martin Cloudpuddle long-term care policy contract, claim packet, and elimination-period instructions requested by Amber Teapot Life Insurance. Helena has the premium notice.",
+      "priority": null,
+      "dueDate": "2024-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Helena had the premium notice but not the full policy contract, claim packet, or elimination-period instructions requested by Amber Teapot Life Insurance; those materials are needed by 2024-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Pocket Lantern Home Care’s first-week aide hours",
+      "text": "Reconcile Pocket Lantern Home Care’s portal-billed aide hours for the first service week with Helena’s calendar and aide sign-in sheet so the invoice amount is ready for planning assumptions.",
+      "priority": null,
+      "dueDate": "2024-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Pocket Lantern Home Care’s portal shows more billed aide hours for the first service week than Helena’s calendar and aide sign-in sheet, so the home-care invoice amount is not ready for planning assumptions; the agreed follow-up is due 2024-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare financial questions and affordability figures for the care conference",
+      "text": "Prepare financial questions and affordability figures for the near-term care conference to review home therapy authorization and daily supervision.",
+      "priority": null,
+      "dueDate": "2024-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Helena wants financial questions and affordability figures ready for that conversation; the agreed follow-up is due 2024-01-08."
+    }
+  ]
+}

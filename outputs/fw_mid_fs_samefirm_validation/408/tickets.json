@@ -1,0 +1,85 @@
+{
+  "meetingId": "408",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare refinance and reset comparison",
+      "text": "Prepare a side-by-side comparison of keeping the adjustable mortgage after the reset, using the fixed-rate refinance quote, and combining or leaving the HELOC separate. Include payment estimates, closing costs, and cash reserve impact.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Liora asked for a side-by-side view of keeping the adjustable mortgage after the reset, using the fixed-rate refinance quote, and combining or leaving the HELOC separate, including payment estimates, closing costs, and cash reserve impact. The agreed follow-up is to prepare that comparison by 2025-0"
+    },
+    {
+      "templateId": null,
+      "title": "Collect lender document packet",
+      "text": "Collect the current pay stub, Jonah Nettlewhisk’s year-to-date profit-and-loss statement, the most recent business bank statement, and a complete prior-year tax return packet from Silver Marmot Mortgage’s checklist for the refinance file.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Silver Marmot Mortgage’s checklist shows that the current pay stub, Jonah’s year-to-date profit-and-loss statement, the most recent business bank statement, and a complete prior-year tax return packet are not in the refinance file. That document packet remains an unresolved issue needing follow-up b"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile mortgage payoff balance discrepancy",
+      "text": "Reconcile the $13,800 difference between Liora’s mortgage portal principal balance of $642,000 and the loan officer worksheet balance of $655,800. Resolve the discrepancy to finalize loan-to-value and cash-to-close estimates.",
+      "priority": null,
+      "dueDate": "2025-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Liora’s mortgage portal shows a principal balance of $642,000, while the loan officer worksheet uses $655,800; the difference affects loan-to-value and cash-to-close estimates. Follow-up is needed by 2025-01-23."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve bank statement access issue",
+      "text": "Obtain recent Teacup Comet Bank HELOC and checking statements after resolving the two-factor authentication prompts that were going to Jonah’s old phone number, leaving statements unavailable for lender review.",
+      "priority": null,
+      "dueDate": "2025-01-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Teacup Comet Bank exports failed during the call, and Liora said two-factor prompts were going to Jonah’s old phone number, leaving recent HELOC and checking statements unavailable for lender review. That access issue remains unresolved and needs follow-up by 2025-01-27."
+    },
+    {
+      "templateId": null,
+      "title": "Complete cash-flow stress test for debt repayment",
+      "text": "Model the reset payment, HELOC interest, credit card payoff target, Eleni’s school costs, and Hazel’s possible voluntary support amount against monthly income and spending to complete the cash-flow stress test.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the reset payment, HELOC interest, credit card payoff target, Eleni’s school costs, and Hazel’s possible voluntary support amount need to be modeled against monthly income and spending. The agreed follow-up is to complete that modeling by 2025-01-31."
+    },
+    {
+      "templateId": null,
+      "title": "Compare concentrated stock and debt payoff alternatives",
+      "text": "Compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction, given the Clockwork Clover Systems stock position of $156,000 with estimated cost basis of $42,000 in the joint brokerage account.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the taxable brokerage review showed that the Clockwork Clover Systems stock position is large relative to the joint account and has a low basis; the agreed follow-up is to compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction by 2025-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Address appraisal and rate-lock readiness items",
+      "text": "Provide insurance declarations, the property tax bill, and HOA confirmation to the loan officer before underwriting review, addressing the rate-lock window and appraisal checklist timing constraints.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the loan officer’s rate-lock window and appraisal checklist create a timing constraint for providing insurance declarations, the property tax bill, and HOA confirmation before underwriting review. The agreed follow-up is to address those readiness items by 2025-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare retirement-account boundary analysis",
+      "text": "Show non-retirement funding options before any retirement-account cash-flow scenario, confirming Liora’s stated preference that IRA or 401(k) withdrawals should be treated only as a last-resort scenario.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Liora stated that IRA or 401(k) withdrawals should be treated only as a last-resort scenario, and the agreed planning analysis is to show non-retirement funding options before any retirement-account cash-flow scenario by 2025-02-03."
+    }
+  ]
+}

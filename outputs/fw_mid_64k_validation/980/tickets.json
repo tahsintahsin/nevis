@@ -1,0 +1,65 @@
+{
+  "meetingId": "980",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update advisory profile and custodian records with new address",
+      "text": "Update the advisory profile, custodian records, portal delivery settings, IRA records, and Robin's household contact record to replace the Portland mailing address with the Fort Collins household address, pending move-in confirmation.",
+      "priority": "medium",
+      "dueDate": "2025-07-03",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "Elena asked Apricot Compass Advisory to replace the Portland mailing address with the Fort Collins household address across the advisory profile, custodian records, portal delivery settings, IRA records, and Robin’s household contact record once move-in confirmation is available; the agreed follow-u"
+    },
+    {
+      "templateId": null,
+      "title": "Collect cross-state tax planning materials",
+      "text": "Collect Elena's latest Moonbadger Analytics paystub, Robin's Tin Sparrow Learning Cooperative year-to-date payroll report, moving reimbursement information, and written permission for Nia Bramblequill at Clockwork Clover Tax to coordinate with the advisory team.",
+      "priority": "medium",
+      "dueDate": "2025-07-11",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "For cross-state tax planning materials, the planning file does not yet include Elena’s latest Moonbadger Analytics paystub, Robin’s Tin Sparrow Learning Cooperative year-to-date payroll report, moving reimbursement information, or written permission for Nia Bramblequill at Clockwork Clover Tax to co"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare brokerage transfer package to Velvet Acorn Custody",
+      "text": "Prepare a transfer package for the taxable brokerage account from Paper Otter Wealth to Velvet Acor Custody, addressing delivery issues from the former Portland address.",
+      "priority": "medium",
+      "dueDate": "2025-07-18",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "For the brokerage transfer from the former provider, Elena reported that Paper Otter Wealth sent two account notices to the former Portland address after mail forwarding began and that its service desk could not confirm corrected delivery settings; the agreed work covers a transfer package for the t"
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Fort Collins purchase mortgage packet",
+      "text": "Assemble the financial packet for the Fort Collins townhouse underwriting, including recent brokerage, retirement, bank, and insurance statements, without sending full account numbers by email.",
+      "priority": "medium",
+      "dueDate": "2025-06-30",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "For the Fort Collins purchase mortgage packet, the townhouse lender asked for recent brokerage, retirement, bank, and insurance statements before underwriting can finish, and Elena wants the advisory record used to assemble the financial packet without sending full account numbers by email; the agre"
+    },
+    {
+      "templateId": null,
+      "title": "Compare Silver Marmot Insurance policies against Fort Collins household setup",
+      "text": "Compare Silver Marmot Insurance policies and provider list against the Fort Collins household setup, addressing relocation changes to insured residence, vehicle garaging location, local medical network, and emergency contacts.",
+      "priority": "medium",
+      "dueDate": "2025-07-25",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "For the insurance and provider transition review, the relocation changes the insured residence, vehicle garaging location, local medical network, and emergency contacts, and Elena wants her Silver Marmot Insurance policies and provider list compared against the Fort Collins household setup; the agre"
+    },
+    {
+      "templateId": null,
+      "title": "Review household beneficiary records and coordinate attorney alignment",
+      "text": "Complete a consolidated review of household beneficiary records and coordinate attorney alignment notes, addressing IRA, taxable transfer-on-death note, and Silver Marmot Insurance life policy references to Oregon trust documents and Lara Thimblefern as successor contact.",
+      "priority": "medium",
+      "dueDate": "2025-08-08",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "Mira’s relocation review found that the IRA, taxable transfer-on-death note, and Silver Marmot Insurance life policy still reference the Oregon trust documents and Lara Thimblefern as successor contact; the agreed beneficiary and estate-document alignment work covers a consolidated review of househo"
+    }
+  ]
+}

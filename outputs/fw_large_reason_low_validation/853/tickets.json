@@ -1,0 +1,37 @@
+{
+  "meetingId": "853",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review alert, verify profile changes, coordinate security steps",
+      "text": "Review the security alert, verify any profile or distribution‑instruction changes, and coordinate pre‑upload custodian security steps for Leona Thimblefern.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Review security alert",
+          "text": "Examine the Velvet Acorn Custody alert for Leona Thimblefern and determine its cause.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Verify profile and distribution changes",
+          "text": "Check Leona Thimblefern’s household profile and distribution instructions for any recent modifications.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Coordinate pre‑upload security steps",
+          "text": "Arrange the necessary custodian security procedures before uploading new documents for Leona Thimblefern.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps."
+    }
+  ]
+}

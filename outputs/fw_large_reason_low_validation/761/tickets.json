@@ -1,0 +1,75 @@
+{
+  "meetingId": "761",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble survivor administration packet",
+      "text": "Assemble the survivor administration packet for Galen Thimblefern including the death certificate, 2016 will, and current household account list for custodian, bank, and insurer notifications.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For survivor administration packet assembly, the death certificate, 2016 will, and current household account list were identified as the core packet for custodian, bank, and insurer notifications after Rhea’s death; the agreed follow-up is due 2024-11-08."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Paper Otter Publishing benefits documents",
+      "text": "Collect the employer life insurance claim forms and 401(k) distribution paperwork for Galen Thimblefern from Paper Otter Publishing using the provided HR contact information.",
+      "priority": null,
+      "dueDate": "2024-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Paper Otter Publishing benefits document collection, Galen had Rhea’s final paystub but not the employer life insurance claim forms or 401(k) distribution paperwork, and he provided the HR contact information for document outreach; the agreed follow-up is due 2024-11-12."
+    },
+    {
+      "templateId": "b275fa13-e6fe-5f38-81f0-5815535a56e6",
+      "title": "Access Recovery Request",
+      "text": "Recover Teacup Comet Bank bill‑pay access for Galen Thimblefern by updating authentication from Rhea’s mobile number and enabling changes to household utility payees.",
+      "priority": null,
+      "dueDate": "2024-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Teacup Comet Bank bill-pay access recovery, mailed statements showed the joint checking balance, but online bill-pay authentication still routed to Rhea’s mobile number and blocked changes to household utility payees;"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Velvet Acorn Custody registration",
+      "text": "Reconcile the registration of the joint taxable account in Velvet Acorn Custody, confirming whether it is joint tenants or transfer‑on‑death to Lina Thimblefern, and provide the evidence to Galen Thimblefern before claim submission.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Velvet Acorn Custody registration reconciliation, custody records showed the joint taxable account as joint tenants, while the household estate binder described the same account as transfer-on-death to Lina, and Galen asked for the account registration evidence to be reconciled before claims are"
+    },
+    {
+      "templateId": "c2779699-232b-57db-b0a8-994a3ad6251e",
+      "title": "Collect Tax Documents for Planning Review",
+      "text": "Request and organize Galen Thimblefern’s survivor‑year tax documents, including current income, withholding, charitable giving, estimated payment, and realized gain reports for the tax projection.",
+      "priority": "medium",
+      "dueDate": "2024-11-22",
+      "assigneeId": "d8b6c5e7-1b71-5fdb-b6ff-5bb2d48617d8",
+      "subTasks": [],
+      "evidence": "For the survivor-year tax document package, Nadia Pebblefizz requested current income, withholding, charitable giving, estimated payment, and realized gain reports for Galen’s survivor-year tax projection;"
+    },
+    {
+      "templateId": "616fb00d-e58e-5578-bfe6-01f5ab99768c",
+      "title": "Build Retirement Income Plan Checklist",
+      "text": "Update the retirement income model for Galen Thimblefern with survivor income, revised Medicare premiums, cash reserves, and portfolio withdrawal assumptions for the next plan version.",
+      "priority": "high",
+      "dueDate": "2024-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the retirement income model refresh, Tobin’s review showed the spending file still included Rhea’s employer medical premiums and income, so updated survivor income, Medicare premiums, cash reserves, and portfolio withdrawal assumptions were identified as inputs for the next plan version;"
+    },
+    {
+      "templateId": "ec95858f-0b1b-5ac5-9396-1be6809f1ffc",
+      "title": "Review Concentrated Position Exposure",
+      "text": "Analyze the Moonbadger Industrial Systems position for Galen Thimblefern, evaluating staged sale, charitable gifting, and tax‑impact options given its large share of the taxable account.",
+      "priority": "medium",
+      "dueDate": "2024-12-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Moonbadger Industrial Systems position analysis, Galen asked for a staged sale, charitable gifting, and tax-impact review because the holding remains a large part of the taxable account and he does not want a rushed decision during estate administration;"
+    }
+  ]
+}

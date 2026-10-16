@@ -1,0 +1,75 @@
+{
+  "meetingId": "159",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate address updates across advisory records",
+      "text": "Coordinate address updates for Nolan Pebblefizz across advisory records, custodian profiles, statement delivery settings, beneficiary records, and tax mailing preferences to replace the former Oregon address with the new Durham address.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate those updates by 2025-04-18."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn address update issue",
+      "text": "Resolve the address update problem for Nolan Pebblefizz with Velvet Acorn Custody after their system rejected the new Durham address, ensuring statements and security notices are sent to the correct address.",
+      "priority": null,
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that custodian update problem by 2025-04-16."
+    },
+    {
+      "templateId": "f5286f1b-d273-53aa-86ac-8930bce13b82",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Complete the following placeholders for benefits enrollment review:\n\nEmployee name: Nolan Pebblefizz\nEmployer or plan sponsor: Moonbadger Systems\nEnrollment period or qualifying event: \nBenefit year: \nHousehold members to consider: Elise Pebblefizz, Rowan Pebblefizz, Celia Pebblefizz\nMedical plan options available: \nDental and vision options: \nHealth savings account or flexible spending account eligibility: \nEmployer retirement plan contribution election: \nEmployer match details: \nLife and disability insurance options: \nKey questions or tradeoffs: \nDocuments received: \nRecommended follow-up: Review and select appropriate medical, HSA, disability, group life, and 401(k) contribution options for Nolan Pebblefizz.",
+      "priority": "medium",
+      "dueDate": "2025-04-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up on the new employer benefits review is needed by 2025-04-25."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain benefits enrollment evidence for Nolan Pebblefizz",
+      "text": "Obtain the Moonbadger Systems enrollment guide, premium schedule, HSA eligibility notes, and disability policy summary for Nolan Pebblefizz to support the benefits enrollment review.",
+      "priority": null,
+      "dueDate": "2025-04-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "benefits enrollment evidence is needed by 2025-04-11."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare 401(k) comparison for Nolan Pebblefizz",
+      "text": "Prepare a comparison of keeping the prior employer 401(k) at Velvet Acorn Custody, moving it to the Moonbadger Systems plan, or rolling it into an IRA, including investment menu, costs, creditor protection, and cash‑flow effects for Nolan Pebblefizz.",
+      "priority": null,
+      "dueDate": "2025-05-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2025-05-02."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate state residency and withholding",
+      "text": "Coordinate state residency and withholding for Nolan Pebblefizz, aligning North Carolina and Oregon paystubs to reflect the correct tax filing position after the move.",
+      "priority": null,
+      "dueDate": "2025-04-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up on state residency and withholding coordination is needed by 2025-04-30."
+    },
+    {
+      "templateId": null,
+      "title": "Update estate documents for jurisdiction change",
+      "text": "Update the estate documents for Nolan Pebblefizz and Elise Pebblefizz to reflect North Carolina residency, including revising witnesses and fiduciary contact information.",
+      "priority": null,
+      "dueDate": "2025-05-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up on estate documents after the jurisdiction change is needed by 2025-05-09."
+    }
+  ]
+}

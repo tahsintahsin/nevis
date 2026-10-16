@@ -1,0 +1,62 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset portal credentials and strengthen MFA for Jared Wrenpuddle",
+      "text": "Reset Jared Wrenpuddle's portal credentials through approved channels, review active sessions, and configure stronger MFA to address the repeated lockouts following an uninitiated password-reset email on the Apricot Compass Wealth Advisory portal.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Reset portal credentials",
+          "text": "Reset Jared Wrenpuddle's portal credentials through approved channels to address the lockouts following an uninitiated password-reset email.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review active sessions",
+          "text": "Review and terminate any active portal sessions on Jared Wrenpuddle's account as part of the security review.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Configure stronger MFA",
+          "text": "Configure stronger multi-factor authentication on Jared Wrenpuddle's portal account to prevent future unauthorized access attempts.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review pending Teacup Comet Bank link for Jared Wrenpuddle",
+      "text": "Review the pending Teacup Comet Bank link on Jared Wrenpuddle's account and audit any associated transfer instructions and profile changes, given the household's statement that they have no relationship with Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Review transfer instructions",
+          "text": "Audit any pending or recent transfer instructions associated with the Teacup Comet Bank link on Jared Wrenpuddle's account.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review profile changes",
+          "text": "Audit recent profile changes on Jared Wrenpuddle's account, given the household's statement that they have no relationship with Teacup Comet Bank.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "associated transfer-instruction/profile-change review was agreed for 2024-03-19."
+    }
+  ]
+}

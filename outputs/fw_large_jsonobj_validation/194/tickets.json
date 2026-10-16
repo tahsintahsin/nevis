@@ -1,0 +1,98 @@
+{
+  "type": "object",
+  "meetingId": "194",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain Velvet Acorn carrier reinstatement details",
+      "text": "Obtain from Velvet Acorn Life Insurance the reinstatement terms, catch‑up premium amount, conversion availability, and any underwriting requirements for Arlo Copperwisp’s term policy.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain that carrier information by March 1, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Process recurring payment change request",
+      "text": "Client household: Arlo and Lena Copperwisp\nRequest type: change funding source\nPayment purpose: insurance premium drafts\nCurrent payment amount: [________________]\nNew payment amount, if applicable: [________________]\nCurrent frequency: [________________]\nNew frequency, if applicable: [________________]\nRequested effective timing: by February 29, 2024\nFunding account nickname or registration, no full account number: Teacup Comet Bank operating account\nDestination or payee: Velvet Acorn Life Insurance\nTax withholding change needed? Not applicable\nClient authorization method received: [________________]\nCustodian or provider forms required: [________________]\nSpecial handling notes: [________________]\nConfirmation sent to client: [________________]\n\nUpdate the insurance premium draft source to the Teacup Comet Bank operating account for Arlo Copperwisp’s policies, ensuring the change is effective by February 29, 2024.",
+      "priority": "medium",
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the payment source by February 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current property and casualty declarations",
+      "text": "Obtain the latest home, auto, umbrella, and rental property insurance declarations for Arlo and Lena Copperwisp to confirm coverage limits.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Current declarations are needed by March 8, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review rental condo protection coverage",
+      "text": "Review the insurance protection for the Bend rental condo, including landlord, tenant, liability, property loss, and loss‑of‑rent exposures for Arlo and Lena Copperwisp.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that protection by March 15, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare employer benefits election with private coverage",
+      "text": "Compare Arlo Copperwisp’s supplemental life, disability, and beneficiary settings from Moonbadger Robotics’ benefits election window with his private insurance coverage.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That comparison is needed by March 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain beneficiary record evidence from carrier",
+      "text": "Obtain from Velvet Acorn Life Insurance evidence confirming the current beneficiary arrangement for Arlo Copperwisp’s term policy to resolve the discrepancy with the planning file.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That evidence is needed by March 12, 2024."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Request Arlo and Lena Copperwisp's current estate planning documents, organize received files, and prepare a concise gap summary for advisor review. Include wills, revocable trust documents, powers of attorney, health care directives, beneficiary designation evidence, trust funding records, and any recent attorney correspondence. Do not provide legal interpretation; identify document dates, named roles, missing pages or signatures, and items that may require attorney confirmation. Focus on obtaining trust funding evidence and updating fiduciary role information, and deliver the gap summary by March 22, 2024.",
+      "priority": "medium",
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "The agreed follow-up is to collect the estate planning documents by March 22, 2024."
+    }
+  ]
+}

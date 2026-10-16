@@ -1,0 +1,75 @@
+{
+  "meetingId": "602",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare revised monthly income plan for survivor cash-flow and retirement income",
+      "text": "Prepare a revised monthly income plan for Evelyn Lanternmoss reflecting Adrian Lanternmoss’s lost pension payment, her part-time wages at Moonbadger Museum, available cash reserves, the $2,150 monthly mortgage payment, Social Security timing options, and potential withdrawals from taxable and retirement accounts.",
+      "priority": null,
+      "dueDate": "2026-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Evelyn asked for a revised monthly income plan reflecting Adrian’s lost pension payment, her part-time wages, available cash reserves, the mortgage payment, Social Security timing options, and potential withdrawals from taxable and retirement accounts; the agreed follow-up is due 2026-01-23."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate pension survivor election review",
+      "text": "Compare the Clockwork Clover Railworks pension survivor election response with the old plan file and cash-flow assumptions by the recorded deadline.",
+      "priority": null,
+      "dueDate": "2026-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Evelyn showed a Clockwork Clover Railworks pension packet requesting a survivor election response by the recorded deadline, and comparison with the old plan file and cash-flow assumptions is needed by 2026-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Collect death certificate copies and attorney’s fiduciary authority document",
+      "text": "Obtain death certificate copies and the attorney’s fiduciary authority document needed by 2026-01-09 before Velvet Acorn Custody can review retitling or inherited account paperwork for Adrian’s IRA and the joint taxable account.",
+      "priority": null,
+      "dueDate": "2026-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "death certificate copies and the attorney’s fiduciary authority document were not available during the conversation, and those documents are needed by 2026-01-09 before Velvet Acorn Custody can review retitling or inherited account paperwork for Adrian’s IRA and the joint taxable account."
+    },
+    {
+      "templateId": null,
+      "title": "Complete beneficiary records update after Adrian’s death",
+      "text": "Update beneficiary records on Evelyn’s traditional IRA and Roth IRA to remove Adrian as primary beneficiary and confirm contingent beneficiary percentage for Lila Lanternmoss.",
+      "priority": null,
+      "dueDate": "2026-01-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review of the current planning file showed Adrian still listed as primary beneficiary on Evelyn’s traditional IRA and Roth IRA, with no documented contingent beneficiary percentage confirmation for Lila Lanternmoss; the agreed follow-up is due 2026-01-16."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on life insurance claim materials",
+      "text": "Identify the claim forms and evidence required for Adrian’s Buttonwood Balloon Insurance term policy and Clockwork Clover Railworks group life benefit.",
+      "priority": null,
+      "dueDate": "2026-01-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Evelyn requested help identifying the claim forms and evidence required for Adrian’s Buttonwood Balloon Insurance term policy and Clockwork Clover Railworks group life benefit; the agreed follow-up is due 2026-01-05."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve mortgage auto-draft after account closure",
+      "text": "Coordinate with Teacup Comet Bank and the mortgage portal to resolve the mortgage auto-draft issue after Adrian’s checking account closure. Confirm whether the auto-draft should be redirected to Evelyn’s account or another source.",
+      "priority": null,
+      "dueDate": "2025-12-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2025-12-29 because the Teacup Comet Bank survivor services note says Adrian’s checking account closure may stop the mortgage auto-draft, while the mortgage portal still shows the next draft source as Adrian’s closed checking account."
+    },
+    {
+      "templateId": "819d3ed0-4637-548d-8beb-d843bb432b91",
+      "title": "Request insurance policy review materials",
+      "text": "Request current policy declaration pages, premium amounts, coverage summaries, rider details, beneficiary information, and cash value or loan balances for Adrian’s Buttonwood Balloon Insurance term policy and Clockwork Clover Railworks group life benefit.",
+      "priority": "medium",
+      "dueDate": "2026-01-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Evelyn requested help identifying the claim forms and evidence required for Adrian’s Buttonwood Balloon Insurance term policy and Clockwork Clover Railworks group life benefit; the agreed follow-up is due 2026-01-05."
+    }
+  ]
+}

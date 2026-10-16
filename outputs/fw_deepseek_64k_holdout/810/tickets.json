@@ -1,0 +1,85 @@
+{
+  "meetingId": "810",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare appreciated-share donation logistics",
+      "text": "Prepare appreciated-share donation logistics for Galen Thimblefern, covering which Paper Otter Systems tax lots held at Clockwork Clover Custody could be transferred to the Moonbadger Charitable Fund, the custodian's delivery instructions, and the records needed to show the gift path.",
+      "priority": null,
+      "dueDate": "2025-11-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Galen asked for appreciated-share donation logistics covering which Paper Otter Systems tax lots could be transferred to Moonbadger Charitable Fund, the custodian’s delivery instructions, and the records needed to show the gift path; the agreed follow-up is dated 2025-11-24."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate charitable concentration and tax review",
+      "text": "Coordinate the charitable concentration and tax review for Galen Thimblefern and Lina Thimblefern with Nadia Copperwisp at Amber Teapot Tax, covering Paper Otter Systems lot selection, charitable bunching assumptions, and tax estimates for the roughly $620,000 position.",
+      "priority": null,
+      "dueDate": "2025-12-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the discussion covered coordinating lot selection, charitable bunching assumptions, and tax estimates with Nadia Copperwisp at Amber Teapot Tax; the agreed charitable concentration and tax review is dated 2025-12-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update income assumptions for giving capacity",
+      "text": "Update the household income assumptions for Galen Thimblefern and Lina Thimblefern to reflect Lina's reduced three-day weekly schedule at Thimble Harbor Clinic beginning January 2026, so charitable capacity, estimated taxes, and donor-advised fund contribution sizing stay current.",
+      "priority": null,
+      "dueDate": "2025-11-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lina’s upcoming work-schedule change affects household income projections used for charitable capacity, estimated taxes, and the size of a comfortable donor-advised fund contribution; the agreed income assumption update for giving capacity is dated 2025-11-28."
+    },
+    {
+      "templateId": "098a99bb-56c3-5bae-8a8a-0daaeba9311f",
+      "title": "Year-End Deadline Sweep",
+      "text": "Map the remaining 2025 charitable grants, donor-advised fund contributions, and cash gifts for Galen Thimblefern and Lina Thimblefern against their $125,000 to $150,000 annual giving range and travel schedule, so year-end activity is completed before the household's planned charitable cutoff.",
+      "priority": null,
+      "dueDate": "2025-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The family’s travel schedule and desired current-year giving range created a need to map remaining grants, donor-advised fund contributions, and cash gifts before the household’s planned cutoff for charitable activity; the agreed year-end charitable giving sweep is dated 2025-12-12."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile donor-advised fund balance mismatch",
+      "text": "Reconcile the Moonbadger Charitable Fund donor-advised fund portal balance against the advisory ledger for Galen Thimblefern and Lina Thimblefern, accounting for pending grants and investment activity, so the near-term grant amount they can recommend is accurate.",
+      "priority": null,
+      "dueDate": "2025-11-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed on the donor-advised fund balance mismatch, dated 2025-11-26."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing direct-gift acknowledgment letters",
+      "text": "Collect the missing acknowledgment letters for Galen Thimblefern and Lina Thimblefern's direct gifts to Cloudberry Kite Food Pantry and the Buttonwood Balloon School scholarship program so the household's charitable documentation packet is complete.",
+      "priority": null,
+      "dueDate": "2025-12-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The current charitable file lacks acknowledgment letters for direct gifts to Cloudberry Kite Food Pantry and the Buttonwood Balloon School scholarship program, and the missing receipts affect the household’s documentation packet; follow-up is needed on the direct-gift receipt file, dated 2025-12-05."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve donor-advised fund portal access problem",
+      "text": "Resolve Galen Thimblefern's Moonbadger Charitable Fund portal access issue, where his login was rejected and Buttonwood Balloon School did not appear in the charity search during two recent grant recommendation attempts.",
+      "priority": null,
+      "dueDate": "2025-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Galen reported that the Moonbadger Charitable Fund portal rejected his login and did not display Buttonwood Balloon School in the charity search during two recent attempts to enter a grant recommendation; follow-up is needed on the donor-advised fund portal access problem, dated 2025-11-21."
+    },
+    {
+      "templateId": "0abfb48a-c041-5167-89d9-5c914aeb4eb5",
+      "title": "Request and organize estate document copies",
+      "text": "Ask Galen Thimblefern and Lina Thimblefern to provide current copies of core estate documents, including will, revocable trust if applicable, powers of attorney, health care directives, beneficiary designations, trustee or executor contact information, and any recent amendment pages. Store received documents according to firm procedures and note missing items for follow-up. The advisory record currently holds only an estate summary and lacks signed trust pages, charitable bequest language, and the donor-advised fund successor-advisor designation.",
+      "priority": "medium",
+      "dueDate": "2025-12-10",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The advisory record contains only an estate summary and does not include signed trust pages, charitable bequest language, or the donor-advised fund successor-advisor designation that Galen referenced; the agreed estate and charitable-beneficiary documents follow-up is dated 2025-12-10."
+    }
+  ]
+}

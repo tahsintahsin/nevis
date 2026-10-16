@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e3",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"559\", \"tickets\": [{\"title\": \"Coordinate divorce-related financial documents\", \"text\": \"Use this checklist to coordinate divorce document requests for Mira Quillwhistle:\\n\\n- Confirm the client's attorney or mediator contact information and communication permissions. Dana Wrenpuddle of Paper Otter Legal is Mira's divorce attorney, and Mira permitted Apricot Compass Advisory to coordinate financial document delivery with Dana's office.\\n- Identify required financial statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports. Assemble the requested account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports for Dana's office; several items are missing from the secure folder.\\n- Check that requested documents cover the relevant lookback period without using fixed calendar deadlines in the template.\\n- Separate joint, individual, business, retirement, and trust-related documents.\\n- Verify whether any restricted stock, options, deferred compensation, or pension benefits need special documentation.\\n- Track missing items and responsible party for each document.\\n- Confirm secure delivery method before transmitting any sensitive materials.\\n- Save copies and notes to the appropriate client file location.\", \"priority\": \"high\", \"dueDate\": \"2024-12-06\", \"assigneeId\": null, \"templateId\": \"13da0c8e-66fc-5a77-a481-4fcfe337d3ff\", \"subTasks\": [], \"evidence\": \"Mira asked for Dana’s requested account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports to be assembled because several items were not yet in the secure folder; the agreed follow-up is due 2024-12-06.\"}, {\"title\": \"Prepare divorce-related account and ownership inventory\", \"text\": \"Prepare an inventory for Mira Quillwhistle distinguishing her individual accounts, Simon Quillwhistle's known separate accounts, joint property, joint liabilities, beneficiary designations, and recurring household payments. The inventory will support ownership-change discussions with counsel before transfers occur.\", \"priority\": null, \"dueDate\": \"2024-12-13\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Mira requested an inventory distinguishing her individual accounts, Simon’s known separate accounts, joint property, joint liabilities, beneficiary designations, and recurring household payments so ownership changes can be discussed with counsel before transfers occur; the agreed follow-up is due 2024-12-13.\"}, {\"title\": \"Reconcile Cloudberry Kite Systems equity compensation records\", \"text\": \"Reconcile Mira Quillwhistle's Cloudberry Kite Systems equity portal and counsel's spreadsheet, including grants, vested shares, unvested shares, withholding, and sale history. Resolve the differing vesting totals for legal review.\", \"priority\": null, \"dueDate\": \"2024-12-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Lena identified differing Cloudberry Kite Systems vesting totals between the equity portal and counsel’s spreadsheet; the agreed follow-up is to reconcile grants, vested shares, unvested shares, withholding, and sale history for legal review, due 2024-12-10.\"}]}",
+   "usage": {
+    "input_tokens": 3066,
+    "output_tokens": 745,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

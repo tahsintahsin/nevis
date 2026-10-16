@@ -1,0 +1,97 @@
+{
+  "meetingId": "197",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate IRA transfer exception with Paper Otter Retirement Services and Velvet Acorn Custody",
+      "text": "Coordinate the rejected IRA transfer exception with Paper Otter Retirement Services and Velvet Acorn Custody after the rollover request was rejected because Selma Copperwisp's former plan address differed from her current residential address.",
+      "priority": null,
+      "dueDate": "2026-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Selma asked for coordination with Paper Otter Retirement Services and Velvet Acorn Custody after the rollover request was rejected because the former plan address differed from her current residential address. The agreed follow-up is to coordinate the exception by August 25, 2026."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Request Selma Copperwisp's current estate planning documents (wills, revocable trust, powers of attorney, health care directives, beneficiary designations, trust funding records, and recent attorney correspondence) and prepare a concise gap summary for advisor review. Include document dates, named roles, missing pages or signatures, and items that may require attorney confirmation.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "Selma described it as intended to own the household’s main taxable investment account. Lena Bramblequill of Polka Fern Tax prepares the household’s tax returns and tracks estimated tax payments funded from Selma’s brokerage cash."
+    },
+    {
+      "templateId": null,
+      "title": "Address joint account registration mismatch",
+      "text": "Address the tenancy by entirety vs. joint tenants with rights of survivorship mismatch between the transfer paperwork and the Clockwork Clover Brokerage statement for Selma and Graham’s joint taxable account.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the transfer paperwork listed Selma and Graham as joint tenants with rights of survivorship, while the Clockwork Clover Brokerage statement shows tenancy by entirety registration. The agreed follow-up is to address the mismatch by August 22, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate receiving account shell at Velvet Acorn Custody",
+      "text": "Resolve the duplicate temporary taxable account shell issue at Velvet Acorn Custody. Two shells were created for Selma; ensure Clockwork Clover Brokerage’s pending ACATS request is associated with the correct intended shell.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "two temporary taxable account shells were created for Selma, and Clockwork Clover Brokerage associated the pending ACATS request with the shell Apricot Compass Advisory did not intend to use. The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Handle Copper Firefly Semiconductors position outside standard ACATS feed",
+      "text": "Handle the Copper Firefly Semiconductors position in Selma’s individual brokerage account outside the standard ACATS feed during the current processing window, as reported by Clockwork Clover Brokerage.",
+      "priority": null,
+      "dueDate": "2026-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Clockwork Clover Brokerage reported that the Copper Firefly Semiconductors position in Selma’s individual brokerage must be handled outside the standard ACATS feed during the current processing window; the agreed follow-up is to handle it by August 28, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Address cash holdback before taxable transfer",
+      "text": "Address the cash holdback issue where the existing ACATS instruction would move all cash from Selma’s individual brokerage even though property tax and estimated tax payments are normally funded from that account.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora’s review found that the existing ACATS instruction would move all cash from Selma’s individual brokerage even though property tax and estimated tax payments are normally funded from that account. The agreed follow-up is to address the cash holdback by August 21, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Complete incomplete trust brokerage application opening package",
+      "text": "Complete the Buttonwood Balloon Family Trust brokerage application opening package by providing the first page, trustee authority page, and signed certification page, as Selma’s upload contained only an unsigned schedule.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the trust brokerage application requires the first page, trustee authority page, and signed certification page, while Selma’s upload contained only an unsigned schedule; no due date was supplied, and the opening package remains incomplete."
+    }
+  ]
+}

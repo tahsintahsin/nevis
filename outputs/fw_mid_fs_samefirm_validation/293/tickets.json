@@ -1,0 +1,75 @@
+{
+  "meetingId": "293",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Implement recurring IRA distribution increase from $4,500 to $6,200 net per month",
+      "text": "Increase the net monthly IRA distribution sent to Daria Copperwisp's Teacup Comet Bank checking account from $4,500 to $6,200.",
+      "priority": null,
+      "dueDate": "2025-07-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the recurring IRA distribution increase, Daria asked for the net monthly IRA distribution sent to her existing Teacup Comet Bank checking account to increase from $4,500 to $6,200. The agreed follow-up is to implement the increase by 2025-07-11."
+    },
+    {
+      "templateId": null,
+      "title": "Complete retirement income bridge review",
+      "text": "Complete a retirement income bridge review reflecting Daria Copperwisp's recent retirement from Moonbadger Design Works and Owen Copperwisp's consulting income pattern, determining whether monthly withdrawals should come from the IRA, the joint taxable account, or cash reserves.",
+      "priority": null,
+      "dueDate": "2025-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the retirement income bridge review, the income plan needs to reflect Daria’s recent retirement from Moonbadger Design Works and Owen’s consulting income pattern, including whether monthly withdrawals should come from the IRA, the joint taxable account, or cash reserves. The agreed follow-up is "
+    },
+    {
+      "templateId": null,
+      "title": "Process one-time taxable account distribution of $18,000 for tuition",
+      "text": "Process a one-time $18,000 distribution from the joint taxable account for the family tuition contribution that must clear before Nora Copperwisp's school orientation.",
+      "priority": null,
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the one-time taxable account distribution for the tuition cash need, Daria asked for an $18,000 one-time distribution from the joint taxable account for the family tuition contribution that must clear before Nora’s school orientation. The agreed follow-up is to process the distribution by 2025-0"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current marketplace health insurance premium notice",
+      "text": "Obtain Daria Copperwisp's current marketplace health insurance premium notice to verify the monthly spending estimate used for withdrawal planning.",
+      "priority": null,
+      "dueDate": "2025-07-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For health insurance premium documentation for the cash-flow estimate, Daria did not have the current marketplace health insurance premium notice available during the conversation, and the notice is needed to verify the monthly spending estimate used for withdrawal planning. The agreed follow-up is "
+    },
+    {
+      "templateId": null,
+      "title": "Check federal withholding instruction on IRA distributions",
+      "text": "Check the federal withholding instruction on Daria Copperwisp's IRA distributions, as she recalled electing a higher rate than the custodian record showed for current distributions.",
+      "priority": null,
+      "dueDate": "2025-07-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the federal withholding instruction check, Daria recalled electing a higher federal withholding rate than the custodian record showed for the current IRA distributions, so the withholding instruction needs to be checked before the revised payment is entered. The agreed follow-up is to check the "
+    },
+    {
+      "templateId": null,
+      "title": "Review IRA distribution processing timetable",
+      "text": "Review the IRA distribution processing timetable, as the most recent payment posted later than the normal household bill cycle and Daria moved cash from savings to avoid an overdraft.",
+      "priority": null,
+      "dueDate": "2025-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the recent distribution posting delay, the most recent IRA payment posted later than the normal household bill cycle, and Daria reported moving cash from savings to avoid an overdraft. The agreed follow-up is to review the distribution processing timetable by 2025-07-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare funding plan for scheduled withdrawals from taxable account",
+      "text": "Prepare a funding plan for scheduled withdrawals from the joint taxable account that avoids unnecessary realized gains, using the pre-call review that found the taxable account cash and short-term bond sleeve above the household reserve target.",
+      "priority": null,
+      "dueDate": "2025-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the funding source review for scheduled withdrawals, Mira’s pre-call review found the taxable account cash and short-term bond sleeve above the household reserve target, and the portfolio needs a funding plan for scheduled withdrawals that avoids unnecessary realized gains. The agreed follow-up "
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "meetingId": "944",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare pre-clearance narrative for Tin Sparrow Robotics sale",
+      "text": "Prepare the pre-clearance narrative for Selene Velvetreed's proposed Tin Sparrow Robotics stock sale, covering proposed sale size, liquidity purpose, account destination, and confirmation of no material nonpublic information, for Apricot Compass Advisory.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-06 to prepare pre-clearance narrative covering proposed sale size, liquidity purpose, account destination, and no material nonpublic information to Apricot Compass Advisory."
+    },
+    {
+      "templateId": null,
+      "title": "Provide option exercise cost and withholding scenarios",
+      "text": "Provide before-tax exercise cost, estimated withholding, and cash-needed scenarios for Selene Velvetreed's 4,000 vested Tin Sparrow Robotics nonqualified stock options at a $12.40 exercise price, as the options expire soon after the next blackout window.",
+      "priority": null,
+      "dueDate": "2024-09-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-11 to provide before-tax exercise cost, estimated withholding, and cash-needed scenarios because vested options expire soon after the next blackout window."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Velvet Acorn Custody feed with employer report",
+      "text": "Reconcile Velvet Acorn Custody's 18,200-share feed with the 19,050 vested shares in Selene Velvetreed's Tin Sparrow Robotics employer report.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-10 to reconcile Velvet Acorn Custody’s 18,200-share feed with the 19,050 vested shares in the employer report."
+    }
+  ]
+}

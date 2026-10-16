@@ -1,0 +1,97 @@
+{
+  "meetingId": "368",
+  "tickets": [
+    {
+      "templateId": "76c48877-9b1c-5e9f-97ea-e5ea98d722bd",
+      "title": "Review and coordinate cash distribution request",
+      "text": "Confirm the $50,000 transfer to Teacup Comet Bank and increase the monthly IRA distribution to $5,500 for Rowan Cloudpuddle. Verify source account, destination account, liquidity source, and withholding instructions before processing.",
+      "priority": "high",
+      "dueDate": "2026-02-18",
+      "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to confirm the source account, destination account, liquidity source, and withholding instructions before processing, with a date of 2026-02-18."
+    },
+    {
+      "templateId": "fa9245d1-6db9-5b76-9284-aed5a90b9516",
+      "title": "Coordinate account access recovery",
+      "text": "Coordinate account access recovery for Rowan Cloudpuddle who cannot enter the Velvet Acorn Custody portal after changing mobile carriers.",
+      "priority": "high",
+      "dueDate": "2026-02-13",
+      "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2",
+      "subTasks": [
+        {
+          "title": "Confirm access problem and security boundaries",
+          "text": "Ask Rowan which portal is affected, what error message appears, whether multi‑factor authentication changed, and what contact information is on file. Do not request passwords.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2"
+        },
+        {
+          "title": "Handoff to custodian or platform recovery channel",
+          "text": "Provide Rowan with the correct custodian or platform recovery path, required identification steps, and support contact method. Confirm any needed authorization before advisor involvement.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Verify restoration and update records",
+          "text": "After Rowan reports access is restored, confirm whether contact information, trusted contact, delivery preferences, or document access settings changed. Update internal notes and flag any suspicious activity.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2"
+        }
+      ],
+      "evidence": "The agreed follow-up is portal access recovery, with a date of 2026-02-13."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain care cost evidence for distribution planning",
+      "text": "Obtain assisted living expense evidence for Elena Mossbutton, including facility rate sheet, admission deposit information, and Silver Marmot Insurance claim requirements, to estimate the ongoing cash draw for distribution planning.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That evidence remains needed, with a date of 2026-02-27."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate tax withholding and estimated tax review",
+      "text": "Coordinate with Talia Bramblequill to review withholding and estimated tax for Rowan and Elena Cloudpuddle given the recent IRA distribution, the proposed larger withdrawal, and the existing 12% federal tax withholding.",
+      "priority": null,
+      "dueDate": "2026-02-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan authorized coordination with Talia Bramblequill on a withholding and estimated tax check, and the agreed follow-up has a date of 2026-02-25."
+    },
+    {
+      "templateId": null,
+      "title": "Compare roof deposit funding options",
+      "text": "Compare using taxable money market funds, IRA cash, or the home equity line to fund the $26,000 roof repair deposit while maintaining emergency reserves above the nine‑month minimum.",
+      "priority": null,
+      "dueDate": "2026-02-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to compare using taxable money market funds, IRA cash, or the home equity line so the deposit can be funded without unintentionally reducing emergency reserves below Rowan’s stated minimum, with a date of 2026-02-16."
+    },
+    {
+      "templateId": null,
+      "title": "Update household cash‑flow projection",
+      "text": "Update the retirement income projection for Rowan and Elena Cloudpuddle incorporating Elena’s reduced work capacity, the $2,800 monthly in‑home assistance cost, and the increased IRA distribution of $5,500 per month.",
+      "priority": null,
+      "dueDate": "2026-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the retirement income projection using lower earned income and higher care expenses, with a date of 2026-03-04."
+    },
+    {
+      "templateId": null,
+      "title": "Assess home equity line and mortgage options",
+      "text": "Assess whether paying down the $38,000 home equity line at 8.1% variable rate, refinancing the $210,000 mortgage at 3.25%, or leaving balances unchanged best meets the cash reserve target and retirement income plan.",
+      "priority": null,
+      "dueDate": "2026-03-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to assess whether paying down the line, refinancing, or leaving it in place is most consistent with the cash reserve target and retirement income plan, with a date of 2026-03-11."
+    }
+  ]
+}

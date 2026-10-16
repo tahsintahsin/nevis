@@ -1,0 +1,65 @@
+{
+  "meetingId": "854",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete Alden Pebblefizz’s household profile packet",
+      "text": "Complete the remaining contact, authorization, risk tolerance, and communication preference sections of Alden Pebblefizz’s household profile packet so the new client record can be finalized.",
+      "priority": null,
+      "dueDate": "2024-04-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira and Tobin asked him to complete the remaining contact, authorization, risk tolerance, and communication preference sections so the new client record can be finalized, and the agreed follow-up is completion of those remaining sections by 2024-04-26."
+    },
+    {
+      "templateId": null,
+      "title": "Reset portal access and confirm upload instructions",
+      "text": "Reset portal access and confirm upload instructions with both Alden and Priya Pebblefizz. Address Priya’s missing secure portal invitation and Alden’s timed-out upload attempt for the brokerage statement.",
+      "priority": null,
+      "dueDate": "2024-04-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reset portal access and confirm upload instructions with both household decision-makers by 2024-04-23."
+    },
+    {
+      "templateId": null,
+      "title": "Evaluate Willow Pudding Components retirement plan and rollover options",
+      "text": "Evaluate Alden Pebblefizz’s prior employer retirement plan from Willow Pudding Components and possible rollover steps once the plan statement and distribution options are available.",
+      "priority": null,
+      "dueDate": "2024-05-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that evaluation once those records are available, due 2024-05-03."
+    },
+    {
+      "templateId": null,
+      "title": "Include equity award considerations in the first planning meeting",
+      "text": "Include Alden Pebblefizz’s equity award considerations in the first planning meeting. Address vesting concentration, tax withholding, and whether to sell shares after vesting.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to include those equity award considerations in the first planning meeting by 2024-05-10."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing tax returns and CPA authorization",
+      "text": "Obtain the most recent federal and Oregon income tax returns and written permission to coordinate with Rowan Thimblefern for Alden and Priya Pebblefizz.",
+      "priority": null,
+      "dueDate": "2024-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those materials and authorization are needed by 2024-05-01."
+    },
+    {
+      "templateId": null,
+      "title": "Update education funding assumptions for Nora Pebblefizz",
+      "text": "Update the household’s education funding assumptions and Nora’s 529 spending timeline to reflect her interest in an out-of-state engineering program.",
+      "priority": null,
+      "dueDate": "2024-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "updated education funding assumptions are needed by 2024-05-15."
+    }
+  ]
+}

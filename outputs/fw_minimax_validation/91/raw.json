@@ -1,0 +1,18 @@
+{
+ "config": "fw_minimax",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"91\", \"tickets\": [{\"title\": \"Evaluate Paper Otter Life policy lapse and reinstatement\", \"text\": \"Evaluate lapse and reinstatement options for Soren Cloudpuddle's $750,000 20-year Paper Otter Life term policy after the monthly premium draft from Teacup Comet Bank checking failed when the account was replaced, before existing underwriting terms are lost.\", \"priority\": null, \"dueDate\": \"2024-12-13\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms.\", \"templateId\": null}, {\"title\": \"Review term life and disability coverage for Cloudpuddle household\", \"text\": \"Review term life and disability coverage for Soren and Lila Cloudpuddle after Lila reduced paid work to part-time, given the $620,000 primary-residence mortgage, childcare for dependent child Rowan Cloudpuddle (6), and education-funding exposure now concentrated on Soren's salary.\", \"priority\": null, \"dueDate\": \"2024-12-20\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 1863,
+    "output_tokens": 1786,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2205
+   },
+   "stop": "stop"
+  }
+ ]
+}

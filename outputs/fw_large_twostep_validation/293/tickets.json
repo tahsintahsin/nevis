@@ -1,0 +1,75 @@
+{
+  "meetingId": "293",
+  "tickets": [
+    {
+      "templateId": "3a4e7ad2-bf7e-54d7-9b37-c81d19056200",
+      "title": "Update recurring payment instructions",
+      "text": "Update Daria Copperwisp’s net monthly IRA distribution to $6,200, directing the payment from her rollover IRA at Velvet Acorn Custody to her checking account at Teacup Comet Bank, replacing the current $4,500 amount.",
+      "priority": null,
+      "dueDate": "2025-07-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to implement the increase by 2025-07-11."
+    },
+    {
+      "templateId": null,
+      "title": "Complete retirement income bridge review",
+      "text": "Complete a retirement income bridge review for Daria Copperwisp and Owen Copperwisp, incorporating Daria’s 2025 retirement from Moonbadger Design Works and Owen’s $3,800 monthly consulting income from Paper Otter Analytics, to determine appropriate withdrawal sources.",
+      "priority": null,
+      "dueDate": "2025-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that review by 2025-07-25."
+    },
+    {
+      "templateId": null,
+      "title": "Process one-time taxable account distribution",
+      "text": "Process an $18,000 one-time distribution from the joint taxable account for Daria Copperwisp and Owen Copperwisp to fund tuition, ensuring the funds clear before Nora’s school orientation.",
+      "priority": null,
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to process the distribution by 2025-07-18."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain health insurance premium notice",
+      "text": "Obtain Daria Copperwisp’s current marketplace health‑insurance premium notice to verify the monthly spending estimate used in the cash‑flow withdrawal planning.",
+      "priority": null,
+      "dueDate": "2025-07-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the documentation by 2025-07-09."
+    },
+    {
+      "templateId": null,
+      "title": "Verify federal withholding instruction",
+      "text": "Verify and, if necessary, correct the federal withholding rate for Daria Copperwisp’s IRA distribution, which currently shows a 10% withholding at Velvet Acorn Custody, to reflect her elected higher rate.",
+      "priority": null,
+      "dueDate": "2025-07-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to check the withholding instruction by 2025-07-15."
+    },
+    {
+      "templateId": null,
+      "title": "Review IRA distribution processing timetable",
+      "text": "Review the processing timetable for Daria Copperwisp’s IRA distribution after the recent posting delay, and address any timing issues to prevent future overdraft risks.",
+      "priority": null,
+      "dueDate": "2025-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the distribution processing timetable by 2025-07-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare funding plan for withdrawals",
+      "text": "Prepare a funding plan for scheduled withdrawals for Daria Copperwisp and Owen Copperwisp that utilizes the joint taxable account cash and short‑term bond sleeve while avoiding unnecessary realized gains, aligning with the household reserve target.",
+      "priority": null,
+      "dueDate": "2025-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that funding plan by 2025-07-22."
+    }
+  ]
+}

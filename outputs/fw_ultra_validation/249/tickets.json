@@ -1,0 +1,74 @@
+{
+  "meetingId": "249",
+  "tickets": [
+    {
+      "templateId": "66fed350-3026-56df-8986-b346229854a4",
+      "title": "Follow up on missing signature",
+      "text": "Request the missing signature or initials needed to complete the pending document. Include where to sign, how to return it, and that processing cannot continue until the signed item is received. The missing signature is the trustee-capacity signature block on the Paper Otter taxable account authorization form uploaded by Elias Copperwisp; Velvet Acorn Custody cannot process the transfer until this is provided.",
+      "priority": "medium",
+      "dueDate": "2025-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the trustee-capacity signature issue by November 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve proprietary fund transfer for Paper Otter Stable Income Fund",
+      "text": "Decide whether to liquidate, exchange, or retain the Paper Otter Stable Income Fund position in Elias Copperwisp's traditional IRA, as the fund is marked proprietary and cannot transfer in-kind to Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2025-11-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve how to handle that position by November 18, 2025."
+    },
+    {
+      "templateId": "63cb44b5-8781-5ade-9a4e-c679b0c71e9b",
+      "title": "Review concentrated position",
+      "text": "Review the concentrated Moonbadger Automation position in Elias Copperwisp's taxable account, which represents a large share of the transferring portfolio, and assess options for reducing exposure during a high-income tax year.",
+      "priority": null,
+      "dueDate": "2025-11-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is a review by November 26, 2025."
+    },
+    {
+      "templateId": "d41d5f0c-618a-548f-923d-9e55f8a2b021",
+      "title": "Coordinate charitable transfer",
+      "text": "Create a retirement income plan that identifies expected spending needs, reliable income sources, portfolio withdrawal strategy, tax considerations, reserve targets, and implementation actions. Use current client data and clearly note assumptions, risks, and follow-up items. The plan must incorporate Elias and Lena Copperwisp's household spending of $11,800 per month, Social Security estimates of $3,050 and $2,100 monthly, transferred assets from Paper Otter and Velvet Acorn Custody, CPA Talia Bramblequill's 2025 tax projection of $310,000 joint taxable income, and a cash reserve target of roughly nine months of spending.",
+      "priority": "medium",
+      "dueDate": "2025-12-05",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm charitable transfer intent and recipient details",
+          "text": "Confirm the gift purpose, asset or cash source, approximate amount or shares, receiving charity legal name, delivery instructions, and whether the client needs recognition preferences documented.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "03561d4e-db1e-52cd-aa97-332d8eff33ee"
+        },
+        {
+          "title": "Prepare transfer instructions for review",
+          "text": "Draft the transfer instructions, identify custodian or charity form requirements, and verify whether cost basis, lot selection, qualified charitable distribution treatment, or donor-advised fund routing applies.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Submit and monitor transfer status",
+          "text": "After approval and signatures are complete, submit through the approved channel and track custodian or charity confirmation until assets or funds are received.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Document confirmation and tax records",
+          "text": "Save confirmation, receipt, acknowledgement letter, and any relevant tax-reporting notes to the client file. Flag missing receipts or discrepancies for advisor review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "03561d4e-db1e-52cd-aa97-332d8eff33ee"
+        }
+      ],
+      "evidence": "The agreed follow-up is to address the potential gift by December 10, 2025."
+    }
+  ]
+}

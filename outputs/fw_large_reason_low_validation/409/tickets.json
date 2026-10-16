@@ -1,0 +1,35 @@
+{
+  "meetingId": "409",
+  "tickets": [
+    {
+      "templateId": "ca0beb64-4823-5deb-8d28-1f7a5f7d128e",
+      "title": "Collect Client Tax Documents",
+      "text": "Request and organize the Velvet Acorn consolidated tax form and charitable giving summary for Anika Pebblefizz, and any related tax notices, then track missing items and route the complete packet to the planning team.",
+      "priority": "medium",
+      "dueDate": "2024-04-18",
+      "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain those records by April 18, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn Income Variance",
+      "text": "Investigate and reconcile the discrepancy between the $14,860 ordinary dividends reported by the IRS and the $7,440 shown on the return worksheet for Anika Pebblefizz’s Velvet Acorn taxable account.",
+      "priority": null,
+      "dueDate": "2024-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "resolution of the custodian income variance is needed by April 24, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate Secure Delivery of Tax Documents",
+      "text": "Send the IRS notice, the requested tax forms, and account statements to Anika Pebblefizz and her CPA Beren Nettlewhisk via secure delivery as authorized, ensuring delivery by April 16.",
+      "priority": null,
+      "dueDate": "2024-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Anika authorized coordination with Beren and requested that only the notice, relevant tax forms, and account statements be sent through secure delivery by April 16, 2024."
+    }
+  ]
+}

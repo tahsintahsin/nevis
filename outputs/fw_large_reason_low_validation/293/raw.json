@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_reason_low",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"293\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Increase IRA distribution to $6,200\",\n\"text\": \"Increase the net monthly IRA distribution for Daria Copperwisp to $6,200 and route the funds to her Teacup Comet Bank checking account.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-11\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to implement the increase by 2025-07-11.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Complete retirement income bridge review\",\n\"text\": \"Complete a retirement income bridge review for Daria and Owen Copperwisp that incorporates Daria’s recent retirement and Owen’s consulting income to determine optimal withdrawal sources.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to complete that review by 2025-07-25.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Process $18,000 tuition distribution\",\n\"text\": \"Process an $18,000 one-time distribution from the joint taxable account for Daria Copperwisp to fund her granddaughter’s tuition, ensuring the funds clear before the school orientation.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to process the distribution by 2025-07-18.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain health insurance premium documentation\",\n\"text\": \"Obtain Daria Copperwisp’s current marketplace health insurance premium notice to verify the monthly spending estimate used in withdrawal planning.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-09\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to obtain the documentation by 2025-07-09.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Check federal withholding instruction\",\n\"text\": \"Check the federal withholding instruction for Daria Copperwisp’s IRA distributions to ensure it reflects her elected higher rate before the revised payment is entered.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-15\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to check the withholding instruction by 2025-07-15.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review distribution processing timetable\",\n\"text\": \"Review the IRA distribution processing timetable for Daria Copperwisp to address the recent posting delay and confirm timing aligns with household bill cycles.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-10\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to review the distribution processing timetable by 2025-07-10.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Prepare funding plan for withdrawals\",\n\"text\": \"Prepare a funding plan for scheduled withdrawals for Daria and Owen Copperwisp that utilizes taxable account cash and short‑term bond sleeve while minimizing realized gains.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-22\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to prepare that funding plan by 2025-07-22.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2397,
+    "output_tokens": 1672,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

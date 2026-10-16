@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"110\", \"tickets\": [\n{\"title\": \"Start retirement plan rollover\", \"text\": \"Begin preparing the Silver Marmot Laboratories 401(k) move for Nadia Copperwisp after her separation, covering account registration and the company-stock portion. The 401(k) holds about $914,000, with 38% in company stock, 52% in diversified equity funds, and 10% in stable value holdings.\", \"priority\": null, \"dueDate\": \"2024-09-06\", \"assigneeId\": null, \"templateId\": \"16995f94-ef6c-5a22-ab66-51b66b8e9006\", \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-06 to start preparing the Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and company-stock portion.\"},\n{\"title\": \"Obtain formal pension election packet\", \"text\": \"Obtain the formal pension election packet for Nadia Copperwisp, since only portal estimates were available. Benefit estimates include single-life pension, joint-and-survivor pension for Galen Copperwisp, and delayed Social Security options.\", \"priority\": null, \"dueDate\": \"2024-08-23\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"By 2024-08-23, the formal pension election packet is needed because only portal estimates were available.\"},\n{\"title\": \"Review first-year retirement income and withholding\", \"text\": \"Review Nadia Copperwisp's first-year retirement income and withholding, incorporating the final paycheck, unused vacation payout, and first pension timing that were not yet in the tax projection. Estimated regular retirement spending is about $8,400 monthly before travel or home projects.\", \"priority\": null, \"dueDate\": \"2024-09-13\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-13 to review first-year retirement income and withholding because Tobin noted final paycheck, unused vacation payout, and first pension timing were not yet in the tax projection.\"}\n]}",
+   "usage": {
+    "input_tokens": 2787,
+    "output_tokens": 569,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2123
+   },
+   "stop": "stop"
+  }
+ ]
+}

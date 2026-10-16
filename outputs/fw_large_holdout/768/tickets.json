@@ -1,0 +1,35 @@
+{
+  "meetingId": "768",
+  "tickets": [
+    {
+      "templateId": "7e079875-a636-5be9-84a0-36c6f079b4eb",
+      "title": "Open new client account",
+      "text": "Open the approved new joint taxable account for Lila Copperwisp and Rowan Thistlefable using the existing custodian workflow. Fund the account initially from the Teacup Comet Bank savings, and ensure both spouses receive online access and electronic statements.",
+      "priority": "high",
+      "dueDate": "2024-10-18",
+      "assigneeId": "5c5439fe-19f1-52ba-8646-5d8a3755e27e",
+      "subTasks": [],
+      "evidence": "The agreed follow-ups are to open a joint taxable account at the existing custodian by 2024-10-18, initially funded from Teacup Comet Bank savings, with both spouses receiving online access and electronic statements;"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare beneficiary change forms",
+      "text": "Prepare beneficiary change forms for Lila Copperwisp naming Rowan Thistlefable as primary and Camila Copperwisp as contingent where allowed. Ensure the forms are completed and submitted by the required deadline.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "prepare beneficiary change forms by 2024-10-25 naming Rowan primary and Camila Copperwisp contingent where allowed"
+    },
+    {
+      "templateId": null,
+      "title": "Collect household identity records",
+      "text": "Collect the household identity records for Lila Copperwisp and Rowan Thistlefable, including the certified marriage certificate, to update the client profiles. Ensure the records are added to the file by the target date.",
+      "priority": null,
+      "dueDate": "2024-10-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "collect household identity records by 2024-10-14 because profiles still show Lila’s prior household status and the file lacks the certified marriage certificate"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meetingId": "625",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare mortgage liquidity source analysis for down‑payment",
+      "text": "Prepare a mortgage liquidity source analysis for Julian Nettlewhisk comparing cash at Teacup Comet Bank, short‑term bond holdings, taxable brokerage sales at Velvet Acorn Custody, and vested Cloudberry Kite Robotics shares to fund the down‑payment while preserving the $80,000 reserve.",
+      "priority": null,
+      "dueDate": "2025-10-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian asked for a mortgage liquidity source analysis comparing bank cash, short-term bond holdings, taxable brokerage sales, and vested employer shares to fund the remaining down payment while preserving the stated reserve target; the agreed follow-up is due 2025-10-08."
+    },
+    {
+      "templateId": null,
+      "title": "Upload required bank and brokerage statements",
+      "text": "Upload the latest Teacup Comet Bank statement and Velvet Acorn Custody brokerage statement for Julian Nettlewhisk and provide documentation linking the earnest‑money withdrawal to the source account.",
+      "priority": null,
+      "dueDate": "2025-10-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For underwriting asset documentation, the lender’s portal shows the most recent Teacup Comet Bank statement and Velvet Acorn Custody brokerage statement have not been uploaded, and the underwriter is asking for documentation tying the earnest money withdrawal to the source account; this remains need"
+    },
+    {
+      "templateId": null,
+      "title": "Review cash‑flow impact of rate‑lock alternatives",
+      "text": "Review the cash‑flow impact of the rate‑lock alternatives for Julian Nettlewhisk’s mortgage and provide a recommendation.",
+      "priority": null,
+      "dueDate": "2025-10-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The mortgage contact sent updated loan terms with a rate-lock choice and financing contingency timeline, and Julian wants the cash-flow effect of the lock alternatives reviewed before he responds;"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Iris’s student‑loan payment discrepancy",
+      "text": "Resolve the discrepancy in Iris Nettlewhisk’s student‑loan payment amount for Julian Nettlewhisk’s mortgage underwriting, confirming the correct $410 income‑driven payment versus the $640 listed.",
+      "priority": null,
+      "dueDate": "2025-10-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the student loan payment discrepancy in the mortgage file, the mortgage application lists Iris’s student loan payment as $640 per month, while the current servicer statement provided by Iris shows a $410 income-driven payment, creating a different debt-to-income calculation for underwriting; res"
+    },
+    {
+      "templateId": null,
+      "title": "Refresh Velvet Acorn Custody aggregation feed",
+      "text": "Refresh the Velvet Acorn Custody aggregation feed for Julian Nettlewhisk to reflect current brokerage cash and short‑term bond balances for the liquidity worksheet.",
+      "priority": null,
+      "dueDate": "2025-10-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Velvet Acorn Custody aggregation feed in the planning portal is showing a stale joint brokerage balance, so the liquidity worksheet is not reflecting the current cash and short-term bond positions available for closing; the agreed follow-up is due 2025-10-06."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate new‑home insurance and liability",
+      "text": "Coordinate new‑home insurance and liability coverage for Julian and Iris Nettlewhisk’s townhouse purchase.",
+      "priority": null,
+      "dueDate": "2025-10-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed new-home insurance and liability coordination is due 2025-10-15."
+    },
+    {
+      "templateId": null,
+      "title": "Conduct tax‑lot review of ETF positions",
+      "text": "Conduct a tax‑lot review of the taxable ETF positions in Julian Nettlewhisk’s Velvet Acorn Custody account to identify optimal lots for sale to fund closing costs.",
+      "priority": null,
+      "dueDate": "2025-10-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena noted that several taxable ETF positions have both short-term gain lots and lower-gain long-term lots, affecting which holdings may be most suitable if brokerage assets are used for closing cash; the agreed tax-lot review is due 2025-10-09."
+    }
+  ]
+}

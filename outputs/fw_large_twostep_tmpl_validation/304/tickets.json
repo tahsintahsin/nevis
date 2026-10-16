@@ -1,0 +1,55 @@
+{
+  "meetingId": "304",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare home equity reset comparison options",
+      "text": "Prepare a comparison of the projected home equity line reset payment versus refinance, a fixed home equity loan, and accelerated payoff alternatives for Evan Cloudpuddle, using the Silver Marmot Credit Union line balance of about $86,400 and the upcoming payment change later this year.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives."
+    },
+    {
+      "templateId": null,
+      "title": "Collect loan documents for reset",
+      "text": "Collect the missing loan documents for the home equity line reset for Evan Cloudpuddle, including the full agreement, margin details, draw‑period language, and pre‑payment terms, to be received by 2024‑08‑26.",
+      "priority": null,
+      "dueDate": "2024-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve discrepancy between credit monitoring balances",
+      "text": "Resolve the $92,100 credit‑monitoring balance discrepancy versus the portal’s $86,400 balance for Evan Cloudpuddle’s Silver Marmot Credit Union home equity line, with resolution needed by 2024‑08‑30.",
+      "priority": null,
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal’s about $86,400."
+    },
+    {
+      "templateId": null,
+      "title": "Create cash‑flow scenario for debt trade‑offs",
+      "text": "Create a cash‑flow scenario showing debt‑repayment trade‑offs for Evan Cloudpuddle, incorporating regular spending of $10,900, the projected home equity line reset payment, and the impact of the upcoming September 4 contract pause.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed cash-flow scenario due 2024-09-13 is to show debt-repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment."
+    },
+    {
+      "templateId": null,
+      "title": "Update debt plan for contract pause",
+      "text": "Update the debt plan for Evan Cloudpuddle to reflect Lena’s two‑month Paper Otter Studio contract pause beginning September 4, adjusting cash‑flow projections and repayment schedules accordingly.",
+      "priority": null,
+      "dueDate": "2024-09-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The debt plan needs to reflect Lena’s expected two-month Paper Otter Studio contract pause by 2024-09-04."
+    }
+  ]
+}

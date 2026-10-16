@@ -1,0 +1,85 @@
+{
+  "meetingId": "751",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Rebuild short-term cash reserve and monthly surplus model",
+      "text": "Rebuild the Maplesprocket household’s short-term cash reserve and monthly surplus model to reflect Malia’s partially unpaid parental leave, infant care tuition, and upcoming payroll benefit changes. Use the agreed model follow-up date of 2024-02-23.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Malia’s partially unpaid leave, infant care tuition, and upcoming payroll benefit changes require a revised short-term cash reserve and monthly surplus estimate before Corin adjusts deferrals; the agreed cash-flow model follow-up is dated 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Corin’s Teacup Comet Robotics equity award records",
+      "text": "Reconcile Corin Maplesprocket’s Teacup Comet Robotics equity award records between the stock-plan portal and personal spreadsheet. Address the discrepancy in unvested units and estimated tax withholding treatment and the higher equity value in the spreadsheet.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin’s personal spreadsheet showed a higher Teacup Comet Robotics equity value than the stock-plan portal because unvested units and estimated tax withholding appeared to be treated differently; the agreed equity award record reconciliation follow-up is dated 2024-02-29."
+    },
+    {
+      "templateId": null,
+      "title": "Review life and disability insurance needs",
+      "text": "Review the Maplesprocket household’s life and disability insurance needs against stated survivor income, mortgage payoff, childcare, and education funding targets after adding Isla as a dependent. Assess existing coverage against these targets.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The review indicated that existing coverage may be below the family’s stated survivor income, mortgage payoff, childcare, and education funding targets after adding Isla as a dependent; the agreed life and disability insurance needs review follow-up is dated 2024-03-01."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate attorney planning memo",
+      "text": "Coordinate with estate attorney Priya Lanternmoss on a planning memo covering guardian nominees, backup trustee choices, beneficiary alignment, and whether the existing wills and powers of attorney still fit the Maplesprocket household.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin requested a planning memo for estate attorney Priya Lanternmoss covering guardian nominees, backup trustee choices, beneficiary alignment, and whether the existing documents still fit the household; the agreed estate attorney coordination follow-up is dated 2024-03-08."
+    },
+    {
+      "templateId": "7ff3455b-9835-5e0d-a74c-bc2eb1f3d7e8",
+      "title": "Update household profile fields",
+      "text": "Refresh the household profile using the blanks below:\n\nPrimary client: Corin Maplesprocket\nCo-client or spouse/partner: Malia Maplesprocket\nPreferred household name: [household label]\nPrimary address: [street, city, state, ZIP]\nMailing address if different: [mailing address]\nPrimary phone: [phone]\nSecondary phone: [phone]\nPreferred email address: [email]\nEmployment status: [status]\nEmployer or business name: [organization]\nDependents or household members to note: Isla Maplesprocket, daughter, born 2024-02-02\nKey outside professionals: Omar Cloudpuddle, CPA; Priya Lanternmoss, estate attorney\nMajor life changes since last update: Birth of Isla Maplesprocket on 2024-02-02; household planning assumptions updated to reflect a three-person household\nCommunication preferences: [email/phone/meeting cadence]\nProfile sections updated in CRM: [sections completed]\nOpen follow-up items: Reflect Isla’s birth in the advisory record, dependent count, cash-flow assumptions, and projection inputs",
+      "priority": null,
+      "dueDate": "2024-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin reported Isla’s birth and asked that the advisory record, dependent count, cash-flow assumptions, and projection inputs reflect a three-person household; the agreed household profile and planning assumptions update is dated 2024-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain newborn identity documents for account and education administration",
+      "text": "Follow up on obtaining Isla Maplesprocket’s issued birth certificate and Social Security card needed for custodial account titling, beneficiary records, and education account administration.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin has hospital proof of birth but not the issued birth certificate or Social Security card needed for custodial account titling, beneficiary records, and education account administration; the agreed newborn identity document follow-up is dated 2024-03-18."
+    },
+    {
+      "templateId": "928b28f0-be66-5b97-b6f8-03f96a559b66",
+      "title": "Follow up on policy renewal status",
+      "text": "Contact the client or insurer to confirm renewal status, updated premium, coverage changes, beneficiary or owner changes, and any advisor review items before the renewal decision is finalized. Follow up on Isla Maplesprocket’s pending employer health plan dependent enrollment and the missing newborn member record for claims.",
+      "priority": "medium",
+      "dueDate": "2024-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Teacup Comet Robotics benefits portal showed Isla’s dependent enrollment as pending, and the insurer search did not yet show a member record for newborn claims; the agreed employer health plan dependent enrollment follow-up is dated 2024-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Develop education funding recommendations",
+      "text": "Compare education account ownership, initial contribution level, investment track selection, and how grandparent gifts could be coordinated without disrupting the household reserve target. Provide recommendations for Isla Maplesprocket’s education funding.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin asked for a comparison of education account ownership, initial contribution level, investment track selection, and how grandparent gifts could be coordinated without disrupting the household reserve target; the agreed education funding recommendation follow-up is dated 2024-03-06."
+    }
+  ]
+}

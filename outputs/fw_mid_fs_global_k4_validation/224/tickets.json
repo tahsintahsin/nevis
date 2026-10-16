@@ -1,0 +1,114 @@
+{
+  "meetingId": "224",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update household account map distinguishing premarital and joint assets",
+      "text": "Prepare a written household account map for Dana and Oliver Cloudpuddle distinguishing Dana's premarital savings, individual brokerage account, rental condo cash flows, joint Teacup Comet Bank accounts, and shared expense funding arrangement. Use the agreed date of 2026-08-02.",
+      "priority": null,
+      "dueDate": "2026-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana requested a written household account map distinguishing her premarital savings, individual brokerage account, rental condo cash flows, joint Teacup Comet Bank accounts, and shared expense funding arrangement; this was agreed for 2026-08-02."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian profile discrepancy for Dana’s Velvet Acorn Custody account",
+      "text": "Update Dana’s Velvet Acorn Custody account profile to reflect Oliver’s townhouse as the shared mailing address and the updated household status. Remove the prior apartment mailing address and single household status from the portal.",
+      "priority": null,
+      "dueDate": "2026-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The advisor portal for Dana’s Velvet Acorn Custody account still shows her prior apartment mailing address and single household status, while Dana identified Oliver’s townhouse as the shared mailing address; the custodian profile discrepancy remains unresolved and is dated 2026-07-22."
+    },
+    {
+      "templateId": null,
+      "title": "Update beneficiary designations to reflect marriage",
+      "text": "Update beneficiary designations on Dana’s IRA, taxable transfer-on-death registration if available, Moonbadger Design Labs 401(k), and group life coverage to reflect her marriage to Oliver Cloudpuddle. Compare contingent beneficiary options and document the changes.",
+      "priority": null,
+      "dueDate": "2026-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana asked for help updating beneficiary designations on her IRA, taxable transfer-on-death registration if available, Moonbadger Design Labs 401(k), and group life coverage to reflect her marriage and to compare contingent beneficiary options; the agreed follow-up is dated 2026-07-25."
+    },
+    {
+      "templateId": "b823f1eb-7d40-54c3-9ff9-2000a502ca09",
+      "title": "Request estate document copies",
+      "text": "Collect current copies of wills, trusts, powers of attorney, health care directives, beneficiary designations, and any recent attorney correspondence for both Dana and Oliver Cloudpuddle. Dana has a 2019 estate plan; Oliver has not previously signed comparable documents. No current copies or attorney correspondence are available in the client file.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana described the existing 2019 estate documents, Oliver said he has not signed comparable documents, and no current copies or attorney correspondence were available in the client file for review;"
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on Lavender Sprocket Insurance renewal documentation",
+      "text": "Obtain the renewal notice and current declarations page for Oliver Cloudpuddle’s Lavender Sprocket Insurance term life policy. The notice references a near-term renewal response window.",
+      "priority": "medium",
+      "dueDate": "2026-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Oliver said he received a Lavender Sprocket Insurance renewal notice for his term life policy, but the notice and current declarations page were not available during the meeting even though the notice references a near-term renewal response window; the insurance renewal documentation remains needed "
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate with Rowan Nettlewhisk on joint filing and rental reporting",
+      "text": "Coordinate with Rowan Nettlewhisk of Copper Firefly Tax Partners on expected joint filing, rental condo reporting, equity compensation withholding, and any estimated payment planning affected by the marriage of Dana and Oliver Cloudpuddle. The agreed coordination is dated 2026-08-09.",
+      "priority": null,
+      "dueDate": "2026-08-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana and Oliver asked Apricot Compass Advisory to coordinate with Rowan on expected joint filing, rental condo reporting, equity compensation withholding, and any estimated payment planning affected by the marriage; the agreed coordination is dated 2026-08-09."
+    },
+    {
+      "templateId": "f2960ec0-96f0-55d4-9d2a-6de1f7cfaaa5",
+      "title": "Coordinate equity award review",
+      "text": "Review the next vesting and trading-window considerations for Dana’s 2,400 unvested restricted stock units from Moonbadger Design Labs before she makes any employer portal election. Address employer trading restrictions and tax withholding implications.",
+      "priority": "medium",
+      "dueDate": "2026-07-29",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect equity award documents",
+          "text": "Request current grant agreements, vesting schedule, plan portal screenshots, tax withholding elections, recent paystub, and any employer trading-window or blackout-policy guidance.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        },
+        {
+          "title": "Analyze planning implications",
+          "text": "Review vesting timing, option exercise cost, RSU withholding, AMT exposure if applicable, concentration level, cash-flow needs, and whether CPA coordination is needed before action.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "a8da8f8f-1814-56bc-93a4-f7ec3a48a450"
+        },
+        {
+          "title": "Confirm recommended action plan",
+          "text": "Finalize advice on hold, sell, exercise, diversify, or defer decisions. Identify what requires client approval, employer portal action, or custodian follow-up.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4"
+        },
+        {
+          "title": "Document execution and follow-up",
+          "text": "Record decisions, confirmations, trade or exercise instructions, tax notes, and next review trigger based on the next vesting event or trading window.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        }
+      ],
+      "evidence": "Mira and Tobin noted Dana’s employer-stock concentration in the taxable account and the additional unvested restricted stock units, and Dana wants the next vesting and trading-window considerations reviewed before she makes any employer portal election; the agreed Moonbadger equity award review is d"
+    },
+    {
+      "templateId": "fbbdddd5-865b-51c3-a01a-013cd6ced637",
+      "title": "Verify recurring payment change",
+      "text": "Investigate and resolve the risk of duplicate household funding for the same payment cycle. Dana reported that a scheduled transfer from her individual Teacup Comet Bank account and a new joint-account transfer both appear tied to the townhouse mortgage contribution.",
+      "priority": "high",
+      "dueDate": "2026-07-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana reported that a scheduled transfer from her individual Teacup Comet Bank account and a new joint-account transfer both appear tied to the townhouse mortgage contribution, creating a risk of duplicate household funding for the same payment cycle; the agreed follow-up on the recurring mortgage co"
+    }
+  ]
+}

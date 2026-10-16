@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e1",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"303\", \"tickets\": [{\"title\": \"Coordinate divorce-related financial document package\", \"text\": \"Compile and organize financial planning records requested for divorce-related analysis. Use only authorized documents, confirm permitted communication channels, and separate planning notes from legal advice. Coordinate with the client's attorney or mediator when written authorization is on file.\", \"priority\": \"high\", \"dueDate\": \"2025-03-14\", \"assigneeId\": \"92319646-536d-5656-b496-3f76eed775bb\", \"templateId\": \"fa8ebcc2-e3bb-5862-a32e-36b07cd19a82\", \"subTasks\": [], \"evidence\": \"They agreed that the divorce financial document package will compile authorized investment, bank, retirement, debt, and household cash-flow records requested by Tobin Mossbutton for the pending property discussion by March 14, 2025.\"}, {\"title\": \"Obtain missing business ownership records\", \"text\": \"Obtain the Paper Otter Fabrication ownership valuation exhibit, recent K-1 support, and buy-sell agreement pages needed by Silver Marmot Legal. Deliver the records by March 18, 2025.\", \"priority\": null, \"dueDate\": \"2025-03-18\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to obtain those records by March 18, 2025.\"}, {\"title\": \"Compare and label mortgage balance source documents\", \"text\": \"Compare the Teacup Comet Bank portal mortgage balance with the mediation worksheet balance and label the source documents before planning exhibits. Deliver the comparison by March 12, 2025.\", \"priority\": null, \"dueDate\": \"2025-03-12\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to compare and label source documents before planning exhibits by March 12, 2025.\"}, {\"title\": \"Coordinate account and policy ownership changes\", \"text\": \"Coordinate changes to Reid’s listing on Anika’s Roth IRA, term life policy, and joint taxable account through authorized legal channels. Deliver the coordination by March 21, 2025.\", \"priority\": null, \"dueDate\": \"2025-03-21\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"any changes are to be coordinated through authorized legal channels by March 21, 2025.\"}, {\"title\": \"Complete access recovery intake\", \"text\": \"Access recovery request\\n\\nClient name: Anika Meadowbobbin\\nAffected portal or institution: Velvet Acorn Custody joint taxable account\\nUser ID or known login email: [________________]\\nIssue type: [________________]\\nBest callback number: [________________]\\nAuthorized contact to assist, if any: Tobin Mossbutton of Silver Marmot Legal\\nPreferred verification method: [________________]\\nLast successful access date or approximate period: [________________]\\nDocuments or screenshots received: [________________]\\nSecurity notes or restrictions: Verification prompts send to Reid’s phone and prevent Anika from downloading statements.\\nNext action required: [________________]\", \"priority\": \"high\", \"dueDate\": \"2025-03-10\", \"assigneeId\": null, \"templateId\": \"f0f9ebd4-5e82-546c-980c-d68e810d2f63\", \"subTasks\": [], \"evidence\": \"access recovery was agreed by March 10, 2025.\"}]}",
+   "usage": {
+    "input_tokens": 1541,
+    "output_tokens": 844,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

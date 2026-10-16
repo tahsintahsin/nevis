@@ -1,0 +1,125 @@
+{
+  "meetingId": "586",
+  "tickets": [
+    {
+      "templateId": "08361f27-bfef-5da9-85f9-5136b2a38dcc",
+      "title": "Prepare liquidity planning analysis",
+      "text": "Review expected cash needs, emergency reserve targets, recurring income sources, upcoming distributions, and potential funding sources. Summarize recommended cash cushion, any portfolio trades needed to raise cash, tax considerations, and questions for the lead advisor before client discussion. Address the gap for Mira Willowdoodle and Arlen Copperwisp, whose wedding and travel costs (~$24,000), Mira's remaining Denver apartment rent ($1,850/month through 2024-05-31), and combined monthly spending (~$9,600) left the household below Mira's stated six-month cash reserve preference.",
+      "priority": "medium",
+      "dueDate": "2024-03-18",
+      "assigneeId": "04250424-b280-5443-9318-1c2f184393c9",
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-18 is to address the cash reserve and remaining lease impact."
+    },
+    {
+      "templateId": "5738ede4-fc73-570d-9d4a-a39e4eb4d6c8",
+      "title": "Collect address and residency update details",
+      "text": "Use this form to collect updated household information.\n\nClient name: Mira Willowdoodle and Arlen Copperwisp\nEffective date of change: 2024-02-01\nPrior mailing address: [PRIOR MAILING ADDRESS]\nNew mailing address: [NEW MAILING ADDRESS]\nNew physical residence address, if different: [PHYSICAL ADDRESS]\nPrimary phone: [PHONE]\nEmail address: [EMAIL]\nState of legal residence before change: [PRIOR STATE]\nState of legal residence after change: [NEW STATE]\nResidency change reason: MOVE\nExpected time in each state during the year: [DETAILS]\nAccounts, policies, or plans needing address update: [LIST]\nProfessional contacts to notify, if any: [CPA / ATTORNEY / OTHER]\nSupporting documentation received: NEEDED\nNotes or follow-up questions: [NOTES]",
+      "priority": "medium",
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-06 is to update the household profile and address records."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain marriage certificate evidence",
+      "text": "Obtain a certified or scanned copy of the marriage certificate for Mira Willowdoodle and Arlen Copperwisp from their 2024-01-27 marriage; the custodian and insurance carriers may require it for account registration, beneficiary, and name-related records.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-02-28 to obtain marriage certificate evidence."
+    },
+    {
+      "templateId": null,
+      "title": "Provide taxable account registration options",
+      "text": "Prepare paperwork and a plain-language comparison for Mira Willowdoodle on keeping her Velvet Acorn Custody taxable account (~$415,000 as of 2024-02-20) individually titled versus opening a new joint account for future household savings.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-01 is to provide the taxable account registration options."
+    },
+    {
+      "templateId": null,
+      "title": "Address online access for spouse",
+      "text": "Review and address whether Arlen Copperwisp can receive view-only access to the household dashboard without giving him trading authority over Mira Willowdoodle's individual IRA and taxable accounts at Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-29 is to address online access for a spouse and household view."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve beneficiary record inconsistencies",
+      "text": "Reconcile inconsistent post-marriage beneficiary records across Mira Willowdoodle's IRA at Velvet Acorn Custody (still naming Tobin Willowdoodle and Iris Willowdoodle) and Arlen Copperwisp's Paper Otter Preparatory 403(b) (no primary beneficiary displayed).",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-03-08 on beneficiary record inconsistencies."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian beneficiary update error",
+      "text": "Address the Velvet Acorn Custody website error Mira Willowdoodle encountered when trying to add Arlen Copperwisp as a contingent beneficiary; the failed session did not produce a confirmation number.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-27 is to address the custodian beneficiary update error."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer benefit elections",
+      "text": "Review medical, life, and disability coverage choices for Mira Willowdoodle and Arlen Copperwisp's combined household, including Mira's Clockwork Clover Robotics newlywed enrollment window and Arlen's Paper Otter Preparatory benefit-change process.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-05 is to review employer benefit elections."
+    },
+    {
+      "templateId": null,
+      "title": "Align life and disability coverage",
+      "text": "Reconcile beneficiary records and replacement-income assumptions across Mira Willowdoodle's $750,000 Amber Teapot Insurance term policy, her Clockwork Clover Robotics group life (2x salary), Arlen Copperwisp's $500,000 Pocket Lantern Insurance term policy, and Arlen's Paper Otter Preparatory employer coverage.",
+      "priority": null,
+      "dueDate": "2024-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-03-14 on life and disability coverage alignment."
+    },
+    {
+      "templateId": "8f09a5a6-7496-50a3-906b-2e2d49077496",
+      "title": "Request estate document collection",
+      "text": "Ask Mira Willowdoodle and Arlen Copperwisp to provide current estate documents, including wills, trusts, powers of attorney, health care directives, and any recent amendment pages, so the advisory team can update planning records. Mira signed a will and financial power of attorney in 2018 before the marriage; Arlen signed a will in 2016 after Pippa was born.",
+      "priority": "medium",
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-12 is to collect estate document copies and any amendment pages."
+    },
+    {
+      "templateId": null,
+      "title": "Review mortgage and property records",
+      "text": "Obtain and review the current mortgage statement, deed vesting page, and homeowner policy declarations for Arlen Copperwisp's Lakewood townhouse (~$710,000 estimated value, ~$378,000 mortgage balance at Silver Marmot Mortgage, 4.125% fixed).",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2024-03-15 for the mortgage and property record review based on those missing property records."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare joint tax withholding projection",
+      "text": "Prepare a coordinated 2024 withholding and estimated-tax projection for Mira Willowdoodle and Arlen Copperwisp to share with Celia Fablethimble of Apricot Compass Tax, accounting for combined salaries, bonuses, investment income, and Mira's $42,000 capital loss carryforward from 2022.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-04-05 is to prepare the joint tax withholding projection."
+    }
+  ]
+}

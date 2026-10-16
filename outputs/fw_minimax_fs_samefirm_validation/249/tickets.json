@@ -1,0 +1,133 @@
+{
+  "meetingId": "249",
+  "tickets": [
+    {
+      "templateId": "66fed350-3026-56df-8986-b346229854a4",
+      "title": "Follow up on missing signature",
+      "text": "Request the missing signature or initials needed to complete the pending document. Include where to sign, how to return it, and that processing cannot continue until the signed item is received. Obtain Elias Copperwisp’s trustee-capacity signature on the Paper Otter Custody authorization for the taxable-account transfer to Velvet Acorn Custody; the delivering custodian will not process the transfer while the trustee-capacity signature block is blank.",
+      "priority": "medium",
+      "dueDate": "2025-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the trustee-capacity signature issue by November 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Paper Otter Stable Income Fund transfer exception",
+      "text": "Resolve the Paper Otter Stable Income Fund transfer exception in Elias Copperwisp’s Paper Otter Custody traditional IRA (about $82,000) ahead of the move to Velvet Acorn Custody. The fund is marked proprietary and unavailable for in-kind transfer, so choose among liquidation, exchange into a transferable alternative, or leaving the position behind, and document the decision for the transfer file.",
+      "priority": null,
+      "dueDate": "2025-11-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve how to handle that position by November 18, 2025."
+    },
+    {
+      "templateId": "63cb44b5-8781-5ade-9a4e-c679b0c71e9b",
+      "title": "Review concentrated position",
+      "text": "Review the concentrated Moonbadger Automation position in Elias and Lena Copperwisp’s taxable account being transferred from Paper Otter Custody to Velvet Acorn Custody. The position is about $385,000 of Moonbadger Automation shares inside a roughly $1.32 million Paper Otter taxable account, carries a low reported cost basis, and Elias is concerned about reducing exposure during a high-income tax year (2025 joint taxable income projected at about $310,000 by CPA Talia Bramblequill). Document exposure size, tax cost of trimming, and recommended actions for advisor discussion.",
+      "priority": null,
+      "dueDate": "2025-11-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is a review by November 26, 2025."
+    },
+    {
+      "templateId": "ff8d314a-e518-5679-a0ed-d2f0dbdf5214",
+      "title": "Prepare retirement income plan",
+      "text": "Create a retirement income plan that identifies expected spending needs, reliable income sources, portfolio withdrawal strategy, tax considerations, reserve targets, and implementation actions. Use current client data and clearly note assumptions, risks, and follow-up items. Build the plan for Elias and Lena Copperwisp around Elias leaving full-time work at Clockwork Clover Design in mid-2027 and Lena reducing freelance grant work around 2030, using $11,800 monthly household spending, Social Security estimates of about $3,050 (Elias) and $2,100 (Lena) at full retirement age, the assets transferring into Velvet Acorn Custody, the $1.08 million Clockwork Clover Design 401(k), and a roughly nine-month cash reserve preference during the transition.",
+      "priority": "high",
+      "dueDate": "2025-12-05",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather income and spending inputs",
+          "text": "Collect current spending estimates, Social Security assumptions, pension details, required distributions, cash reserves, and known one-time expenses. Note any missing items for client follow-up. Include Elias’s $215,000 base salary and ~$30,000 expected bonus at Clockwork Clover Design, Lena’s $45,000–$60,000 freelance grant-editor income, the $3,420 monthly Teacup Comet Bank mortgage payment, and the ~$96,000 combined Teacup Comet Bank cash balance.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Model withdrawal and tax-aware sequencing",
+          "text": "Compare sustainable withdrawal options, account sequencing, Roth conversion considerations, and taxable income impacts. Document planning assumptions and sensitivity points. Reflect the 2025 joint taxable income projection of about $310,000 from CPA Talia Bramblequill and the timing of Elias’s mid-2027 employment exit and Lena’s 2030 freelance wind-down.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Align portfolio and cash reserve strategy",
+          "text": "Review allocation, liquidity needs, near-term distribution sources, and risk exposure. Identify trades, cash raises, or rebalancing actions needed to support the income plan. Honor Elias’s preference for roughly nine months of regular spending in cash during the account transition and address the concentrated Moonbadger Automation position and the Paper Otter Stable Income Fund treatment.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare client summary and implementation list",
+          "text": "Draft a plain-language summary with recommended distribution approach, monitoring cadence, open questions, and action items for advisor review. Note the separate $410,000 Silver Marmot Custody IRA held by Lena that remains outside the initial Pocket Lantern Advisory relationship.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "The agreed follow-up is to prepare that model by December 5, 2025."
+    },
+    {
+      "templateId": "c7ea0543-d05c-5e0e-b99e-a04c45e3092c",
+      "title": "Collect beneficiary update details",
+      "text": "Use this form to document requested beneficiary changes before submitting forms or custodian instructions. Capture Elias Copperwisp’s request that the newly opened Velvet Acorn Custody traditional IRA and Roth IRA mirror his estate plan, with Lena Copperwisp as primary beneficiary and the two adult children as equal contingent beneficiaries.\n\nAccount or policy type: Traditional IRA and Roth IRA\nCustodian, insurer, or plan provider: Velvet Acorn Custody\nRegistration or ownership type: Elias Copperwisp individual\nPrimary beneficiary name(s): Lena Copperwisp\nPrimary beneficiary relationship(s): Spouse\nPrimary beneficiary percentage(s): [____________]\nContingent beneficiary name(s): Adult children (equal)\nContingent beneficiary relationship(s): Children\nContingent beneficiary percentage(s): Equal split between the two adult children\nPer stirpes or special designation requested: [____________]\nTrust or entity beneficiary details, if applicable: 2021 revocable trust signed by Elias and Lena Copperwisp\nClient confirmation received by: [____________]\nOpen questions or documents needed: [____________]",
+      "priority": null,
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those designations by November 14, 2025."
+    },
+    {
+      "templateId": "e6804e7e-1240-5af9-80c4-0c91f867fcce",
+      "title": "Follow up on account security item",
+      "text": "Contact the client or relevant platform support team to confirm the account security concern, document the requested protection steps, and verify whether any temporary holds, password resets, trusted contact updates, or multi-factor authentication changes are needed. Record all actions taken and unresolved risks. Address Elias Copperwisp’s unprompted Paper Otter Custody login verification message received on his phone while he was authorizing transfer access, and confirm whether the old Paper Otter profile should be locked down after the transfer to Velvet Acorn Custody is processed.",
+      "priority": "high",
+      "dueDate": "2025-11-10",
+      "assigneeId": "03561d4e-db1e-52cd-aa97-332d8eff33ee",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that access question by November 10, 2025."
+    },
+    {
+      "templateId": "d41d5f0c-618a-548f-923d-9e55f8a2b021",
+      "title": "Coordinate charitable transfer",
+      "text": "Coordinate the charitable transfer request, ensuring the receiving charity information, asset source, tax documentation needs, and completion confirmation are handled through appropriate handoffs. Handle Elias Copperwisp’s potential gift of appreciated Moonbadger Automation shares from the taxable account to Whistling Pebble Literacy Fund, with the charity requesting receipt during the current 2025 tax year.",
+      "priority": "medium",
+      "dueDate": "2025-12-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm charitable transfer intent and recipient details",
+          "text": "Confirm the gift purpose, asset or cash source, approximate amount or shares, receiving charity legal name, delivery instructions, and whether the client needs recognition preferences documented. Confirm Whistling Pebble Literacy Fund as recipient, the Moonbadger Automation shares (about $385,000 position, low cost basis) as the asset source from the Paper Otter Custody / Velvet Acorn Custody taxable account, and the 2025 tax-year delivery window.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "03561d4e-db1e-52cd-aa97-332d8eff33ee"
+        },
+        {
+          "title": "Prepare transfer instructions for review",
+          "text": "Draft the transfer instructions, identify custodian or charity form requirements, and verify whether cost basis, lot selection, qualified charitable distribution treatment, or donor-advised fund routing applies. Address the still-pending cost basis feed for the Moonbadger Automation shares so the gift instructions carry accurate lot-level data.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Submit and monitor transfer status",
+          "text": "After approval and signatures are complete, submit through the approved channel and track custodian or charity confirmation until assets or funds are received.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Document confirmation and tax records",
+          "text": "Save confirmation, receipt, acknowledgement letter, and any relevant tax-reporting notes to the client file. Flag missing receipts or discrepancies for advisor review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "03561d4e-db1e-52cd-aa97-332d8eff33ee"
+        }
+      ],
+      "evidence": "The agreed follow-up is to address the potential gift by December 10, 2025."
+    }
+  ]
+}

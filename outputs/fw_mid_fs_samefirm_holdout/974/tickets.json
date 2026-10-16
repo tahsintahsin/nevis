@@ -1,0 +1,75 @@
+{
+  "meetingId": "974",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Moonbadger Custody beneficiary claim paperwork",
+      "text": "Help Lydia Cloudpuddle organize the beneficiary claim paperwork for Harold’s traditional IRA at Moonbadger Custody. This includes inherited account opening requirements, beneficiary percentage confirmation for Lydia (60%) and Marcus Cloudpuddle (40%), and tax withholding election language before she signs any forms.",
+      "priority": null,
+      "dueDate": "2025-02-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia asked Apricot Compass Advisory to help organize the Moonbadger Custody beneficiary claim paperwork for Harold’s traditional IRA, including inherited account opening requirements, beneficiary percentage confirmation for Lydia and Marcus, and tax withholding election language before she signs an"
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Teacup Comet Bank account ownership evidence",
+      "text": "Assemble the available bank statement, older memo, and title evidence for the Teacup Comet Bank checking account associated with Harold. The account is listed in the estate binder but an older memo describes it as joint with rights of survivorship; provide this evidence to Sylvie Willowdoodle of Amber Teapot Law for review by January 31, 2025.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the estate binder lists the checking account with Harold’s materials, but an older memo describes the same account as joint with rights of survivorship; the agreed follow-up is to assemble the available bank statement, memo, and title evidence for Sylvie to review by January 31, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain certified executor authority documents",
+      "text": "Obtain certified death certificates and letters confirming Lydia’s executor authority. Moonbadger Custody and Teacup Comet Bank each requested certified documentation before discussing Harold’s accounts with Lydia. These documents are needed by February 5, 2025.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Moonbadger Custody and Teacup Comet Bank each requested certified documentation before discussing Harold’s accounts with Lydia, and the meeting file did not yet contain certified death certificates or letters confirming Lydia’s executor authority; certified authority documents are needed by February"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare date-of-death value schedules for attorney and tax reference",
+      "text": "Prepare date-of-death values for Harold’s Moonbadger Custody taxable brokerage account ($1.18 million), a copy of the residence price opinion ($640,000 preliminary broker price opinion for 44 Lark Way), and a separately labeled beneficiary IRA value schedule. These should be prepared as separate packets for probate asset valuation support and beneficiary-designated account information by February 14, 2025.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Sylvie requested a packet separating probate asset valuation support from beneficiary-designated account information; the agreed follow-up is to prepare date-of-death values for the Moonbadger taxable account, a copy of the residence price opinion, and a separately labeled beneficiary IRA value sche"
+    },
+    {
+      "templateId": null,
+      "title": "Escalate Moonbadger Custody portal access issue",
+      "text": "Escalate the Moonbadger Custody portal access issue through the custodian service channel using Lydia’s executor contact information. The portal activation link was sent to Harold’s inactive email address and Moonbadger Custody would not reset it through Lydia’s personal login.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia reported that the estate portal activation link was sent to Harold’s inactive email address and that Moonbadger Custody would not reset it through her personal login; the agreed follow-up is to escalate the access issue through the custodian service channel using Lydia’s executor contact infor"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare issue list for estate document review",
+      "text": "Prepare a short issue list for Lydia Cloudpuddle to discuss with Sylvie Willowdoodle of Amber Teapot Law regarding Harold still appearing in a successor fiduciary role in Lydia and Owen’s estate document summary. This follow-up is for a discussion by February 21, 2025.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "During the document review, Mira noted that Harold still appears in a successor fiduciary role in Lydia and Owen’s estate document summary; the agreed follow-up is to prepare a short issue list for Lydia to discuss with Amber Teapot Law by February 21, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Model revised retirement and education funding plan",
+      "text": "Model a revised financial plan using the expected beneficiary IRA share, current household spending of about $14,500 per month, mortgage balance of $413,000, and existing investment accounts. Evaluate the impact on Lydia’s target retirement age and her comfort with funding Rowan and Elin Cloudpuddle’s education from household cash flow.",
+      "priority": null,
+      "dueDate": "2025-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia said the inheritance may change her target retirement age and her comfort with funding Rowan and Elin’s education from household cash flow; the agreed follow-up is to model a revised plan using the expected beneficiary IRA share, current household spending, mortgage balance, and existing inves"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "meetingId": "848",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare adjustable-rate mortgage refinance analysis",
+      "text": "Prepare the adjustable-rate mortgage refinance analysis for Dorian and Lena Pebblefizz using the current Teacup Comet Bank first mortgage balance of $512,400, the estimated post-reset rate near 7.375% with a projected payment increase of about $1,080 per month, the closing-cost estimate, and the household's monthly cash-flow gap. The first mortgage rate is scheduled to reset in May 2024.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that adjustable-rate mortgage refinance analysis by February 23, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain mortgage reset notice and loan documents",
+      "text": "Obtain the Teacup Comet Bank mortgage reset notice, the current January 2024 loan statement, and the original adjustable-rate note for Dorian and Lena Pebblefizz. Verify the rate cap language, index, margin, escrow amount, and timing before the refinance analysis is finalized.",
+      "priority": null,
+      "dueDate": "2024-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain those reset notice and loan documents by February 20, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare mortgage modification and refinance quotes",
+      "text": "Prepare a side-by-side comparison for Dorian and Lena Pebblefizz of the Teacup Comet Bank modification quote with at least two outside refinance estimates. Include payment, points, estimated cash to close, and treatment of escrow for each option.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the lender quote comparison by March 1, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare written information request to Teacup Comet Bank",
+      "text": "Prepare a concise written information request to Teacup Comet Bank for Dorian and Lena Pebblefizz requesting the promised written modification estimate after Dorian was transferred between departments twice. Reference the first mortgage reset scheduled for May 2024 and the need for the modification terms before the refinance analysis is finalized.",
+      "priority": null,
+      "dueDate": "2024-02-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare a concise information request for the servicer by February 19, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile mortgage escrow discrepancy",
+      "text": "Reconcile the differing escrow amounts between the Teacup Comet Bank reset notice and the online mortgage portal for Dorian and Lena Pebblefizz before relying on the projected post-reset payment. Confirm the correct escrow figure for the refinance analysis.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the mortgage escrow discrepancy check by February 23, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Verify recent income and pay statements",
+      "text": "Verify recent household income and obtain the most recent Moonbadger Systems pay statement for Dorian Pebblefizz and the Paper Otter Health Cooperative pay statement for Lena Pebblefizz. These documents are required for the refinance package.",
+      "priority": null,
+      "dueDate": "2024-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to verify recent income and pay statements by February 21, 2024."
+    },
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update the household profile for Dorian and Lena Pebblefizz with current employment, income, dependent, and family support details. Reflect Lena's move to a four-day workweek at Paper Otter Health Cooperative in January 2024, Dorian's $178,000 base salary and $24,000 prior-year bonus at Moonbadger Systems, the two children ages 14 and 11, and the $600 per month contribution toward Alina Pebblefizz's assisted living costs.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to refresh the household profile with current employment, income, dependent, and family support details by February 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare home equity line of credit payoff options",
+      "text": "Compare three options for the Teacup Comet Bank home equity line of credit for Dorian and Lena Pebblefizz: keep it separate, roll it into the refinance, or use a scheduled principal repayment plan. The current balance is $74,800 at a variable 8.9% rate with interest-only payments of about $555 per month, and the draw period ends in November 2025.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare keeping it separate, rolling it into a refinance, or using a scheduled principal repayment plan by February 28, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare credit card payoff sequence",
+      "text": "Prepare a payoff order for the three credit cards held by Dorian and Lena Pebblefizz showing interest cost, minimum-payment requirements, and the effect of applying the $900 per month reduced travel and dining spending to the highest-rate card first. The largest balance is $12,900 on a Teacup Comet Bank rewards card at 23.4%, with the other two cards at 19.9% and 21.8%, and combined balances of $22,700.",
+      "priority": null,
+      "dueDate": "2024-02-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the credit card payoff sequence by February 22, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile credit report balance discrepancy",
+      "text": "Reconcile the credit card balance that is about $2,100 higher on the lender's credit report than the current online balance for Dorian and Lena Pebblefizz. Check the refinance debt-to-income inputs against updated statements before finalizing the application.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that credit report balance reconciliation by February 27, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare temporary cash-flow triage budget",
+      "text": "Prepare a temporary cash-flow triage budget for Dorian and Lena Pebblefizz identifying spending reductions, debt-payment targets, and a minimum cash reserve guardrail. Incorporate the $30,000 minimum cash level at Velvet Acorn Custody, the possible $900 per month reduction in discretionary travel and dining, the average net pay of about $13,900 per month, and recurring spending averaging about $15,150 per month.",
+      "priority": null,
+      "dueDate": "2024-02-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a temporary cash-flow triage budget by February 26, 2024"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare bonus and RSU allocation plan",
+      "text": "Prepare a written allocation framework for Dorian Pebblefizz's next Moonbadger Systems bonus and the upcoming restricted stock unit vesting (estimated pre-tax value about $18,500). Balance tax withholding, credit card payoff, cash reserve protection, and possible refinance closing costs.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the bonus and restricted stock unit allocation plan by March 8, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Model upcoming equity income for tax adjustments",
+      "text": "Model the upcoming Moonbadger Systems restricted stock unit vesting for Dorian and Lena Pebblefizz for possible estimated tax or withholding adjustments. Address Dorian's concern that RSU withholding may be below the household's marginal tax rate and that withholding will cover less tax than that rate.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to model the upcoming equity income for possible estimated tax or withholding adjustments by March 15, 2024."
+    },
+    {
+      "templateId": "6e82ee3b-ba82-5d59-b208-ef1c302e4e48",
+      "title": "Document policy renewal follow-up details",
+      "text": "Complete policy renewal follow-up using the placeholders below:\n\nPolicy type: Homeowners insurance\nCarrier or policy provider: Amber Teapot Mutual\nPolicy identifier reference: [internal reference only]\nRenewal period: [renewal period]\nPremium change or notable cost update: Increased from $2,480 to $3,190 annually\nCoverage changes to review: Coverage pages and deductible options to confirm\nBeneficiary or owner details to confirm: [items to confirm]\nClient questions or concerns: Whether the Teacup Comet Bank mortgage escrow projection reflects the new premium\nDocuments requested or received: [documents]\nRecommended next action: [next action]\nAdvisor review needed: [yes/no and reason]\nFollow-up communication channel: [email/phone/meeting/portal]\nCompletion notes: [notes]\n\nReview the homeowners insurance renewal for Dorian and Lena Pebblefizz, including coverage pages, deductible options, and whether the Teacup Comet Bank mortgage escrow projection reflects the new $3,190 annual premium.",
+      "priority": "medium",
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the insurance premium pressure review by March 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete estate document relevance check",
+      "text": "Complete a relevance check of beneficiary designations and estate-document topics for Dorian and Lena Pebblefizz to raise with an attorney. Note that the 2016 wills name Marcus Pebblefizz as successor guardian for the children, do not mention Alina Pebblefizz, and predate the current debt situation.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the estate document relevance check by March 12, 2024."
+    }
+  ]
+}

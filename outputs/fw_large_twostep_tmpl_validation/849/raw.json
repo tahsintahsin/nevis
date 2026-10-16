@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"849\",\n\"followups\": [\n{\n\"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate.\",\n\"action\": \"Record Lena as a dependent in the household profile.\",\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\"\n},\n{\n\"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate.\",\n\"action\": \"Update the childcare and medical cash flow projections.\",\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\"\n},\n{\n\"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate.\",\n\"action\": \"Capture Nadia’s revised parental‑leave income estimate.\",\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\"\n},\n{\n\"evidence\": \"By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian.\",\n\"action\": \"Provide the family‑attorney checklist to the clients.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete.\",\n\"action\": \"Obtain Owen’s individual term policy declaration page.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete.\",\n\"action\": \"Obtain disability details for both spouses.\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2025,
+    "output_tokens": 1503,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 789
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"849\",\n\"tickets\": [\n{\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\",\n\"title\": \"Update household profile\",\n\"text\": \"Record Lena Pebblefizz as a dependent in the household profile for Nadia and Owen Pebblefizz, reflecting her birth on 2025-01-12.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-14\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate.\"\n},\n{\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\",\n\"title\": \"Update household profile\",\n\"text\": \"Update the childcare and medical cash flow projections for Nadia and Owen Pebblefizz to incorporate expenses for their daughter Lena Pebblefizz.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-14\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate.\"\n},\n{\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\",\n\"title\": \"Update household profile\",\n\"text\": \"Capture Nadia Pebblefizz's revised parental‑leave income estimate for Cloudberry Kite Robotics in the household profile, adjusting the projected cash flow accordingly.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-14\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Provide family attorney checklist to clients\",\n\"text\": \"Provide the family‑attorney checklist to Nadia and Owen Pebblefizz, noting that the 2021 will and healthcare documents predate their daughter Lena and do not name a guardian.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-21\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain Owen's individual term policy page\",\n\"text\": \"Obtain Owen Pebblefizz's individual term policy declaration page, as required for completing the household protection review.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain disability details for spouses\",\n\"text\": \"Obtain disability insurance details for Nadia Pebblefizz and Owen Pebblefizz to complete the protection review.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3652,
+    "output_tokens": 2629,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 140
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+# Experiment grid: every experiment idea we discussed, in one place.
+#
+#   python -m nevis.grid --list                                   # show the experiments this file expands to
+#   python -m nevis.grid --write                                  # write them to configs/generated/<name>.yaml
+#   python -m nevis.grid --run --split validation --judge         # write + run + score + log all of them (costs money!)
+#   python -m nevis.grid --run --only fw_mid fw_large ...   # just some of them
+#
+# Each experiment = `base` + its own overrides. Every key is a key of nevis/run.py DEFAULTS
+# (provider, model, deployment, deployment_id, prompt, pipeline, few_shot, few_shot_k, structured_output,
+#  temperature, max_tokens, extra_body, concurrency, notes, ...). Results go to outputs/<name>_<split>,
+# scores/<name>_<split>, and one row each in experiments.csv / EXPERIMENTS.md; `nevis.sweep --report-only`
+# then draws the trade-off (FRONTIER.md / frontier.png).
+#
+# Rules: compare on VALIDATION; read individual errors only on TUNE; HOLD-OUT only for the final 1-3 configs.
+
+base:
+  provider: fireworks
+  deployment: serverless
+  prompt: main                     # the system prompt (nevis/prompt.py SYSTEM)
+  pipeline: single
+  few_shot: none
+  structured_output: json_schema   # falls back to json_object + tolerant parsing if the model rejects the schema
+  temperature: 0.0
+  max_tokens: 32000
+  concurrency: 8
+
+# Model ids and prices: nevis/runmeta.py PRICES (source: docs.fireworks.ai/serverless/pricing, checked 2026-10-14).
+# Reasoning per model (probe on 2 tune meetings, 2026-10-14): Lightning thinks past 32k tokens unless reasoning is OFF;
+# MiniMax answers "no tickets" unless reasoning is at least LOW; gpt-oss and DeepSeek work with their default.
+models:
+  mid: accounts/fireworks/models/nemotron-lightning-3p5-30b-a3b        # 30B MoE, 3B active, cheapest   ($0.05 / $0.20)
+  large: accounts/fireworks/models/gpt-oss-120b                        # 117B MoE, 5B active           ($0.15 / $0.60)
+  deepseek: accounts/fireworks/models/deepseek-v4p1-flash              # 552B MoE                      ($0.30 / $1.20)
+  minimax: accounts/fireworks/models/minimax-m3                        # 428B MoE                      ($0.30 / $1.20)
+  ultra: accounts/fireworks/models/nemotron-3-ultra-nvfp4              # 550B MoE, 55B active          ($0.60 / $2.40)
+  # skipped for now: GLM 5.3 Flash (slow: 105 s / 20k tokens on a 12-ticket meeting).
+  # Expensive, only after the initial tests (incl. fine-tuning):
+  glm_big: accounts/fireworks/models/glm-5p3                           # 743B MoE                      ($1.40 / $4.40)
+  qwen_max: accounts/fireworks/models/qwen3p8-max                      # 2.4T MoE, 95B active          ($2.00 / $6.00)
+  kimi: accounts/fireworks/models/kimi-k3                              # 2.8T MoE                      ($3.00 / $15.00)
+
+experiments:
+  # ---- 1. model size / family (same prompt, zero-shot, one call) -> the main trade-off curve
+  - {name: fw_mid,      model: mid,      extra_body: {reasoning_effort: none}, notes: "size axis: cheapest (reasoning off)"}
+  - {name: fw_large,    model: large,    notes: "size axis"}
+  - {name: fw_deepseek, model: deepseek, notes: "family axis"}
+  - {name: fw_minimax,  model: minimax,  extra_body: {reasoning_effort: low}, notes: "family axis (reasoning low)"}
+  - {name: fw_ultra,    model: ultra,    notes: "size axis: same family as fw_mid, 18x the active parameters"}
+  - {name: fw_glm_big,  model: glm_big,  extra_body: {reasoning_effort: low}, notes: "expensive tier (reasoning low: default runs past 32k tokens)"}
+  - {name: fw_qwen_max, model: qwen_max, enabled: false, notes: "expensive: after the initial tests"}
+  - {name: fw_kimi,     model: kimi,     enabled: false, notes: "expensive: after the initial tests"}
+
+  # ---- 2. few-shot examples (always from TUNE meetings; same_firm falls back to global)
+  - {name: fw_mid_fs_global,   model: mid, extra_body: {reasoning_effort: none},   few_shot: global,    few_shot_k: 2, notes: "few-shot axis"}
+  - {name: fw_mid_fs_samefirm, model: mid, extra_body: {reasoning_effort: none},   few_shot: same_firm, few_shot_k: 2, notes: "few-shot axis"}
+  - {name: fw_mid_fs_samefirm_k4, model: mid, extra_body: {reasoning_effort: none}, few_shot: same_firm, few_shot_k: 4, notes: "few-shot axis: more examples"}
+  - {name: fw_mid_fs_global_k4,   model: mid, extra_body: {reasoning_effort: none}, few_shot: global,    few_shot_k: 4, notes: "few-shot axis: more examples"}
+  - {name: fw_large_fs_samefirm, model: large, few_shot: same_firm, few_shot_k: 2, notes: "few-shot axis"}
+  - {name: fw_minimax_fs_samefirm, model: minimax, extra_body: {reasoning_effort: low}, few_shot: same_firm, few_shot_k: 2, notes: "few-shot axis"}
+
+  # ---- 3. pipeline shape: one call vs two steps (1: find follow-ups, 2: write tickets)
+  #         two_step: step 1 = quote + action, step 2 picks the template; two_step_tmpl: step 1 also picks the template
+  - {name: fw_large_twostep,      model: large, prompt: two_step,      pipeline: two_step, notes: "shape axis"}
+  - {name: fw_mid_twostep,        model: mid, extra_body: {reasoning_effort: none},   prompt: two_step,      pipeline: two_step, notes: "shape axis"}
+  - {name: fw_large_twostep_tmpl, model: large, prompt: two_step_tmpl, pipeline: two_step, notes: "shape axis: step 1 picks the template"}
+  - {name: fw_mid_twostep_tmpl,   model: mid, extra_body: {reasoning_effort: none},   prompt: two_step_tmpl, pipeline: two_step, notes: "shape axis: step 1 picks the template"}
+  - {name: fw_minimax_twostep,      model: minimax, extra_body: {reasoning_effort: low}, prompt: two_step,      pipeline: two_step, notes: "shape axis"}
+  - {name: fw_minimax_twostep_tmpl, model: minimax, extra_body: {reasoning_effort: low}, prompt: two_step_tmpl, pipeline: two_step, notes: "shape axis: step 1 picks the template"}
+
+  # ---- 4. reasoning effort (gpt-oss supports reasoning_effort; more thinking = slower, dearer)
+  - {name: fw_large_reason_low,  model: large, extra_body: {reasoning_effort: low},  notes: "reasoning axis"}
+  - {name: fw_large_reason_high, model: large, extra_body: {reasoning_effort: high}, notes: "reasoning axis"}
+
+  # ---- 5. output format robustness
+  - {name: fw_mid_jsonobj, model: mid, extra_body: {reasoning_effort: none}, structured_output: json_object, notes: "format axis: no schema, tolerant parser"}
+
+  # ---- 6. serverless vs dedicated (fill in a real deployment id first; cost = GPU-hours)
+  - {name: fw_large_dedicated, model: large, deployment: dedicated, deployment_id: "accounts/<YOUR_ACCOUNT>/deployments/<ID>",
+     gpu_type: H100, gpu_hour_usd: 8.0, gpu_count: 1, enabled: false, notes: "deployment axis (needs a deployment)"}
+
+  # ---- 7. fine-tuned: placeholder so the axis is visible
+  - {name: fw_ft, model: "accounts/<YOUR_ACCOUNT>/models/<FINE_TUNED>", fine_tuned: true, deployment: dedicated,
+     deployment_id: "accounts/<YOUR_ACCOUNT>/deployments/<ID>", enabled: false, notes: "fine-tune axis"}
+
+  # ---- 9. output budget: the same configs with 64k instead of 32k output tokens (re-runs only the meetings that were
+  #         cut off at 32k; the other meetings are copied from the 32k run, which is otherwise identical)
+  - {name: fw_deepseek_64k,         model: deepseek, max_tokens: 64000, notes: "32k cut off 6/80 meetings"}
+  - {name: fw_ultra_64k,            model: ultra,    max_tokens: 64000, notes: "32k cut off 6/80 meetings"}
+  - {name: fw_mid_64k,              model: mid, extra_body: {reasoning_effort: none}, max_tokens: 64000, notes: "32k cut off 2/80 meetings"}
+  - {name: fw_minimax_twostep_64k,  model: minimax, extra_body: {reasoning_effort: low}, prompt: two_step, pipeline: two_step, max_tokens: 64000, notes: "32k cut off 1/80 meetings"}
+  # ---- 10. output format on the cheap candidate
+  - {name: fw_large_jsonobj, model: large, structured_output: json_object, notes: "format axis: no schema, tolerant parser"}
+
+# Ideas discussed but not yet implemented as a config axis (need code first):
+#  - template-recall second pass ("for each freeform ticket, does a template fit?")

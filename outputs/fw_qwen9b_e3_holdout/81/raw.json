@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e3",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"81\", \"tickets\": [{\"title\": \"Update address-related advisory and custodian records\", \"text\": \"Update Lila and Rowan Copperwisp’s address-related advisory and custodian records to reflect their Seattle apartment lease beginning 2025-04-01.\", \"priority\": null, \"dueDate\": \"2025-04-04\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2025-04-04 to update address-related advisory and custodian records after the lease begins\"}, {\"title\": \"Obtain missing lease and Washington utility confirmation\", \"text\": \"Obtain the lease and Washington utility confirmation missing from the Copperwisp file.\", \"priority\": null, \"dueDate\": \"2025-04-09\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"by 2025-04-09 to obtain the lease and Washington utility confirmation missing from the file\"}, {\"title\": \"Review Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs\", \"text\": \"Review the Oregon municipal bond fund, Tin Sparrow Robotics concentration, and move-related cash needs for Lila and Rowan Copperwisp.\", \"priority\": null, \"dueDate\": \"2025-04-25\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"by 2025-04-25 to review the Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs.\"}]}",
+   "usage": {
+    "input_tokens": 2689,
+    "output_tokens": 369,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

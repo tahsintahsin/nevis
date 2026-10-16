@@ -1,0 +1,99 @@
+{
+  "meetingId": "869",
+  "tickets": [
+    {
+      "templateId": "367c4dff-ce56-5c23-898d-102c55a40595",
+      "title": "Open New Client Account",
+      "text": "Start intake for a new joint taxable account funded from excess cash reserve, collecting ownership and risk profile information before paperwork is prepared.",
+      "priority": "medium",
+      "dueDate": "2025-08-05",
+      "assigneeId": "7b1c238f-c077-58f3-abf7-cfef829c2abc",
+      "subTasks": [
+        {
+          "title": "Gather account opening details",
+          "text": "Collect required registration type, ownership details, beneficiary or authorized-party information if applicable, tax identification documentation status, risk profile, and intended funding source using firm-approved intake materials.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare and review application package",
+          "text": "Complete the custodian or platform forms, advisory agreement updates, fee schedule, disclosure delivery record, and any transfer or funding paperwork. Check for missing signatures, inconsistent names, and incomplete suitability information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "7b1c238f-c077-58f3-abf7-cfef829c2abc"
+        },
+        {
+          "title": "Coordinate signatures and submission",
+          "text": "Send the application package through the approved signature process, track completion, and submit to the custodian or operations platform after verifying all required fields are complete.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm account setup and funding readiness",
+          "text": "Verify that the account is established, document the account title and registration, confirm funding or transfer instructions are ready, and notify the advisor that the account is available for investment review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "They agreed by 2025-08-05 to start intake for a new joint taxable account funded from excess cash reserve, with ownership and risk profile information to be collected before paperwork is prepared."
+    },
+    {
+      "templateId": "652157be-e8e6-5f89-b001-6e15103f7c88",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Collect benefits enrollment information needed by 2025-08-09 because Nora reported the marriage is a qualifying event and the couple has not decided whether Caleb should move to Nora’s medical plan or keep separate coverage.",
+      "priority": "medium",
+      "dueDate": "2025-08-09",
+      "assigneeId": "7b1c238f-c077-58f3-abf7-cfef829c2abc",
+      "subTasks": [],
+      "evidence": "Employer benefit elections remain needed by 2025-08-09 because Nora reported the marriage is a qualifying event and the couple has not decided whether Caleb should move to Nora’s medical plan or keep separate coverage."
+    },
+    {
+      "templateId": "9f5b72ad-c715-5980-89f7-d13036f0aee0",
+      "title": "Start Inheritance Intake",
+      "text": "Document current household intentions before updating beneficiary and transfer-on-death forms, after a review found Nora’s IRA, 401(k), and taxable account records still list pre-marriage beneficiaries or no contingent beneficiary.",
+      "priority": "high",
+      "dueDate": "2025-08-15",
+      "assigneeId": "7b1c238f-c077-58f3-abf7-cfef829c2abc",
+      "subTasks": [
+        {
+          "title": "List expected inherited assets",
+          "text": "Identify asset categories such as taxable investment accounts, retirement accounts, real estate, life insurance, bank deposits, business interests, or personal property. Note which details remain unknown.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "7b1c238f-c077-58f3-abf7-cfef829c2abc"
+        },
+        {
+          "title": "Request estate documents securely",
+          "text": "Ask for relevant documents through the approved secure channel, such as a death certificate, will, trust excerpts, beneficiary forms, recent statements with sensitive numbers redacted, and executor or trustee contact information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "7b1c238f-c077-58f3-abf7-cfef829c2abc"
+        }
+      ],
+      "evidence": "They agreed by 2025-08-15 to document current household intentions before updating beneficiary and transfer-on-death forms, after a review found Nora’s IRA, 401(k), and taxable account records still list pre-marriage beneficiaries or no contingent beneficiary."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Proof of Marriage",
+      "text": "Obtain proof of marriage by 2025-08-01 because the custodian requires it for certain name and household registration updates, and Nora had not uploaded the certificate through the secure portal.",
+      "priority": "medium",
+      "dueDate": "2025-08-01",
+      "assigneeId": "7b1c238f-c077-58f3-abf7-cfef829c2abc",
+      "subTasks": [],
+      "evidence": "Proof of marriage remains needed by 2025-08-01 because the custodian requires it for certain name and household registration updates, and Nora had not uploaded the certificate through the secure portal."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh Monthly Cash Flow Worksheet",
+      "text": "Refresh the monthly cash flow worksheet using combined pay and the reserve target because Caleb’s student loan payment and the townhouse mortgage will now be considered in one household plan.",
+      "priority": "medium",
+      "dueDate": "2025-08-20",
+      "assigneeId": "7b1c238f-c077-58f3-abf7-cfef829c2abc",
+      "subTasks": [],
+      "evidence": "They agreed by 2025-08-20 to refresh the monthly cash flow worksheet using combined pay and the reserve target because Caleb’s student loan payment and the townhouse mortgage will now be considered in one household plan."
+    }
+  ]
+}

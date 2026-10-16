@@ -1,0 +1,65 @@
+{
+  "meetingId": "685",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare in-home aide coverage comparison",
+      "text": "Prepare a side-by-side comparison of in-home aide coverage, adult day programming, short respite stays, transportation, and likely out-of-pocket costs under several weekly care-hour levels for Harold and Lena Velvetreed.",
+      "priority": null,
+      "dueDate": "2026-01-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Harold asked for a side-by-side view of in-home aide coverage, adult day programming, short respite stays, transportation, and likely out-of-pocket costs under several weekly care-hour levels; the agreed follow-up is to prepare that comparison by 2026-01-20."
+    },
+    {
+      "templateId": null,
+      "title": "Build family caregiver coverage map",
+      "text": "Build a family caregiver coverage map for Harold and Lena Velvetreed, incorporating Sofia’s weekend overnight support, Martin’s remote medication management, Harold’s fatigue, and gaps during weekday evenings.",
+      "priority": null,
+      "dueDate": "2026-01-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena’s mobility limits changed the household routine, and the family described Sofia’s weekend availability, Martin’s remote medication role, Harold’s fatigue, and gaps during weekday evenings; the agreed follow-up is to build a family caregiver coverage map by 2026-01-16."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Silver Marmot Insurance claim-intake packet",
+      "text": "Prepare an organized packet of physician orders, care notes, aide agency estimates, invoices, and policy questions for Silver Marmot Insurance’s pending claim-intake appointment for Harold and Lena Velvetreed.",
+      "priority": null,
+      "dueDate": "2026-01-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Silver Marmot Insurance has a claim-intake appointment pending, and the family needs an organized packet of physician orders, care notes, aide agency estimates, invoices, and policy questions for that conversation; the agreed follow-up is to prepare the intake packet by 2026-01-12."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve aide shift minimum inconsistencies",
+      "text": "Resolve the aide shift minimum inconsistencies in the cost estimates. One agency quote described a four-hour minimum for daytime shifts, while Sofia’s call notes showed three-hour visits; align the assumptions for projected weekly care cost.",
+      "priority": null,
+      "dueDate": "2026-01-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "One agency quote described a four-hour minimum for daytime shifts, while Sofia’s call notes showed three-hour visits, creating inconsistent assumptions in the projected weekly care cost; the agreed follow-up is to resolve the aide shift minimums in the cost estimates by 2026-01-13."
+    },
+    {
+      "templateId": null,
+      "title": "Correct secure upload access for care records",
+      "text": "Correct secure upload access so that a separate upload stream is available for care records, health forms, and aide invoices tied to Lena Velvetreed’s claim file. Lena’s portal invitation currently opened under Harold’s login, preventing separate access.",
+      "priority": null,
+      "dueDate": "2026-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena’s portal invitation opened under Harold’s login, preventing a separate upload stream for care records, health forms, and aide invoices tied to Lena’s claim file; the agreed follow-up is to correct secure upload access by 2026-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Address policy benefit inflation assumptions",
+      "text": "Address the policy benefit inflation assumptions for Harold and Lena Velvetreed’s Silver Marmot Insurance long-term care policies. Mira’s review found that the two policies use different inflation rider language, which affects how the daily benefit maximums should be shown in the care-cost projections.",
+      "priority": null,
+      "dueDate": "2026-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review found that the two Silver Marmot Insurance policies use different inflation rider language, which affects how the daily benefit maximums should be shown in the care-cost projections; the agreed follow-up is to address the policy benefit inflation assumptions by 2026-01-23."
+    }
+  ]
+}

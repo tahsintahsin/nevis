@@ -1,0 +1,114 @@
+{
+  "meetingId": "751",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare revised cash-flow model for Maplesprocket household",
+      "text": "Prepare a revised short-term cash reserve and monthly surplus estimate for Corin and Malia Maplesprocket reflecting Malia's partially unpaid leave, the $2,250 monthly Cloudberry Kite Early Learning tuition for Isla, and upcoming payroll benefit changes, against the $9,400 pre-baby baseline and $68,000 Velvet Acorn Bank reserve.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed cash-flow model follow-up is dated 2024-02-23."
+    },
+    {
+      "templateId": "2ccf9a76-127a-5fd7-a758-93c290c2a211",
+      "title": "Review equity award position and planning choices",
+      "text": "Evaluate Corin Maplesprocket's current equity award inventory, plan rules, tax exposure, liquidity needs, and concentration risk. Collect the relevant plan documents and prepare planning notes that can support advisor recommendations and coordination with the client's tax professional. Reconcile Corin's personal spreadsheet against the Teacup Comet Robotics stock-plan portal, which showed 1,850 unvested RSUs and 420 vested shares, and address the differing treatment of unvested units and estimated tax withholding.",
+      "priority": "medium",
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect award and plan documents",
+          "text": "Request Corin Maplesprocket's current equity award statement, grant agreements, vesting schedule, Teacup Comet Robotics stock plan portal summary, exercise history, and any employer trading-window or blackout guidance.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Summarize tax and liquidity considerations",
+          "text": "Identify award types, vested versus unvested shares (1,850 unvested RSUs and 420 vested shares per the Teacup Comet Robotics stock-plan portal), exercise costs, estimated withholding, potential AMT exposure if applicable, sale restrictions, and expected cash needs tied to the decision.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare concentration and diversification notes",
+          "text": "Compare Corin's Teacup Comet Robotics stock exposure (including $46,000 of vested common stock in the joint brokerage at Velvet Acorn Custody) with the broader portfolio, identify single-stock concentration concerns, and outline staged sale or hedging discussion points to keep employer stock exposure below 15% of household investable assets over time.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Coordinate review questions for outside tax professional",
+          "text": "Draft questions for CPA Omar Cloudpuddle regarding withholding, estimated payments, AMT, state tax issues, and timing considerations before Corin acts.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed equity award record reconciliation follow-up is dated 2024-02-29."
+    },
+    {
+      "templateId": null,
+      "title": "Review life and disability insurance needs for Maplesprocket household",
+      "text": "Review Corin and Malia Maplesprocket's life and disability coverage against their survivor income, mortgage payoff, childcare, and education funding targets after adding Isla, covering Corin's $250,000 employer group life, $750,000 supplemental term, and 60% taxable LTD alongside Malia's $500,000 individual term and 50% employer LTD.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed life and disability insurance needs review follow-up is dated 2024-03-01."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate planning memo with Priya Lanternmoss",
+      "text": "Prepare a planning memo for estate attorney Priya Lanternmoss covering guardian nominees for Isla, backup trustee choices, beneficiary alignment, and whether the 2019 wills and powers of attorney (naming Jessa Maplesprocket as personal representative) still fit the Maplesprocket household.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed estate attorney coordination follow-up is dated 2024-03-08."
+    },
+    {
+      "templateId": "7ff3455b-9835-5e0d-a74c-bc2eb1f3d7e8",
+      "title": "Update household profile fields",
+      "text": "Refresh the household profile using the blanks below:\n\nPrimary client: Corin Maplesprocket\nCo-client or spouse/partner: Malia Maplesprocket\nPreferred household name: Maplesprocket household\nPrimary address: Portland, Oregon\nMailing address if different: [mailing address]\nPrimary phone: [phone]\nSecondary phone: [phone]\nPreferred email address: [email]\nEmployment status: Both employed\nEmployer or business name: Teacup Comet Robotics (Corin), Paper Otter School (Malia)\nDependents or household members to note: Isla Maplesprocket (daughter, born 2024-02-02)\nKey outside professionals: CPA Omar Cloudpuddle, estate attorney Priya Lanternmoss\nMajor life changes since last update: Birth of daughter Isla on 2024-02-02\nCommunication preferences: [email/phone/meeting cadence]\nProfile sections updated in CRM: [sections completed]\nOpen follow-up items: [items]\n\nUpdate the advisory record, dependent count, cash-flow assumptions, and projection inputs to reflect a three-person household.",
+      "priority": null,
+      "dueDate": "2024-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed household profile and planning assumptions update is dated 2024-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain newborn identity documents for Isla Maplesprocket",
+      "text": "Obtain the issued birth certificate and Social Security card for Isla Maplesprocket so that custodial account titling, beneficiary records, and education account administration can proceed for the Maplesprocket household.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed newborn identity document follow-up is dated 2024-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm employer health plan dependent enrollment for Isla Maplesprocket",
+      "text": "Confirm Isla Maplesprocket's dependent enrollment through the Teacup Comet Robotics benefits portal and verify that the insurer has a member record on file for newborn claims under Corin Maplesprocket's employer health plan.",
+      "priority": null,
+      "dueDate": "2024-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed employer health plan dependent enrollment follow-up is dated 2024-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare education funding recommendation for Isla Maplesprocket",
+      "text": "Compare education account ownership options, initial contribution level, and investment track selection for Isla Maplesprocket, and outline how grandparent gifts can be coordinated without disrupting the Maplesprocket household's reserve target.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed education funding recommendation follow-up is dated 2024-03-06."
+    }
+  ]
+}

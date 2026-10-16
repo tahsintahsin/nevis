@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_jsonobj",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"name\":\"meetingId\",\n\"value\":\"308\"\n}\n",
+   "usage": {
+    "input_tokens": 4264,
+    "output_tokens": 2443,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

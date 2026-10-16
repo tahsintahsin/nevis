@@ -1,0 +1,18 @@
+{
+ "config": "fw_mid",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"300\", \"tickets\": [{\"title\": \"Compare and label source documents before the figures are used in planning exhibits\", \"text\": \"Compare and label source documents before the figures are used in planning exhibits. The mediation worksheet showed a lower mortgage balance than the Teacup Comet Bank portal balance.\", \"priority\": null, \"dueDate\": \"2025-03-12\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"the mediation worksheet showed a lower mortgage balance than the Teacup Comet Bank portal balance, so the agreed 2025-03-12 follow-up is to compare and label source documents before the figures are used in planning exhibits.\",\"templateId\": null}, {\"title\": \"Compile authorized investment, bank, retirement, debt, and household cash-flow records Tobin requested for the pending property discussion\", \"text\": \"Compile authorized investment, bank, retirement, debt, and household cash-flow records Tobin requested for the pending property discussion. Anika and Reid separated in January 2025 after 14 years of marriage, and Anika is living in the Portland family home with their children, Elio Meadowbobbin and Sela Meadowbobbin.\", \"priority\": null, \"dueDate\": \"2025-03-14\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"they agreed to compile by 2025-03-14 the authorized investment, bank, retirement, debt, and household cash-flow records Tobin requested for the pending property discussion.\", \"templateId\": null}, {\"title\": \"Complete access-recovery follow-up for Velvet Acorn Custody joint taxable account login\", \"text\": \"Complete access-recovery follow-up for Velvet Acorn Custody joint taxable account login. Anika reported that the Velvet Acorn Custody login for the joint taxable account sends verification prompts to Reid's phone, preventing statement downloads needed for the authorized document package.\", \"priority\": \"high\", \"dueDate\": \"2025-03-10\", \"assigneeId\": \"92319646-536d-5656-b496-3f76eed775bb\", \"subTasks\": [], \"evidence\": \"Anika reported that the Velvet Acorn Custody login for the joint taxable account sends verification prompts to Reid's phone, preventing statement downloads needed for the authorized document package; the agreed access-recovery follow-up is due 2025-03-10.\", \"templateId\": \"f0f9ebd4-5e82-546c-980c-d68e810d2f63\"}, {\"title\": \"Coordinate changes to legacy beneficiary and ownership records through authorized legal channels by 2025-03-21\", \"text\": \"Coordinate changes to legacy beneficiary and ownership records through authorized legal channels by 2025-03-21. Mira's planning inventory review found Reid listed on legacy beneficiary and ownership records, including Anika's Roth IRA, term life policy, and joint taxable account.\", \"priority\": null, \"dueDate\": \"2025-03-21\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"Mira's planning inventory review found Reid listed on legacy beneficiary and ownership records, including Anika's Roth IRA, term life policy, and joint taxable account, with any changes to be coordinated through authorized legal channels by 2025-03-21.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 4636,
+    "output_tokens": 803,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

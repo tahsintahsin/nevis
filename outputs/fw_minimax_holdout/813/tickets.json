@@ -1,0 +1,65 @@
+{
+  "meetingId": "813",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare home-care funding projection for Cloudpuddles",
+      "text": "Prepare a side-by-side projection for Lena and Arun Cloudpuddle comparing continued weekday home-care aides, expanded evening coverage, and a limited assisted-living trial. Use current Pocket Lantern Home Care invoices (~$3,400/month), Lena's 60% short-term disability from her prior $148,000 salary, Arun's $3,850 monthly pension and $2,420 monthly Social Security, the $780,000 joint taxable account and Lena's $510,000 IRA at Velvet Acorn Custody, and Arun's $430,000 401(k) at Silver Marmot Transit.",
+      "priority": null,
+      "dueDate": "2024-06-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to prepare that projection for 2024-06-07."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate long-term care claim packet with Buttonwood Balloon Life",
+      "text": "Coordinate the financial portions of Lena Cloudpuddle's long-term care claim packet with Buttonwood Balloon Life and Pocket Lantern Home Care. The insurer requires care invoices, a physician certification, and an activities-of-daily-living statement before benefits can be reviewed.",
+      "priority": null,
+      "dueDate": "2024-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is that coordination for 2024-06-03."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Pocket Lantern Home Care records for planning file",
+      "text": "Obtain the signed care plan, weekly caregiver schedule, and rate sheet showing weekday versus weekend charges from Pocket Lantern Home Care for Lena and Arun Cloudpuddle's planning file. These records are needed to separate recurring care costs from one-time setup charges.",
+      "priority": null,
+      "dueDate": "2024-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to obtain those records for 2024-06-10."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve long-term care daily benefit mismatch with Buttonwood Balloon Life",
+      "text": "Resolve the daily benefit mismatch on Lena Cloudpuddle's Buttonwood Balloon Life long-term care policy. The insurer portal lists a $180 daily benefit while the policy declaration page in the household planning file states a $210 daily benefit; the correct figure is needed before claim assumptions can be modeled.",
+      "priority": null,
+      "dueDate": "2024-06-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to resolve the mismatch for 2024-06-04."
+    },
+    {
+      "templateId": null,
+      "title": "Address Pocket Lantern Home Care invoice delivery for Cloudpuddles",
+      "text": "Address the invoice delivery problem with Pocket Lantern Home Care for Lena and Arun Cloudpuddle. Invoices currently go only to Lena's personal email, which has delayed reimbursement tracking and made it difficult for Arun and Priya to confirm billed hours against the caregiver calendar.",
+      "priority": null,
+      "dueDate": "2024-05-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to address invoice delivery for 2024-05-31."
+    },
+    {
+      "templateId": null,
+      "title": "Develop backup caregiver coverage schedule and cost range",
+      "text": "Develop a temporary caregiver coverage schedule and estimated short-term cost range for Lena and Arun Cloudpuddle before Arun's knee rehabilitation begins. Arun's recovery will reduce his ability to drive Lena and cover transfers at home, so the plan should cover weekday transportation, transfers, and respite during his recovery period.",
+      "priority": null,
+      "dueDate": "2024-06-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to develop that schedule and cost range for 2024-06-12."
+    }
+  ]
+}

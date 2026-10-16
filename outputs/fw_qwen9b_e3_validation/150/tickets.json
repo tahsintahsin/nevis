@@ -1,0 +1,216 @@
+{
+  "meetingId": "150",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain missing IRS notice page",
+      "text": "Obtain the missing page of Dana Copperwisp’s IRS notice that contains the response voucher and complete contact instructions. The uploaded scan is partial and missing this page.",
+      "priority": null,
+      "dueDate": "2026-02-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete the IRS notice record by obtaining the missing page, because Dana uploaded only a partial scan of the federal notice and the missing page contains the response voucher and complete contact instructions needed before Apricot Compass can help organize the response packet; the d"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare IRS notice response calendar",
+      "text": "Prepare a response calendar for Dana Copperwisp’s IRS notice timing. The federal correspondence has a near-term response window, and the calendar should help the advisory team and CPA avoid last-minute routing delays while records are being assembled.",
+      "priority": null,
+      "dueDate": "2026-02-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed to prepare a response calendar for notice timing, because the federal correspondence has a near-term response window and Dana wants the advisory team and CPA to avoid last-minute routing delays while records are being assembled; the date for this follow-up is 2026-02-16."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate IRS notice packet with CPA",
+      "text": "Coordinate the IRS notice packet with Selene Maplesprocket of Lavender Sprocket Tax Partners by sending the notice, cost-basis materials, and a concise issue summary so the CPA can decide how to answer the federal correspondence.",
+      "priority": null,
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to coordinate the notice packet with Selene Maplesprocket by sending the notice, cost-basis materials, and a concise issue summary so the CPA can decide how to answer the federal correspondence; the date for this follow-up is 2026-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile securities sale proceeds and basis",
+      "text": "Reconcile the securities sale proceeds and basis cited in the federal notice with Dana Copperwisp’s records. The notice cites mismatched proceeds, while Dana believes the questioned trades came from vested Moonbadger Robotics shares already reported through payroll and brokerage tax forms.",
+      "priority": null,
+      "dueDate": "2026-02-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile securities sale proceeds and basis; the date for this follow-up is 2026-02-24."
+    },
+    {
+      "templateId": "aee1bfa7-2aa3-5c7b-97ce-4aa45f8ad974",
+      "title": "Collect tax planning documents",
+      "text": "Coordinate collection of current tax documents needed to support planning analysis. Confirm which documents are available, identify gaps, and prepare a clean packet for advisor review without storing unnecessary duplicates. Obtain the complete brokerage tax package and supplemental lot detail for the account that held the questioned Moonbadger Robotics share sales.",
+      "priority": "medium",
+      "dueDate": "2026-02-21",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Send tax document request list",
+          "text": "Provide the client with a tailored request for prior-year return, current paystub or income records, estimated tax payment confirmations, charitable giving records, equity compensation tax forms if applicable, and any notices from the IRS or state agencies.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "22bf459b-abbb-576b-9589-52aff54f5760"
+        },
+        {
+          "title": "Verify received documents",
+          "text": "Review uploads for completeness, legibility, correct tax year, and missing schedules. Note unresolved items in the client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c461d4b9-57e0-57e0-8e67-25440f767e83"
+        },
+        {
+          "title": "Summarize open tax planning questions",
+          "text": "Prepare a brief summary of missing items, planning opportunities, and questions for the client’s CPA or internal advisor discussion.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c461d4b9-57e0-57e0-8e67-25440f767e83"
+        }
+      ],
+      "evidence": "A remaining need is to obtain brokerage tax forms for the questioned sales, because the planning file does not yet contain the complete brokerage tax package and supplemental lot detail for the account that held the questioned Moonbadger Robotics share sales; the date for this needed follow-up is 20"
+    },
+    {
+      "templateId": null,
+      "title": "Review equity compensation withholding records",
+      "text": "Review Dana Copperwisp’s Moonbadger Robotics equity compensation withholding records. Reconcile taxable compensation and withholding between the supplemental equity compensation statement and year-end pay summary for the vesting activity discussed during the call.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to review equity compensation withholding records, because Dana’s supplemental equity statement and pay summary do not clearly match on taxable compensation and withholding for the Moonbadger Robotics vesting activity discussed during the call; the date for this follow-up is 2026-02-27."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm state estimated tax payment crediting",
+      "text": "Confirm how the Oregon Department of Revenue credited Dana Copperwisp’s 2024 estimated tax payment. The correspondence shows one estimated payment posted under Hugo’s Social Security number rather than Dana’s.",
+      "priority": null,
+      "dueDate": "2026-02-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to confirm state estimated tax payment crediting, because the Oregon correspondence creates uncertainty about how the state credited the payment; the date for this follow-up is 2026-02-25."
+    },
+    {
+      "templateId": null,
+      "title": "Locate missing federal estimated payment confirmation",
+      "text": "Locate the missing confirmation for one of Dana Copperwisp’s four household federal estimated tax payments for 2025. She could locate confirmations for only three of the four payments during the call.",
+      "priority": null,
+      "dueDate": "2026-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A remaining need is to locate the missing federal estimated payment confirmation; the date for this needed follow-up is 2026-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Gather missing charitable gift acknowledgement",
+      "text": "Gather the formal acknowledgement letter for Dana Copperwisp’s $25,000 2025 donation to Cloudberry Kite Arts Foundation. The acknowledgement was not in the household tax folder when the records were reviewed.",
+      "priority": null,
+      "dueDate": "2026-02-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A remaining need is to gather the charitable gift acknowledgement, because the formal acknowledgement letter was not in the household tax folder when the records were reviewed; the date for this needed follow-up is 2026-02-26."
+    },
+    {
+      "templateId": null,
+      "title": "Request family partnership tax information",
+      "text": "Request the final tax information for the family cabin partnership from Tin Sparrow Family Holdings for Selene Maplesprocket’s return preparation and planning review. Dana received only a preliminary 2025 Schedule K-1 package.",
+      "priority": null,
+      "dueDate": "2026-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the inherited cabin partnership, a remaining need is to request family partnership tax information, because Dana received only a preliminary package and the final tax information is still needed for Selene Maplesprocket’s return preparation and planning review; the date for this needed follow-up"
+    },
+    {
+      "templateId": null,
+      "title": "Clean up shared tax document folder",
+      "text": "Clean up the household’s shared digital tax document folder. Address duplicate and unlabeled PDFs so the correct notice pages, payment confirmations, and tax forms are easier to identify.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to clean up the shared tax document folder, because Dana said the household tax folder contains duplicate and unlabeled PDFs, which made it difficult to identify the correct notice pages, payment confirmations, and tax forms during the call; the date for this follow-up is 2026-03-06."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh retirement income assumptions",
+      "text": "Refresh Dana Copperwisp’s retirement income assumptions, accounting for her recent inheritance, college funding schedule, concentrated employer stock position, and target retirement age around age 60.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to refresh retirement income assumptions, because Dana’s recent inheritance, college funding schedule, concentrated employer stock position, and target retirement age all affect the household’s retirement income assumptions; the date for this follow-up is 2026-03-20."
+    },
+    {
+      "templateId": null,
+      "title": "Review concentrated employer stock exposure",
+      "text": "Review Dana Copperwisp’s approximately $318,000 Moonbadger Robotics stock position in her taxable brokerage account at Velvet Acorn Custody. Assess the significant unrealized gain and the emotional difficulty of reducing the position, focusing on risk reduction without creating an avoidable tax surprise.",
+      "priority": null,
+      "dueDate": "2026-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to review concentrated employer stock exposure, because Dana’s taxable account includes a large Moonbadger Robotics stock position with significant unrealized gain, and she expressed concern about reducing risk without creating an avoidable tax surprise; the date for this follow-up is 20"
+    },
+    {
+      "templateId": "22379042-123f-5108-bc07-63e5d3d2309c",
+      "title": "Update beneficiary designations",
+      "text": "Confirm current primary and contingent beneficiaries, prepare required custodian forms, and request client approval before submission. Check retirement account and life insurance beneficiaries against the household’s current wishes after Dana’s father’s death, including whether they still match the wishes reflected in the 2016 estate documents that name her sister Maeve Copperwisp as successor trustee.",
+      "priority": "medium",
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to check beneficiary designations after family changes, because Dana’s estate documents still list her sister as successor trustee, and the file does not show whether retirement account and life insurance beneficiaries still match the household’s current wishes after her father’s death; "
+    },
+    {
+      "templateId": "cad3a151-544c-53dd-b813-a60042093dc2",
+      "title": "Coordinate insurance policy review",
+      "text": "Coordinate collection and review of insurance policy information, including coverage type, ownership, beneficiaries, premiums, riders, cash value if applicable, and any planning concerns. Use this template for life, disability, long-term care, or similar household risk-management policies. Review Dana Copperwisp’s group life, term life, and umbrella coverage, and address the missing current long-term care coverage entry and recent policy review notes in the planning file.",
+      "priority": "medium",
+      "dueDate": "2026-03-27",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect policy documents and client questions",
+          "text": "Request current declarations, policy statements, illustrations if available, premium notices, and the client’s main questions or concerns about coverage.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "22bf459b-abbb-576b-9589-52aff54f5760"
+        },
+        {
+          "title": "Review planning fit and cash flow impact",
+          "text": "Evaluate how premiums, coverage levels, ownership, and beneficiaries fit with the client’s broader financial plan and retirement income needs.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "1c9ad76e-0a4d-5171-a14b-0f748d960374"
+        },
+        {
+          "title": "Check tax and estate planning considerations",
+          "text": "Identify potential tax, estate, or gifting coordination issues and note whether outside insurance, legal, or tax professionals should be consulted.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c461d4b9-57e0-57e0-8e67-25440f767e83"
+        },
+        {
+          "title": "Prepare client-ready summary",
+          "text": "Summarize key findings, missing information, recommended follow-ups, and any outside professional questions for advisor approval.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "22bf459b-abbb-576b-9589-52aff54f5760"
+        }
+      ],
+      "evidence": "They agreed to review the insurance coverage file, because Dana’s planning file includes group life, term life, and umbrella coverage, but no current long-term care coverage entry or recent policy review notes were available during the call; the date for this follow-up is 2026-03-27."
+    },
+    {
+      "templateId": "7ef591cb-87f1-57c2-98f9-9584dbbf4f3f",
+      "title": "Complete account security follow-up checks",
+      "text": "Use this checklist after any suspected account access issue: Investigate the Velvet Acorn Custody login alert Dana Copperwisp received when she was not attempting to access the account. She saw no unauthorized transfers when she checked her account before the call.\n- Confirm the client’s identity using approved verification procedures.\n- Ask whether any unauthorized transfers, profile changes, or new payees are visible.\n- Recommend password changes and multifactor authentication updates where available.\n- Review recent contact information changes, bank link changes, and distribution requests.\n- Notify the custodian through approved service channels if suspicious activity is reported.\n- Document the timeline, client statements, actions taken, and any unresolved risk items.\n- Escalate to compliance if fraud, identity theft, or unauthorized trading may have occurred.",
+      "priority": "high",
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana reported that a Velvet Acorn Custody login alert arrived when she was not attempting to access the account. Dana saw no unauthorized transfers when she checked her Velvet Acorn Custody account before the call. They agreed to investigate the custodian login alert in light of that report; the dat"
+    }
+  ]
+}

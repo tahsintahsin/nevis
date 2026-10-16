@@ -1,0 +1,57 @@
+{
+  "meetingId": "404",
+  "tickets": [
+    {
+      "templateId": "d7b4bdf3-ad00-5206-9988-f8090aa6f2cf",
+      "title": "Coordinate Divorce Planning Documents",
+      "text": "Use this workflow to request, organize, and route divorce-related planning documents for analysis. Keep communications neutral and factual, confirm authorization before sharing information with outside professionals, and separate advisory planning needs from legal advice. Coordinate with attorney Corin Nettlewhisk and CPA Jules Thimblefern for Nadia Pebblefizz after written authorization, assembling a planning packet covering draft settlement terms, asset schedules, support estimates, retirement-account order questions, and current statements.",
+      "priority": "high",
+      "dueDate": "2026-07-17",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm document scope and permissions",
+          "text": "Identify which documents are needed, such as draft or final settlement terms, asset schedules, support obligations, retirement account orders, tax returns, and current statements. Confirm the client's written permission before coordinating with an attorney, CPA, or mediator.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5"
+        },
+        {
+          "title": "Create secure collection folder",
+          "text": "Set up a secure upload location, list missing items, and label received documents by category. Do not request or store unnecessary sensitive documents beyond the planning scope.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb"
+        },
+        {
+          "title": "Prepare planning summary for advisor review",
+          "text": "Summarize available assets, liabilities, income obligations, beneficiary concerns, account titling issues, and open questions for the advisor. Flag any urgent implementation constraints without providing legal conclusions.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9268210f-ef66-5a4b-88ad-788a4cfe5d2d"
+        }
+      ],
+      "evidence": "They agreed by 2026-07-17 to coordinate with attorney Corin Nettlewhisk and CPA Jules Thimblefern after written authorization, with a planning packet covering draft settlement terms, asset schedules, support estimates, retirement-account order questions, and current statements."
+    },
+    {
+      "templateId": "ca0beb64-4823-5deb-8d28-1f7a5f7d128e",
+      "title": "Collect Client Tax Documents",
+      "text": "Request and organize current tax documents for planning review, including prior-year federal and state returns, W-2s, 1099s, K-1s, estimated tax payment records, charitable giving summaries, and any tax notices. Track missing items and route complete packet to the planning team. For Nadia Pebblefizz's cash-flow and basis review, obtain the most recent joint return, latest property tax bill, and current Teacup Comet Bank mortgage payoff; current brokerage statements and pay stubs are already in the secure folder.",
+      "priority": "medium",
+      "dueDate": "2026-07-15",
+      "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb",
+      "subTasks": [],
+      "evidence": "For the cash-flow and basis review, the most recent joint return, latest property tax bill, and current Teacup Comet Bank mortgage payoff are still needed by 2026-07-15, though current brokerage statements and pay stubs are in the secure folder."
+    },
+    {
+      "templateId": "edf414d3-524c-5814-b529-1e0b457ba229",
+      "title": "Send Beneficiary Update Outreach",
+      "text": "Use this outline to contact the appropriate party about beneficiary updates.\n\nRecipient: attorney Corin Nettlewhisk\nReason for outreach: inconsistency found\nAccounts or policies to review: IRA and employer plan\nRequested action: verify custodian processing\nKey reminder: Beneficiary designations may override estate documents, so Nadia Pebblefizz should coordinate with her estate attorney when needed.\nDocuments to send or request: beneficiary change forms\nPreferred response channel: [secure message / phone / email / professional portal]\nFollow-up timing: before any beneficiary change is submitted\nNotes to record in CRM: [summary of outreach and next step]\n\nCheck Nadia Pebblefizz's beneficiary change forms against Corin Nettlewhisk's temporary restrictions before submitting any change, since Rowan Pebblefizz is still listed on her Velvet Acorn Custody IRA and Clockwork Clover Systems employer plan records.",
+      "priority": "medium",
+      "dueDate": "2026-07-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira found Rowan still listed on Nadia’s IRA record and employer plan screen; the agreed follow-up by 2026-07-24 is to check forms against Corin’s temporary restrictions before any beneficiary change is submitted."
+    }
+  ]
+}

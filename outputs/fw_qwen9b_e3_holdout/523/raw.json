@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e3",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"523\", \"tickets\": [{\"title\": \"Raise Velvet Acorn Custody monthly checking transfer\", \"text\": \"Raise Liora Pebblefizz’s monthly checking transfer from Velvet Acorn Custody to Teacup Comet Bank to $3,500–$4,200 for the next cycle.\", \"priority\": null, \"dueDate\": \"2024-07-24\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-07-24 to raise Velvet Acorn Custody monthly checking transfer $3,500-to-$4,200 next cycle.\"}, {\"title\": \"File Liora Pebblefizz’s utilities and home-maintenance comparison\", \"text\": \"File a comparison of the $3,500 recurring-distribution amount against Liora Pebblefizz’s approximately $4,200 in utilities and home-maintenance.\", \"priority\": null, \"dueDate\": \"2024-07-26\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"By 2024-07-26, support is needed: file $3,500 versus Liora’s about-$4,200 utilities/home-maintenance.\"}]}",
+   "usage": {
+    "input_tokens": 1169,
+    "output_tokens": 308,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

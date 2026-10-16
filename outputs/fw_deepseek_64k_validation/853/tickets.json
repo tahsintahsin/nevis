@@ -1,0 +1,37 @@
+{
+  "meetingId": "853",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review Velvet Acorn Custody security alert",
+      "text": "Review the Velvet Acorn Custody unfamiliar-device alert for Leona Thimblefern, check household profile and distribution-instruction changes, and coordinate pre-upload custodian security steps to restore secure portal access.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Review the Velvet Acorn Custody unfamiliar-device alert",
+          "text": "Review the unfamiliar-device alert Leona Thimblefern reported at Velvet Acorn Custody and determine what triggered it.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Check profile and distribution-instruction changes",
+          "text": "Check Leona Thimblefern's household profile and distribution-instruction changes for anything that could explain the rejected portal authentication code.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Coordinate pre-upload custodian security steps",
+          "text": "Coordinate the pre-upload security steps with Velvet Acorn Custody before any documents are uploaded.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps."
+    }
+  ]
+}

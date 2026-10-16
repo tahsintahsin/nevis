@@ -1,0 +1,18 @@
+{
+ "config": "fw_mid",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"625\", \"tickets\": [{\"title\": \"Prepare mortgage liquidity source analysis\", \"text\": \"Prepare a mortgage liquidity source analysis comparing bank cash, short-term bond holdings, taxable brokerage sales, and vested employer shares to fund the remaining down payment while preserving the stated reserve target.\", \"priority\": \"medium\", \"dueDate\": \"2025-10-08\", \"assigneeId\": \"1616b784-b182-570a-93f0-464e57273315\", \"templateId\": null, \"evidence\": \"the agreed follow-up is due 2025-10-08\", \"subTasks\": []}, {\"title\": \"Obtain underwriting asset documentation\", \"text\": \"Obtain underwriting asset documentation tying the earnest money withdrawal to the source account, as the underwriter is asking for documentation linking the $25,000 earnest money withdrawal to the source account.\", \"priority\": \"medium\", \"dueDate\": \"2025-10-06\", \"assigneeId\": \"1616b784-b182-570a-93f0-464e57273315\", \"templateId\": null, \"evidence\": \"this remains needed by 2025-10-06\", \"subTasks\": []}, {\"title\": \"Review cash-flow effect of rate-lock alternatives\", \"text\": \"Review the cash-flow effect of the lock alternatives before Julian responds to the updated loan terms with rate-lock choice and financing contingency timeline.\", \"priority\": \"medium\", \"dueDate\": \"2025-10-10\", \"assigneeId\": \"1616b784-b182-570a-93f0-464e57273315\", \"templateId\": null, \"evidence\": \"the agreed review is due 2025-10-10\", \"subTasks\": []}, {\"title\": \"Resolve student loan payment discrepancy\", \"text\": \"Resolve the student loan payment discrepancy in the mortgage file, where the application lists Iris's payment as $640 per month while the servicer statement shows a $410 income-driven payment.\", \"priority\": \"medium\", \"dueDate\": \"2025-10-07\", \"assigneeId\": \"1616b784-b182-570a-93f0-464e57273315\", \"templateId\": null, \"evidence\": \"resolution remains needed by 2025-10-07\", \"subTasks\": []}, {\"title\": \"Update brokerage aggregation feed\", \"text\": \"Update the brokerage aggregation feed in the planning portal to reflect current cash and short-term bond positions available for closing, as the feed is showing a stale joint brokerage balance.\", \"priority\": \"medium\", \"dueDate\": \"2025-10-06\", \"assigneeId\": \"1616b784-b182-570a-93f0-464e57273315\", \"templateId\": null, \"evidence\": \"the agreed follow-up is due 2025-10-06\", \"subTasks\": []}, {\"title\": \"Coordinate new-home insurance and liability\", \"text\": \"Coordinate new-home insurance and liability coverage, as the couple currently has only renters coverage and the purchase changes their property and liability exposure.\", \"priority\": \"medium\", \"dueDate\": \"2025-10-15\", \"assigneeId\": \"1616b784-b182-570a-93f0-464e57273315\", \"templateId\": null, \"evidence\": \"the agreed new-home insurance and liability coordination is due 2025-10-15\", \"subTasks\": []}, {\"title\": \"Review tax-lot positions for closing cash\", \"text\": \"Review tax-lot positions for closing cash, as several taxable ETF positions have both short-term gain lots and lower-gain long-term lots affecting suitability if brokerage assets are used for closing cash.\", \"priority\": \"medium\", \"dueDate\": \"2025-10-09\", \"assigneeId\": \"1616b784-b182-570a-93f0-464e57273315\", \"templateId\": null, \"evidence\": \"the agreed tax-lot review is due 2025-10-09\", \"subTasks\": []}]}",
+   "usage": {
+    "input_tokens": 5414,
+    "output_tokens": 1076,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

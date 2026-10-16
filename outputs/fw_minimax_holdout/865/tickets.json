@@ -1,0 +1,75 @@
+{
+  "meetingId": "865",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain term life reinstatement requirements from carrier",
+      "text": "Obtain the carrier's reinstatement requirements for Serena Willowdoodle's individual term life policy with Plum Zeppelin Life Insurance after the failed bank draft, and identify any interim underwriting or replacement quote information needed if reinstatement is unavailable.",
+      "priority": null,
+      "dueDate": "2025-04-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-08 the follow-up is to obtain the carrier’s reinstatement requirements and identify any interim underwriting or replacement quote information needed if reinstatement is unavailable."
+    },
+    {
+      "templateId": "652157be-e8e6-5f89-b001-6e15103f7c88",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Complete the following placeholders before reviewing benefit enrollment choices:\n\nEmployee or participant name: Serena Willowdoodle\nEmployer or plan sponsor: Amber Teapot Robotics\nEnrollment event type: New hire\nCoverage effective period: 2025 plan year\nAvailable medical options: [PLAN OPTIONS]\nAvailable dental and vision options: [PLAN OPTIONS]\nHealth savings or flexible spending account eligibility: [HSA / FSA DETAILS]\nEmployer retirement plan election status: [401(k), 403(b), OR OTHER PLAN DETAILS]\nCurrent contribution percentage or amount: [CURRENT ELECTION]\nProposed contribution percentage or amount: [PROPOSED ELECTION]\nEmployer match formula: [MATCH DETAILS]\nBeneficiary update needed: Yes\nDocuments to request: Benefits guide, rate sheet, beneficiary form, long-term disability certificate\nQuestions for advisor review: [OPEN QUESTIONS]\n\nSerena's new role at Amber Teapot Robotics includes group life coverage equal to one times base salary and long-term disability coverage equal to 60% of base salary subject to a monthly cap. Collect these documents so the group life, disability, HSA, and beneficiary choices can be reviewed together.",
+      "priority": "medium",
+      "dueDate": "2025-04-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-07 the follow-up is to collect those documents so the group life, disability, HSA, and beneficiary choices can be reviewed together."
+    },
+    {
+      "templateId": "28c45369-c684-5898-a337-bea7596706af",
+      "title": "Financial Plan Review",
+      "text": "Update the life and disability coverage analysis for Serena and Jonah Willowdoodle using current income, debt, savings, and college funding assumptions. Factor in Serena's new $185,000 base salary at Amber Teapot Robotics with a 20% target cash bonus and restricted stock awards, Jonah's variable self-employment income from Paper Otter Studio, the $612,000 Buttonwood Balloon Mortgage and $218,000 Acorn Carousel Lending mortgage, $92,000 liquid reserves at Teacup Comet Bank, and the children's remaining education years for Calla (age 11) and Milo (age 8).",
+      "priority": null,
+      "dueDate": "2025-04-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-25 the follow-up is to update the life and disability coverage analysis using current income, debt, savings, and college funding assumptions."
+    },
+    {
+      "templateId": null,
+      "title": "Compare bundled and alternate home, auto, umbrella quotes",
+      "text": "Compare the current bundled home, auto, and umbrella coverage from Cloudberry Kite Insurance with at least one alternate quote for Serena and Jonah Willowdoodle, preserving liability limits appropriate for the $1.36 million primary residence, $485,000 coast cottage, and teenage-driver planning horizon.",
+      "priority": null,
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-16 the follow-up is to compare current bundled coverage with at least one alternate quote while preserving liability limits appropriate for the primary residence, cottage, and teenage-driver planning horizon."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile insurance beneficiary records with trust documents",
+      "text": "Reconcile the carrier insurance beneficiary records for Serena and Jonah Willowdoodle with the estate planning documents drafted by Mira Nettlewhisk of Pocket Lantern Legal Group in 2021, focusing on contingent beneficiaries for the children's share, before any new policy or renewal beneficiary forms are signed.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-18 the follow-up is to reconcile the carrier records with the trust documents before any new policy or renewal beneficiary forms are signed."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh retirement and cash-flow projection",
+      "text": "Refresh the retirement and cash-flow projection for Serena and Jonah Willowdoodle after updated premium estimates are available, incorporating the higher coast cottage carrying cost and Serena's new Amber Teapot Robotics benefit deductions, and replacing prior-year insurance premiums.",
+      "priority": null,
+      "dueDate": "2025-05-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-05-09 the follow-up is to refresh the projection after updated premium estimates are available."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare insurance inventory for professional coordination",
+      "text": "Prepare a concise inventory of current insurance policies, renewal contacts, owners, insureds, beneficiaries, premium amounts, and known gaps for Serena and Jonah Willowdoodle, without full account or policy numbers, for email circulation to Tobin Mossbutton of Juniper Jellyfish Tax and Mira Nettlewhisk of Pocket Lantern Legal Group.",
+      "priority": null,
+      "dueDate": "2025-05-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-05-16 the follow-up is to prepare a version without full account or policy numbers for email circulation."
+    }
+  ]
+}

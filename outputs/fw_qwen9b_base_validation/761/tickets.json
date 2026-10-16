@@ -1,0 +1,75 @@
+{
+  "meetingId": "761",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble survivor administration packet",
+      "text": "Assemble the core survivor administration packet for Galen Thimblefern, including the death certificate, 2016 will, and current household account list, to facilitate notifications to custodians, banks, and insurers following the death of Rhea Thimblefern.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-11-08"
+    },
+    {
+      "templateId": null,
+      "title": "Collect Paper Otter Publishing benefits documents",
+      "text": "Collect the missing employer life insurance claim forms and 401(k) distribution paperwork for Rhea Thimblefern from Paper Otter Publishing, using the HR contact information provided by Galen Thimblefern.",
+      "priority": null,
+      "dueDate": "2024-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-11-12"
+    },
+    {
+      "templateId": null,
+      "title": "Recover Teacup Comet Bank bill-pay access",
+      "text": "Resolve the Teacup Comet Bank online bill-pay authentication issue for Galen Thimblefern, which is currently routing to Rhea Thimblefern's mobile number and blocking changes to household utility payees.",
+      "priority": null,
+      "dueDate": "2024-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-11-06"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Velvet Acorn Custody registration",
+      "text": "Reconcile the Velvet Acorn Custody registration for the joint taxable account, resolving the discrepancy between the joint tenants status in custody records and the transfer-on-death designation in the estate binder for Galen Thimblefern.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-11-15"
+    },
+    {
+      "templateId": "c2779699-232b-57db-b0a8-994a3ad6251e",
+      "title": "Collect Tax Documents for Planning Review",
+      "text": "Gather current income, withholding, charitable giving, estimated payment, and realized gain reports for Galen Thimblefern's survivor-year tax projection as requested by Nadia Pebblefizz of Pocket Lantern Tax.",
+      "priority": "medium",
+      "dueDate": "2024-11-22",
+      "assigneeId": "d8b6c5e7-1b71-5fdb-b6ff-5bb2d48617d8",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-11-22"
+    },
+    {
+      "templateId": null,
+      "title": "Refresh retirement income model inputs",
+      "text": "Update the retirement income model inputs for Galen Thimblefern by removing Rhea Thimblefern's employer medical premiums and income, and incorporating updated survivor income, Medicare premiums, cash reserves, and portfolio withdrawal assumptions.",
+      "priority": null,
+      "dueDate": "2024-12-06",
+      "assigneeId": "91079ffb-7406-5bca-a02a-7265d70ec05b",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-12-06"
+    },
+    {
+      "templateId": "ec95858f-0b1b-5ac5-9396-1be6809f1ffc",
+      "title": "Review Concentrated Position Exposure",
+      "text": "Conduct a staged sale, charitable gifting, and tax-impact review for the Moonbadger Industrial Systems position held in Galen Thimblefern's taxable account to address his concerns about holding a large position during estate administration.",
+      "priority": "medium",
+      "dueDate": "2024-12-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-12-13"
+    }
+  ]
+}

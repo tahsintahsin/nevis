@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"853\", \"tickets\": [{\"title\": \"Review Velvet Acorn Custody security alert\", \"text\": \"Review the unfamiliar-device alert Leona Thimblefern reported at Velvet Acorn Custody, check her profile and distribution-instruction changes, and coordinate pre-upload custodian security steps. The authentication failure blocks phone, email, and trusted-contact review, and service access versus the outdated household profile remains unresolved.\", \"priority\": null, \"dueDate\": \"2026-02-06\", \"assigneeId\": null, \"subTasks\": [{\"title\": \"Review the unfamiliar-device alert\", \"text\": \"Investigate the unfamiliar-device alert Leona Thimblefern reported at Velvet Acorn Custody.\", \"priority\": null, \"assigneeId\": null, \"dueDate\": null}, {\"title\": \"Check profile and distribution-instruction changes\", \"text\": \"Check Leona Thimblefern's profile and distribution-instruction changes at Velvet Acorn Custody.\", \"priority\": null, \"assigneeId\": null, \"dueDate\": null}, {\"title\": \"Coordinate pre-upload custodian security steps\", \"text\": \"Coordinate pre-upload custodian security steps with Velvet Acorn Custody for Leona Thimblefern.\", \"priority\": null, \"assigneeId\": null, \"dueDate\": null}], \"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\" , \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 1298,
+    "output_tokens": 357,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2123
+   },
+   "stop": "stop"
+  }
+ ]
+}

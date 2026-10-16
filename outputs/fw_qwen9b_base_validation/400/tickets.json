@@ -1,0 +1,194 @@
+{
+  "meetingId": "400",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Education Funding Calendar",
+      "text": "Prepare a side-by-side calendar showing 529 distributions, taxable brokerage withdrawals, expected Calder reimbursements, and Teacup Comet Bank cash for Nico's first university bill and Lila's school payments.",
+      "priority": null,
+      "dueDate": "2026-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to prepare that funding calendar by 2026-05-15."
+    },
+    {
+      "templateId": null,
+      "title": "Complete University Billing Readiness Check",
+      "text": "Check withdrawal lead times, payee instructions, account settlement timing, and payment method limits for Tin Sparrow University before Selena initiates any education payment.",
+      "priority": null,
+      "dueDate": "2026-06-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to complete that readiness check by 2026-06-05."
+    },
+    {
+      "templateId": "ca0beb64-4823-5deb-8d28-1f7a5f7d128e",
+      "title": "Collect Client Tax Documents",
+      "text": "Collect Selena's most recently filed federal and state returns, current wage information, and education-related tax forms referenced by Petra Nettlewhisk at Coral Badger Tax.",
+      "priority": "medium",
+      "dueDate": "2026-05-12",
+      "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb",
+      "subTasks": [],
+      "evidence": "The committed follow-up is to collect the tax packet by 2026-05-12."
+    },
+    {
+      "templateId": "5e79e466-5ab1-5dbb-b640-48dd21ca6ee1",
+      "title": "Collect Education Account Setup Details",
+      "text": "Collect setup information needed for a new grandparent-owned education account that Daphne Willowdoodle wants to fund for Nico and Lila.",
+      "priority": "medium",
+      "dueDate": "2026-05-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to collect that setup information by 2026-05-22."
+    },
+    {
+      "templateId": "9a857c70-2f94-5743-b175-02e061844b04",
+      "title": "Coordinate Missing Signature Follow-Up",
+      "text": "Correct the Velvet Acorn Custody bank authorization package for 529 distributions which lacks the required authorization signature page.",
+      "priority": "medium",
+      "dueDate": "2026-05-09",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Validate the missing signature requirement",
+          "text": "Review the form package and processing notes to identify the exact missing signature, initials, date, or authorization. Confirm whether wet signature, e-signature, or custodian-specific language is required.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb"
+        },
+        {
+          "title": "Confirm planning or account impact",
+          "text": "Determine whether the missing signature affects account opening, transfer timing, trading authority, beneficiary changes, or other planning deadlines. Note any client-facing implications for the advisor.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9268210f-ef66-5a4b-88ad-788a4cfe5d2d"
+        },
+        {
+          "title": "Send corrected signature request",
+          "text": "Contact the client through the approved secure channel with clear instructions, the corrected form or signature page, and a brief explanation of what is needed. Avoid sending unnecessary pages containing sensitive information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb"
+        },
+        {
+          "title": "Advisor confirmation before resubmission",
+          "text": "Review the completed correction and confirm the package is ready for resubmission or escalation if the client has questions about the request.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5"
+        }
+      ],
+      "evidence": "The committed follow-up is to correct the authorization package by 2026-05-09."
+    },
+    {
+      "templateId": "432e4a09-cd76-510d-b173-4fe70356ef9a",
+      "title": "Recover Client Portal Access",
+      "text": "Restore Selena's Apricot Compass Advisory portal access after the multi-factor code failed following her mobile carrier change.",
+      "priority": null,
+      "dueDate": "2026-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to restore portal access by 2026-05-08."
+    },
+    {
+      "templateId": null,
+      "title": "Address 529 Successor Owner Discrepancy",
+      "text": "Address the discrepancy where the Velvet Acorn Custody 529 profile lists Calder as successor owner while Selena's estate binder identifies Amara Pebblefizz as the intended financial decision-maker.",
+      "priority": null,
+      "dueDate": "2026-05-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to address the discrepancy by 2026-05-16."
+    },
+    {
+      "templateId": null,
+      "title": "Check Financial Aid Parent Contact Documents",
+      "text": "Check supporting documents regarding Tin Sparrow University's aid portal listing Calder's email as the primary parent contact despite Nico's FAFSA using Selena's household information.",
+      "priority": null,
+      "dueDate": "2026-05-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to check the supporting documents by 2026-05-23."
+    },
+    {
+      "templateId": "8eca0f6f-5cda-5bef-b735-b8eb223908fa",
+      "title": "Track Custodian Transfer Status",
+      "text": "Monitor the status of Nico's Paper Otter Custody UTMA transfer to Velvet Acorn Custody which is currently pending review.",
+      "priority": "medium",
+      "dueDate": "2026-05-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to monitor the transfer by 2026-05-20."
+    },
+    {
+      "templateId": null,
+      "title": "Review Near-Term 529 Allocation",
+      "text": "Complete a risk and liquidity review of Nico's 529 account which remains heavily allocated to equities despite near-term tuition use.",
+      "priority": null,
+      "dueDate": "2026-05-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to complete that review by 2026-05-29."
+    },
+    {
+      "templateId": "9e10aee4-f276-52cb-be0c-39f25dd71780",
+      "title": "Review Concentrated Position",
+      "text": "Prepare a tax-aware sale range for Selena's Cloudberry Kite Biotech stock position to help cover education costs without selling the entire position at once.",
+      "priority": "medium",
+      "dueDate": "2026-06-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to prepare that sale range by 2026-06-12."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh Retirement Projection",
+      "text": "Refresh Selena's retirement projection accounting for Nico's college enrollment, Lila's private school costs, and the expected use of taxable assets.",
+      "priority": null,
+      "dueDate": "2026-06-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to refresh the retirement projection by 2026-06-19."
+    },
+    {
+      "templateId": null,
+      "title": "Compare Beneficiary Records to Estate Binder",
+      "text": "Complete a comparison of beneficiary records for retirement accounts, insurance policies, and education accounts against Selena's estate binder.",
+      "priority": null,
+      "dueDate": "2026-05-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to complete that comparison by 2026-05-27."
+    },
+    {
+      "templateId": null,
+      "title": "Review Cash Reserve Impact",
+      "text": "Review the impact of the combined education funding gap and Copper Firefly Contractors roof repair estimate on Selena's Teacup Comet Bank cash relative to her stated reserve target.",
+      "priority": null,
+      "dueDate": "2026-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to review that cash reserve impact by 2026-06-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Co-Parent Reimbursement Schedule",
+      "text": "Prepare a tracking schedule and document packet for eligible costs and proof of payment regarding Calder's reimbursement cap for Nico's college bill.",
+      "priority": null,
+      "dueDate": "2026-05-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to prepare that schedule and packet by 2026-05-23."
+    },
+    {
+      "templateId": null,
+      "title": "Review Insurance Coverage Alignment",
+      "text": "Complete a review of whether Selena's term life coverage amount, policy beneficiary records, and employer coverage still align with the children's needs given the divorce and education obligations.",
+      "priority": null,
+      "dueDate": "2026-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to complete that review by 2026-06-03."
+    }
+  ]
+}

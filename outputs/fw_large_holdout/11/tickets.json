@@ -1,0 +1,127 @@
+{
+  "meetingId": "11",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare first-year college funding schedule",
+      "text": "Prepare a funding schedule for Lila Pebblefizz’s first-year college costs, mapping the $79,400 tuition and fees against the $12,000 merit scholarship, the Lila 529 account balance of $103,800, the $42,500 checking cash reserve, and any remaining gap.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that first-year college funding schedule by 2025-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Lila 529 investment positioning review",
+      "text": "Prepare an investment positioning review for Lila Pebblefizz’s 529 account, valued at $103,800 and currently allocated 70% equity and 30% short‑term bond/cash, and develop risk‑reduction options before the next withdrawal decision.",
+      "priority": null,
+      "dueDate": "2025-02-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the Lila 529 investment positioning review by 2025-02-24."
+    },
+    {
+      "templateId": null,
+      "title": "Collect university aid and billing documents",
+      "text": "Collect the university aid and billing documents for Nadia Pebblefizz to confirm the net amount owed after the $12,000 merit scholarship toward Lila’s $79,400 first‑year cost.",
+      "priority": null,
+      "dueDate": "2025-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to collect the university aid and billing documents by 2025-02-18."
+    },
+    {
+      "templateId": null,
+      "title": "Address housing deposit credit mismatch",
+      "text": "Address the discrepancy where the housing deposit credit appears in the university payment portal but is absent from the printed student account statement for Lila Pebblefizz, confirming the correct remaining balance to fund.",
+      "priority": null,
+      "dueDate": "2025-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the housing deposit credit mismatch by 2025-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Address Owen’s locked 529 account access",
+      "text": "Address the identity‑verification lockout on Owen Pebblefizz’s Velvet Acorn Custody 529 account login, ensuring both parents can view the education account before withdrawal planning.",
+      "priority": null,
+      "dueDate": "2025-02-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address Owen’s locked 529 account access by 2025-02-17."
+    },
+    {
+      "templateId": null,
+      "title": "Reflect reduced work schedule cash flow",
+      "text": "Reflect the effect of Owen Pebblefizz’s reduced salary from $142,000 to $112,000 on the college cash‑flow projections for Lila Pebblefizz, adjusting the funding plan to preserve the six‑month emergency reserve.",
+      "priority": null,
+      "dueDate": "2025-03-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to reflect the effect of Owen’s reduced work schedule on college cash flow by 2025-03-03."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare payment plan and borrowing comparison",
+      "text": "Prepare a comparison of the university monthly payment plan, a home equity line draw up to $120,000, and a limited taxable brokerage sale to cover any first‑year shortfall for Lila Pebblefizz after scholarship and 529 funding.",
+      "priority": null,
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the payment plan and short-term borrowing comparison by 2025-03-10."
+    },
+    {
+      "templateId": "e5ca3fcb-f934-5129-bd26-df7987dc21bd",
+      "title": "Review concentrated position risk and planning choices",
+      "text": "Assess the concentrated holding, document the risk profile, identify tax-aware diversification options, and prepare recommendations suitable for Nadia Pebblefizz review. Include the position size, cost basis status, account registration, liquidity needs, restrictions, and any employer or insider-trading considerations using placeholders where client-specific facts will be added. Prepare the Silver Marmot Robotics stock concentration and tuition funding scenarios for Nadia Pebblefizz, using the $286,000 position value and $171,000 unrealized gain to fund Lila’s college shortfall without a large concentrated‑position reduction.",
+      "priority": "medium",
+      "dueDate": "2025-03-05",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather position facts and restrictions",
+          "text": "Collect current holding value, percentage of portfolio, account type, estimated cost basis, holding period, dividend or income profile, trading restrictions, blackout windows, and any pledged or restricted-share status.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "efbe58d1-6bfd-54b3-a7f9-fd9c22046941"
+        },
+        {
+          "title": "Model diversification and tax scenarios",
+          "text": "Compare potential sale, staged sale, charitable gifting, exchange fund, hedging, or hold strategies as applicable. Estimate tax impact, cash flow effect, and portfolio concentration change for each reasonable option.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "efbe58d1-6bfd-54b3-a7f9-fd9c22046941"
+        },
+        {
+          "title": "Prepare advisor recommendation summary",
+          "text": "Summarize key risks, viable strategies, tradeoffs, implementation requirements, and open questions for advisor review before client presentation.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c832e307-ebbe-5183-8f19-b2ba284474d8"
+        }
+      ],
+      "evidence": "The agreed follow-up is to prepare the Silver Marmot Robotics stock concentration and tuition funding scenarios by 2025-03-05."
+    },
+    {
+      "templateId": "20de386e-ad1c-5f93-aa1f-a8da447fe4f7",
+      "title": "Tax Document Collection Starter",
+      "text": "Coordinate the needed tax document list with the CPA for Nadia Pebblefizz, including the 2024 education‑related statements and the $8,000 gift from Iris Pebblefizz, to ensure all required information is provided for filing.",
+      "priority": null,
+      "dueDate": "2025-02-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate that needed tax document list with the CPA by 2025-02-19."
+    },
+    {
+      "templateId": null,
+      "title": "Address 529 successor‑owner alignment for Pebblefizz",
+      "text": "Address the alignment of the successor‑owner information on the Lila and Jonah 529 accounts with the estate documents naming Sera Bramblequill as the successor fiduciary for the children’s assets.",
+      "priority": null,
+      "dueDate": "2025-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address 529 successor-owner alignment by 2025-02-28."
+    }
+  ]
+}

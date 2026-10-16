@@ -1,0 +1,55 @@
+{
+  "meetingId": "863",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare college funding sources for Nia Dewspindle",
+      "text": "Compare funding options for Liora Dewspindle's household to cover Nia Dewspindle's first college year using her $74,600 529 balance at Velvet Acorn Custody, the $412,000 joint taxable brokerage account, expected bonus cash, and a limited sale of Cloudberry Kite Robotics shares, while preserving the $80,000 cash reserve floor.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2026-03-20 a comparison will be prepared of using Nia’s 529 balance, taxable brokerage assets, expected bonus cash, and a limited sale of Cloudberry Kite Robotics shares to cover the first-year college funding gap while preserving Liora’s stated cash reserve floor."
+    },
+    {
+      "templateId": null,
+      "title": "Select tuition payment method for Marzipan Meadow University",
+      "text": "Select the tuition payment method for Nia Dewspindle at Marzipan Meadow University, choosing between the portal's semester lump-sum payment and the monthly payment plan before the first bill can be processed.",
+      "priority": null,
+      "dueDate": "2026-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A tuition payment method selection is needed by 2026-04-15 because the Marzipan Meadow University portal offers a semester lump-sum payment or monthly payment plan, and the family has not chosen the method needed before the first bill can be processed."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain 529 account statements for Dewspindle household",
+      "text": "Obtain current statements for Nia Dewspindle's 529 account and Owen Dewspindle's 529 account at Velvet Acorn Custody, plus the grandparent-owned education account Dorian Dewspindle mentioned, to confirm account ownership, balances, and available distribution options.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Current statements for Nia’s 529 account, Owen’s 529 account, and a grandparent-owned education account Dorian mentioned are needed by 2026-03-18 because the planning file lacks them and account ownership, balances, and available distribution options cannot be confirmed."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Nia Dewspindle's 529 account balance",
+      "text": "Reconcile the $82,000 balance Liora Dewspindle's tuition spreadsheet lists for Nia Dewspindle's 529 account against the $74,600 shown on the Velvet Acorn Custody portal statement after a prior distribution, and identify the source of the difference.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the 529 balance by 2026-03-18 because Liora’s tuition spreadsheet lists Nia’s 529 balance at about $82,000, while the portal statement shows about $74,600 after a prior distribution, and the source of the difference was not identified during the call."
+    },
+    {
+      "templateId": null,
+      "title": "Review college cost worksheet for Dewspindle household",
+      "text": "Review the college cost worksheet for Liora and Dorian Dewspindle, separating scholarship aid, required technology costs, housing charges, and tuition so it is clear which amounts should be matched to education account distributions and which records should be retained for tax reporting.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed that by 2026-03-24 the college cost worksheet will be reviewed because Elena’s review found scholarship aid, required technology costs, housing charges, and tuition grouped together, making it unclear which amounts should be matched to education account distributions and which recor"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"134\", \"tickets\": [{\"title\": \"Restore access and activate app-MFA for logins\", \"text\": \"Restore Adrian Lanternmoss's failed-reset access and activate app-based MFA for his Apricot Compass Advisory and Velvet Acorn Custody logins, using the error screenshot and his correct primary email. He prefers phone confirmation before any changes or money movement over $10,000.\", \"priority\": null, \"dueDate\": \"2024-11-08\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"Agreed: by 2024-11-08, restore failed-reset access and activate app-MFA for Apricot/Velvet logins, using error-screenshot/correct-primary email;\" , \"templateId\": null}, {\"title\": \"Verify Moonbadger ACH deposits and restrict money movement\", \"text\": \"Verify the unfamiliar Moonbadger Credit Union ACH micro-deposits and external links on Adrian Lanternmoss's accounts, restrict new-money movement, and confirm withdrawal settings. Adrian stated he holds no account at Moonbadger Credit Union.\", \"priority\": null, \"dueDate\": \"2024-11-07\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"by 2024-11-07, verify unfamiliar Moonbadger Credit Union ACH micro-deposits/external links, restrict new-money movement, confirm withdrawal settings; Adrian said no account there.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 1271,
+    "output_tokens": 336,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2123
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+  "meetingId": "599",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update household profile and route information",
+      "text": "Update the household profile for Nolan Pebblefizz and Lena Pebblefizz, routing the new address and residency information to all relevant custodians and statement providers.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "Address and residency record work was completed after Nolan asked Mira Quillwhistle and Apricot Compass Advisory to update the household profile and route new information because several statements still showed Oregon."
+    }
+  ]
+}

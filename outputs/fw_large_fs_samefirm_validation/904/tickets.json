@@ -1,0 +1,55 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete inherited account beneficiary package",
+      "text": "Complete the inherited IRA and taxable brokerage beneficiary package for Elian Thimblefern, using the packets from Velvet Acorn Custody and ensuring all required paperwork is finalized for the estate transfer.",
+      "priority": null,
+      "dueDate": "2024-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain date-of-death valuation support",
+      "text": "Obtain custodian valuation statements and a lake cabin appraisal for Elian Thimblefern to support the date-of-death valuation needed for the inherited asset basis records.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Date-of-death valuation support is needed because the memo lists estimated inherited asset values, but Elian does not yet have supporting custodian valuation statements or cabin appraisal materials needed to preserve basis records."
+    },
+    {
+      "templateId": null,
+      "title": "Clarify lake cabin ownership percentage",
+      "text": "Clarify the ownership percentage of the lake cabin for Elian Thimblefern, reconciling the 35% interest listed in the estate memo with the one-third ownership indicated in the property tax email.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lake cabin ownership percentage clarification is needed because the memo lists a 35% cabin interest for Elian, while a property tax email shared by Nessa describes the siblings as equal one-third owners."
+    },
+    {
+      "templateId": "b69561c0-d94b-5366-9da1-17d83160108e",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Review the client’s financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items. Confirm whether new facts require updated recommendations or a follow-up meeting agenda.\nRefresh the post‑inheritance financial plan for Elian Thimblefern to incorporate the newly inherited brokerage, IRA, and lake cabin assets, and adjust retirement timing, cash reserve, tax picture, and investment allocation.",
+      "priority": "medium",
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "the agreed post-inheritance plan refresh is due 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate arrangement after family changes",
+      "text": "Review Elian Thimblefern’s estate documents, updating fiduciary designations and coordinating the newly inherited assets, including the lake cabin interest, to reflect current family circumstances.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed estate arrangement review after family changes is due 2024-03-08."
+    }
+  ]
+}

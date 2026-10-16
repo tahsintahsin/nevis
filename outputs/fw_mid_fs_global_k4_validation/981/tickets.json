@@ -1,0 +1,145 @@
+{
+  "meetingId": "981",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Resolve mortgage payment source after automatic payment profile tied to deceased spouse's credentials",
+      "text": "Determine whether the household mortgage payment at Teacup Comet Bank should continue from the current profile or be redirected to a smaller dedicated cash account following the automatic payment profile being tied to Adrian Mossbutton's individual banking credentials. Consider Elena's preference to avoid irreversible decisions while survivor administration is underway.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A recent servicer notice indicates the automatic payment profile is tied to Adrian’s individual banking credentials rather than Elena’s current Teacup Comet Bank access, so the agreed follow-up on the mortgage payment source is due 2025-01-31."
+    },
+    {
+      "templateId": "ddf43168-2732-55bc-b8cc-9d9c9342d023",
+      "title": "Review concentrated investment position",
+      "text": "Review the $286,000 Copper Firefly Systems position in Elena Mossbutton's joint taxable brokerage account at Velvet Acorn Custody for portfolio risk, tax exposure, liquidity needs, and available transition strategies. Gather cost basis, holding period, unrealized gain or loss, and any restrictions before recommending next steps.",
+      "priority": "high",
+      "dueDate": "2025-02-28",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "Portfolio review showed the single-stock position is a large portion of the taxable account and may affect survivor liquidity, diversification, and tax planning; the agreed follow-up on the Copper Firefly Systems stock concentration is due 2025-02-28."
+    },
+    {
+      "templateId": null,
+      "title": "Complete joint brokerage account retitling for survivor administration",
+      "text": "Confirm title, transfer-on-death records, and cost basis handling for the Velvet Acorn Custody taxable account that remains jointly registered. Complete retitling steps required for survivor administration.",
+      "priority": null,
+      "dueDate": "2025-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Velvet Acorn Custody taxable account remains jointly registered, and survivor administration requires confirmation of title, transfer-on-death records, and cost basis handling; the agreed follow-up on joint brokerage account retitling is due 2025-02-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review and update beneficiary records on Elena's accounts",
+      "text": "Review and update beneficiary designations on Elena's traditional IRA and Paper Otter Analytics group life enrollment at Velvet Acorn Custody. Currently Adrian is listed as primary beneficiary on both records; confirm intended designations and update records.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena’s IRA beneficiary record at Velvet Acorn Custody lists Adrian as primary beneficiary and Clara Mossbutton and Milo Mossbutton as equal contingent beneficiaries, and Elena’s Paper Otter Analytics group life enrollment record lists Adrian as primary beneficiary. Review of current records showed "
+    },
+    {
+      "templateId": null,
+      "title": "Compare available spouse beneficiary choices for Adrian's employer retirement plan",
+      "text": "Compare available spouse beneficiary choices for Adrian's Moonbadger Robotics 401(k) plan before paperwork is submitted. The plan balance is material to the survivor plan and Elena wants to review the options.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Adrian’s Moonbadger Robotics 401(k) balance is material to the survivor plan, and Elena wants the available spouse beneficiary choices compared before paperwork is submitted; the agreed follow-up on Adrian’s employer retirement plan survivor options is due 2025-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Review Adrian's IRA registration and distribution path",
+      "text": "Review Adrian's Velvet Acorn Custody IRA registration and distribution planning options before Elena selects an account path. The IRA now requires surviving-spouse titling choices and related distribution planning.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Adrian’s Velvet Acorn Custody IRA now requires surviving-spouse titling choices and related distribution planning before Elena selects an account path; the agreed follow-up on Adrian’s IRA registration and distribution review is due 2025-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve restricted stock unit count discrepancy",
+      "text": "Obtain a written equity ledger to reconcile the different restricted stock unit counts shown in the Moonbadger Robotics employee portal screenshot and HR phone summary. The 900 vested and 1,200 unvested units shown in the screenshot must be confirmed before income and estate values can be modeled.",
+      "priority": null,
+      "dueDate": "2025-02-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The employee portal screenshot and HR phone summary show different restricted stock unit counts, so a written equity ledger is required before income and estate values can be modeled; this unresolved equity records issue is needed by 2025-02-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Social Security survivor benefit preparation checklist",
+      "text": "Prepare a checklist of records for Elena Mossbutton's survivor benefit appointment, including marriage evidence, Adrian's work history, and her own earnings information.",
+      "priority": null,
+      "dueDate": "2025-02-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena asked for a checklist of records to bring to a survivor benefit appointment, including marriage evidence, Adrian’s work history, and her own earnings information; the agreed follow-up on Social Security survivor benefit preparation is due 2025-02-12."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare survivor retirement income snapshot",
+      "text": "Prepare an updated income projection for Elena Mossbutton that reflects one salary, possible survivor benefits, retirement age alternatives, cash reserves, and IRA withdrawal sequencing.",
+      "priority": null,
+      "dueDate": "2025-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena also wants an updated income projection that reflects one salary, possible survivor benefits, retirement age alternatives, cash reserves, and IRA withdrawal sequencing; the agreed follow-up for the survivor retirement income snapshot is due 2025-03-14."
+    },
+    {
+      "templateId": null,
+      "title": "Organize Silver Marmot Life Insurance claim package",
+      "text": "Organize the Silver Marmot Life Insurance claim using the policy number, beneficiary evidence, and required claimant statement. The policy has a $750,000 death benefit with Elena listed as primary beneficiary.",
+      "priority": null,
+      "dueDate": "2025-02-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Adrian had a Silver Marmot Life Insurance term policy with a $750,000 death benefit and Elena listed as primary beneficiary. Elena asked for help organizing the Silver Marmot Life Insurance claim using the policy number, beneficiary evidence, and required claimant statement; the agreed follow-up on "
+    },
+    {
+      "templateId": null,
+      "title": "Clean up employer benefit enrollment records",
+      "text": "Update Silver Marmot Life Insurance long-term care policy records and employer benefits records to remove Adrian from spouse-related elections and beneficiary fields. The employer benefits team has a short internal update window.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena has a Silver Marmot Life Insurance long-term care policy with a $4,200 monthly benefit and an annual premium of $2,950. Paper Otter Analytics benefits records still show Adrian on spouse-related elections and beneficiary fields, and the employer benefits team has a short internal update window"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain certified death certificate",
+      "text": "Obtain certified copies of Adrian Mossbutton's death certificate. Several financial institutions and benefit providers require certified copies, while Elena currently has only the hospital notice and funeral home receipt.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Several financial institutions and benefit providers require certified copies of Adrian’s death certificate, while Elena currently has only the hospital notice and funeral home receipt. Certified death certificate availability remains an unresolved follow-up needed by 2025-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Collect prior-year and final-year tax documents",
+      "text": "Collect wage forms, brokerage tax statements, final pay information, and expected estate-related tax items for coordination with Clockwork Clover Tax. The planning file is missing these documents for the prior and final tax years.",
+      "priority": null,
+      "dueDate": "2025-03-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The planning file is missing wage forms, brokerage tax statements, final pay information, and expected estate-related tax items for coordination with Clockwork Clover Tax; the agreed follow-up on prior-year and final-year tax document collection is due 2025-03-07."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate attorney review of 2018 estate documents",
+      "text": "Coordinate with Pocket Lantern Law to identify which provisions of the 2018 estate documents now control, given that the documents name Adrian in several primary fiduciary roles and Elena wants to understand the current applicability.",
+      "priority": null,
+      "dueDate": "2025-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The couple’s estate documents were prepared in 2018 by Hallie Thimblefern of Pocket Lantern Law and include wills, revocable trusts, financial powers of attorney, and health care directives."
+    }
+  ]
+}

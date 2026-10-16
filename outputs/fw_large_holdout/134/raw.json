@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"134\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Restore access and activate MFA\",\n\"text\": \"Restore Adrian Lanternmoss's failed-reset access and activate app-based multi-factor authentication for his Apricot Compass Advisory and Velvet Acorn Custody logins, using the provided error screenshot and updating the primary email address.\",\n\"priority\": null,\n\"dueDate\": \"2024-11-08\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"by 2024-11-08, restore failed-reset access and activate app-MFA for Apricot/Velvet logins, using error-screenshot/correct-primary email\"\n},\n{\n\"templateId\": null,\n\"title\": \"Verify ACH links and restrict movement\",\n\"text\": \"Verify the unfamiliar Moonbadger Credit Union ACH micro-deposits and external links for Adrian Lanternmoss, restrict any new money movement, and confirm his withdrawal settings, noting that he has no account there.\",\n\"priority\": null,\n\"dueDate\": \"2024-11-07\",\n\"assigneeId\": null,\n\"subTasks\": [\n{\n\"title\": \"Verify Moonbadger ACH micro-deposits\",\n\"text\": \"Verify the unfamiliar Moonbadger Credit Union ACH micro-deposits and external links for Adrian Lanternmoss.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Restrict new-money movement\",\n\"text\": \"Restrict any new money movement for Adrian Lanternmoss.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Confirm withdrawal settings\",\n\"text\": \"Confirm withdrawal settings for Adrian Lanternmoss.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n}\n],\n\"evidence\": \"by 2024-11-07, verify unfamiliar Moonbadger Credit Union ACH micro-deposits/external links, restrict new-money movement, confirm withdrawal settings\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3686,
+    "output_tokens": 1944,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

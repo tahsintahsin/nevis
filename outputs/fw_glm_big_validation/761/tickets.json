@@ -1,0 +1,75 @@
+{
+  "meetingId": "761",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble survivor administration packet",
+      "text": "Assemble the core survivor administration packet for Galen Thimblefern after the death of Rhea Thimblefern on 2024-10-18, consisting of the death certificate, the 2016 will, and the current household account list, for custodian, bank, and insurer notifications.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For survivor administration packet assembly, the death certificate, 2016 will, and current household account list were identified as the core packet for custodian, bank, and insurer notifications after Rhea’s death; the agreed follow-up is due 2024-11-08."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Paper Otter Publishing benefits documents",
+      "text": "Collect Rhea Thimblefern’s employer benefits documents from Paper Otter Publishing HR, including the employer life insurance claim forms and 401(k) distribution paperwork; Galen Thimblefern has the final paystub and provided the HR contact information for outreach.",
+      "priority": null,
+      "dueDate": "2024-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Paper Otter Publishing benefits document collection, Galen had Rhea’s final paystub but not the employer life insurance claim forms or 401(k) distribution paperwork, and he provided the HR contact information for document outreach; the agreed follow-up is due 2024-11-12."
+    },
+    {
+      "templateId": "b275fa13-e6fe-5f38-81f0-5815535a56e6",
+      "title": "Access Recovery Request",
+      "text": "Recover online bill-pay access for Galen Thimblefern at Teacup Comet Bank: authentication still routes to Rhea Thimblefern’s mobile number and blocks changes to household utility payees. Mailed statements show the joint checking balance, so the fix is limited to re-routing authentication and restoring payee management.",
+      "priority": null,
+      "dueDate": "2024-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Teacup Comet Bank bill-pay access recovery, mailed statements showed the joint checking balance, but online bill-pay authentication still routed to Rhea’s mobile number and blocked changes to household utility payees; the agreed follow-up is due 2024-11-06."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Velvet Acorn Custody registration evidence",
+      "text": "Reconcile the registration evidence for the joint taxable account at Velvet Acorn Custody for Galen Thimblefern: custody records show joint tenants while the household estate binder describes the account as transfer-on-death to Lina Thimblefern. Resolve the discrepancy before any claims are submitted.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Velvet Acorn Custody registration reconciliation, custody records showed the joint taxable account as joint tenants, while the household estate binder described the same account as transfer-on-death to Lina, and Galen asked for the account registration evidence to be reconciled before claims are"
+    },
+    {
+      "templateId": "c2779699-232b-57db-b0a8-994a3ad6251e",
+      "title": "Collect Tax Documents for Planning Review",
+      "text": "Request, track, and organize tax documents needed for planning review. Include applicable items such as prior-year tax return, current paystubs, estimated tax vouchers, 1099s, K-1s, charitable giving records, realized gain/loss reports, retirement contribution records, and notices from the IRS or state tax authority. Use secure upload instructions and note any missing items for advisor follow-up. Gather Galen Thimblefern’s current income, withholding, charitable giving, estimated payment, and realized gain reports requested by Nadia Pebblefizz of Pocket Lantern Tax for the survivor-year tax projection; the 2023 joint return showed $162,000 AGI with $3,200 quarterly estimated payments.",
+      "priority": "medium",
+      "dueDate": "2024-11-22",
+      "assigneeId": "d8b6c5e7-1b71-5fdb-b6ff-5bb2d48617d8",
+      "subTasks": [],
+      "evidence": "For the survivor-year tax document package, Nadia Pebblefizz requested current income, withholding, charitable giving, estimated payment, and realized gain reports for Galen’s survivor-year tax projection; the agreed follow-up is due 2024-11-22."
+    },
+    {
+      "templateId": "616fb00d-e58e-5578-bfe6-01f5ab99768c",
+      "title": "Build Retirement Income Plan Checklist",
+      "text": "Complete these checks before presenting a retirement income plan:\n\n- Confirm planned retirement timing, employment status, and expected lifestyle changes.\n- Verify essential spending, discretionary spending, one-time goals, and emergency reserve needs.\n- Inventory income sources, including Social Security, pensions, annuities, rental income, part-time income, and portfolio withdrawals.\n- Review account types and tax character across taxable, tax-deferred, Roth, HSA, and cash reserves.\n- Model withdrawal sequencing and identify tax-aware distribution opportunities.\n- Check Medicare, health insurance, long-term care, and insurance premium assumptions.\n- Review required minimum distribution timing where applicable.\n- Evaluate inflation assumptions and stress-test market downturn scenarios.\n- Confirm beneficiary designations and estate planning coordination items.\n- Document open questions, missing evidence, and recommended next steps for advisor review.\n\nRefresh Galen Thimblefern’s retirement income model with updated survivor income, Medicare premiums, cash reserves, and portfolio withdrawal assumptions; the current spending file still includes Rhea Thimblefern’s employer medical premiums and income. Survivor income is a $3,240 gross monthly state pension and $2,150 gross monthly Social Security against about $6,800 per month of household spending.",
+      "priority": "high",
+      "dueDate": "2024-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the retirement income model refresh, Tobin’s review showed the spending file still included Rhea’s employer medical premiums and income, so updated survivor income, Medicare premiums, cash reserves, and portfolio withdrawal assumptions were identified as inputs for the next plan version; the agr"
+    },
+    {
+      "templateId": "ec95858f-0b1b-5ac5-9396-1be6809f1ffc",
+      "title": "Review Concentrated Position Exposure",
+      "text": "Assess position size, cost basis, holding period, tax impact, liquidity needs, employer or insider restrictions, diversification targets, and available sale, hedge, gifting, or charitable strategies. Review the approximately $260,000 Moonbadger Industrial Systems stock position in Galen Thimblefern’s joint taxable account at Velvet Acorn Custody, covering staged sale, charitable gifting, and tax-impact options; Galen does not want a rushed decision during estate administration.",
+      "priority": "medium",
+      "dueDate": "2024-12-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Moonbadger Industrial Systems position analysis, Galen asked for a staged sale, charitable gifting, and tax-impact review because the holding remains a large part of the taxable account and he does not want a rushed decision during estate administration; the agreed follow-up is due 2024-12-13."
+    }
+  ]
+}

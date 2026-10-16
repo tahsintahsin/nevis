@@ -1,0 +1,75 @@
+{
+  "meetingId": "159",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate Address Updates Across Advisory Records",
+      "text": "Coordinate address updates for Nolan Pebblefizz and Elise Pebblefizz across advisory records, custodian profiles, statement delivery settings, beneficiary records, and tax mailing preferences, since several providers still show the former Oregon address.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nolan asked Apricot Compass Advisory to help coordinate address updates across advisory records, custodian profiles, statement delivery settings, beneficiary records, and tax mailing preferences because several providers still show the former Oregon address."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn Custody Address Update Problem",
+      "text": "Resolve the Velvet Acorn Custody address update problem for Nolan Pebblefizz, whose online address change was rejected because the system could not verify the new Durham address, leaving statements and security notices tied to the old Oregon mailing record.",
+      "priority": null,
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nolan reported that Velvet Acorn Custody rejected an online address change after its system could not verify the new Durham address, leaving statements and security notices tied to the old Oregon mailing record. The agreed follow-up is to address that custodian update problem by 2025-04-16."
+    },
+    {
+      "templateId": "f5286f1b-d273-53aa-86ac-8930bce13b82",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Complete the following placeholders for benefits enrollment review:\n\nEmployee name: Nolan Pebblefizz\nEmployer or plan sponsor: Moonbadger Systems\nEnrollment period or qualifying event: [Enrollment period or qualifying event]\nBenefit year: [Benefit year]\nHousehold members to consider: Nolan Pebblefizz, Elise Pebblefizz, Rowan Pebblefizz, Celia Pebblefizz\nMedical plan options available: [Medical plan options]\nDental and vision options: [Dental and vision options]\nHealth savings account or flexible spending account eligibility: [HSA/FSA eligibility]\nEmployer retirement plan contribution election: [Contribution election]\nEmployer match details: [Employer match details]\nLife and disability insurance options: [Insurance options]\nKey questions or tradeoffs: [Questions]\nDocuments received: [Documents received]\nRecommended follow-up: [Recommended follow-up]\n\nReview Nolan Pebblefizz's new employer benefits at Moonbadger Systems, including medical coverage, HSA participation, disability coverage, group life coverage, and the new 401(k) contribution rate, none of which have been selected yet.",
+      "priority": "medium",
+      "dueDate": "2025-04-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "he has not yet selected medical coverage, HSA participation, disability coverage, group life coverage, or the new 401(k) contribution rate for the household. Follow-up on the new employer benefits review is needed by 2025-04-25."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Moonbadger Systems Benefits Enrollment Documents",
+      "text": "Obtain the Moonbadger Systems enrollment guide, premium schedule, HSA eligibility notes, and disability policy summary for Nolan Pebblefizz, who could only describe the benefit choices verbally during the meeting.",
+      "priority": null,
+      "dueDate": "2025-04-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nolan could describe the benefit choices verbally but did not have the Moonbadger Systems enrollment guide, premium schedule, HSA eligibility notes, or disability policy summary available during the meeting, so benefits enrollment evidence is needed by 2025-04-11."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Prior 401(k) Rollover Comparison",
+      "text": "Prepare a comparison for Nolan Pebblefizz of whether to keep the prior employer 401(k) at Velvet Acorn Custody, move it to the Moonbadger Systems plan, or roll it into an IRA, covering investment menu, costs, creditor protection, and household cash-flow effects.",
+      "priority": null,
+      "dueDate": "2025-05-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nolan requested a comparison that includes investment menu, costs, creditor protection considerations, and household cash-flow effects. The agreed follow-up is to prepare that comparison by 2025-05-02."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate State Residency and Withholding",
+      "text": "Coordinate state residency and withholding for Nolan Pebblefizz and Elise Pebblefizz, since the first Moonbadger Systems paystub shows North Carolina withholding while a recent Paper Otter Publishing paystub for Elise still shows Oregon withholding, mismatching the family's current residence.",
+      "priority": null,
+      "dueDate": "2025-04-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "a recent Paper Otter Publishing paystub for Elise still shows Oregon withholding, creating a mismatch with the family’s current residence and expected tax filing position. Follow-up on state residency and withholding coordination is needed by 2025-04-30."
+    },
+    {
+      "templateId": null,
+      "title": "Review Estate Documents After Jurisdiction Change",
+      "text": "Review the 2018 Oregon estate documents for Nolan Pebblefizz and Elise Pebblefizz, which still name Oregon-based witnesses and fiduciary contact information and name Tessa Pebblefizz as successor guardian, now that the family owns a North Carolina residence with minor children.",
+      "priority": null,
+      "dueDate": "2025-05-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review found that the 2018 Oregon estate documents still name Oregon-based witnesses and fiduciary contact information, and the family now owns a North Carolina residence with minor children in the household. Follow-up on estate documents after the jurisdiction change is needed by 2025-05-09."
+    }
+  ]
+}

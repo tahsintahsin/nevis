@@ -1,0 +1,87 @@
+{
+  "meetingId": "563",
+  "tickets": [
+    {
+      "templateId": "8b975178-4377-5a72-9498-ef5109688811",
+      "title": "Review debt refinance opportunity",
+      "text": "Compare keeping the adjustable mortgage after the rate reset (from 4.125% to 7.375%, payment increasing to about $4,920) against a fixed-rate refinance quote. Include payment change, closing costs, break-even period, cash reserve impact, and fit with the household’s retirement contribution goal.",
+      "priority": "medium",
+      "dueDate": "2026-04-29",
+      "assigneeId": "ea2ae5af-1784-5dd7-bcd9-4499cc18d130",
+      "subTasks": [
+        {
+          "title": "Gather current and proposed loan details",
+          "text": "Collect current balance, rate type, interest rate, payment, remaining term, prepayment penalties, collateral details, and proposed refinance terms from the client or lender.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "78c72d9a-42b1-5f04-988f-6d410a5f1f57"
+        },
+        {
+          "title": "Model cash-flow and break-even impact",
+          "text": "Compare monthly payment change, total interest cost, closing costs, break-even period, and liquidity impact under the current and proposed debt structures.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "06b7e934-9ce9-5a0b-957c-7634f18d4e13"
+        },
+        {
+          "title": "Prepare advisor recommendation summary",
+          "text": "Summarize pros, cons, planning tradeoffs, open questions, and whether the refinance appears aligned with the client's goals and risk profile.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ea2ae5af-1784-5dd7-bcd9-4499cc18d130"
+        }
+      ],
+      "evidence": "Mira asked Apricot Compass Advisory to compare keeping the adjustable mortgage after the reset against a fixed-rate refinance quote, including payment change, closing costs, break-even period, cash reserve impact, and fit with the household’s retirement contribution goal; the agreed follow-up is due"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile home equity line balance discrepancy",
+      "text": "Reconcile the difference between the Teacup Comet Bank portal balance and the paper statement for the home equity line of credit, estimated at $86,500. The portal showed a higher balance; resolve before any debt repayment schedule or consolidation analysis.",
+      "priority": null,
+      "dueDate": "2026-04-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira reported that the Teacup Comet Bank portal showed a higher home equity line balance than the paper statement she brought to the meeting; reconciling the difference is needed by 2026-04-22 before any debt repayment schedule or consolidation analysis is reliable."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare debt repayment and refinancing comparison",
+      "text": "Prepare a comparison of paying the current credit card balance from savings, selling part of the taxable brokerage position, using RSU vest proceeds, or rolling the balance into a broader debt restructure. Include attention to cash reserve limits and concentration risk.",
+      "priority": null,
+      "dueDate": "2026-05-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira asked for a comparison of paying the current card balance from savings, selling part of the taxable brokerage position, using RSU vest proceeds, or rolling the balance into a broader debt restructure, with attention to cash reserve limits and concentration risk; that comparison was agreed for 2"
+    },
+    {
+      "templateId": "014f22b3-2adc-53a7-944b-141688d29b12",
+      "title": "Tax Notice Triage",
+      "text": "Organize the state income tax notice Mira received, confirm what supporting payment records are available, and coordinate a clean copy to the CPA at Copper Firefly Tax Services once Mira provides permission.",
+      "priority": null,
+      "dueDate": "2026-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira reported receiving a state income tax notice related to estimated payments and said their CPA at Copper Firefly Tax Services has not yet seen the notice. Mira asked the advisory team to help organize the notice, confirm what supporting payment records are available, and coordinate a clean copy "
+    },
+    {
+      "templateId": "06ce3b8f-97db-50d6-b568-9379f45c3196",
+      "title": "Resolve account access recovery issue",
+      "text": "Help Mira regain access to the secure document vault from her phone. The portal access recovery was agreed for 2026-04-17 after Mira could not open the secure document vault from her phone during the meeting, preventing her from uploading the reset packet, HELOC statement, and state tax notice.",
+      "priority": "high",
+      "dueDate": "2026-04-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira could not open the secure document vault from her phone during the meeting, preventing her from uploading the reset packet, HELOC statement, and state tax notice without using regular email; portal access recovery was agreed for 2026-04-17."
+    },
+    {
+      "templateId": null,
+      "title": "Update estate documents to reflect current guardian nomination",
+      "text": "Revisit attorney coordination to update the guardian nomination in the wills, which currently name Tobin’s brother and may no longer reflect the couple's current family relationships. The estate document update timing was deferred, with no current commitment or due date.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira and Tobin last signed wills in 2016, naming Tobin’s brother as successor guardian, and Mira said the guardian choice may no longer reflect their current family relationships. They discussed the outdated guardian nomination and decided to revisit attorney coordination after the refinance decisio"
+    }
+  ]
+}

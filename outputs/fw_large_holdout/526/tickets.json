@@ -1,0 +1,85 @@
+{
+  "meetingId": "526",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Open support case to suppress duplicate",
+      "text": "Open a support case for Nora Willowdoodle to suppress the duplicate taxable joint account display in the planning portal and confirm reconciliation with Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2026-03-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to open a support case, suppress the duplicate display while the case is pending, and confirm when the portal view reconciles to the custodian statement by March 17, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Trace IRA contribution and confirm year",
+      "text": "Trace the recent IRA contribution movement for Nora Willowdoodle with Velvet Acorn Custody, verify it is coded to the correct tax year, and report findings.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to trace the movement with the custodian, confirm whether it was coded to the correct tax year, and report back before Nora’s next estimated tax package is finalized, by March 20, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Request fresh trust certification for retitling",
+      "text": "Request a fresh trust certification from Petra Maplesprocket for the cabin reserve account retitling and resubmit the packet for Nora Willowdoodle.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to request a fresh copy from Petra’s office and resubmit the retitling packet once received, by March 24, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Verify beneficiary record and prepare forms",
+      "text": "Verify the IRA beneficiary record for Nora Willowdoodle with Velvet Acorn Custody, prepare corrected forms if needed, and explain the discrepancy in the next status note.",
+      "priority": null,
+      "dueDate": "2026-03-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to verify the custodian record, prepare corrected beneficiary forms if the custodian display is accurate, and explain the discrepancy in the next status note by March 31, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm new transfer instructions and test",
+      "text": "Confirm the new receiving instructions for Iris Thimblefern’s assisted‑living support transfer, test the external setup, and document the revised payment path for Nora Willowdoodle.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to help confirm the new receiving instructions, test the updated external transfer setup, and document the revised payment path in the household service notes by March 18, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Compile realized gains and send package",
+      "text": "Compile realized gains, dividends, interest, and withholding figures from custodial records for Nora Willowdoodle and send the tax data package for CPA review.",
+      "priority": null,
+      "dueDate": "2026-03-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compile realized gain, dividend, interest, and withholding figures from available custodial records and send the package to Nora for review before it goes to the CPA, by March 27, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Disable stale bank link and confirm",
+      "text": "Disable the stale external link to Pocket Lantern Bank in the custodian profile and confirm that only current Teacup Comet Bank instructions remain for Nora Willowdoodle.",
+      "priority": null,
+      "dueDate": "2026-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to work with the custodian to disable the stale link and confirm that only current Teacup Comet Bank instructions remain available by March 21, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Send consolidated service update portal",
+      "text": "Send a single secure portal message to Nora Willowdoodle summarizing all service updates, including duplicate feed, IRA trace, retitling, beneficiary verification, transfer setup, tax data package, and bank‑link cleanup.",
+      "priority": null,
+      "dueDate": "2026-03-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is for Apricot Compass Advisory to send one secure portal message summarizing the duplicate feed, IRA contribution trace, retitling packet, beneficiary verification, transfer setup, tax data package, and stale bank-link cleanup by March 28, 2026."
+    }
+  ]
+}

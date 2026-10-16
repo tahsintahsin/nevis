@@ -1,0 +1,125 @@
+{
+  "meetingId": "264",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Check funding and release requirements for renovation transfer",
+      "text": "Check funding and release requirements for the $75,000 transfer from the joint taxable account at Velvet Acorn Custody to the Teacup Comet Bank checking account to cover the first kitchen renovation draw.",
+      "priority": null,
+      "dueDate": "2024-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to check funding and release requirements by 2024-05-08."
+    },
+    {
+      "templateId": null,
+      "title": "Establish recurring monthly transfer for household spending",
+      "text": "Establish a $12,000 monthly transfer from the joint taxable account at Velvet Acorn Custody to the household checking account at Teacup Comet Bank for ordinary spending while Lila reduces summer hours.",
+      "priority": null,
+      "dueDate": "2024-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to establish the recurring transfer by 2024-05-15."
+    },
+    {
+      "templateId": null,
+      "title": "Correct destination evidence for linked bank instructions",
+      "text": "Correct destination evidence for the linked bank instructions, as custodian records list checking account ending 4482 while Adrian read back an online banking number ending 4824.",
+      "priority": null,
+      "dueDate": "2024-05-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "correct destination evidence is needed by 2024-05-03."
+    },
+    {
+      "templateId": null,
+      "title": "Perform operations review on prior distribution delay",
+      "text": "Perform an operations review to determine whether a hold, coding issue, or bank processing issue was involved in the prior distribution to Teacup Comet Bank that took four business days.",
+      "priority": null,
+      "dueDate": "2024-05-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is an operations review by 2024-05-07 to determine whether a hold, coding issue, or bank processing issue was involved."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare sale estimate and coordinate with CPA for lot selection",
+      "text": "Prepare a sale estimate and coordinate with the CPA before final lot selection for funding the requested cash movements from appreciated taxable positions, noting that gains could be materially above the planning model.",
+      "priority": null,
+      "dueDate": "2024-05-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare a sale estimate and coordinate with the CPA before final lot selection by 2024-05-13."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare concentration snapshot of Moonbadger Systems exposure",
+      "text": "Prepare a concentration snapshot of Moonbadger Systems exposure across salary, restricted stock units, options, and 401(k) holdings to decide which taxable lots or company shares to sell.",
+      "priority": null,
+      "dueDate": "2024-05-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare a concentration snapshot by 2024-05-22 before deciding which taxable lots or company shares to sell."
+    },
+    {
+      "templateId": null,
+      "title": "Compare home equity and refinance options for renovation funding",
+      "text": "Compare the unused Teacup Comet Bank home equity line of credit and a new refinance quote as potential renovation funding sources against additional taxable-account sales.",
+      "priority": null,
+      "dueDate": "2024-05-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare the home equity and refinance options by 2024-05-20."
+    },
+    {
+      "templateId": null,
+      "title": "Create month-by-month cash schedule for short-term obligations",
+      "text": "Create a month-by-month cash schedule for the tuition installment, property-tax bill, and renovation draw to avoid relying on emergency reserves.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "a month-by-month cash schedule is needed by 2024-05-10 to avoid relying on emergency reserves."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain contractor draw schedule for remaining project payments",
+      "text": "Obtain the contractor's draw schedule from Buttonwood Balloon Builders to resolve the exact cash timing for the remaining project payments.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the draw schedule is needed by 2024-05-10."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain caregiver reimbursement and apartment deposit support details",
+      "text": "Obtain monthly range, timing, and whether gifts or loans are intended for Orla Dewspindle's move near the household to support possible caregiver reimbursement and apartment deposit.",
+      "priority": null,
+      "dueDate": "2024-05-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain monthly range, timing, and whether gifts or loans are intended by 2024-05-24."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Silver Marmot Assurance insurance renewal packet",
+      "text": "Obtain the Silver Marmot Assurance renewal pages and current coverage limits for the homeowner and umbrella bundle, which were not in the portal.",
+      "priority": null,
+      "dueDate": "2024-05-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the insurance renewal packet is needed by 2024-05-17."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain state tax notice materials for estimated-payment mismatch",
+      "text": "Obtain the complete state tax notice pages and instructions regarding the estimated-payment mismatch and response window referenced by Adrian.",
+      "priority": null,
+      "dueDate": "2024-05-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the state tax notice materials are needed by 2024-05-06."
+    }
+  ]
+}

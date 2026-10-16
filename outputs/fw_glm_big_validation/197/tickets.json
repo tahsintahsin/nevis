@@ -1,0 +1,55 @@
+{
+  "meetingId": "197",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate rejected IRA transfer address exception",
+      "text": "Coordinate with Paper Otter Retirement Services and Velvet Acorn Custody on the rejected rollover request for Selma Copperwisp, which was rejected because the former Silver Marmot Robotics plan address differed from her current residential address.",
+      "priority": null,
+      "dueDate": "2026-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Selma asked for coordination with Paper Otter Retirement Services and Velvet Acorn Custody after the rollover request was rejected because the former plan address differed from her current residential address. The agreed follow-up is to coordinate the exception by August 25, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve joint account registration mismatch",
+      "text": "Address the registration mismatch for Selma and Graham Copperwisp's joint taxable account at Clockwork Clover Brokerage, where the transfer paperwork listed joint tenants with rights of survivorship but the latest statement shows tenancy by entirety registration.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the joint account registration mismatch, the transfer paperwork listed Selma and Graham as joint tenants with rights of survivorship, while the Clockwork Clover Brokerage statement shows tenancy by entirety registration."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate receiving account shell",
+      "text": "Resolve the duplicate temporary taxable account shells created for Selma Copperwisp at Velvet Acorn Custody, since Clockwork Clover Brokerage associated the pending ACATS request with the shell Apricot Compass Advisory did not intend to use.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "two temporary taxable account shells were created for Selma, and Clockwork Clover Brokerage associated the pending ACATS request with the shell Apricot Compass Advisory did not intend to use. The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Handle restricted security manual transfer",
+      "text": "Handle the $180,000 Copper Firefly Semiconductors position in Selma Copperwisp's individual brokerage account at Clockwork Clover Brokerage outside the standard ACATS feed during the current processing window.",
+      "priority": null,
+      "dueDate": "2026-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Clockwork Clover Brokerage reported that the Copper Firefly Semiconductors position in Selma’s individual brokerage must be handled outside the standard ACATS feed during the current processing window; the agreed follow-up is to handle it by August 28, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Address cash holdback before taxable transfer",
+      "text": "Address the cash holdback on the ACATS instruction for Selma Copperwisp's individual brokerage account at Clockwork Clover Brokerage, since the current instruction would move all cash even though property tax and estimated tax payments are normally funded from that account.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora’s review found that the existing ACATS instruction would move all cash from Selma’s individual brokerage even though property tax and estimated tax payments are normally funded from that account. The agreed follow-up is to address the cash holdback by August 21, 2026."
+    }
+  ]
+}

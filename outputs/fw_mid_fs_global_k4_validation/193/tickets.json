@@ -1,0 +1,25 @@
+{
+  "meetingId": "193",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare approximately-$25,000 transfer instructions after brokerage-detail verification",
+      "text": "Prepare approximately $25,000 transfer instructions for Sela Mossbutton’s gift to Moonbadger Arts Center’s youth-workshop fund after brokerage-detail verification. Use appreciated Velvet Acorn Growth Fund shares from the joint-taxable account if manageable, consistent with Sela’s preference for shares.",
+      "priority": null,
+      "dueDate": "2026-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2026-01-23 prepare approximately-$25,000 transfer instructions after brokerage-detail verification"
+    },
+    {
+      "templateId": null,
+      "title": "Address missing current pledge/receipt goods-or-services language and prior-year-only acknowledgment",
+      "text": "Address the missing current pledge/receipt goods-or-services language and the prior-year-only acknowledgment noted by Evan. Update the donation documentation to include current-year acknowledgment and any required goods-or-services disclosure.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2026-02-06 address Evan-noted prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language."
+    }
+  ]
+}

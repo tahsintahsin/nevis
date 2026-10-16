@@ -1,0 +1,94 @@
+{
+  "meetingId": "300",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare and label source documents for mortgage balance discrepancy",
+      "text": "Compare the mediation worksheet mortgage balance with the Teacup Comet Bank portal balance and label the source documents before the figures are used in planning exhibits. Anika and Reid Meadowbobbin have a discrepancy between the two figures.",
+      "priority": null,
+      "dueDate": "2025-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The mediation worksheet showed a lower mortgage balance than the Teacup Comet Bank portal balance, so the agreed 2025-03-12 follow-up is to compare and label source documents before the figures are used in planning exhibits."
+    },
+    {
+      "templateId": null,
+      "title": "Compile authorized investment, bank, retirement, debt, and household cash-flow records",
+      "text": "Compile the authorized investment, bank, retirement, debt, and household cash-flow records that Tobin Mossbutton of Silver Marmot Legal requested for the pending property division discussion. Anika authorized Apricot Compass Advisory to coordinate financial records with that office.",
+      "priority": null,
+      "dueDate": "2025-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to compile by 2025-03-14 the authorized investment, bank, retirement, debt, and household cash-flow records Tobin requested for the pending property discussion."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Recover access to the Velvet Acorn Custody joint taxable account login for Anika Meadowbobbin. The login sends verification prompts to Reid’s phone, preventing statement downloads needed for the authorized document package.",
+      "priority": "high",
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Anika reported that the Velvet Acorn Custody login for the joint taxable account sends verification prompts to Reid’s phone, preventing statement downloads needed for the authorized document package; the agreed access-recovery follow-up is due 2025-03-10."
+    },
+    {
+      "templateId": null,
+      "title": "Compare and update legacy beneficiary and ownership records",
+      "text": "Update legacy beneficiary and ownership records for Anika Meadowbobbin to remove Reid Meadowbobbin where appropriate. Mira’s planning inventory review found Reid listed on Anika’s Roth IRA, term life policy, and joint taxable account at Velvet Acorn Custody. Any changes must be coordinated through authorized legal channels.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s planning inventory review found Reid listed on legacy beneficiary and ownership records, including Anika’s Roth IRA, term life policy, and joint taxable account, with any changes to be coordinated through authorized legal channels by 2025-03-21."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain business valuation and buy-sell agreement documents",
+      "text": "Obtain the Paper Otter Fabrication ownership valuation exhibit, recent K-1 support, and buy-sell agreement pages that Silver Marmot Legal needs to understand Reid Meadowbobbin’s 40% business interest. These documents are missing from the shared portal.",
+      "priority": null,
+      "dueDate": "2025-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the shared portal lacked the Paper Otter Fabrication ownership valuation exhibit, recent K-1 support, and buy-sell agreement pages Silver Marmot Legal needs to understand Reid’s business interest, the agreed follow-up is due 2025-03-18."
+    },
+    {
+      "templateId": "58bbf56a-8706-581a-a372-e9900a9ef134",
+      "title": "Evaluate and set up self-employed retirement plan",
+      "text": "Compare suitable retirement plan options for Anika Meadowbobbin, document contribution goals and administrative requirements, and prepare the implementation path for the selected plan type. Consider SEP IRA, Solo 401(k), SIMPLE IRA, and other relevant options based on her income pattern, employee status, and cash-flow variability.",
+      "priority": "medium",
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather self-employment profile and contribution goals",
+          "text": "Collect business structure, earned income range, employee status, existing retirement accounts, cash-flow variability, and desired employer/employee contribution capacity.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "92319646-536d-5656-b496-3f76eed775bb"
+        },
+        {
+          "title": "Compare eligible plan structures",
+          "text": "Prepare a side-by-side summary of plan types, contribution limits, setup requirements, administration burden, Roth availability if relevant, loan provisions if relevant, and tax considerations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "92319646-536d-5656-b496-3f76eed775bb"
+        },
+        {
+          "title": "Coordinate setup documentation",
+          "text": "Identify required adoption agreements, custodian forms, funding instructions, and payroll or bookkeeping steps needed before contributions can begin.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm first-year operating checklist",
+          "text": "Create a reusable checklist for contribution timing, recordkeeping, annual filings if applicable, and coordination with the client's CPA.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Mira’s planning inventory review found Reid listed on legacy beneficiary and ownership records, including Anika’s Roth IRA, term life policy, and joint taxable account, with any changes to be coordinated through authorized legal channels by 2025-03-21."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meetingId": "304",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternat",
+      "text": "Compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives for Evan and Lena Cloudpuddle. Use lender terms Evan brought to the meeting.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives."
+    },
+    {
+      "templateId": null,
+      "title": "Collect loan documents for home equity line reset notice",
+      "text": "Collect the full loan agreement and reset notice for the Silver Marmot Credit Union home equity line. The reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms.",
+      "priority": null,
+      "dueDate": "2024-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile credit-monitoring balance discrepancy",
+      "text": "Reconcile the $92,100 credit-monitoring balance versus the portal’s about $86,400 for the Silver Marmot Credit Union home equity line.",
+      "priority": null,
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal’s about $86,400."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare cash-flow scenario showing debt-repayment tradeoffs",
+      "text": "Prepare a cash-flow scenario showing debt-repayment tradeoffs after regular spending plus the estimated reset payment. Reflect the pressure from regular spending and the estimated reset payment.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed cash-flow scenario due 2024-09-13 is to show debt-repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment."
+    },
+    {
+      "templateId": null,
+      "title": "Update debt plan to reflect Lena’s contract pause",
+      "text": "Update the debt plan to reflect Lena’s expected two-month Paper Otter Studio contract pause by 2024-09-04.",
+      "priority": null,
+      "dueDate": "2024-09-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The debt plan needs to reflect Lena’s expected two-month Paper Otter Studio contract pause by 2024-09-04."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on Clockwork Clover Labs stock liquidity discussion",
+      "text": "Follow up on the Clockwork Clover Labs stock liquidity discussion with Evan Cloudpuddle. Evan was not ready to sell before understanding tax cost and bonus timing.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Clockwork Clover Labs stock liquidity discussion was deferred; Evan was not ready to sell before understanding tax cost and bonus timing."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meetingId": "587",
+  "tickets": [
+    {
+      "templateId": "08361f27-bfef-5da9-85f9-5136b2a38dcc",
+      "title": "Prepare liquidity planning analysis",
+      "text": "Review expected cash needs, emergency reserve targets, recurring income sources, upcoming distributions, and potential funding sources for Mira Thimblefern. Summarize recommended cash cushion, any portfolio trades needed to raise cash, tax considerations, and questions for the lead advisor before client discussion, incorporating the $3.71 million sale wire, the $400 k escrow holdback, and the $75 k transition bonus.",
+      "priority": "medium",
+      "dueDate": "2025-09-05",
+      "assigneeId": "04250424-b280-5443-9318-1c2f184393c9",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due September 5, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain business sale closing documents",
+      "text": "Obtain the final closing statement, escrow schedule, and post‑closing adjustment worksheet for Mira Thimblefern to verify net proceeds and escrow treatment.",
+      "priority": null,
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the final closing statement, escrow schedule, and post-closing adjustment worksheet were not yet in Mira’s planning file, and those documents are needed to verify net proceeds and escrow treatment by August 29, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Trace net proceeds variance",
+      "text": "Trace the variance between the broker’s proceeds memo and the actual $3.71 million incoming wire for Mira Thimblefern, identifying fees, debt payoff, escrow holdback, or any separate expected transfer.",
+      "priority": null,
+      "dueDate": "2025-08-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the difference needs to be traced to fees, debt payoff, escrow, or a separate expected transfer by August 27, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estimated tax analysis with CPA",
+      "text": "Coordinate with CPA Tobin Mossbutton to compare sale proceeds, consulting income, withholding, and expected deductions for Mira Thimblefern ahead of the next estimated tax planning decision.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due September 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain replacement health coverage details",
+      "text": "Obtain premium, deductible, and eligibility details for replacement health coverage for Mira Thimblefern to enable selection before the September 20, 2025 deadline.",
+      "priority": null,
+      "dueDate": "2025-09-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "premium, deductible, and eligibility details for replacement coverage are needed before choosing an option by September 20, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Teacup Comet Bank transfer hold",
+      "text": "Work with Teacup Comet Bank to lift the temporary outbound online transfer limitation on Mira Thimblefern’s account that received the sale wire, enabling efficient cash movement.",
+      "priority": null,
+      "dueDate": "2025-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due August 25, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Update estate file with post‑sale documents",
+      "text": "Update Mira Thimblefern’s estate file to replace references to the operating business interest with current signed copies of post‑sale amendments and fiduciary updates.",
+      "priority": null,
+      "dueDate": "2025-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due September 10, 2025."
+    }
+  ]
+}

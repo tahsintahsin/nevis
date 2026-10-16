@@ -1,0 +1,64 @@
+{
+  "meetingId": "946",
+  "tickets": [
+    {
+      "templateId": "d5a7c920-0675-56d6-a029-4ea40b62764f",
+      "title": "Coordinate Retirement Plan Rollover",
+      "text": "Use this workflow when a client is evaluating a rollover from an employer retirement plan to an IRA or another eligible plan. Confirm objectives, compare available options, document recommendations, and track transfer completion without using client-specific account numbers in the template. Dana Wrenpuddle asked to compare keeping the former Cloudberry Kite Design 401(k) (about $412,000: $58,000 Roth 401(k) and $354,000 pre-tax), moving it to the new Silver Marmot Analytics plan, or rolling eligible assets to an IRA, covering Roth money, menus, fees, and simplicity; Dana prefers no more than two primary investment accounts outside checking and savings.",
+      "priority": "medium",
+      "dueDate": "2024-03-29",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather plan and account details",
+          "text": "Request current plan statement, investment menu, fee disclosures, distribution paperwork, and any employer separation or plan eligibility details from Dana Wrenpuddle, including the Cloudberry Kite Design 401(k) statement showing about $412,000 ($58,000 Roth, $354,000 pre-tax).",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d8e692ff-a8b4-590c-a1fc-b950bd8e57e2"
+        },
+        {
+          "title": "Analyze rollover alternatives",
+          "text": "Compare keeping assets in the current plan, rolling to a new employer plan, rolling to an IRA, or taking other permissible action. Include fees, services, creditor protection considerations, investment access, and tax implications, covering Roth money, menus, fees, and simplicity for Dana Wrenpuddle.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9e041d4d-509e-588f-a2a9-2f29f4b97a54"
+        },
+        {
+          "title": "Prepare recommendation summary",
+          "text": "Draft a concise summary of the recommended path, required client decisions, anticipated transfer method, and any cautions for advisor review, respecting Dana Wrenpuddle's preference for no more than two primary investment accounts outside checking and savings.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        },
+        {
+          "title": "Track transfer and confirm investment plan",
+          "text": "After client authorization, monitor rollover status, confirm receipt of funds, and coordinate reinvestment according to the approved allocation for Dana Wrenpuddle.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b93ee058-c11a-51d8-8005-81fe1e23bd94"
+        }
+      ],
+      "evidence": "Dana asked to compare keeping the former 401(k), moving it to the new plan, or rolling eligible assets to an IRA, covering Roth money, menus, fees, and simplicity; the agreed follow-up is due 2024-03-29."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Silver Marmot Analytics benefits packet",
+      "text": "Obtain the Silver Marmot Analytics benefits packet from Dana Wrenpuddle while enrollment is open, covering the new plan options and menus needed for the rollover comparison.",
+      "priority": null,
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Silver Marmot Analytics benefits packet is still needed by 2024-03-22 while enrollment is open."
+    },
+    {
+      "templateId": null,
+      "title": "Review 401(k) deferral percentage after job change",
+      "text": "Review Dana Wrenpuddle's prior pay stub and stated $168,000 base salary with 18% target annual bonus at Silver Marmot Analytics to confirm whether the old Cloudberry Kite Design 401(k) deferral percentage will produce the same annual savings level, especially if bonus deferrals are separate.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review of Dana’s prior pay stub and stated salary found the old 401(k) deferral percentage may not produce the same annual savings level, especially if bonus deferrals are separate; follow-up is needed by 2024-04-05."
+    }
+  ]
+}

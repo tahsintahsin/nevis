@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_global",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"577\", \"tickets\": [{\"title\": \"Restore portal access for Evan Thimblefern\", \"text\": \"Restore Evan Thimblefern’s account access in the client document portal after one-time code failures caused a lockout. Do not change his primary email address.\", \"priority\": null, \"dueDate\": \"2026-08-18\", \"assigneeId\": null, \"templateId\": \"7a767e68-0323-54d8-9ff6-706018dcfde7\", \"subTasks\": [], \"evidence\": \"Evan reported that the portal rejected his one-time code twice and then locked the account, preventing him from uploading the requested transfer packet and mortgage statement screenshots; he asked for access restoration without changing his primary email address, and the agreed follow-up is to restore access by 2026-08-18.\"}, {\"title\": \"Address missing documentation for Juniper Jellyfish Benefits rollover\", \"text\": \"Obtain the latest Juniper Jellyfish Benefits statement and the required signature guarantee page to complete the rollover request from Evan’s former-employer 401(k) to Velvet Acorn Custody.\", \"priority\": null, \"dueDate\": \"2026-08-22\", \"assigneeId\": null, \"templateId\": \"3cde169a-b7dc-591b-9e92-db5e6af5ebf7\", \"subTasks\": [], \"evidence\": \"the receiving custodian indicated that the rollover request cannot move forward because the latest Juniper Jellyfish Benefits statement and a required signature guarantee page were missing; the unresolved documentation need is dated 2026-08-22.\"}, {\"title\": \"Resolve beneficiary record mismatch on brokerage account\", \"text\": \"Address the mismatch between planning notes listing Lila Thimblefern as primary beneficiary and the custodian profile showing no primary beneficiary on file for Evan Thimblefern’s brokerage account.\", \"priority\": null, \"dueDate\": \"2026-08-26\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Mira’s review found that planning notes list Lila as primary beneficiary on Evan’s brokerage account while the custodian profile screenshot shows no primary beneficiary on file; the agreed follow-up is to address the mismatch by 2026-08-26.\"}, {\"title\": \"Review employer benefits enrollment choices\", \"text\": \"Review Clockwork Clover Systems’ health plan, HSA, disability coverage, group life insurance, and 401(k) deferral choices before Evan submits his annual election decisions.\", \"priority\": null, \"dueDate\": \"2026-08-31\", \"assigneeId\": null, \"templateId\": \"7509ead6-3ca2-5c84-bdb4-b75b976cb097\", \"subTasks\": [], \"evidence\": \"Evan said Clockwork Clover Systems opened its annual election window and requested review of health plan, HSA, disability coverage, group life, and 401(k) deferral choices before submitting elections; the agreed review is due 2026-08-31.\"}]}",
+   "usage": {
+    "input_tokens": 16280,
+    "output_tokens": 751,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

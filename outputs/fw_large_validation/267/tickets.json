@@ -1,0 +1,97 @@
+{
+  "meetingId": "267",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Open operations escalation and confirm email",
+      "text": "Open an operations escalation, confirm the authorized email on the custodian profile, and report the fix or next escalation path for Renata Wrenpuddle.",
+      "priority": null,
+      "dueDate": "2025-08-01",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Open operations escalation",
+          "text": "Open an operations escalation for the custodian issue.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm custodian authorized email",
+          "text": "Confirm the authorized email on the custodian profile.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Report fix or next escalation path",
+          "text": "Report back with the fix or next escalation path.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed follow-up for 2025-08-01 is to open an operations escalation, confirm the authorized email on the custodian profile, and report back with the fix or next escalation path."
+    },
+    {
+      "templateId": null,
+      "title": "Request transfer file and compare statements",
+      "text": "Request the historical transfer file and compare it with Renata Wrenpuddle’s Velvet Acorn Custody statements for the three transferred tax lots.",
+      "priority": null,
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request historical transfer file",
+          "text": "Request the historical transfer file from the custodian.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Compare file with Velvet Acorn statements",
+          "text": "Compare the transfer file with Renata’s Velvet Acorn Custody statements.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed follow-up for 2025-08-08 is to request the historical transfer file and compare it with Renata’s Velvet Acorn Custody statements."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain registration record and confirm title",
+      "text": "Obtain the full registration record and confirm the title for Renata Wrenpuddle’s taxable account before she forwards any documents.",
+      "priority": null,
+      "dueDate": "2025-08-05",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Obtain full registration record",
+          "text": "Obtain the full registration record for the taxable account.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm account title",
+          "text": "Confirm the account title matches the 2018 revocable trusts.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed follow-up for 2025-08-05 is to obtain the full registration record and confirm the title before Renata forwards anything."
+    },
+    {
+      "templateId": null,
+      "title": "Check custodian and firm mailing address coding",
+      "text": "Check the custodian and firm mailing-address coding to ensure the temporary school address is not added as the household’s primary address for Renata Wrenpuddle.",
+      "priority": null,
+      "dueDate": "2025-08-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2025-08-12 is to check custodian and firm mailing-address coding so the temporary school address is not added as the household’s primary address."
+    }
+  ]
+}

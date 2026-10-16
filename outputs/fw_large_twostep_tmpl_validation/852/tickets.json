@@ -1,0 +1,75 @@
+{
+  "meetingId": "852",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Create shared inheritance tracking ledger",
+      "text": "Create a shared tracking ledger for inherited accounts, estate contacts, forms, ownership notes, and open questions for Nadia Thimblefern to discuss with her brother Rowan Thimblefern, to be completed by 2024-02-23.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia asked for a shared tracking ledger for inherited accounts, estate contacts, forms received, ownership notes, and open questions so she can discuss the estate with Rowan using the same record set; they agreed to build it by 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Upload certified authority paperwork",
+      "text": "Upload the certified authority paperwork required by the custodian and Teacup Comet Bank to the secure client portal for Nadia Thimblefern, ensuring access by 2024-02-20.",
+      "priority": null,
+      "dueDate": "2024-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the certified authority paperwork needed by the custodian and bank has not been uploaded to the secure portal; the agreed follow-up is due 2024-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve estate bank access issue",
+      "text": "Resolve the estate‑account access problem with Teacup Comet Bank for Nadia Thimblefern, correcting the executor record mismatch so she can view recent estate cash activity by 2024-02-16.",
+      "priority": null,
+      "dueDate": "2024-02-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Teacup Comet Bank rejected Nadia’s online estate-account access attempt and told her the executor record did not match its internal file, preventing her from viewing recent estate cash activity; the agreed follow-up on the estate bank access problem is due 2024-02-16."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm Alden IRA beneficiary designation",
+      "text": "Confirm the controlling beneficiary designation for Alden Thimblefern’s IRA for Nadia Thimblefern before signing the inherited IRA paperwork, reconciling the paper copy with the custodian portal data.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the controlling designation needs to be confirmed before inherited IRA paperwork is signed; follow-up is needed, with no date supplied."
+    },
+    {
+      "templateId": null,
+      "title": "Organize estate inventory for CPA",
+      "text": "Organize the estate inventory, anticipated income items, and beneficiary distribution details for CPA Iris Dewspindle and attorney Galen Nettlewhisk on behalf of Nadia Thimblefern, to be ready by 2024-03-01.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The estate inventory, anticipated income items, and beneficiary distributions need to be organized for the CPA and estate attorney before the next tax-planning conversation tied to the estate administration calendar;"
+    },
+    {
+      "templateId": null,
+      "title": "Update successor fiduciary role",
+      "text": "Update the successor fiduciary designation in Nadia Thimblefern’s 2016 personal estate documents to remove Alden Thimblefern’s role, completing the amendment by 2024-03-08.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The planning review found the 2016 personal estate documents’ reference to Alden in a successor fiduciary role creates a stale appointment after his death;"
+    },
+    {
+      "templateId": null,
+      "title": "Create separate inherited asset framework",
+      "text": "Create a distinct investment and spending framework for inherited assets that addresses retirement flexibility, college costs, cash reserves, and Nadia Thimblefern’s preference to keep estate proceeds separate from household spending, to be delivered by 2024-03-15.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia wants a separate investment and spending framework for inherited assets that accounts for retirement flexibility, college costs, cash reserves, and her preference not to blend estate proceeds into routine spending immediately; the agreed follow-up is due 2024-03-15."
+    }
+  ]
+}

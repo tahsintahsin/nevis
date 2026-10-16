@@ -1,0 +1,85 @@
+{
+  "meetingId": "809",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Process one-time IRA withdrawal for home accessibility remodel deposit",
+      "text": "Process a $38,000 gross distribution from Dorian Pebblefizz’s traditional IRA at Velvet Acorn Custody to Teacup Comet Bank checking for the first contractor deposit on the first-floor bathroom and entryway accessibility remodel.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian asked for a $38,000 gross distribution from the traditional IRA at Velvet Acorn Custody to be sent to Teacup Comet Bank checking for the first contractor deposit on the accessibility remodel. They agreed to process that withdrawal, with the follow-up dated 2025-08-15."
+    },
+    {
+      "templateId": null,
+      "title": "Adjust recurring IRA distribution and update withholding assumptions",
+      "text": "Raise the regular IRA cash flow from $4,000 gross per month to $6,500 gross per month and document the revised bank destination and withholding assumptions before the next payment cycle.",
+      "priority": null,
+      "dueDate": "2025-08-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian asked to raise the regular IRA cash flow from $4,000 gross per month to $6,500 gross per month and to document the revised bank destination and withholding assumptions before the next payment cycle. They agreed to make and document that adjustment, with the follow-up dated 2025-08-20."
+    },
+    {
+      "templateId": null,
+      "title": "Update residency and distribution withholding records",
+      "text": "Update advisory records, mailing information, meeting location notes, and retirement distribution withholding assumptions using the new Nevada residency facts, replacing the prior Oregon records.",
+      "priority": null,
+      "dueDate": "2025-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the household’s move from Oregon to Nevada requires advisory records, mailing information, meeting location notes, and retirement distribution withholding assumptions to be updated using the new residency facts Dorian provided. They agreed to complete those updates, with the follow-up dated 2025-08-"
+    },
+    {
+      "templateId": null,
+      "title": "Address Oregon withholding discrepancy on IRA payments",
+      "text": "Correct the custodian record to remove Oregon state withholding from the recurring IRA distribution, since Dorian’s primary residence is now Henderson, Nevada, and he does not expect Oregon withholding on future payments.",
+      "priority": null,
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the custodian record still shows Oregon state withholding on the recurring IRA distribution even though Dorian described the Henderson home as the current primary residence and did not expect Oregon withholding on future payments. They agreed to address that discrepancy, with the follow-up dated 202"
+    },
+    {
+      "templateId": null,
+      "title": "Check payment timing and bank instruction history for recent IRA ACH delivery problem",
+      "text": "Review the recent IRA ACH deposit delivery timing to Teacup Comet Bank and the bank instruction history to identify why the deposit arrived later than expected, causing a manual transfer from savings to cover household bills.",
+      "priority": null,
+      "dueDate": "2025-08-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian reported that a recent IRA ACH deposit reached Teacup Comet Bank later than expected and caused him to move money manually from savings to cover household bills. They agreed that the payment timing and bank instruction history need to be checked, with the follow-up dated 2025-08-18."
+    },
+    {
+      "templateId": null,
+      "title": "Conduct year-end cash flow and withholding review with CPA",
+      "text": "Conduct a year-end cash flow and withholding review with Tobin Mossbutton of Amber Teapot Tax Services, incorporating the household’s higher IRA withdrawals, Portland sale proceeds, and Elena’s wages as inputs for possible Portland sale proceeds and estimated tax planning.",
+      "priority": null,
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the household’s higher IRA withdrawals, possible Portland sale proceeds, and Elena’s wages were identified as inputs for a year-end cash flow and withholding review with the CPA before final estimated tax planning. They agreed to that review, with the follow-up dated 2025-11-14."
+    },
+    {
+      "templateId": null,
+      "title": "Collect current estate documents for advisory records",
+      "text": "Collect current wills, powers of attorney, trust amendment pages if applicable, and beneficiary confirmations for Dorian and Elena Pebblefizz, replacing the older estate papers currently in the advisory file.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian has only older estate papers available in the advisory file, so current wills, powers of attorney, trust amendment pages if applicable, and beneficiary confirmations need to be collected for recordkeeping and planning review. They agreed to collect those materials, with the follow-up dated 20"
+    },
+    {
+      "templateId": null,
+      "title": "Review cash-raising plan for concentrated employer stock position",
+      "text": "Compare IRA distributions, taxable cash, and selective sales options for the Paper Otter Components position in the joint taxable account, without assuming the employer stock is the first funding source, as part of a cash-raising review for concentrated employer stock.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review noted a large Paper Otter Components position in the joint taxable account, so the cash-raising plan should compare IRA distributions, taxable cash, and selective sales without assuming the employer stock is the first funding source. They agreed to that cash-raising review, with the fo"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"577\",\n\"followups\": [\n{\n\"evidence\": \"the agreed follow-up is to restore access by 2026-08-18.\",\n\"action\": \"Restore client portal access by 2026-08-18.\"\n},\n{\n\"evidence\": \"the agreed follow-up is to address the mismatch by 2026-08-26.\",\n\"action\": \"Correct beneficiary record mismatch by 2026-08-26.\"\n},\n{\n\"evidence\": \"the agreed review is due 2026-08-31.\",\n\"action\": \"Complete employer benefits enrollment review by 2026-08-31.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3707,
+    "output_tokens": 758,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 40
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"577\",\n\"tickets\": [\n{\n\"templateId\": \"7a767e68-0323-54d8-9ff6-706018dcfde7\",\n\"title\": \"Account security follow-up\",\n\"text\": \"Restore Evan Thimblefern’s client portal access without changing his primary email address after the one‑time code was rejected twice, ensuring access is re‑established by 2026‑08‑18.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to restore access by 2026-08-18.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Correct beneficiary record mismatch\",\n\"text\": \"Correct the beneficiary record for Evan Thimblefern’s brokerage account at Velvet Acorn Custody, aligning the primary beneficiary designation with Lila Thimblefern as noted in planning documents, to be resolved by 2026‑08‑26.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-26\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to address the mismatch by 2026-08-26.\"\n},\n{\n\"templateId\": \"7509ead6-3ca2-5c84-bdb4-b75b976cb097\",\n\"title\": \"Coordinate benefits enrollment support\",\n\"text\": \"Use this coordination template when a client requests help reviewing employer benefits enrollment options, such as health coverage, HSA or FSA elections, disability coverage, group life insurance, retirement plan deferrals, or voluntary benefits. Keep recommendations within planning scope and document assumptions. Review Evan Thimblefern’s health plan, HSA, disability coverage, group life insurance, and 401(k) deferral options for Clockwork Clover Systems, and provide recommendations by 2026‑08‑31.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2026-08-31\",\n\"assigneeId\": null,\n\"subTasks\": [\n{\n\"title\": \"Gather enrollment materials from client\",\n\"text\": \"Ask the client for the benefits guide, plan comparison tables, premium costs, employer match details, enrollment portal screenshots if needed, and any questions they want addressed.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Prepare planning review notes\",\n\"text\": \"Mira Quillwhistle reviews benefit choices for cash-flow impact, retirement contribution opportunities, tax considerations, coverage gaps, and coordination with existing planning assumptions.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": \"404e3513-579d-5368-b97f-3a7639c794de\"\n},\n{\n\"title\": \"Return decision summary to client\",\n\"text\": \"Provide a plain-language summary of key tradeoffs, items the client must decide directly, and questions to take to the employer benefits administrator or insurer.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Update planning records after enrollment\",\n\"text\": \"Once the client confirms elections, update planning inputs for premiums, retirement contributions, HSA or FSA amounts, insurance coverage, and employer match assumptions.\",\n\"priority\": \"low\",\n\"dueDate\": null,\n\"assigneeId\": null\n}\n],\n\"evidence\": \"the agreed review is due 2026-08-31.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2906,
+    "output_tokens": 2391,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1810
+   },
+   "stop": "stop"
+  }
+ ]
+}

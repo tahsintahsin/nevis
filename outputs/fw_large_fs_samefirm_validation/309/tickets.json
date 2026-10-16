@@ -1,0 +1,85 @@
+{
+  "meetingId": "309",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review benefits elections for new employer",
+      "text": "Review the benefits elections for Lena Copperwisp, comparing household cost and coverage tradeoffs across the medical tiers, HSA option, supplemental disability choices, and group life amounts before she submits elections.",
+      "priority": null,
+      "dueDate": "2026-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the benefits elections by 2026-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Compare retirement plan options",
+      "text": "Compare the options for Lena Copperwisp’s old Velvet Acorn Robotics 401(k) – leaving the Tin Sparrow Retirement Services account, moving it to Pocket Lantern Analytics, or rolling eligible amounts to an IRA – considering pre‑tax and Roth sources.",
+      "priority": null,
+      "dueDate": "2026-02-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare those retirement plan options by 2026-02-13."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Tin Sparrow plan documents",
+      "text": "Collect the Velvet Acorn Robotics plan fee disclosure, summary plan description, and the most recent quarter’s transaction history for the Tin Sparrow Retirement Services account to evaluate fees, investment restrictions, and transfer limitations.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those records are needed to evaluate fees, investment restrictions, and any transfer limitations by 2026-02-06."
+    },
+    {
+      "templateId": null,
+      "title": "Investigate retirement account balance mismatch",
+      "text": "Investigate the discrepancy between the balance displayed in the Tin Sparrow Retirement Services login and the amount shown on the last downloaded statement for Lena Copperwisp’s old 401(k), determining whether market movement, a distribution, or a posting delay explains the difference.",
+      "priority": null,
+      "dueDate": "2026-02-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "that issue needs follow-up by 2026-02-12."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Access recovery request\n\nClient name: [________________]\nAffected portal or institution: [________________]\nUser ID or known login email: [________________]\nIssue type: [locked account / forgotten password / MFA reset / outdated email / other: ________]\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [yes / no / location: ________]\nSecurity notes or restrictions: [________________]\nNext action required: [________________]\n\nThe request concerns Lena Copperwisp’s inability to access the Tin Sparrow Retirement Services portal due to an outdated MFA phone number.",
+      "priority": "high",
+      "dueDate": "2026-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the access problem by 2026-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Verify retirement beneficiary designations",
+      "text": "Verify whether Jonah and Emery Copperwisp are listed as beneficiaries on Lena Copperwisp’s Tin Sparrow Retirement Services 401(k) account, updating the designations as needed to align with current estate documents.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "this information needs follow-up by 2026-02-27."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh cash‑flow and withholding targets",
+      "text": "Refresh the household cash‑flow projection, paycheck withholding amounts, and reserve targets for Lena Copperwisp’s new salary, bonus schedule, benefits deductions at Pocket Lantern Analytics, and Jonah’s variable self‑employment income.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to refresh those items by 2026-02-18."
+    },
+    {
+      "templateId": "b64462f8-34be-598b-98ef-27befa5cee1d",
+      "title": "Contact client about concentrated position review",
+      "text": "Subject: Concentrated position review for [holding or issuer]\n\nHello [client name],\n\nWe would like to review the concentrated position in [holding or issuer] as part of your broader planning work. The goal is to understand risk, tax impact, liquidity needs, restrictions, and whether any staged diversification strategy should be considered.\n\nBefore our discussion, please send or confirm:\n- Current share count or market value: [________]\n- Cost basis information, if available: [________]\n- Account location or custodian: [________]\n- Any trading windows, lockups, insider restrictions, or employer rules: [________]\n- Near-term cash needs or planned charitable gifts: [________]\n- CPA or attorney contact for coordination, if authorized: [________]\n\nProposed discussion points:\n1. Why the position is held and whether the original purpose has changed.\n2. Tax consequences of selling, gifting, donating, or holding.\n3. Risk tolerance and impact on the overall portfolio.\n4. Potential diversification pace and decision criteria.\n\nPlease let us know a convenient time to review these items.\n\nThe review concerns the restricted stock units granted by Pocket Lantern Analytics, including vesting schedule, potential concentration, and applicable trading‑window rules for Lena Copperwisp.",
+      "priority": "medium",
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review those equity details together by 2026-02-20."
+    }
+  ]
+}

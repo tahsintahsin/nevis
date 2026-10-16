@@ -1,0 +1,127 @@
+{
+  "meetingId": "945",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Education Savings Account Comparison",
+      "text": "Prepare education savings account structure and ownership comparison for Jessa Willowdoodle and Aaron Willowdoodle, including account ownership options, beneficiary naming, investment approach, state tax considerations, the $10,000 family gift, and a possible $500 monthly contribution.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the education savings account structure and ownership comparison by 2026-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review Initial Education Funding Transfer",
+      "text": "Review the proposed transfer of $12,000 from the taxable account money market to the new education savings account for Ivy Willowdoodle, ensuring the household’s six‑month cash reserve level remains met.",
+      "priority": null,
+      "dueDate": "2026-04-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that initial education funding transfer from taxable cash by 2026-04-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update Household Plan for Adoption Assumptions",
+      "text": "Update the household financial plan to reflect Ivy Willowdoodle’s adoption, parental leave cash‑flow changes, added infant‑care costs, and the extended education funding horizon.",
+      "priority": null,
+      "dueDate": "2026-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the household plan for those adoption-related assumptions by 2026-03-13."
+    },
+    {
+      "templateId": null,
+      "title": "Review Cash Reserve Target Post‑Childcare",
+      "text": "Review the household cash‑reserve target after childcare expenses begin, confirming the six‑month reserve preference is still satisfied.",
+      "priority": null,
+      "dueDate": "2026-03-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the cash reserve target after childcare begins by 2026-03-31."
+    },
+    {
+      "templateId": "b835d25d-d355-5804-8593-94348f4d26b8",
+      "title": "Review Concentrated Position",
+      "text": "Evaluate Jessa Willowdoodle’s concentrated Amber Teapot Robotics equity position for portfolio risk, tax exposure, liquidity needs, restrictions, and diversification options. Use details such as ticker, custodian Velvet Acorn Custody, cost basis, holding period, and any trading limitations.",
+      "priority": "high",
+      "dueDate": "2026-03-27",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [
+        {
+          "title": "Assemble Position Facts",
+          "text": "Collect current market value, share count, cost basis, acquisition history, holding period, account registration, and any employer equity plan details for [security/position]. Confirm whether blackout windows, lockups, Rule 144, or insider restrictions may apply.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "47926d53-db41-532d-99c2-224dc3aaa5ea"
+        },
+        {
+          "title": "Model Portfolio and Tax Impact",
+          "text": "Analyze concentration percentage, sector exposure, volatility, unrealized gain or loss, charitable giving opportunities, tax-loss offsets, and estimated tax impact under phased-sale scenarios.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "96c9c35b-0519-5544-bd5f-e8e441dccdb2"
+        },
+        {
+          "title": "Draft Diversification Recommendation",
+          "text": "Prepare a client-ready summary comparing hold, trim, staged sale, gifting, hedging, and reinvestment options. Include key assumptions, open questions for the CPA or attorney, and next-step implementation considerations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        }
+      ],
+      "evidence": "The agreed follow-up is to compare hold, staged sale, and tax-aware funding alternatives by 2026-03-27."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Employer Benefit Enrollment Info",
+      "text": "Obtain the medical coverage and dependent care election details for Ivy Willowdoodle from Amber Teapot Robotics benefits portal, including family‑tier premium and election amounts.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Employer benefit enrollment information for Ivy remains needed by 2026-03-06."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Secure Document Upload Access",
+      "text": "Resolve the secure file upload issue for Ivy Willowdoodle’s adoption decree, Social Security number, and dependent verification documents so the advisory vault can receive and review the files.",
+      "priority": null,
+      "dueDate": "2026-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address secure document upload access by 2026-03-04."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Guardianship and Estate Planning Summary",
+      "text": "Prepare a financial summary for guardianship and estate planning coordination for Jessa and Aaron Willowdoodle, including potential guardians Simon Nettlewhisk and Alia Nettlewhisk, for attorney Hana Maplesprocket’s use.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the guardianship and estate planning coordination summary by 2026-03-24."
+    },
+    {
+      "templateId": null,
+      "title": "Conduct Life and Disability Coverage Gap Analysis",
+      "text": "Conduct a coverage gap analysis of Jessa Willowdoodle’s and Aaron Willowdoodle’s individual policies, employer life coverage, and disability benefits against mortgage, childcare, education funding, and survivor income needs.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is a life and disability insurance coverage gap analysis by 2026-03-20."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Payroll Detail for Adoption Assistance",
+      "text": "Obtain from CPA Derek Fablethimble the payroll detail for Jessa Willowdoodle’s adoption assistance reimbursement to align tax return assumptions.",
+      "priority": null,
+      "dueDate": "2026-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Employer adoption assistance and tax preparation coordination remains unresolved because the planning file does not yet show whether Derek has the needed payroll detail, and follow-up is needed by 2026-03-12."
+    }
+  ]
+}

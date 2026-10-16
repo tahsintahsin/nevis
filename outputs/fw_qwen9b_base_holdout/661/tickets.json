@@ -1,0 +1,85 @@
+{
+  "meetingId": "661",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare spring tuition funding schedule",
+      "text": "Prepare a month-by-month schedule showing how much of Marzipan Meadow College charges can come from Elin's 529 account at Velvet Acorn Custody, the $21,000 tuition set-aside at Teacup Comet Bank, and the $48,000 short-term Treasury fund at Paper Otter Custody without changing retirement contributions.",
+      "priority": null,
+      "dueDate": "2023-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that schedule, dated December 19, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain official Marzipan Meadow billing packet",
+      "text": "Obtain the itemized student account PDF from Marzipan Meadow College to substantiate the payment plan and qualified expense categories, as the portal screenshot was missing this specific document.",
+      "priority": null,
+      "dueDate": "2023-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain the packet, dated December 12, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Velvet Acorn 529 balance discrepancy",
+      "text": "Reconcile the balance discrepancy for Elin's 529 account at Velvet Acorn Custody, which shows $67,400 on Mira's mobile screenshot versus $72,270 on the downloaded statement.",
+      "priority": null,
+      "dueDate": "2023-12-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reconcile the balance discrepancy, dated December 15, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Identify direct payment or reimbursement workflow",
+      "text": "Identify an acceptable direct payment or reimbursement workflow for Elin's tuition at Marzipan Meadow College, as the college portal rejected the bank verification for direct 529 payment.",
+      "priority": null,
+      "dueDate": "2023-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to identify the workflow, dated December 18, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Rowan education funding projection",
+      "text": "Prepare a separate planning track for Rowan's education funding using the existing 529 account at Velvet Acorn Custody, expected test and application costs, and a first-year college savings target that does not rely on borrowing.",
+      "priority": null,
+      "dueDate": "2023-12-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that projection, dated December 29, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare off-campus housing cost projection",
+      "text": "Prepare a projection of which rent, food, and utility amounts for Elin's potential off-campus apartment could fit into the education funding plan versus parent cash flow.",
+      "priority": null,
+      "dueDate": "2024-01-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that projection, dated January 19, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare scholarship and aid cost-gap estimate",
+      "text": "Prepare a cost-gap estimate for Rowan's college list before the first school deposit decision to compare merit aid offers consistently, using the scholarship response calendar provided by the counselor.",
+      "priority": null,
+      "dueDate": "2024-02-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the estimate, dated February 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare tax estimate and sale-sequencing review",
+      "text": "Prepare a tax estimate and sale-sequencing review for the Paper Otter taxable account at Paper Otter Custody, noting unrealized gains in the equity index fund and the Treasury position earmarked for tuition.",
+      "priority": null,
+      "dueDate": "2024-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the tax estimate and sale-sequencing review, dated January 3, 2024."
+    }
+  ]
+}

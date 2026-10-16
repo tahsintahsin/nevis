@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"331\",\n\"followups\": [\n{\n\"evidence\": \"Julian wanted the payment impact modeled with and without rolling the line into a broader refinance structure.\",\n\"action\": \"Model the HELOC payment impact both with and without incorporating it into a broader refinance.\"\n},\n{\n\"evidence\": \"the revised budget is needed before setting a target for accelerated debt repayment.\",\n\"action\": \"Prepare an updated cash‑flow budget to determine a target for accelerated debt repayment.\"\n},\n{\n\"evidence\": \"the tax impact needs to be estimated before using investments as a funding source.\",\n\"action\": \"Estimate the tax consequences of liquidating appreciated taxable holdings for debt reduction.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3855,
+    "output_tokens": 1397,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"331\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Model HELOC payment impact scenarios\",\n\"text\": \"Model the HELOC payment impact for Julian Mossbutton, using the Teacup Comet Bank line balance of $74,500 and the reset payment of $925, both as a standalone amortizing loan and as part of a broader mortgage refinance structure.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Julian wanted the payment impact modeled with and without rolling the line into a broader refinance structure.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Prepare updated cash‑flow budget\",\n\"text\": \"Prepare an updated cash‑flow budget for Julian and Lena Mossbutton, reflecting the reduced household take‑home pay of $9,250 per month, core spending of $7,850, and existing debt obligations, to establish a target for accelerated debt repayment.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the revised budget is needed before setting a target for accelerated debt repayment.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Estimate tax consequences of investment liquidation\",\n\"text\": \"Estimate the tax consequences for Julian Mossbutton of liquidating appreciated holdings in his joint taxable investment account at Velvet Acorn Custody, valued at approximately $96,000, to fund debt reduction.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the tax impact needs to be estimated before using investments as a funding source.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4831,
+    "output_tokens": 1302,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  }
+ ]
+}

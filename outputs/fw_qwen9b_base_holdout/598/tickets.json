@@ -1,0 +1,35 @@
+{
+  "meetingId": "598",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update and route address residency records",
+      "text": "Update and route address and residency records for Nolan and Lena Pebblefizz to reflect their move to Mesa, Arizona, ensuring statements no longer show Oregon. This is needed because current statements still display the previous state.",
+      "priority": null,
+      "dueDate": "2025-03-10",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "Agreed follow-ups are to update and route address/residency records by 2025-03-10 because statements still show Oregon"
+    },
+    {
+      "templateId": "7a01cf30-e455-55f4-92f2-f4ca51e7fee1",
+      "title": "Review mortgage document collection needs",
+      "text": "Complete the mortgage and insurance file for Nolan and Lena Pebblefizz by obtaining the final closing disclosure, current mortgage statement, and homeowners insurance declaration page. This is required because these specific documents are currently missing from the file.",
+      "priority": "medium",
+      "dueDate": "2025-03-17",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "complete the mortgage and insurance file by 2025-03-17 because final closing disclosure, current mortgage statement, and declaration page are missing"
+    },
+    {
+      "templateId": null,
+      "title": "Address payroll withholding evidence",
+      "text": "Address payroll withholding evidence for Nolan Pebblefizz by reconciling the discrepancy where paystubs show Oregon withholding while HR records indicate Arizona mailing and work location. This needs to be resolved by the agreed date.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "address payroll withholding evidence by 2025-03-21 because Nolan’s paystub showed Oregon withholding while HR showed Arizona mailing and work location"
+    }
+  ]
+}

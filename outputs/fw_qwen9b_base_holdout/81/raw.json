@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"81\",\n\"tickets\": [\n{\n\"title\": \"Update address records for Lila Copperwisp\",\n\"text\": \"Update address-related advisory and custodian records for Lila Copperwisp and Rowan Copperwisp to reflect their new Seattle address effective 2025-04-01, following the signing of their apartment lease.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-04\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"They agreed by 2025-04-04 to update address-related advisory and custodian records after the lease begins\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Obtain missing lease and utility documents\",\n\"text\": \"Obtain the signed Seattle apartment lease and Washington utility confirmation for Lila Copperwisp and Rowan Copperwisp to update their file, as these documents are currently missing.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-09\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"by 2025-04-09 to obtain the lease and Washington utility confirmation missing from the file\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Review bond fund, RSU concentration, and cash needs\",\n\"text\": \"Review the Oregon municipal bond fund, Tin Sparrow Robotics share concentration, and move-related cash needs for Lila Copperwisp and Rowan Copperwisp, considering their upcoming relocation and asset holdings.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"by 2025-04-25 to review the Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs\"\n,\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2689,
+    "output_tokens": 445,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

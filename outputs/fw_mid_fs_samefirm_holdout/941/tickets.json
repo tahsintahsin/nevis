@@ -1,0 +1,125 @@
+{
+  "meetingId": "941",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare primary mortgage refinance comparison",
+      "text": "Prepare a side-by-side comparison of the current adjustable-rate mortgage, a fixed-rate refinance quote from Silver Marmot Mortgage, and a no-cash-out quote from Teacup Comet Bank. Include payment change, closing costs, break-even period, and cash reserve impact.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daria asked for a side-by-side review of the current adjustable loan, a fixed-rate refinance quote from Silver Marmot Mortgage, and a no-cash-out quote from Teacup Comet Bank, including payment change, closing costs, break-even period, and cash reserve impact. The agreed follow-up is to prepare that"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current debt documents for loan analysis",
+      "text": "Obtain the current mortgage note, most recent HELOC statement, HELOC draw-period terms, and payoff figures for credit cards and auto loan to test restructuring options using current balances and terms.",
+      "priority": null,
+      "dueDate": "2024-10-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the file did not include the current mortgage note, the most recent HELOC statement, the HELOC draw-period terms, or payoff figures for the credit cards and auto loan. The agreed follow-up is to obtain those documents to test restructuring options using current balances and terms by October 24, 2024"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve HELOC limit and advance availability discrepancy",
+      "text": "Clarify the actual HELOC limit and draw status by reconciling Daria’s spreadsheet $200,000 limit with the Teacup Comet Bank portal’s lower available line and new-advance restriction.",
+      "priority": null,
+      "dueDate": "2024-10-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daria’s household spreadsheet lists a $200,000 HELOC limit, while the Teacup Comet Bank portal screenshot shows a lower available line and a message that new advances are restricted. The actual limit and draw status remain unresolved and need follow-up by October 30, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Develop cash-flow bridge plan before higher loan payments begin",
+      "text": "Develop a bridge plan for the monthly shortfall created by the projected combined increase in mortgage and HELOC payments, using bonus timing, reserve thresholds, and discretionary spending reductions.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the projected combined increase in the mortgage and HELOC payments creates a monthly shortfall in the household worksheet, so the conversation focused on a bridge plan using bonus timing, reserve thresholds, and discretionary spending reductions. The agreed follow-up is to develop that bridge plan f"
+    },
+    {
+      "templateId": null,
+      "title": "Test repayment sequence for high-interest consumer debt",
+      "text": "Test the credit card payoff order against liquidity needs rather than simply paying the smallest balance first, given that credit card rates are materially higher than secured debt rates.",
+      "priority": null,
+      "dueDate": "2024-10-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review found that the credit card rates are materially higher than the secured debt rates, and Daria wanted the payoff order tested against liquidity needs rather than simply paying the smallest balance first. The agreed follow-up is to test the repayment sequence by October 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare taxes, concentration risk, and interest savings for taxable investment use",
+      "text": "Compare the tax impact, concentration risk, and interest savings of using taxable brokerage account assets to retire credit card debt and reduce the HELOC, considering the $235,000 Clockwork Clover Biologics stock position with $74,000 cost basis.",
+      "priority": null,
+      "dueDate": "2024-10-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the taxable account is large enough to retire the credit card debt and reduce the HELOC, but the largest liquid position is concentrated employer stock with embedded gain. The agreed follow-up is to compare taxes, concentration risk, and interest savings by October 31, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate tax planning on stock sale or bonus-funded payoff",
+      "text": "Coordinate with Cora Bramblequill so that any sale of Clockwork Clover Biologics stock, use of bonus proceeds, or change in withholding is reflected in estimated tax planning.",
+      "priority": null,
+      "dueDate": "2024-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daria requested coordination with Cora Bramblequill so that any sale of Clockwork Clover Biologics stock, use of bonus proceeds, or change in withholding is reflected in estimated tax planning. The agreed follow-up is to coordinate that tax planning by November 6, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Update household income estimate after Liam’s project change",
+      "text": "Prepare an updated estimate of Liam’s expected business revenue and expenses for the refinance application, which will use current household income.",
+      "priority": null,
+      "dueDate": "2024-11-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Liam’s largest design contract is winding down, and the refinance application will use current household income. An updated estimate of Liam’s expected business revenue and expenses remains needed by November 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Address HELOC feed issue in planning portal",
+      "text": "Update the planning portal’s HELOC balance and correct the displayed interest-only payment to reflect current status, resolving the aggregation delay that has persisted for several weeks.",
+      "priority": null,
+      "dueDate": "2024-10-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daria reported that the planning portal has not updated the HELOC balance for several weeks and shows the old interest-only payment, affecting the cash-flow projection used during the meeting. The agreed follow-up is to address the HELOC feed issue by October 23, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current insurance declarations for refinancing review",
+      "text": "Obtain current homeowners and umbrella coverage insurance declarations to meet the refinance package checklist requirements.",
+      "priority": null,
+      "dueDate": "2024-11-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the refinance package checklist references homeowners and umbrella coverage documentation, and Daria only had an older homeowners declaration page available during the call. The agreed follow-up is to obtain current insurance declarations by November 4, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain trust and title documents for lender underwriting",
+      "text": "Obtain trust certification and title vesting evidence for the household revocable trust, as the lender checklist references these materials for underwriting.",
+      "priority": null,
+      "dueDate": "2024-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the home appears to be titled in the household revocable trust, but the lender checklist references trust certification and title vesting evidence that were not in the advisory file. Those trust and title materials remain needed by November 1, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Summarize rate-lock trade-offs and open risks",
+      "text": "Summarize the financial trade-offs and open risks of the refinance quote that includes a limited rate-lock window, to support the household’s decision whether to proceed with that lender.",
+      "priority": null,
+      "dueDate": "2024-10-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daria said one refinance quote includes a limited rate-lock window. The agreed follow-up is to summarize the financial trade-offs and open risks before the household decides whether to proceed with that lender, with a date of October 27, 2024."
+    }
+  ]
+}

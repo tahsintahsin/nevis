@@ -1,0 +1,35 @@
+{
+  "meetingId": "307",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Create single calendar of option and RSU vesting, blackout periods, and pre-clearance steps",
+      "text": "Create a single calendar of Tobin Mossbutton's option and RSU vesting dates, blackout periods, and pre-clearance steps for Copper Firefly Systems equity. This replaces planning that was relying on memory or portal screenshots.",
+      "priority": null,
+      "dueDate": "2026-08-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots."
+    },
+    {
+      "templateId": null,
+      "title": "Illustrate same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity",
+      "text": "Illustrate the financial impact of same-day sale, cash exercise, or partial exercise of Tobin Mossbutton's vested Copper Firefly Systems options and RSUs against household cash reserves and payroll withholding capacity.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison."
+    },
+    {
+      "templateId": null,
+      "title": "Collect full equity plan agreement, grant notices, and insider trading policy",
+      "text": "Collect the full equity plan agreement, grant notices, and insider trading policy for Tobin Mossbutton's Copper Firefly Systems awards to confirm exercise limits and sale restrictions.",
+      "priority": null,
+      "dueDate": "2026-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance."
+    }
+  ]
+}

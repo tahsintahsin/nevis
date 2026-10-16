@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"91\",\n\"followups\": [\n{\n\"evidence\": \"2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms.\",\n\"action\": \"Evaluate the potential lapse and possible reinstatement of the Paper Otter Life term policy.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure.\",\n\"action\": \"Review the term life coverage and disability protection needs given the change in Lila's employment status.\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1860,
+    "output_tokens": 731,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1339
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"91\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Evaluate lapse risk for Paper Otter\",\n\"text\": \"Assess the lapse risk for Soren Cloudpuddle’s $750,000 Paper Otter Life term policy, noting the recent draft failure after the Teacup Comet Bank checking account was replaced, and act before underwriting terms are lost.\",\n\"priority\": null,\n\"dueDate\": \"2024-12-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review term coverage and disability protection\",\n\"text\": \"Review the term life coverage and disability protection for Soren Cloudpuddle given Lila Cloudpuddle’s shift to part‑time work, which raises household reliance on his salary and impacts mortgage, childcare, and education‑funding needs.\",\n\"priority\": null,\n\"dueDate\": \"2024-12-20\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2039,
+    "output_tokens": 1455,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1813
+   },
+   "stop": "stop"
+  }
+ ]
+}

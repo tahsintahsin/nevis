@@ -1,0 +1,65 @@
+{
+  "meetingId": "716",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Outline estate attorney account and beneficiary information needs",
+      "text": "Provide an outline of the account and beneficiary information Daniel's estate attorney would need to evaluate updates to his revocable trust and fiduciary appointments following his marriage to Lea Copperwisp.",
+      "priority": null,
+      "dueDate": "2025-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daniel asked for an outline of the account and beneficiary information his estate attorney would need to evaluate updates; the agreed follow-up is due 2025-01-15."
+    },
+    {
+      "templateId": null,
+      "title": "Update household address and custodian mailing information",
+      "text": "Update the household record and custodian mailing information for Daniel Copperwisp once he sends written confirmation of his preferred mailing address and legal residence.",
+      "priority": null,
+      "dueDate": "2025-01-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For household address and residency records, Daniel said he is now living at Lea’s townhouse and asked that Apricot Compass Advisory update the household record and custodian mailing information once he sends written confirmation of the preferred mailing address and legal residence;"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare account registration and beneficiary-change materials",
+      "text": "Prepare materials for Daniel to review options for keeping his taxable brokerage account individually titled, adding transfer-on-death instructions, and updating primary beneficiaries on advisory-held retirement assets in light of his marriage.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daniel asked for materials to review options for keeping his taxable brokerage account individually titled, adding transfer-on-death instructions, and updating primary beneficiaries on advisory-held retirement assets in light of the marriage; the agreed follow-up is due 2025-01-08."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on custodian-required identifying documents",
+      "text": "Follow up to obtain Lea's full legal identifying information and a copy of the marriage certificate from Daniel so the custodian can complete household and beneficiary record updates.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The custodian cannot complete the requested household and beneficiary record updates from the conversation alone because Daniel has not yet provided Lea’s full legal identifying information or a copy of the marriage certificate; those items remain needed by 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve IRA and taxable account beneficiary-record issue",
+      "text": "Resolve the beneficiary-record issue for Daniel's IRA (currently listing Owen Copperwisp) and taxable account (no transfer-on-death beneficiary on file), noting Daniel's intent for Lea to be the primary beneficiary.",
+      "priority": null,
+      "dueDate": "2025-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira noted that Daniel described Lea as his intended primary beneficiary, while the IRA record still lists Owen and the taxable account has no transfer-on-death beneficiary on file; resolving the beneficiary-record issue remains needed by 2025-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare investment income and capital-gain summary for CPA discussion",
+      "text": "Prepare a concise summary of investment income, potential capital-gain exposure, withholding information, and filing-status questions for Daniel and Lea's discussion with their CPA at Paper Otter Tax Services.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daniel wanted Apricot Compass Advisory to prepare a concise summary of investment income, potential capital-gain exposure, withholding information, and filing-status questions for that discussion; the agreed follow-up is due 2025-01-10."
+    }
+  ]
+}

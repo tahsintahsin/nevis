@@ -1,0 +1,25 @@
+{
+  "meetingId": "91",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Evaluate lapse/reinstatement after checking account draft failure",
+      "text": "Evaluate lapse or reinstatement options for Soren Cloudpuddle’s Paper Otter Life term policy after the premium draft failed when checking was replaced. Resolve before losing existing underwriting terms.",
+      "priority": "medium",
+      "dueDate": "2024-12-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms."
+    },
+    {
+      "templateId": null,
+      "title": "Review term-coverage and disability-protection adequacy",
+      "text": "Review Soren Cloudpuddle’s term life coverage and disability-protection adequacy after Lila Cloudpuddle reduced paid-work to part-time, increasing household dependence on his salary. Assess mortgage, childcare, and education-funding exposure.",
+      "priority": "medium",
+      "dueDate": "2024-12-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure."
+    }
+  ]
+}

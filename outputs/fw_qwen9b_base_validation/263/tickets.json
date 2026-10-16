@@ -1,0 +1,47 @@
+{
+  "meetingId": "263",
+  "tickets": [
+    {
+      "templateId": "32d114ba-8f40-54cb-953d-781d5ca26c93",
+      "title": "Complete household profile update",
+      "text": "Reset Jared and Ava Wrenpuddle's portal credentials following repeated lockouts and an uninitiated password-reset email. Implement stronger multi-factor authentication via approved channels and conduct a session review.",
+      "priority": "medium",
+      "dueDate": "2024-03-18",
+      "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f",
+      "subTasks": [
+        {
+          "title": "Collect household changes",
+          "text": "Request updates for household members, employment, dependents, contact information, outside advisors, and major life changes since the prior profile review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Record changes to income, savings, spending, insurance coverage, benefits, goals, and risk tolerance in the planning record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4cbe713b-b420-5401-9de5-20d1f947c70e"
+        },
+        {
+          "title": "Advisor review of planning impacts",
+          "text": "Review the updated household profile for retirement income, tax-aware investment, equity compensation, or estate coordination implications that warrant follow-up.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "368cf34f-7766-520c-b44f-afbfa66af4ab"
+        }
+      ],
+      "evidence": "2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels."
+    },
+    {
+      "templateId": null,
+      "title": "Check transfer instructions and profile changes",
+      "text": "Review the pending Teacup Comet Bank link in Jared and Ava Wrenpuddle's joint taxable brokerage account to verify transfer instructions and check for profile changes, as Jared indicated no household account is linked.",
+      "priority": "medium",
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "2024-03-19 agreed work: check transfer instructions/profile changes."
+    }
+  ]
+}

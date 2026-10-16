@@ -1,0 +1,143 @@
+{
+  "meetingId": "224",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare household account map",
+      "text": "Prepare a written household account map for Dana Bramblequill that distinguishes her premarital savings, individual brokerage account, rental condo cash flows, joint Teacup Comet Bank accounts, and shared expense funding arrangement.",
+      "priority": null,
+      "dueDate": "2026-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana requested a written household account map distinguishing her premarital savings, individual brokerage account, rental condo cash flows, joint Teacup Comet Bank accounts, and shared expense funding arrangement; this was agreed for 2026-08-02."
+    },
+    {
+      "templateId": "fbbdddd5-865b-51c3-a01a-013cd6ced637",
+      "title": "Verify recurring payment change",
+      "text": "Verify the recurring mortgage contribution instructions for Dana Bramblequill and Oliver Cloudpuddle to ensure no duplicate payments from the individual Teacup Comet Bank transfer and the new joint‑account transfer.",
+      "priority": "high",
+      "dueDate": "2026-07-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on the recurring mortgage contribution issue is dated 2026-07-16."
+    },
+    {
+      "templateId": "6e53670b-6e08-512a-b234-e889efdc384e",
+      "title": "Collect address and residency update details",
+      "text": "Collect and record Oliver Cloudpuddle’s full legal name, shared residence address, mailing address, and contact details into the household profile for Dana Bramblequill.",
+      "priority": "medium",
+      "dueDate": "2026-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed update is dated 2026-07-18."
+    },
+    {
+      "templateId": null,
+      "title": "Update custodian address profile",
+      "text": "Update Dana Bramblequill’s Velvet Acorn Custody account profile to reflect the shared mailing address at Oliver Cloudpuddle’s Portland townhouse, correcting the prior apartment address.",
+      "priority": null,
+      "dueDate": "2026-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the custodian profile discrepancy remains unresolved and is dated 2026-07-22."
+    },
+    {
+      "templateId": null,
+      "title": "Update beneficiary designations",
+      "text": "Update Dana Bramblequill’s IRA, taxable transfer‑on‑death registration, Moonbadger Design Labs 401(k), and group life insurance beneficiary designations to reflect her marriage to Oliver Cloudpuddle and compare contingent beneficiary options.",
+      "priority": null,
+      "dueDate": "2026-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana asked for help updating beneficiary designations on her IRA, taxable transfer-on-death registration if available, Moonbadger Design Labs 401(k), and group life coverage to reflect her marriage and to compare contingent beneficiary options; the agreed follow-up is dated 2026-07-25."
+    },
+    {
+      "templateId": "b4b28e1a-9a89-5911-87af-edffbf515fb3",
+      "title": "Complete policy renewal follow-up",
+      "text": "Obtain the Lavender Sprocket Insurance renewal notice and current declarations page for Oliver Cloudpuddle’s $750,000 term life policy and upload them to the client file.",
+      "priority": "medium",
+      "dueDate": "2026-08-05",
+      "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742",
+      "subTasks": [
+        {
+          "title": "Collect renewal notice and current policy details",
+          "text": "Request or locate the renewal notice, current declarations page, premium summary, coverage limits, named insured details, beneficiary or owner information if applicable, and any stated renewal action requirements. Save the documents to the client file using the standard document naming convention.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        },
+        {
+          "title": "Review renewal changes and planning implications",
+          "text": "Compare the renewal terms with the current policy. Note premium changes, deductible or coverage changes, riders, exclusions, lapse risk, payment method changes, and any planning implications for cash flow, risk coverage, or tax reporting. Escalate material concerns to the lead advisor.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a8da8f8f-1814-56bc-93a4-f7ec3a48a450"
+        },
+        {
+          "title": "Contact carrier or agent for missing information",
+          "text": "If details are incomplete, contact [carrier or agent name] to confirm renewal status, required forms, accepted payment methods, processing timeframe, and whether any underwriting or client signature is required. Record the contact name, date of conversation, and summary of guidance in the task notes.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        },
+        {
+          "title": "Confirm recommendation and client instructions",
+          "text": "Prepare a concise client follow-up summarizing the renewal options, advisor recommendation, required next steps, and any deadline stated in the renewal notice. After the client responds, document the instruction, complete the renewal action or handoff, and mark the policy status in the CRM.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4"
+        }
+      ],
+      "evidence": "the insurance renewal documentation remains needed and is dated 2026-08-05."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate joint tax filing with CPA",
+      "text": "Coordinate with Rowan Nettlewhisk of Copper Firefly Tax Partners on the upcoming joint federal income tax return, rental condo reporting, Moonbadger Design Labs equity compensation withholding, and any estimated tax payments affected by the marriage of Dana Bramblequill and Oliver Cloudpuddle.",
+      "priority": null,
+      "dueDate": "2026-08-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana and Oliver asked Apricot Compass Advisory to coordinate with Rowan on expected joint filing, rental condo reporting, equity compensation withholding, and any estimated payment planning affected by the marriage; the agreed coordination is dated 2026-08-09."
+    },
+    {
+      "templateId": "f2960ec0-96f0-55d4-9d2a-6de1f7cfaaa5",
+      "title": "Coordinate equity award review",
+      "text": "Review Dana Bramblequill’s Moonbadger Design Labs equity awards, including unvested RSUs and trading‑window restrictions, to determine vesting and tax withholding implications before any portal election.",
+      "priority": "medium",
+      "dueDate": "2026-07-29",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect equity award documents",
+          "text": "Request current grant agreements, vesting schedule, plan portal screenshots, tax withholding elections, recent paystub, and any employer trading-window or blackout-policy guidance.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        },
+        {
+          "title": "Analyze planning implications",
+          "text": "Review vesting timing, option exercise cost, RSU withholding, AMT exposure if applicable, concentration level, cash-flow needs, and whether CPA coordination is needed before action.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "a8da8f8f-1814-56bc-93a4-f7ec3a48a450"
+        },
+        {
+          "title": "Confirm recommended action plan",
+          "text": "Finalize advice on hold, sell, exercise, diversify, or defer decisions. Identify what requires client approval, employer portal action, or custodian follow-up.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4"
+        },
+        {
+          "title": "Document execution and follow-up",
+          "text": "Record decisions, confirmations, trade or exercise instructions, tax notes, and next review trigger based on the next vesting event or trading window.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        }
+      ],
+      "evidence": "the agreed Moonbadger equity award review is dated 2026-07-29."
+    }
+  ]
+}

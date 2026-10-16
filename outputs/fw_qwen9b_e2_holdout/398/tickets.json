@@ -1,0 +1,45 @@
+{
+  "meetingId": "398",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare charitable funding comparison",
+      "text": "Prepare a comparison for Nia Bramblequill of how a securities gift, donor-advised account, or cash gift would affect taxable income, portfolio concentration, and cash retained for tuition and renovation spending. Use the household’s compensation, unrealized gains, mortgage interest, and prior giving level to inform the comparison.",
+      "priority": null,
+      "dueDate": "2025-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nia asked how a securities gift, donor-advised account, or cash gift would affect taxable income, portfolio concentration, and cash retained for tuition and renovation spending. They agreed to prepare the comparison by December 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Verify Moonbadger Arts Foundation gift requirements",
+      "text": "Verify Moonbadger Arts Foundation’s process for a large publicly traded securities gift from Nia Bramblequill, including delivery instructions, designation language for arts education, and the receipt wording needed for tax records.",
+      "priority": null,
+      "dueDate": "2025-12-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nia asked Clara to verify Moonbadger Arts Foundation’s process for a large publicly traded securities gift, including delivery instructions, designation language for arts education, and the receipt wording needed for tax records. They agreed to verify those requirements by December 9, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare charitable deduction capacity projection",
+      "text": "Prepare a projection of the household’s charitable deduction capacity and possible carryforward for a year-end transfer. Account for compensation, unrealized gains, mortgage interest, and prior giving level.",
+      "priority": null,
+      "dueDate": "2025-12-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare that projection by December 17, 2025."
+    },
+    {
+      "templateId": "21dfeb72-8e0b-5317-9129-20bcd2aeaba8",
+      "title": "Update household profile information",
+      "text": "Complete or refresh the household profile using the placeholders below.\n\nPrimary contact: Nia Bramblequill\nPreferred name: [Preferred name]\nPronouns, if shared: [Pronouns]\nEmail: [Email]\nPhone: [Phone]\nMailing address: [Address]\nTax filing status: Joint\nEmployment status: Nia is a vice president of product at Apricot Compass Technologies; Owen is a part-time faculty member at Buttonwood Balloon School.\nEmployer or business: Apricot Compass Technologies; Buttonwood Balloon School\nSpouse or partner: Owen Bramblequill\nDependents: Liora Bramblequill, age 15; Benjamin Bramblequill, age 12\nKey family contacts: Selene Bramblequill, mother in assisted living; Mira Bramblequill, Nia’s sister and successor trustee\nCPA or tax preparer: Tobin Mossbutton of Polka Fern Tax Services\nAttorney: [Name/firm/contact information]\nInsurance agent: [Name/firm/contact information]\nMajor life changes since last update: Selene Bramblequill’s move to assisted living added a recurring family support obligation and a new emergency contact role for Owen. The client file still lists an outdated secondary family contact.\nCurrent planning priorities: Build a $250,000 charitable fund within three years to support arts education and first-generation college access; address the household profile and planning contact update.\nDocuments to request or refresh: [Documents]\nOpen questions: [Questions]",
+      "priority": null,
+      "dueDate": "2025-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to address the household profile and planning contact update by December 19, 2025."
+    }
+  ]
+}

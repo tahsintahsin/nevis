@@ -1,0 +1,19 @@
+# Qwen3.5 9B untuned (before fine-tuning). Served from ONE dedicated deployment (1 x H100, BF16, add-ons on) that holds the base model and both
+# adapters, so before and after run on the same hardware with the same prompt. Cost = GPU time, not tokens.
+# Create / load / delete: python -m nevis.finetune deploy | load --epochs 3 --tag r | delete (same FIREWORKS_DEPLOYMENT_ID)
+provider: fireworks
+model: accounts/fireworks/models/qwen3p5-9b#accounts/nevis-home-task/deployments/${FIREWORKS_DEPLOYMENT_ID}
+deployment: dedicated
+fine_tuned: false
+gpu_type: H100
+gpu_hour_usd: 8.00
+gpu_count: 1
+prompt: main
+pipeline: single
+few_shot: none
+structured_output: json_schema
+temperature: 0.0
+max_tokens: 32000
+concurrency: 8
+notes: Qwen3.5 9B untuned (before fine-tuning)
+extra_body: {reasoning_effort: none}   # thinking off for before AND after (training answers have no thinking)

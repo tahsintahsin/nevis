@@ -1,0 +1,35 @@
+{
+  "meetingId": "612",
+  "tickets": [
+    {
+      "templateId": "a19cba02-6935-5708-8852-6d1c2cd423d5",
+      "title": "Complete address and residency update checks",
+      "text": "Complete the address and residency update checks for Dana Cloudpuddle and Ellis Willowdoodle. Use the following checks before marking an address or residency update complete:\n- Confirm the new mailing address, residential address, and effective date of the change.\n- Determine whether the move changes state residency, tax withholding, municipal tax exposure, or planning assumptions.\n- Update internal CRM, financial planning software, reporting address, and household contact records.\n- Confirm which custodians, insurers, retirement plan providers, or benefits administrators require separate address updates.\n- Review whether beneficiary forms, estate documents, powers of attorney, or health directives may need state-specific review.\n- Ask whether voter registration, driver's license, homestead, or domicile evidence is relevant to the planning file.\n- Document who authorized the change and how identity was verified.\n- Send confirmation to the client with any remaining action items.\n\nUpdate household, planning, address, spouse contact, and outside-institution records to reflect Dana and Ellis's 2024-08-17 marriage and shared Portland, Oregon townhouse, covering Moonbadger Robotics, Paper Otter School, Teacup Comet Bank, Velvet Acorn Credit Union, and Velvet Acorn Custody.",
+      "priority": "medium",
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-06 to update household, planning, address, spouse contact, and outside-institution records."
+    },
+    {
+      "templateId": null,
+      "title": "Benefits Enrollment Quick Start",
+      "text": "Obtain the Paper Otter School rate sheet and beneficiary confirmation for Ellis Willowdoodle, curriculum administrator at Paper Otter School, to support household benefits enrollment planning. Confirm receipt and store the documents in the client file using the standard benefits intake naming convention.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Benefits evidence is needed by 2024-09-13 because Ellis had not downloaded the Paper Otter School rate sheet or beneficiary confirmation."
+    },
+    {
+      "templateId": null,
+      "title": "Update Velvet Acorn Custody IRA beneficiary",
+      "text": "Update the beneficiary on Dana Cloudpuddle's Velvet Acorn Custody IRA, replacing Blair Nettlewhisk with Ellis Willowdoodle. Confirm the change with Velvet Acorn Custody and document the updated beneficiary designation in the client file.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-10 to address Dana’s Velvet Acorn Custody IRA beneficiary listing Blair Nettlewhisk, after Dana said Ellis should replace Blair."
+    }
+  ]
+}

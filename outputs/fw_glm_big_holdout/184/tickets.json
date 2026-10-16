@@ -1,0 +1,104 @@
+{
+  "meetingId": "184",
+  "tickets": [
+    {
+      "templateId": "77b31f5b-c847-5ac9-aebc-b0f5c68df289",
+      "title": "Review benefits enrollment options",
+      "text": "Use this checklist during benefits enrollment review:\n- Confirm enrollment window and whether changes are new, annual, or life-event related.\n- Compare medical plan premiums, deductibles, out-of-pocket maximums, network access, and prescription coverage.\n- Review HSA or FSA eligibility, contribution limits, employer funding, and carryover rules.\n- Check dental and vision coverage against expected needs.\n- Review group life, disability, accident, critical illness, and supplemental insurance options.\n- Confirm beneficiary designations for employer benefits and retirement plans.\n- Note payroll deduction impact and any coordination needed with cash flow or tax planning.\n- Identify follow-up documents or elections the client must complete through the benefits portal.\n\nRina Copperwisp's new employer benefits at Amber Teapot Pediatrics are provided through an online enrollment portal she can access with her signed offer letter credentials; the household wants the medical, dental, vision, HSA, disability, and group life selections reviewed before the enrollment window closes.",
+      "priority": "medium",
+      "dueDate": "2023-11-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the portal presents medical, dental, vision, HSA, disability, and group life choices and the household wants the selections reviewed before the enrollment window closes, the agreed follow-up is to review the choices, dated 2023-11-24."
+    },
+    {
+      "templateId": "212c986c-b007-58f8-b360-9d190d930354",
+      "title": "Collect mortgage document packet",
+      "text": "Use this workflow to gather a complete mortgage document packet before analysis or submission. Confirm the requested purpose, collect current loan and property documents, identify missing items, and prepare a clean packet for advisor review. Do not include real account numbers in the task notes; store sensitive documents only in the approved client file location.\n\nMossy Meteor Lending requested current mortgage, escrow, property tax, homeowners insurance, and asset documentation for the Asheville purchase file for Elias and Rina Copperwisp, who are under contract to buy an Asheville home for $742,000 with a planned new mortgage of about $592,000; the packet is needed before the lender's next underwriting review.",
+      "priority": "medium",
+      "dueDate": "2023-11-27",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm mortgage request scope",
+          "text": "Clarify whether the packet is for a new purchase, refinance, home equity review, payoff planning, or lender documentation request. Note required document categories and any relative timing expectations. This packet is for the Asheville purchase file requested by Mossy Meteor Lending.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Gather property and loan documents",
+          "text": "Request or locate the current mortgage statement, escrow statement if applicable, property tax bill, homeowners insurance declarations page, purchase or refinance closing disclosure if available, and any lender checklist provided by the client. Include the Portland townhouse mortgage (about $384,000 balance, 3.125% fixed) and asset documentation for the Asheville purchase.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Check packet for gaps",
+          "text": "Compare received documents against the requested checklist. Flag missing pages, outdated statements, mismatched property addresses, or unclear ownership information for follow-up.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare advisor review summary",
+          "text": "Summarize loan type, rate structure, payment components, remaining term, escrow status, and open questions. Link the organized document packet in the secure file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Mossy Meteor Lending requested current mortgage, escrow, property tax, homeowners insurance, and asset documentation for the Asheville purchase file, and the agreed follow-up is to organize the packet before the lender’s next underwriting review, dated 2023-11-27."
+    },
+    {
+      "templateId": null,
+      "title": "Escalate Teacup Comet Bank transfer limitation",
+      "text": "Escalate the temporary online transfer limitation Teacup Comet Bank placed on the Copperwisp household's accounts after use of a forwarding address, so verified closing funds can move without relying on mailed checks. The household holds about $148,000 in checking and savings at Teacup Comet Bank, excluding the $30,000 earnest money deposit already paid for the Asheville purchase.",
+      "priority": null,
+      "dueDate": "2023-12-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Teacup Comet Bank placed a temporary online transfer limitation after the household used a forwarding address, and Elias wants the issue escalated so verified closing funds can move without relying on mailed checks; the agreed follow-up is dated 2023-12-01."
+    },
+    {
+      "templateId": "5af0dcaf-811a-58b0-9a83-10395a9d28ab",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Review the client’s financial plan for current assumptions, retirement income needs, tax-aware investment considerations, rollover opportunities, cash flow changes, insurance gaps, estate planning coordination items, and next-step recommendations. Document evidence reviewed and summarize planning updates for the client conversation.\n\nThe existing plan for Elias and Rina Copperwisp still uses the Portland mortgage payment, Oregon tax assumptions, and the prior cash reserve target; update the plan assumptions for the new Asheville home purchase (about $4,850 per month expected housing payment) and relocation cash flow.",
+      "priority": "medium",
+      "dueDate": "2023-12-18",
+      "assigneeId": "07499ffc-7a97-5fae-aa26-39c4ffaf213c",
+      "subTasks": [],
+      "evidence": "The advisor review found that the existing plan still uses the Portland mortgage payment, Oregon tax assumptions, and prior cash reserve target, so the agreed follow-up is to update the plan assumptions for the new home purchase and relocation cash flow, dated 2023-12-18."
+    },
+    {
+      "templateId": "6545a4a6-9969-5a62-aecc-21ad8c73e36c",
+      "title": "Review insurance policy coverage",
+      "text": "Review the Oregon-based homeowners, auto, and umbrella policy structure at Silver Marmot Insurance for Elias and Rina Copperwisp against the new Asheville property and household risk profile, since the move changes the insured residence, auto garaging location, and umbrella-policy underwriting details. Note that each spouse carries $1,000,000 of term life insurance with terms running into their early sixties.",
+      "priority": null,
+      "dueDate": "2023-12-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the move changes the insured residence, auto garaging location, and umbrella-policy underwriting details, the agreed follow-up is to review the Oregon-based policy structure against the new property and household risk profile, dated 2023-12-08."
+    },
+    {
+      "templateId": null,
+      "title": "Clarify payroll address mismatch with tax preparer",
+      "text": "Clarify the unresolved address mismatch for Elias Copperwisp at Cloudberry Kite Analytics, where the employer portal shows an Oregon resident address while the remote-work location field reflects North Carolina, by coordinating with payroll and the household's tax preparer. The household expects Oregon-source wages for most of the current year and North Carolina wages after the move begins.",
+      "priority": null,
+      "dueDate": "2023-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elias’s employer portal shows an Oregon resident address while the remote-work location field reflects North Carolina, creating an unresolved mismatch that needs clarification with payroll and the household’s tax preparer, dated 2023-12-06."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate household mailing address change",
+      "text": "Coordinate the Copperwisp household mailing address change across advisory records, custodian profiles, tax form delivery settings, and routine service-provider records once the Asheville residence is usable for mail. Elias prefers paperless delivery and fewer local provider relationships because forwarded mail and duplicate addresses could cause service interruptions during the move.",
+      "priority": null,
+      "dueDate": "2024-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elias asked Pocket Lantern Advisory to coordinate the household mailing address change across advisory records, custodian profiles, tax form delivery settings, and routine service-provider records once the Asheville residence is usable for mail; that agreed follow-up is dated 2024-01-15."
+    }
+  ]
+}

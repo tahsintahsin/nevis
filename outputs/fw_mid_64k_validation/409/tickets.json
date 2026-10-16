@@ -1,0 +1,35 @@
+{
+  "meetingId": "409",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain Velvet Acorn consolidated tax form and charitable giving summary",
+      "text": "Obtain the Velvet Acorn consolidated tax form and charitable giving summary from Beren Nettlewhisk of Paper Otter Tax Services by April 18, 2024.",
+      "priority": null,
+      "dueDate": "2024-04-18",
+      "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain those records by April 18, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn taxable account dividend variance",
+      "text": "Resolve the Velvet Acorn taxable account dividend variance of $7,440 ordinary dividends versus $14,860 listed in the IRS correspondence by April 24, 2024.",
+      "priority": null,
+      "dueDate": "2024-04-24",
+      "assigneeId": "9268210f-ef66-5a4b-88ad-788a4cfe5d2d",
+      "subTasks": [],
+      "evidence": "the IRS correspondence lists $14,860 of ordinary dividends from the Velvet Acorn taxable account, while the return worksheet reviewed during the call shows $7,440 for the same income category; resolution of the custodian income variance is needed by April 24, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Send notice, relevant tax forms, and account statements via secure delivery",
+      "text": "Send the notice, relevant tax forms, and account statements to Anika Pebblefizz through secure delivery by April 16, 2024.",
+      "priority": null,
+      "dueDate": "2024-04-16",
+      "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb",
+      "subTasks": [],
+      "evidence": "Anika authorized coordination with Beren and requested that only the notice, relevant tax forms, and account statements be sent through secure delivery by April 16, 2024."
+    }
+  ]
+}

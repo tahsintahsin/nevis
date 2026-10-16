@@ -1,0 +1,55 @@
+{
+  "meetingId": "300",
+  "tickets": [
+    {
+      "templateId": "fa8ebcc2-e3bb-5862-a32e-36b07cd19a82",
+      "title": "Coordinate divorce-related financial document package",
+      "text": "Compile and organize financial planning records requested for divorce-related analysis. Use only authorized documents, confirm permitted communication channels, and separate planning notes from legal advice. Coordinate with the client's attorney or mediator when written authorization is on file.\n\nCompile the authorized investment, bank, retirement, debt, and household cash-flow records that Tobin Mossbutton of Silver Marmot Legal requested for Anika Meadowbobbin's pending property discussion. Include the Cloudberry Kite Studio 401(k) of about $412,000, Velvet Acorn Custody Roth IRA of about $86,000, Velvet Acorn Custody joint taxable account of about $238,000, Teacup Comet Bank joint checking and savings of about $64,000, and the Teacup Comet Bank mortgage with a recent portal balance of $482,000. Anika's CPA contact for tax document questions is Nerina Cloudpuddle of Clockwork Clover Tax.",
+      "priority": "high",
+      "dueDate": "2025-03-14",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "They agreed to compile by 2025-03-14 the authorized investment, bank, retirement, debt, and household cash-flow records Tobin requested for the pending property discussion."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Paper Otter Fabrication ownership and valuation documents",
+      "text": "Obtain the Paper Otter Fabrication ownership valuation exhibit, recent K-1 support, and buy-sell agreement pages that Silver Marmot Legal needs to understand Reid Meadowbobbin's 40% business interest for the pending property discussion.",
+      "priority": null,
+      "dueDate": "2025-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the shared portal lacked the Paper Otter Fabrication ownership valuation exhibit, recent K-1 support, and buy-sell agreement pages Silver Marmot Legal needs to understand Reid’s business interest, the agreed follow-up is due 2025-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Compare and label mortgage balance source documents",
+      "text": "Compare the Teacup Comet Bank portal mortgage balance of $482,000 against the lower balance shown on the mediation worksheet for the jointly titled family home. Label source documents before the figures are used in planning exhibits.",
+      "priority": null,
+      "dueDate": "2025-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The mediation worksheet showed a lower mortgage balance than the Teacup Comet Bank portal balance, so the agreed 2025-03-12 follow-up is to compare and label source documents before the figures are used in planning exhibits."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate beneficiary and ownership record updates through legal channels",
+      "text": "Coordinate updates to legacy beneficiary and ownership records that list Reid Meadowbobbin, including Anika Meadowbobbin's Velvet Acorn Custody Roth IRA, term life policy, and joint taxable account. Route changes through authorized legal channels with Tobin Mossbutton of Silver Marmot Legal.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s planning inventory review found Reid listed on legacy beneficiary and ownership records, including Anika’s Roth IRA, term life policy, and joint taxable account, with any changes to be coordinated through authorized legal channels by 2025-03-21."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Access recovery request\n\nClient name: Anika Meadowbobbin\nAffected portal or institution: Velvet Acorn Custody\nUser ID or known login email: [________________]\nIssue type: MFA reset (verification prompts currently route to Reid Meadowbobbin's phone, blocking statement downloads for the joint taxable account)\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [yes / no / location: ________]\nSecurity notes or restrictions: [________________]\nNext action required: [________________]",
+      "priority": "high",
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Anika reported that the Velvet Acorn Custody login for the joint taxable account sends verification prompts to Reid’s phone, preventing statement downloads needed for the authorized document package; the agreed access-recovery follow-up is due 2025-03-10."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"944\", \"tickets\": [{\"title\": \"Prepare pre-clearance narrative for stock sale\", \"text\": \"Prepare a pre-clearance narrative for Selene Velvetreed covering proposed sale size, liquidity purpose, account destination, and confirmation of no material nonpublic information, to be submitted to Apricot Compass Advisory. She is a restricted employee at Tin Sparrow Robotics and wants to reduce single-company exposure, currently about 38% of household marketable investments, within employer trading rules.\", \"priority\": null, \"dueDate\": \"2024-09-06\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-06 to prepare pre-clearance narrative covering proposed sale size, liquidity purpose, account destination, and no material nonpublic information to Apricot Compass Advisory.\" , \"templateId\": null}, {\"title\": \"Provide exercise cost and withholding scenarios\", \"text\": \"Provide Selene Velvetreed with before-tax exercise cost, estimated withholding, and cash-needed scenarios for her 4,000 vested nonqualified stock options with a $12.40 exercise price at Tin Sparrow Robotics. The vested options expire soon after the next blackout window, so timing is constrained.\", \"priority\": null, \"dueDate\": \"2024-09-11\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-11 to provide before-tax exercise cost, estimated withholding, and cash-needed scenarios because vested options expire soon after the next blackout window.\", \"templateId\": null}, {\"title\": \"Reconcile custody share feed with employer report\", \"text\": \"Reconcile Velvet Acorn Custody's 18,200-share feed with the 19,050 vested shares shown in the Tin Sparrow Robotics employer equity report for Selene Velvetreed. Resolve the 850-share discrepancy and confirm the correct available share count.\", \"priority\": null, \"dueDate\": \"2024-09-10\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-10 to reconcile Velvet Acorn Custody’s 18,200-share feed with the 19,050 vested shares in the employer report.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 300,
+    "output_tokens": 516,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 5536
+   },
+   "stop": "stop"
+  }
+ ]
+}

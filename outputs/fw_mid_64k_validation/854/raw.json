@@ -1,0 +1,18 @@
+{
+ "config": "fw_mid",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"854\", \"tickets\": [{\"title\": \"Complete remaining client contact, authorization, risk tolerance, and communication preference sections\", \"text\": \"Complete the remaining contact, authorization, risk tolerance, and communication preference sections in the household profile packet so the new client record can be finalized.\", \"priority\": \"medium\", \"dueDate\": \"2024-04-26\", \"assigneeId\": \"8423b23a-973f-539d-b62d-62a0ac491015\", \"subTasks\": [], \"evidence\": \"Mira and Tobin asked him to complete the remaining contact, authorization, risk tolerance, and communication preference sections so the new client record can be finalized, and the agreed follow-up is completion of those remaining sections by 2024-04-26.\",\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\"}, {\"title\": \"Reset portal access and confirm upload instructions with both household decision-makers\", \"text\": \"Reset portal access and confirm upload instructions with both household decision-makers.\", \"priority\": \"medium\", \"dueDate\": \"2024-04-23\", \"assigneeId\": \"8423b23a-973f-539d-b62d-62a0ac491015\", \"subTasks\": [], \"evidence\": \"the agreed follow-up is to reset portal access and confirm upload instructions with both household decision-makers by 2024-04-23.\", \"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\"}, {\"title\": \"Address evaluation of Willow Pudding Components prior employer retirement plan once records are available\", \"text\": \"Address evaluation of the Willow Pudding Components prior employer retirement plan once the plan statement and distribution options are available.\", \"priority\": \"medium\", \"dueDate\": \"2024-05-03\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to address that evaluation once those records are available, due 2024-05-03.\", \"templateId\": \"6d91b3c5-f350-52b1-949e-0902b766d90a\"}, {\"title\": \"Include equity award considerations (vesting concentration, tax withholding, post-vesting sale) in first planning meeting\", \"text\": \"Include equity award considerations (vesting concentration, tax withholding, and whether to sell shares after vesting) in the first planning meeting.\", \"priority\": \"medium\", \"dueDate\": \"2024-05-10\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to include those equity award considerations in the first planning meeting by 2024-05-10.\", \"templateId\": \"6d91b3c5-f350-52b1-949e-0902b766d90a\"}, {\"title\": \"Obtain most recent federal and Oregon tax returns and written CPA authorization by 2024-05-01\", \"text\": \"Obtain the most recent federal and Oregon tax returns and written permission to coordinate with Rowan Thimblefern.\", \"priority\": \"medium\", \"dueDate\": \"2024-05-01\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"those materials and authorization are needed by 2024-05-01.\", \"templateId\": \"6d91b3c5-f350-52b1-949e-0902b766d90a\"}, {\"title\": \"Update education funding assumptions for Nora's out-of-state engineering program interest by 2024-05-15\", \"text\": \"Update education funding assumptions for Nora's out-of-state engineering program interest.\", \"priority\": \"medium\", \"dueDate\": \"2024-05-15\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"updated education funding assumptions are needed by 2024-05-15.\", \"templateId\": \"6d91b3c5-f350-52b1-949e-0902b766d90a\"}]}",
+   "usage": {
+    "input_tokens": 4694,
+    "output_tokens": 1050,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

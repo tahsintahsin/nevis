@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"307\",\n\"followups\": [\n{\n\"evidence\": \"By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots.\",\n\"action\": \"Prepare a calendar of option and RSU vesting, blackout periods, and pre‑clearance steps.\"\n},\n{\n\"evidence\": \"By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison.\",\n\"action\": \"Create an illustration comparing same‑day sale, cash exercise, and partial exercise against cash reserves and payroll withholding capacity.\"\n},\n{\n\"evidence\": \"By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance.\",\n\"action\": \"Collect the full equity plan agreement, grant notices, and insider‑trading policy documents.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1845,
+    "output_tokens": 806,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 998
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"307\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Prepare vesting and blackout calendar\",\n\"text\": \"Prepare a calendar for Tobin Mossbutton that lists his Copper Firefly Systems option and RSU vesting dates, blackout periods, and pre‑clearance steps, using the information from Velvet Acorn Custody. The calendar is needed by 2026-08-12 to replace reliance on memory or portal screenshots.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-12\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Create illustration of exercise options\",\n\"text\": \"Create an illustration for Tobin Mossbutton comparing a same‑day sale, cash exercise, and partial exercise of his Copper Firefly Systems options against his cash reserves and payroll withholding capacity. The illustration should be ready by 2026-08-19 to address the lack of household comparison.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-19\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Collect equity plan documents\",\n\"text\": \"Collect the full equity plan agreement, grant notices, and insider‑trading policy for Tobin Mossbutton from Copper Firefly Systems to confirm exercise limits and sale restrictions. These documents are needed by 2026-08-05 as Tobin only showed the current portal balance.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-05\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3883,
+    "output_tokens": 1281,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 40
+   },
+   "stop": "stop"
+  }
+ ]
+}

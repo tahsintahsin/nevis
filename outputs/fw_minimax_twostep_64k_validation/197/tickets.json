@@ -1,0 +1,55 @@
+{
+  "meetingId": "197",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate IRA transfer address exception with Paper Otter and Velvet Acorn",
+      "text": "Coordinate the rejected IRA transfer address exception with Paper Otter Retirement Services and Velvet Acorn Custody for Selma Copperwisp. The rollover request was rejected because the former Silver Marmot Robotics 401(k) plan address differed from her current residential address.",
+      "priority": null,
+      "dueDate": "2026-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate the exception by August 25, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve joint account registration mismatch on transfer paperwork",
+      "text": "Address the joint account registration mismatch for Selma and Graham Copperwisp. The transfer paperwork listed them as joint tenants with rights of survivorship, while the Clockwork Clover Brokerage statement shows tenancy by entirety registration.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the mismatch by August 22, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate Velvet Acorn account shell and reassign ACATS request",
+      "text": "Resolve the duplicate receiving account shell at Velvet Acorn Custody for Selma Copperwisp. Two temporary taxable account shells were created, and Clockwork Clover Brokerage associated the pending ACATS request with the shell Apricot Compass Advisory did not intend to use.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Handle Copper Firefly Semiconductors transfer outside ACATS feed",
+      "text": "Handle the Copper Firefly Semiconductors restricted security transfer for Selma Copperwisp outside the standard ACATS feed during the current processing window. The $180,000 position in her individual brokerage at Clockwork Clover Brokerage must be moved manually.",
+      "priority": null,
+      "dueDate": "2026-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to handle it by August 28, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Adjust ACATS instruction to preserve cash for property and estimated taxes",
+      "text": "Adjust the ACATS instruction for Selma Copperwisp's individual brokerage at Clockwork Clover Brokerage so cash is preserved for property tax and estimated tax payments. The current instruction would move all cash, including the $54,000 currently held, that Lena Bramblequill of Polka Fern Tax normally uses.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the cash holdback by August 21, 2026."
+    }
+  ]
+}

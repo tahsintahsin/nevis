@@ -1,0 +1,85 @@
+{
+  "meetingId": "408",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare side-by-side mortgage reset and refinance comparison",
+      "text": "Prepare a side-by-side comparison for Liora and Jonah Nettlewhisk of keeping the adjustable mortgage after the 3.125% to 6.875% reset on 2025-03-01 versus using the fixed-rate refinance quote, with the Teacup Comet Bank HELOC either combined or kept separate. Include payment estimates, closing costs, and cash reserve impact given Liora's preference to keep at least $50,000 in cash reserves during the refinancing period.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2025-01-24."
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing Silver Marmot Mortgage refinance documents",
+      "text": "Collect the missing items from the Silver Marmot Mortgage refinance document packet for Liora and Jonah Nettlewhisk: Liora's current pay stub from Clockwork Clover Systems, Jonah's year-to-date profit-and-loss statement for Paper Otter Design LLC, the most recent business bank statement, and the complete prior-year tax return packet. Confirm receipt and route the complete packet to the lender before underwriting review.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That document packet remains an unresolved issue needing follow-up by 2025-01-28."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Silver Marmot Mortgage payoff balance discrepancy",
+      "text": "Reconcile the mortgage payoff balance discrepancy for Liora and Jonah Nettlewhisk between the $642,000 principal shown on Liora's mortgage portal and the $655,800 used on the Silver Marmot Mortgage loan officer worksheet. Confirm the correct figure so loan-to-value and cash-to-close estimates are accurate before the 2025-03-01 rate reset.",
+      "priority": null,
+      "dueDate": "2025-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2025-01-23."
+    },
+    {
+      "templateId": "432e4a09-cd76-510d-b173-4fe70356ef9a",
+      "title": "Recover Client Portal Access",
+      "text": "Restore Liora and Jonah Nettlewhisk's access to Teacup Comet Bank statements so recent HELOC and checking statements are available for Silver Marmot Mortgage lender review. Failed exports during the call and two-factor prompts going to Jonah's old phone number are blocking the download; update the contact phone, reset two-factor settings, and re-export the missing statements.",
+      "priority": null,
+      "dueDate": "2025-01-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That access issue remains unresolved and needs follow-up by 2025-01-27."
+    },
+    {
+      "templateId": null,
+      "title": "Model cash-flow stress test for debt repayment",
+      "text": "Build a cash-flow stress test for Liora and Jonah Nettlewhisk that models the post-reset mortgage payment, Teacup Comet Bank HELOC interest at 8.75%, the $18,400 credit card payoff target, Eleni's school costs from the Coral Badger College Plan 529, and Hazel Willowdoodle's possible voluntary monthly support against the household's $22,300 average gross monthly income and $10,900 recurring non-debt spending. Show base, cautious, and stress scenarios.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that modeling by 2025-01-31."
+    },
+    {
+      "templateId": "9e10aee4-f276-52cb-be0c-39f25dd71780",
+      "title": "Review Concentrated Position",
+      "text": "Assess position size, tax basis, liquidity needs, risk tolerance, trading restrictions, and diversification options before recommending any action. Review the approximately $156,000 Clockwork Clover Systems stock position (cost basis about $42,000) held in the joint taxable brokerage account at Velvet Acorn Custody for Liora and Jonah Nettlewhisk. Compare partial sale, staged sale, pledged-asset alternatives, and no-sale options specifically for debt reduction against the Silver Marmot Mortgage reset and Teacup Comet Bank HELOC.",
+      "priority": "medium",
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction by 2025-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Address appraisal and rate-lock readiness items",
+      "text": "Collect and submit the appraisal and rate-lock readiness items for Liora and Jonah Nettlewhisk's Silver Marmot Mortgage refinance: insurance declarations, the property tax bill, and HOA confirmation. Provide these before underwriting review so the loan officer's rate-lock window and appraisal checklist are not delayed.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those readiness items by 2025-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Show non-retirement funding options before retirement scenarios",
+      "text": "Prepare a planning analysis for Liora and Jonah Nettlewhisk that shows non-retirement funding options for debt restructuring before presenting any scenario that uses Liora's Clockwork Clover Systems 401(k) (approximately $612,000) or Jonah's SEP IRA at Velvet Acorn Custody (approximately $238,000) for cash flow. Per Liora's stated boundary, retirement-account withdrawals are a last-resort scenario only.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed planning analysis is to show non-retirement funding options before any retirement-account cash-flow scenario by 2025-02-03."
+    }
+  ]
+}

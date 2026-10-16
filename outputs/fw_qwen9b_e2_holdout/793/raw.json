@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e2",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"793\", \"tickets\": [{\"title\": \"Prepare concise destination note for Raina Bramblequill\", \"text\": \"Prepare a concise destination note for Raina Bramblequill covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions following her business sale.\", \"priority\": null, \"dueDate\": \"2025-01-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Raina asked for a concise destination note covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions; the agreed follow-up is due January 10, 2025.\"}, {\"title\": \"Obtain executed escrow agreement and final working-capital schedule\", \"text\": \"Obtain the executed escrow agreement and final working-capital schedule missing from Raina Bramblequill’s sale file.\", \"priority\": null, \"dueDate\": \"2025-01-03\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed January 3, 2025 follow-up is to obtain the executed escrow agreement and final working-capital schedule missing from the sale file.\"}]}",
+   "usage": {
+    "input_tokens": 3823,
+    "output_tokens": 277,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

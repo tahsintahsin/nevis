@@ -1,0 +1,85 @@
+{
+  "meetingId": "885",
+  "tickets": [
+    {
+      "templateId": "6e6439f3-da2a-5b89-8cf0-8970fc1bb149",
+      "title": "Set up self-employed retirement plan",
+      "text": "Use this workflow when a client cannot access an approved account portal, custodian site, or secure document vault. Confirm identity, determine whether the issue is username, password, device, multi-factor authentication, locked account, or outdated contact information, and document the resolution path before closing the request. Lena Copperwisp reported that authentication codes for the shared document vault are still routing to Marcus Copperwisp's mobile number, preventing her from retrieving estate and account records; restore her individual access through verified channels.",
+      "priority": null,
+      "dueDate": "2023-10-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "She asked Apricot Compass Advisory to restore her individual access through verified channels, and the agreed follow-up is due 2023-10-06."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain estate records for account and insurance processing",
+      "text": "Obtain certified death certificates and letters testamentary for Lena Copperwisp and place them in the document vault, since Velvet Acorn Custody and Moonbadger Insurance require those records before processing beneficiary and claim paperwork following Marcus Copperwisp's death on 2023-09-18.",
+      "priority": null,
+      "dueDate": "2023-10-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to obtain and place the required records for processing is due 2023-10-11."
+    },
+    {
+      "templateId": null,
+      "title": "Complete employer life insurance claim packet",
+      "text": "Complete the employer life insurance claim packet for Lena Copperwisp using the Moonbadger Insurance claim notice and Silver Marmot Analytics benefits correspondence, ensuring it is complete before the Silver Marmot Analytics benefits office review cutoff.",
+      "priority": null,
+      "dueDate": "2023-10-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena brought a Moonbadger Insurance claim notice and Silver Marmot Analytics benefits correspondence showing that the employer claim packet must be complete before the benefits office review cutoff. The agreed follow-up on the claim packet is due 2023-10-16."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate retitling sequence with estate attorney",
+      "text": "Coordinate with Selene Nettlewhisk of Coral Badger Law on the order of retitling the home records, the joint taxable account at Velvet Acorn Custody, and trust administration records for Lena Copperwisp, so account paperwork is consistent with the estate documents drafted in 2018.",
+      "priority": null,
+      "dueDate": "2023-10-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked that coordination occur with Selene Nettlewhisk regarding the order of retitling the home records, the joint taxable account, and trust administration records so that account paperwork is consistent with the estate documents. The agreed follow-up is due 2023-10-18."
+    },
+    {
+      "templateId": "0a2ce75a-8af4-52ae-8c5b-524f6364e54b",
+      "title": "Review beneficiary update request",
+      "text": "Review criteria:\n- Confirm which accounts, policies, plans, or registration types require beneficiary review.\n- Compare current beneficiary records against the client’s stated intent and estate planning notes.\n- Verify full legal names, relationships, percentage allocations, contingent beneficiaries, and per stirpes or per capita elections where applicable.\n- Confirm allocations total correctly and do not conflict with account or custodian rules.\n- Identify whether spouse consent, trustee information, minor beneficiary handling, or legal review is needed.\n\nEvidence to collect:\n- Current custodian or plan beneficiary record\n- Client authorization or signed beneficiary form\n- Relevant trust name and trustee details, if a trust is named\n- Estate planning summary or attorney instruction, if available\n- Confirmation notice or screenshot after processing\n\nDocument any discrepancy, missing signature, or follow-up required before marking the update complete. The client file review showed Marcus Copperwisp is still listed as primary beneficiary on Lena Copperwisp's IRA and term life policy records at Velvet Acorn Custody and Moonbadger Insurance, while the estate summary describes the children (Eva and Finn Copperwisp) and trust provisions as the next intended backstop.",
+      "priority": "high",
+      "dueDate": "2023-10-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to review those beneficiary records is due 2023-10-20."
+    },
+    {
+      "templateId": null,
+      "title": "Analyze survivor income and spending sustainability",
+      "text": "Analyze for Lena Copperwisp whether current spending (previously about $10,800 per month), college costs for Eva and Finn, cash reserves of about $118,000 at Teacup Comet Bank, and retirement timing around age 62 remain sustainable now that Marcus Copperwisp's salary has ended and Lena is the sole earner.",
+      "priority": null,
+      "dueDate": "2023-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to analyze those topics is due 2023-10-25."
+    },
+    {
+      "templateId": "c08e7ecc-0507-5ff9-9a2b-b69b5c83207e",
+      "title": "Collect annual tax documents",
+      "text": "Request missing tax forms, prior-year return details, realized gain/loss reports, charitable contribution records, and any estimated tax payment confirmations needed for planning or CPA coordination. Provide Jonas Maplesprocket of Amber Teapot Tax Advisors with year-to-date income, withholding, realized gain and loss, and estimated tax information for Lena Copperwisp so the tax projection reflects Marcus Copperwisp's final wages from Silver Marmot Analytics and the portfolio activity already posted.",
+      "priority": "medium",
+      "dueDate": "2023-10-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to provide that information for tax coordination is due 2023-10-27."
+    },
+    {
+      "templateId": "d68c5826-91a8-5cc7-bdef-e7b631551900",
+      "title": "Review concentrated position",
+      "text": "Complete the following checks:\n- Identify the position, account location, cost basis, holding period, and percentage of total investable assets.\n- Confirm whether the holding is employer stock, inherited stock, restricted equity, a legacy position, or a tax-sensitive lot.\n- Review unrealized gain or loss, dividend exposure, liquidity needs, and any trading restrictions or blackout windows.\n- Evaluate tax-aware diversification options, including staged sales, gifting, charitable strategies, exchange funds if appropriate, or hedging considerations.\n- Compare concentration risk against the client’s financial plan, retirement income needs, and risk tolerance.\n- Document recommended next steps, required approvals, and any CPA or legal coordination needed before transactions. The position is Paper Otter Technologies stock worth about $510,000 with an estimated cost basis of $96,000 in the joint taxable account at Velvet Acorn Custody; Lena Copperwisp said the concentration feels more uncomfortable now that household income has changed.",
+      "priority": "high",
+      "dueDate": "2023-11-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to review the concentrated stock position is due 2023-11-03."
+    }
+  ]
+}

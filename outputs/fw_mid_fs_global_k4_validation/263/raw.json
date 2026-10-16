@@ -1,0 +1,23 @@
+{
+ "config": "fw_mid_fs_global_k4",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657",
+  "60",
+  "329"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"263\", \"tickets\": [{\"title\": \"Reset credentials and review portal session security\", \"text\": \"Reset Jared Wrenpuddle’s portal credentials and review the session security after repeated lockouts followed an uninitiated password-reset email on 2024-03-18. Implement stronger MFA via approved channels.\", \"priority\": null, \"dueDate\": \"2024-03-18\", \"assigneeId\": null, \"templateId\": \"1dddaf09-0fc9-53d8-a432-b9d4dba60cc8\", \"subTasks\": [{\"title\": \"Collect household changes\", \"text\": \"Request updates for household members, employment, dependents, contact information, outside advisors, and major life changes since the prior profile review.\", \"priority\": \"medium\", \"dueDate\": null, \"assigneeId\": \"ef41105d-921f-5052-8549-4d1a0f81fa3f\"}, {\"title\": \"Update planning assumptions\", \"text\": \"Record changes to income, savings, spending, insurance coverage, benefits, goals, and risk tolerance in the planning record.\", \"priority\": \"medium\", \"dueDate\": null, \"assigneeId\": \"4cbe713b-b420-5401-9de5-20d1f947c70e\"}, {\"title\": \"Advisor review of planning impacts\", \"text\": \"Review the updated household profile for retirement income, tax-aware investment, equity compensation, or estate coordination implications that warrant follow-up.\", \"priority\": \"medium\", \"dueDate\": null, \"assigneeId\": \"368cf34f-7766-520c-b44f-afbfa66af4ab\"}], \"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\"}, {\"title\": \"Check transfer instructions and profile changes\", \"text\": \"Check Teacup Comet Bank transfer instructions and profile changes for Jared Wrenpuddle. The activity showed a pending link; Jared confirmed no household account. Resolve the pending link status.\", \"priority\": null, \"dueDate\": \"2024-03-19\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\"}]}",
+   "usage": {
+    "input_tokens": 4711,
+    "output_tokens": 575,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 23405
+   },
+   "stop": "stop"
+  }
+ ]
+}

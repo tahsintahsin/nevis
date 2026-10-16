@@ -1,0 +1,75 @@
+{
+  "meetingId": "587",
+  "tickets": [
+    {
+      "templateId": "08361f27-bfef-5da9-85f9-5136b2a38dcc",
+      "title": "Prepare liquidity planning analysis",
+      "text": "Review expected cash needs, emergency reserve targets, recurring income sources, upcoming distributions, and potential funding sources. Summarize recommended cash cushion, any portfolio trades needed to raise cash, tax considerations, and questions for the lead advisor before client discussion.\n\nPrepare a liquidity analysis for Mira Thimblefern covering the $3.71 million wire from the Paper Otter Packaging LLC sale to Copper Firefly Holdings, the $400,000 escrow holdback, the $75,000 transition bonus, and the $12,000/month consulting income through February 2026, addressing taxes, two years of household spending (~$15,500/month including a $4,200 mortgage and $2,000 charitable gifts), mortgage decisions, charitable gifts, and staged reinvestment from the $1.62 million joint taxable account at Velvet Acorn Custody.",
+      "priority": "medium",
+      "dueDate": "2025-09-05",
+      "assigneeId": "04250424-b280-5443-9318-1c2f184393c9",
+      "subTasks": [],
+      "evidence": "Mira asked for an analysis showing how much sale cash should remain available for taxes, household reserves, mortgage decisions, charitable gifts, and staged portfolio reinvestment; the agreed follow-up is due September 5, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Collect business sale closing documents",
+      "text": "Obtain the final closing statement, escrow schedule, and post-closing adjustment worksheet for Mira Thimblefern's sale of her 80% membership interest in Paper Otter Packaging LLC to Copper Firefly Holdings so net proceeds and the $400,000 escrow holdback treatment can be verified.",
+      "priority": null,
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the final closing statement, escrow schedule, and post-closing adjustment worksheet were not yet in Mira’s planning file, and those documents are needed to verify net proceeds and escrow treatment by August 29, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile broker proceeds memo to incoming wire",
+      "text": "Reconcile the broker's proceeds memo for Mira Thimblefern's sale of Paper Otter Packaging LLC to Copper Firefly Holdings against the $3.71 million wire that reached her Teacup Comet Bank checking account on August 18, 2025, tracing the variance to fees, debt payoff, escrow, or a separate expected transfer.",
+      "priority": null,
+      "dueDate": "2025-08-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the broker’s proceeds memo showed a higher estimated net cash amount than the actual incoming bank wire, and the difference needs to be traced to fees, debt payoff, escrow, or a separate expected transfer by August 27, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estimated tax review with CPA",
+      "text": "Coordinate with Tobin Mossbutton of Apricot Compass Tax to compare Mira Thimblefern's Paper Otter Packaging LLC sale proceeds, $12,000/month transition consulting income through February 2026, withholding, and expected deductions before the next estimated tax planning decision.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira wants the advisory team and Tobin Mossbutton to compare sale proceeds, consulting income, withholding, and expected deductions before the next estimated tax planning decision; the agreed follow-up is due September 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain replacement health coverage details",
+      "text": "Obtain premium, deductible, and eligibility details for replacement health coverage for Mira Thimblefern after her former company coverage ends following the transition period with Copper Firefly Holdings, needed before choosing an option.",
+      "priority": null,
+      "dueDate": "2025-09-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s former company coverage is expected to end after the transition period, and premium, deductible, and eligibility details for replacement coverage are needed before choosing an option by September 20, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Teacup Comet Bank transfer hold",
+      "text": "Resolve the temporary outbound online transfer limit on Mira Thimblefern's Teacup Comet Bank checking account that received the $3.71 million sale wire on August 18, 2025, so excess cash can be moved to Velvet Acorn Custody or Treasury vehicles.",
+      "priority": null,
+      "dueDate": "2025-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira reported that Teacup Comet Bank temporarily limited outbound online transfers from the account that received the sale wire, preventing efficient movement of excess cash to custody or treasury vehicles; the agreed follow-up is due August 25, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Update estate file after business sale",
+      "text": "Update Mira Thimblefern's estate file to reflect the sale of her 80% membership interest in Paper Otter Packaging LLC to Copper Firefly Holdings, removing the operating business interest reference and obtaining current signed copies of any post-sale amendments or fiduciary updates from Lenora Maplesprocket of Pocket Lantern Law.",
+      "priority": null,
+      "dueDate": "2025-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the advisory review found that the estate file on record still references the operating business interest and lacks current signed copies of any post-sale amendments or fiduciary updates; the agreed follow-up is due September 10, 2025."
+    }
+  ]
+}

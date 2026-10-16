@@ -1,0 +1,75 @@
+{
+  "meetingId": "865",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain carrier reinstatement requirements and interim underwriting or replacement quote information",
+      "text": "Obtain the carrier’s reinstatement requirements and identify any interim underwriting or replacement quote information needed for Serena Willowdoodle’s $750,000 term life policy with Plum Zeppelin Life Insurance after a bank draft failed following a checking-account change. The carrier portal no longer shows the policy as in force.",
+      "priority": null,
+      "dueDate": "2025-04-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the term life policy status discussion on 2025-04-02, Serena reported that a bank draft failed after the family changed checking accounts, and the carrier portal no longer showed her individual term life policy as in force. They agreed that by 2025-04-08 the follow-up is to obtain the carrier’s "
+    },
+    {
+      "templateId": "652157be-e8e6-5f89-b001-6e15103f7c88",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Collect the full benefits guide, rate sheet, beneficiary form, and long-term disability certificate for the Amber Teapot Robotics enrollment package so the group life, disability, HSA, and beneficiary choices can be reviewed together.",
+      "priority": "medium",
+      "dueDate": "2025-04-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For employer benefits enrollment materials on 2025-04-02, Serena had not yet received the full benefits guide, rate sheet, beneficiary form, or long-term disability certificate for the Amber Teapot Robotics enrollment package. They agreed that by 2025-04-07 the follow-up is to collect those document"
+    },
+    {
+      "templateId": null,
+      "title": "Update life and disability coverage analysis",
+      "text": "Update the household’s life and disability coverage analysis using current income, debt, savings, and college funding assumptions. Account for Serena’s new compensation mix at Amber Teapot Robotics, Jonah’s variable self-employment income, the coast cottage mortgage, and the children’s remaining education years, which changed the family’s dependency assumptions.",
+      "priority": null,
+      "dueDate": "2025-04-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For household protection needs after compensation and property changes on 2025-04-02, Serena’s new compensation mix, Jonah’s variable self-employment income, the coast cottage mortgage, and the children’s remaining education years changed the family’s dependency assumptions. They agreed that by 2025"
+    },
+    {
+      "templateId": null,
+      "title": "Compare bundled home, auto, and umbrella coverage with alternate quotes",
+      "text": "Compare the current Cloudberry Kite Insurance bundled coverage (home, auto, and umbrella) with at least one alternate quote while preserving liability limits appropriate for the primary residence, cottage, and teenage-driver planning horizon. Account for the renewal packet showing higher premiums and different deductibles from the prior policy year.",
+      "priority": null,
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the home, auto, and umbrella renewal comparison on 2025-04-02, the Cloudberry Kite Insurance renewal packet showed higher premiums and different deductibles from the prior policy year. They agreed that by 2025-04-16 the follow-up is to compare current bundled coverage with at least one alternate"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile carrier records with trust documents for beneficiary consistency",
+      "text": "Reconcile the active insurance beneficiary screen shown by Serena with the estate planning summary regarding contingent beneficiaries for the children’s share, using the trust documents drafted by Mira Nettlewhisk of Pocket Lantern Legal Group in 2021.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the beneficiary record inconsistency on 2025-04-02, the active insurance beneficiary screen shown by Serena did not align with the estate planning summary regarding contingent beneficiaries for the children’s share. They agreed that by 2025-04-18 the follow-up is to reconcile the carrier records"
+    },
+    {
+      "templateId": null,
+      "title": "Refresh retirement and cash-flow projection",
+      "text": "Refresh the household’s retirement and cash-flow projection after updated premium estimates are available. Account for the higher coast cottage carrying cost, Serena’s new benefit deductions, and the fact that the household plan still reflected prior-year insurance premiums.",
+      "priority": null,
+      "dueDate": "2025-05-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the retirement and cash-flow projection refresh on 2025-04-02, Elena’s review found that the household plan still reflected prior-year insurance premiums and did not include the higher coast cottage carrying cost or Serena’s new benefit deductions. They agreed that by 2025-05-09 the follow-up is"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare insurance inventory for professional coordination",
+      "text": "Prepare a concise inventory of current policies, renewal contacts, owners, insureds, beneficiaries, premium amounts, and known gaps that can be shared with Tobin Mossbutton and Mira Nettlewhisk. Do not include full account or policy numbers for email circulation.",
+      "priority": null,
+      "dueDate": "2025-05-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the insurance inventory for professional coordination on 2025-04-02, Serena asked for a concise inventory of current policies, renewal contacts, owners, insureds, beneficiaries, premium amounts, and known gaps that can be shared with Tobin Mossbutton and Mira Nettlewhisk. They agreed that by 202"
+    }
+  ]
+}

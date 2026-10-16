@@ -1,0 +1,45 @@
+{
+  "meetingId": "300",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compile authorized investment, bank, retirement, debt, and household cash-flow records",
+      "text": "Compile the authorized investment, bank, retirement, debt, and household cash-flow records that Tobin Mossbutton of Silver Marmot Legal requested for the pending property discussion. Include all records needed to understand the financial picture for the separation.",
+      "priority": null,
+      "dueDate": "2025-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to compile by 2025-03-14 the authorized investment, bank, retirement, debt, and household cash-flow records Tobin requested for the pending property discussion."
+    },
+    {
+      "templateId": null,
+      "title": "Compare and label mortgage balance source documents",
+      "text": "Compare the mediation worksheet mortgage balance with the Teacup Comet Bank portal balance and label the source documents before the figures are used in planning exhibits.",
+      "priority": null,
+      "dueDate": "2025-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The mediation worksheet showed a lower mortgage balance than the Teacup Comet Bank portal balance, so the agreed 2025-03-12 follow-up is to compare and label source documents before the figures are used in planning exhibits."
+    },
+    {
+      "templateId": null,
+      "title": "Update beneficiary and ownership records to remove Reid",
+      "text": "Update legacy beneficiary and ownership records for Anika Meadowbobbin’s Roth IRA, term life policy, and joint taxable account to remove Reid Meadowbobbin. Coordinate any changes through authorized legal channels.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s planning inventory review found Reid listed on legacy beneficiary and ownership records, including Anika’s Roth IRA, term life policy, and joint taxable account, with any changes to be coordinated through authorized legal channels by 2025-03-21."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Resolve the Velvet Acorn Custody login for the joint taxable account that sends verification prompts to Reid’s phone, preventing statement downloads needed for the authorized document package.",
+      "priority": "high",
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Anika reported that the Velvet Acorn Custody login for the joint taxable account sends verification prompts to Reid’s phone, preventing statement downloads needed for the authorized document package; the agreed access-recovery follow-up is due 2025-03-10."
+    }
+  ]
+}

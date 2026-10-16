@@ -1,0 +1,35 @@
+{
+  "meetingId": "598",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update and route address/residency records",
+      "text": "Update and route address/residency records for Nolan and Lena Pebblefizz, as statements still show Oregon despite their move to Mesa, Arizona.",
+      "priority": null,
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed follow-ups are to update and route address/residency records by 2025-03-10 because statements still show Oregon;"
+    },
+    {
+      "templateId": "7a01cf30-e455-55f4-92f2-f4ca51e7fee1",
+      "title": "Review mortgage document collection needs",
+      "text": "Complete the mortgage and insurance file for Nolan and Lena Pebblefizz, including final closing disclosure, current mortgage statement, and declaration page.",
+      "priority": "medium",
+      "dueDate": "2025-03-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "complete the mortgage and insurance file by 2025-03-17 because final closing disclosure, current mortgage statement, and declaration page are missing;"
+    },
+    {
+      "templateId": null,
+      "title": "Address payroll withholding evidence",
+      "text": "Address Nolan Pebblefizz’s payroll withholding evidence, reconciling the Oregon withholding shown on his paystub with HR records showing Arizona mailing and work location.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "and address payroll withholding evidence by 2025-03-21 because Nolan’s paystub showed Oregon withholding while HR showed Arizona mailing and work location."
+    }
+  ]
+}

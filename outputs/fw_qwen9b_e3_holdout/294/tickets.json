@@ -1,0 +1,15 @@
+{
+  "meetingId": "294",
+  "tickets": [
+    {
+      "templateId": "3a4e7ad2-bf7e-54d7-9b37-c81d19056200",
+      "title": "Update recurring payment instructions",
+      "text": "Prepare transfer instructions for donating about $50,000 of Copper Firefly Utilities shares from Nora and Martin Nettlewhisk’s joint taxable brokerage account at Apricot Compass Advisory to Nora’s donor-advised fund at Velvet Acorn Charitable.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed August 2 follow-up is to prepare transfer instructions for donating about $50,000 of Copper Firefly Utilities shares to Nora’s donor-advised fund at Velvet Acorn Charitable."
+    }
+  ]
+}

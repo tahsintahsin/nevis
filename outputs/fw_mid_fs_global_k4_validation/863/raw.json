@@ -1,0 +1,23 @@
+{
+ "config": "fw_mid_fs_global_k4",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657",
+  "60",
+  "329"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"863\", \"tickets\": [{\"title\": \"Reconcile Nia’s 529 account balance discrepancy\", \"text\": \"Reconcile the difference between Liora’s tuition spreadsheet listing Nia’s 529 balance at about $82,000 and the Velvet Acorn Custody portal statement showing about $74,600 after a prior distribution. Identify the source of the discrepancy before the planning file can be updated.\", \"priority\": null, \"dueDate\": \"2026-03-18\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Liora’s tuition spreadsheet lists Nia’s 529 balance at about $82,000, while the portal statement shows about $74,600 after a prior distribution, and the source of the difference was not identified during the call. They agreed to reconcile the 529 balance by 2026-03-18.\"}, {\"title\": \"Collect current statements for all education accounts\", \"text\": \"Obtain current statements for Nia Dewspindle’s 529 account at Velvet Acorn Custody, Owen Dewspindle’s 529 account at Velvet Acorn Custody, and the grandparent-owned education account Dorian mentioned. The planning file lacks these statements and account ownership, balances, and available distribution options cannot be confirmed.\", \"priority\": null, \"dueDate\": \"2026-03-18\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Current statements for Nia’s 529 account, Owen’s 529 account, and a grandparent-owned education account Dorian mentioned are needed by 2026-03-18 because the planning file lacks them and account ownership, balances, and available distribution options cannot be confirmed.\"}, {\"title\": \"Review college cost worksheet and match education account distributions\", \"text\": \"Review the college cost worksheet because Elena’s review found scholarship aid, required technology costs, housing charges, and tuition grouped together, making it unclear which amounts should be matched to education account distributions and which records should be retained for tax reporting.\", \"priority\": null, \"dueDate\": \"2026-03-24\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Elena’s review found scholarship aid, required technology costs, housing charges, and tuition grouped together, making it unclear which amounts should be matched to education account distributions and which records should be retained for tax reporting. They agreed that by 2026-03-24 the college cost worksheet will be reviewed.\"}, {\"title\": \"Prepare education funding comparison\", \"text\": \"Prepare a comparison of using Nia’s 529 balance, taxable brokerage assets, expected bonus cash, and a limited sale of Cloudberry Kite Robotics shares to cover the first-year college funding gap while preserving Liora’s stated cash reserve floor of $80,000 during Nia’s first college year.\", \"priority\": null, \"dueDate\": \"2026-03-20\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed that by 2026-03-20 a comparison will be prepared of using Nia’s 529 balance, taxable brokerage assets, expected bonus cash, and a limited sale of Cloudberry Kite Robotics shares to cover the first-year college funding gap while preserving Liora’s stated cash reserve floor.\"}, {\"title\": \"Select tuition payment method\", \"text\": \"Select the tuition payment method before the first bill can be processed. The Marzipan Meadow University portal offers a semester lump-sum payment or monthly payment plan, and the family has not yet chosen the method needed before the first bill.\", \"priority\": null, \"dueDate\": \"2026-04-15\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"A tuition payment method selection is needed by 2026-04-15 because the Marzipan Meadow University portal offers a semester lump-sum payment or monthly payment plan, and the family has not chosen the method needed before the first bill can be processed.\"}]}",
+   "usage": {
+    "input_tokens": 12610,
+    "output_tokens": 969,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 16384
+   },
+   "stop": "stop"
+  }
+ ]
+}

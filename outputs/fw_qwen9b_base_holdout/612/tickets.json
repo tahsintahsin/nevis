@@ -1,0 +1,35 @@
+{
+  "meetingId": "612",
+  "tickets": [
+    {
+      "templateId": "a19cba02-6935-5708-8852-6d1c2cd423d5",
+      "title": "Complete address and residency update checks",
+      "text": "Update Dana Cloudpuddle and Ellis Willowdoodle's household, planning, address, spouse contact, and outside-institution records to reflect their marriage on 2024-08-17, their shared residence in Portland, Oregon, and their decision to keep their surnames for financial and tax records.",
+      "priority": "medium",
+      "dueDate": "2024-09-06",
+      "assigneeId": "a6f870ee-11f8-537f-82a4-1617502f2839",
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-06 to update household, planning, address, spouse contact, and outside-institution records."
+    },
+    {
+      "templateId": null,
+      "title": "Collect benefits evidence for Paper Otter School",
+      "text": "Obtain the Paper Otter School rate sheet and beneficiary confirmation for Ellis Willowdoodle, as these documents were not previously downloaded and are required for planning updates.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": "a6f870ee-11f8-537f-82a4-1617502f2839",
+      "subTasks": [],
+      "evidence": "Benefits evidence is needed by 2024-09-13 because Ellis had not downloaded the Paper Otter School rate sheet or beneficiary confirmation."
+    },
+    {
+      "templateId": null,
+      "title": "Update IRA beneficiary listing for Dana Cloudpuddle",
+      "text": "Update Dana Cloudpuddle's Velvet Acorn Custody IRA beneficiary listing to replace Blair Nettlewhisk with Ellis Willowdoodle, per Dana's request made during the meeting.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": "a6f870ee-11f8-537f-82a4-1617502f2839",
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-10 to address Dana’s Velvet Acorn Custody IRA beneficiary listing Blair Nettlewhisk, after Dana said Ellis should replace Blair."
+    }
+  ]
+}

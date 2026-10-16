@@ -1,0 +1,75 @@
+{
+  "meetingId": "293",
+  "tickets": [
+    {
+      "templateId": "3a4e7ad2-bf7e-54d7-9b37-c81d19056200",
+      "title": "Update recurring payment instructions",
+      "text": "Increase Daria Copperwisp’s recurring IRA distribution from $4,500 to $6,200 net per month, sent to her existing Teacup Comet Bank checking account.",
+      "priority": null,
+      "dueDate": "2025-07-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daria asked for the net monthly IRA distribution sent to her existing Teacup Comet Bank checking account to increase from $4,500 to $6,200. The agreed follow-up is to implement the increase by 2025-07-11."
+    },
+    {
+      "templateId": null,
+      "title": "Review retirement income bridge funding sources",
+      "text": "Review the Copperwisp household’s retirement income bridge, reflecting Daria’s retirement from Moonbadger Design Works on 2025-01-31 and Owen’s consulting income pattern. Assess whether monthly withdrawals should come from the IRA, joint taxable account, or cash reserves.",
+      "priority": null,
+      "dueDate": "2025-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that review by 2025-07-25."
+    },
+    {
+      "templateId": null,
+      "title": "Process one-time taxable account distribution for tuition",
+      "text": "Process an $18,000 one-time distribution from the Copperwisp joint taxable account at Velvet Acorn Custody for Nora Copperwisp’s family tuition contribution. The distribution must clear before Nora’s school orientation.",
+      "priority": null,
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daria asked for an $18,000 one-time distribution from the joint taxable account for the family tuition contribution that must clear before Nora’s school orientation. The agreed follow-up is to process the distribution by 2025-07-18."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Daria Copperwisp’s marketplace health insurance premium notice",
+      "text": "Obtain Daria Copperwisp’s current marketplace health insurance premium notice to verify the household’s monthly spending estimate used for withdrawal planning.",
+      "priority": null,
+      "dueDate": "2025-07-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daria did not have the current marketplace health insurance premium notice available during the conversation, and the notice is needed to verify the monthly spending estimate used for withdrawal planning. The agreed follow-up is to obtain the documentation by 2025-07-09."
+    },
+    {
+      "templateId": null,
+      "title": "Check Daria Copperwisp’s IRA federal withholding instruction",
+      "text": "Check Daria Copperwisp’s federal withholding instruction for her recurring IRA distributions before the revised payment is entered. Daria recalled electing a higher withholding rate than the custodian record shows.",
+      "priority": null,
+      "dueDate": "2025-07-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daria recalled electing a higher federal withholding rate than the custodian record showed for the current IRA distributions, so the withholding instruction needs to be checked before the revised payment is entered. The agreed follow-up is to check the withholding instruction by 2025-07-15."
+    },
+    {
+      "templateId": null,
+      "title": "Review IRA distribution processing timetable",
+      "text": "Review the processing timetable for Daria Copperwisp’s recurring IRA distributions. The most recent payment posted later than the normal household bill cycle, and Daria reported moving cash from savings to avoid an overdraft.",
+      "priority": null,
+      "dueDate": "2025-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the distribution processing timetable by 2025-07-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare withdrawal funding plan avoiding unnecessary realized gains",
+      "text": "Prepare a funding plan for the Copperwisp household’s scheduled withdrawals. Account for the joint taxable account’s cash and short-term bond sleeve being above the household reserve target, and avoid unnecessary realized gains.",
+      "priority": null,
+      "dueDate": "2025-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s pre-call review found the taxable account cash and short-term bond sleeve above the household reserve target, and the portfolio needs a funding plan for scheduled withdrawals that avoids unnecessary realized gains. The agreed follow-up is to prepare that funding plan by 2025-07-22."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"314\",\n\"tickets\": [\n{\n\"templateId\": \"a5a5fd32-0e81-5137-9be4-206c688fccbb\",\n\"title\": \"Review Financial Plan Snapshot\",\n\"text\": \"Refresh Nora Bramblequill’s key assumptions, compare current projections to her stated goals, note material changes in income, expenses, taxes, assets, liabilities, retirement timing, and education funding needs, then list planning decisions for advisor review. Incorporate the North Carolina residency, Asheville housing costs, revised commuting expenses, updated cash reserve targets, retirement savings projections, and Lila Bramblequill’s education funding assumptions.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2025-10-10\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to refresh the household plan for North Carolina residency, Asheville housing costs, revised commuting expenses, cash reserve targets, retirement savings, and Lila’s education funding assumptions by 2025-10-10.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review Ellis Bramblequill Benefits Guide\",\n\"text\": \"Review Ellis Bramblequill’s Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA options, disability coverage, supplemental life insurance, and retirement contribution choices.\",\n\"priority\": null,\n\"dueDate\": \"2025-09-30\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to review Ellis’s Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA, disability coverage, supplemental life insurance, and retirement contribution choices by 2025-09-30 before the election window closes.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2164,
+    "output_tokens": 2196,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

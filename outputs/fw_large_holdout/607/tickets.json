@@ -1,0 +1,115 @@
+{
+  "meetingId": "607",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare care-cost cash-flow projection",
+      "text": "Prepare a cash‑flow projection comparing continued home care with the Coral Badger Residence memory‑care studio for Lena and Gareth Mossbutton, using current aide hours, guaranteed income, portfolio values, and a $80,000 cash floor.",
+      "priority": null,
+      "dueDate": "2025-06-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that projection for 2025-06-20."
+    },
+    {
+      "templateId": null,
+      "title": "Identify deposit funding source",
+      "text": "Identify which cash source Lena Mossbutton should use to fund the Coral Badger Residence room deposit before the hold expires.",
+      "priority": null,
+      "dueDate": "2025-06-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the deposit funding source for 2025-06-09."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain long-term care claim evidence",
+      "text": "Obtain the elimination‑period log and attending physician statement required by Silver Marmot Mutual to complete the long‑term care claim packet for Gareth Mossbutton.",
+      "priority": null,
+      "dueDate": "2025-06-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to obtain the missing claim evidence for 2025-06-13."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile prescription spending variance",
+      "text": "Reconcile the variance between Lena Mossbutton’s prescription spending sheet and the Teacup Comet Bank transaction totals to determine the impact of the new specialty medication and mail‑order timing.",
+      "priority": null,
+      "dueDate": "2025-06-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to reconcile that variance for 2025-06-18."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate caregiver payment and payroll",
+      "text": "Coordinate guidance for Lena Mossbutton on whether payments to caregiver Nora Maplesprocket constitute household payroll or reporting obligations.",
+      "priority": null,
+      "dueDate": "2025-07-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate on that caregiver payment and payroll question for 2025-07-01."
+    },
+    {
+      "templateId": null,
+      "title": "Review backup care assumption",
+      "text": "Review the backup care assumption for missed evening shifts, evaluating whether the care budget should include private backup coverage at a higher rate for Pocket Lantern Home Care.",
+      "priority": null,
+      "dueDate": "2025-06-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the backup care assumption for 2025-06-17."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate authority provisions",
+      "text": "Review the trust successor trustee language and health‑care directive backup agents to ensure they reflect the current caregiving roles of Lena and Gareth Mossbutton.",
+      "priority": null,
+      "dueDate": "2025-06-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review those estate authority provisions for 2025-06-27."
+    },
+    {
+      "templateId": "3fc9118d-f924-58f9-8e5c-38a330f56058",
+      "title": "Prepare beneficiary update request",
+      "text": "Use this template to request beneficiary update details without entering client data.\n\nClient name: Lena Mossbutton\nAccount or policy type: Roth IRA and Traditional IRA\nCustodian, insurer, or plan provider: Velvet Acorn Custody\nPrimary beneficiary name(s): [__________]\nPrimary beneficiary relationship(s): [__________]\nPrimary beneficiary percentage(s): [__________]\nContingent beneficiary name(s): [__________]\nContingent beneficiary relationship(s): [__________]\nContingent beneficiary percentage(s): [__________]\nPer stirpes or per capita preference, if applicable: [__________]\nTrust or entity beneficiary details, if applicable: [__________]\nRequired forms requested: [__________]\nClient authorization method: [__________]\nNotes or special instructions: [__________]\n\nObtain the beneficiary information for Lena Mossbutton’s Roth IRA and Gareth Mossbutton’s IRA held at Velvet Acorn Custody to confirm current designations.",
+      "priority": null,
+      "dueDate": "2025-06-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to obtain the beneficiary information for 2025-06-21."
+    },
+    {
+      "templateId": "a367693a-ffd0-5db2-ab0f-653fa242744d",
+      "title": "Single-Stock Compass Check",
+      "text": "Review the concentrated Moonbadger Tools stock position of $185,000 in the joint taxable account to assess its suitability as a care‑funding source and evaluate potential embedded gains and concentration risk.",
+      "priority": null,
+      "dueDate": "2025-06-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that position for 2025-06-25."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain home equity line documentation",
+      "text": "Obtain the current home equity line of credit agreement and draw terms from Teacup Comet Bank to evaluate the liquidity backstop for care costs.",
+      "priority": null,
+      "dueDate": "2025-06-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to obtain the current agreement and draw terms for 2025-06-24."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate tax impact of care funding",
+      "text": "Coordinate with tax preparer Tobin Thimblefern on the tax effects of funding care from taxable‑account sales versus IRA withdrawals for Lena and Gareth Mossbutton, considering prior‑year capital gains and charitable gifts.",
+      "priority": null,
+      "dueDate": "2025-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate on that tax impact question for 2025-07-03."
+    }
+  ]
+}

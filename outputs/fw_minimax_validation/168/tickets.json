@@ -1,0 +1,115 @@
+{
+  "meetingId": "168",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain home safety modification estimates",
+      "text": "Obtain contractor estimates for the discharge therapist's recommended home safety modifications (grab bars, stair rail changes, and shower entry modification) for Nadia and Owen Pebblefizz's home in Fort Collins, Colorado, to support the cash-flow plan.",
+      "priority": null,
+      "dueDate": "2026-09-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain home safety modification estimates by 2026-09-03."
+    },
+    {
+      "templateId": null,
+      "title": "Gather long-term care claim materials",
+      "text": "Gather the full policy, elimination-period ledger, physician certification form, and current claim packet for Owen Pebblefizz's home-care claim under his Velvet Acorn Life & Care long-term care policy ($165 daily home-care benefit, 90 service-day elimination period).",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to gather long-term care claim materials by 2026-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Medicare home-health denial packet",
+      "text": "Assemble the Medicare home-health denial packet for Owen Pebblefizz's two denied therapy visits under his Silver Marmot Health Medicare Advantage plan, including therapy notes and homebound certification, before the appeal window closes.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to assemble the Medicare home-health denial packet by 2026-08-19."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare caregiver compensation framework",
+      "text": "Prepare a caregiver compensation framework for Lila Pebblefizz's unpaid evening care, addressing documentation, tax reporting, and boundaries between gifts and paid care, for the Pebblefizz household.",
+      "priority": null,
+      "dueDate": "2026-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a caregiver compensation framework by 2026-09-05."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare care-cost cash-flow projection",
+      "text": "Prepare a twelve-month care-cost cash-flow projection for Nadia and Owen Pebblefizz comparing current home-health hours (Paper Otter Home Care at 30 hours/week, $46/hour), Willow Pudding Adult Day Center ($115/day, two-day program), and Thimble Harbor Assisted Living ($7,850/month plus $1,200 assessment) against pension income, Social Security, taxable-account cash, and possible IRA distribution sources.",
+      "priority": null,
+      "dueDate": "2026-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the care-cost cash-flow projection by 2026-08-29."
+    },
+    {
+      "templateId": null,
+      "title": "Address benefit changes from reduced work",
+      "text": "Address how losing Nadia Pebblefizz's part-time telehealth consulting income (about $2,100/month from Cloudberry Kite Rehabilitation) would affect the monthly care budget and estimated tax payments for the household.",
+      "priority": null,
+      "dueDate": "2026-09-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address benefit changes from reduced work by 2026-09-11."
+    },
+    {
+      "templateId": null,
+      "title": "Address recurring transfer failure",
+      "text": "Address the failed recurring $5,000 monthly transfer from the Velvet Acorn Custody taxable account to the Teacup Comet Bank checking account for Nadia and Owen Pebblefizz, and resolve the past-due Paper Otter Home Care invoice.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the recurring transfer failure by 2026-08-21."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile home-care invoice",
+      "text": "Reconcile the Paper Otter Home Care invoice for Owen Pebblefizz against the family care log, including the billed visit count discrepancy and the unrecognized weekend premium overnight shift.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reconcile the home-care invoice by 2026-08-23."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare liquidity plan after portfolio review",
+      "text": "Prepare a liquidity plan for Nadia and Owen Pebblefizz after the portfolio review, addressing the gap between current cash and short-duration holdings and the household's preferred care reserve of at least 18 months of core household spending in lower-volatility assets.",
+      "priority": null,
+      "dueDate": "2026-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a liquidity plan after the portfolio review by 2026-08-30."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare respite placement decision support",
+      "text": "Prepare a financial comparison of Thimble Harbor Assisted Living's respite suite ($7,850/month plus $1,200 assessment) versus expanded in-home shifts for Owen Pebblefizz before the family responds to the brief hold on the suite.",
+      "priority": null,
+      "dueDate": "2026-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare respite placement decision support by 2026-08-26."
+    },
+    {
+      "templateId": null,
+      "title": "Provide information for tax estimate",
+      "text": "Provide projected home-care, adult day, respite, mileage, and caregiver-payment amounts to Jasper Copperwisp of Pocket Lantern Tax Partners for the Pebblefizz household's year-end tax planning, referencing 2025 AGI of $214,000 and itemized medical expenses of $18,600.",
+      "priority": null,
+      "dueDate": "2026-09-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to provide information for the tax estimate for medical and caregiver costs by 2026-09-08."
+    }
+  ]
+}

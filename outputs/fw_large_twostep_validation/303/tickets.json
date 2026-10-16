@@ -1,0 +1,55 @@
+{
+  "meetingId": "303",
+  "tickets": [
+    {
+      "templateId": "fa8ebcc2-e3bb-5862-a32e-36b07cd19a82",
+      "title": "Coordinate divorce-related financial document package",
+      "text": "Compile and organize financial planning records requested for divorce-related analysis. Use only authorized documents, confirm permitted communication channels, and separate planning notes from legal advice. Coordinate with Anika Meadowbobbin's attorney or mediator when written authorization is on file. Prepare and send the compiled package to Tobin Mossbutton by 2025-03-14, including investment, bank, retirement, debt, and household cash‑flow records for the property discussion.",
+      "priority": "high",
+      "dueDate": "2025-03-14",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "They agreed that the divorce financial document package will compile authorized investment, bank, retirement, debt, and household cash-flow records requested by Tobin Mossbutton for the pending property discussion by March 14, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Paper Otter Fabrication documents",
+      "text": "Obtain the ownership valuation exhibit, recent K‑1 support, and buy‑sell agreement pages for Paper Otter Fabrication for Anika Meadowbobbin by 2025-03-18.",
+      "priority": null,
+      "dueDate": "2025-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain those records by March 18, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Compare mortgage balances and label documents",
+      "text": "Compare the mediation worksheet mortgage balance with the Teacup Comet Bank portal figure for Anika Meadowbobbin and label each source document for planning exhibits by 2025-03-12.",
+      "priority": null,
+      "dueDate": "2025-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare and label source documents before planning exhibits by March 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate updates to financial accounts",
+      "text": "Coordinate changes to Anika Meadowbobbin’s Roth IRA, term life insurance policy, and joint taxable account through authorized legal channels by 2025-03-21.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "any changes are to be coordinated through authorized legal channels by March 21, 2025."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Access recovery request\n\nClient name: [________________]\nAffected portal or institution: [________________]\nUser ID or known login email: [________________]\nIssue type: [locked account / forgotten password / MFA reset / outdated email / other: ________]\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [yes / no / location: ________]\nSecurity notes or restrictions: [________________]\nNext action required: [________________]\n\nRecover access to Anika Meadowbobbin’s Velvet Acorn Custody joint taxable login by 2025-03-10.",
+      "priority": "high",
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "access recovery was agreed by March 10, 2025."
+    }
+  ]
+}

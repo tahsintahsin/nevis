@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e1",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"307\", \"tickets\": [{\"title\": \"Prepare Copper Firefly equity vesting and trading calendar\", \"text\": \"Prepare a single calendar of Tobin Mossbutton’s Copper Firefly option and RSU vesting, blackout periods, and pre-clearance steps. Use the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions. Planning was relying on memory or portal screenshots.\", \"priority\": null, \"dueDate\": \"2026-08-12\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots.\"}, {\"title\": \"Illustrate Copper Firefly equity sale and exercise options\", \"text\": \"Prepare an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity. Use the review’s findings of several vested option strike prices and no household comparison.\", \"priority\": null, \"dueDate\": \"2026-08-19\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison.\"}]}",
+   "usage": {
+    "input_tokens": 1244,
+    "output_tokens": 342,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

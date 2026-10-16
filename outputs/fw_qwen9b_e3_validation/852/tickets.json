@@ -1,0 +1,75 @@
+{
+  "meetingId": "852",
+  "tickets": [
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update Nadia and Omar Pebblefizz’s household profile to reflect the inheritance coordination context, including Nadia’s concern about record transparency with Rowan Thimblefern and the preference to keep inherited assets separate from routine household spending until the estate process is clearer.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia asked for a shared tracking ledger for inherited accounts, estate contacts, forms received, ownership notes, and open questions so she can discuss the estate with Rowan using the same record set; they agreed to build it by 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate probate authority document follow-up",
+      "text": "Follow up on the certified probate authority paperwork needed by the custodian and bank. The estate attorney has provided death certificate copies, but the certified authority paperwork has not been uploaded to the secure portal.",
+      "priority": null,
+      "dueDate": "2024-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the certified authority paperwork needed by the custodian and bank has not been uploaded to the secure portal; the agreed follow-up is due 2024-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve estate bank access problem",
+      "text": "Follow up on Teacup Comet Bank’s rejection of Nadia’s online estate-account access attempt. The executor record did not match the bank’s internal file, preventing her from viewing recent estate cash activity.",
+      "priority": null,
+      "dueDate": "2024-02-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Teacup Comet Bank rejected Nadia’s online estate-account access attempt and told her the executor record did not match its internal file, preventing her from viewing recent estate cash activity; the agreed follow-up on the estate bank access problem is due 2024-02-16."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm Alden’s IRA beneficiary percentage",
+      "text": "Confirm the controlling beneficiary percentage for Alden’s traditional IRA before inherited IRA paperwork is signed. Nadia brought a paper beneficiary copy that does not match the percentage shown in the custodian portal.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia brought a paper beneficiary copy that does not match the percentage shown in the custodian portal, and the controlling designation needs to be confirmed before inherited IRA paperwork is signed; follow-up is needed, with no date supplied."
+    },
+    {
+      "templateId": null,
+      "title": "Organize estate information for CPA and estate attorney",
+      "text": "Organize the estate inventory, anticipated income items, and beneficiary distributions for Iris Dewspindle of Amber Teapot Tax and Galen Nettlewhisk of Pocket Lantern Law before the next tax-planning conversation tied to the estate administration calendar.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The estate inventory, anticipated income items, and beneficiary distributions need to be organized for the CPA and estate attorney before the next tax-planning conversation tied to the estate administration calendar; the agreed follow-up is due 2024-03-01."
+    },
+    {
+      "templateId": null,
+      "title": "Update personal estate documents’ successor fiduciary reference",
+      "text": "Follow up on updating Nadia and Omar’s 2016 personal estate documents to address the stale appointment of Alden as a successor fiduciary following his death.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the 2016 personal estate documents’ reference to Alden in a successor fiduciary role creates a stale appointment after his death; the agreed follow-up on the fiduciary role update is due 2024-03-08."
+    },
+    {
+      "templateId": null,
+      "title": "Develop inherited-asset investment and spending framework",
+      "text": "Develop a separate investment and spending framework for inherited assets that accounts for retirement flexibility around age 62, college costs, cash reserves, and Nadia’s preference not to blend estate proceeds into routine household spending immediately.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia wants a separate investment and spending framework for inherited assets that accounts for retirement flexibility, college costs, cash reserves, and her preference not to blend estate proceeds into routine spending immediately; the agreed follow-up is due 2024-03-15."
+    }
+  ]
+}

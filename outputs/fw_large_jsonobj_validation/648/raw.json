@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_jsonobj",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"name\":\"meetingId\",\"value\":\"648\",\"tickets\":[\n{\n\"title\":\"Restore secure online access for Lena\",\n\"text\":\"Restore Lena Copperwisp's Velvet Acorn Custody portal access using a secure method that bypasses the old SMS code path, as she was locked out after unexpected MFA prompts.\",\n\"priority\":null,\n\"dueDate\":\"2025-04-10\",\n\"assigneeId\":null,\n\"subTasks\":[],\n\"evidence\":\"the agreed follow-up is to restore secure online access by April 10, 2025.\"\n},\n{\n\"title\":\"Review unrecognized external bank link\",\n\"text\":\"Review the pending external bank nickname shown in Lena Copperwisp's Velvet Acorn Custody activity view that she does not recognize, to determine if it is unauthorized.\",\n\"priority\":null,\n\"dueDate\":\"2025-04-11\",\n\"assigneeId\":null,\n\"subTasks\":[],\n\"evidence\":\"the agreed follow-up is to review that link by April 11, 2025.\"\n},\n{\n\"title\":\"Update recurring payment instructions\",\n\"text\":\"Update the recurring $2,500 transfer from the joint taxable account at Velvet Acorn Custody to the Teacup Comet Bank checking account, pausing it until a verified Teacup Comet Bank destination with phone confirmation is set.\",\n\"priority\":null,\n\"dueDate\":\"2025-04-14\",\n\"assigneeId\":null,\n\"subTasks\":[],\n\"evidence\":\"the agreed follow-up is to update the instructions by April 14, 2025.\",\n\"templateId\":\"37c17d04-e353-50f8-a3c6-359f520559a4\"\n},\n{\n\"title\":\"Collect bank incident documentation\",\n\"text\":\"Collect the Teacup Comet Bank incident reference, statement pages showing any attempted micro‑deposits, and written confirmation of which bank account numbers remain valid for Lena Copperwisp's records.\",\n\"priority\":null,\n\"dueDate\":\"2025-04-15\",\n\"assigneeId\":null,\n\"subTasks\":[],\n\"evidence\":\"the agreed follow-up is to collect those materials by April 15, 2025.\"\n},\n{\n\"title\":\"Refresh account safeguards and contacts\",\n\"text\":\"Refresh the custodian alert record for Lena Copperwisp by updating the trusted contact information to replace her prior work email with Noah Copperwisp's current mobile number.\",\n\"priority\":null,\n\"dueDate\":\"2025-04-18\",\n\"assigneeId\":null,\n\"subTasks\":[],\n\"evidence\":\"the agreed follow-up is to refresh those records by April 18, 2025.\"\n},\n{\n\"title\":\"Coordinate secure tuition funding\",\n\"text\":\"Coordinate a secure payment for Marzipan Meadow School's upcoming $8,600 tuition installment for Poppy Copperwisp, ensuring funds are routed only through a verified Teacup Comet Bank account and not through any unverified destination.\",\n\"priority\":null,\n\"dueDate\":\"2025-04-16\",\n\"assigneeId\":null,\n\"subTasks\":[],\n\"evidence\":\"the agreed follow-up is to coordinate secure tuition funding by April 16, 2025.\"\n}\n],\n\"meetingId\":\"648\"\n}",
+   "usage": {
+    "input_tokens": 3558,
+    "output_tokens": 3341,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2181
+   },
+   "stop": "stop"
+  }
+ ]
+}

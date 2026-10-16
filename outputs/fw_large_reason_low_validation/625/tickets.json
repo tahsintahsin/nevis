@@ -1,0 +1,75 @@
+{
+  "meetingId": "625",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Analyze mortgage liquidity source options",
+      "text": "Analyze mortgage liquidity source options for Julian and Iris Nettlewhisk, comparing bank cash, short‑term bond holdings, taxable brokerage sales, and vested employer shares while preserving at least $80,000 emergency reserves.",
+      "priority": null,
+      "dueDate": "2025-10-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian asked for a mortgage liquidity source analysis comparing bank cash, short-term bond holdings, taxable brokerage sales, and vested employer shares to fund the remaining down payment while preserving the stated reserve target; the agreed follow-up is due 2025-10-08."
+    },
+    {
+      "templateId": null,
+      "title": "Upload required underwriting asset documents",
+      "text": "Upload the latest Teacup Comet Bank statement and Velvet Acorn Custody brokerage statement and provide documentation linking the $25,000 earnest money withdrawal to its source account for the mortgage underwriter.",
+      "priority": null,
+      "dueDate": "2025-10-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the underwriter is asking for documentation tying the earnest money withdrawal to the source account; this remains needed by 2025-10-06."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash‑flow impact of rate‑lock choices",
+      "text": "Review the cash‑flow effect of the mortgage rate‑lock alternatives provided by the lender for Julian and Iris Nettlewhisk before they respond to the loan terms.",
+      "priority": null,
+      "dueDate": "2025-10-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian wants the cash-flow effect of the lock alternatives reviewed before he responds; the agreed review is due 2025-10-10."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve student loan payment discrepancy",
+      "text": "Resolve the discrepancy between the $640 monthly student loan payment listed in the mortgage application and the $410 income‑driven payment shown on Iris Nettlewhisk’s servicer statement for underwriting DTI calculations.",
+      "priority": null,
+      "dueDate": "2025-10-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the student loan payment discrepancy in the mortgage file, the mortgage application lists Iris’s student loan payment as $640 per month, while the current servicer statement provided by Iris shows a $410 income-driven payment, creating a different debt-to-income calculation for underwriting;"
+    },
+    {
+      "templateId": null,
+      "title": "Update liquidity worksheet with current balances",
+      "text": "Update the liquidity worksheet to reflect the current cash and short‑term bond positions in the joint Velvet Acorn Custody brokerage account for the townhouse closing.",
+      "priority": null,
+      "dueDate": "2025-10-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Velvet Acorn Custody aggregation feed in the planning portal is showing a stale joint brokerage balance, so the liquidity worksheet is not reflecting the current cash and short-term bond positions available for closing;"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate new‑home insurance and liability coverage",
+      "text": "Coordinate new‑home insurance and liability coverage for the Nettlewhisk townhouse purchase, replacing the existing renters policy.",
+      "priority": null,
+      "dueDate": "2025-10-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed new-home insurance and liability coordination is due 2025-10-15."
+    },
+    {
+      "templateId": null,
+      "title": "Perform tax‑lot review for brokerage assets",
+      "text": "Perform a tax‑lot review of the taxable ETF positions in the joint Velvet Acorn Custody account to identify suitable lots for sale to fund the townhouse closing cash.",
+      "priority": null,
+      "dueDate": "2025-10-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed tax-lot review is due 2025-10-09."
+    }
+  ]
+}

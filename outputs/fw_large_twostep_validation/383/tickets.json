@@ -1,0 +1,114 @@
+{
+  "meetingId": "383",
+  "tickets": [
+    {
+      "templateId": "7fb8b0a0-5b5e-5c6d-b065-57aa5bb6a365",
+      "title": "Open new client account",
+      "text": "Open a joint taxable brokerage account for Rowan Bramblequill and Lila Nettlewhisk at Velvet Acorn Custody, to receive monthly surplus from the new household checking arrangement, with completion by 2024-07-12.",
+      "priority": null,
+      "dueDate": "2024-07-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to set up the joint taxable account, with follow-up due July 12, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain marriage certificate and identification",
+      "text": "Obtain the marriage certificate and Lila Nettlewhisk’s identification documents for account records at Velvet Acorn Custody, to satisfy the custodian’s requirements, by 2024-06-28.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the marriage documentation for account records by June 28, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete marriage-based beneficiary review",
+      "text": "Complete the beneficiary review for Rowan Bramblequill’s IRA, Roth IRA, employer retirement plan, term life policy, and group life coverage, updating records to reflect Lila Nettlewhisk as appropriate, by 2024-07-17.",
+      "priority": null,
+      "dueDate": "2024-07-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete that marriage-based beneficiary review by July 17, 2024."
+    },
+    {
+      "templateId": "ea72a089-c993-5e8f-841d-f6200220eb97",
+      "title": "Guide benefits enrollment decision and submission",
+      "text": "Use this workflow when a client needs support reviewing available benefits, selecting appropriate coverage, and confirming enrollment completion. Keep recommendations coordinated with the client’s broader financial plan, tax considerations, and liquidity needs. Review and compare health, dental, vision, HSA, disability, life insurance, and payroll deduction options for Rowan Bramblequill and Lila Nettlewhisk, and prepare election recommendations by 2024-07-10.",
+      "priority": "medium",
+      "dueDate": "2024-07-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect benefits materials and key enrollment constraints",
+          "text": "Request the current benefits guide, plan comparison sheets, premium schedule, employer contribution details, enrollment window, and any life event documentation needed for eligibility.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b8e2c7b7-c2eb-5c77-bd00-b52a6274fbbe"
+        },
+        {
+          "title": "Review plan fit and planning tradeoffs",
+          "text": "Compare health, disability, life insurance, HSA/FSA, retirement plan, deferred compensation, and equity-related elections as applicable. Note cash flow impact, tax implications, beneficiary needs, and coordination with existing coverage.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "023f23f9-31e8-5017-b1bd-fb41f9bd99f0"
+        },
+        {
+          "title": "Prepare enrollment recommendations for client discussion",
+          "text": "Summarize proposed elections, open questions, documents needed, and any items requiring confirmation from the employer benefits team or outside tax professional.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b8e2c7b7-c2eb-5c77-bd00-b52a6274fbbe"
+        },
+        {
+          "title": "Confirm submission and retain evidence",
+          "text": "After the client submits elections, request confirmation pages or benefit summaries and save them to the client record for future planning reference.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "b3a630c1-61a9-5cb8-80b2-77d67083ab27"
+        }
+      ],
+      "evidence": "They agreed to the employer benefits election review, with follow-up due July 10, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile equity vesting records",
+      "text": "Reconcile the restricted stock unit and stock option vesting records for Rowan Bramblequill between his personal spreadsheet and the Copper Firefly Design Studio equity portal, to align cash flow and tax withholding estimates, by 2024-07-22.",
+      "priority": null,
+      "dueDate": "2024-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the equity vesting records by July 22, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian address and portal access",
+      "text": "Resolve the address update issue on the custodian’s records for Rowan Bramblequill and Lila Nettlewhisk, and ensure Lila receives her household portal access, by 2024-07-03.",
+      "priority": null,
+      "dueDate": "2024-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to address the custodian address and portal access issue by July 3, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate document updates",
+      "text": "Coordinate updates to Rowan Bramblequill’s estate documents to reflect his marriage to Lila Nettlewhisk, both properties, and new decision‑makers for financial and health care matters, with completion by 2024-08-02.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to estate document coordination by August 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate residency and tax matters",
+      "text": "Coordinate residency and tax matters for Rowan Bramblequill and Lila Nettlewhisk’s Oregon‑to‑Washington move, including updating mailing address, legal residence, payroll withholding, and property treatment, in collaboration with CPA Sasha Cloudpuddle, by 2024-07-26.",
+      "priority": null,
+      "dueDate": "2024-07-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to residency and tax coordination, with follow-up due July 26, 2024."
+    }
+  ]
+}

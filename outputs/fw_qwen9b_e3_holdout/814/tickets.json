@@ -1,0 +1,84 @@
+{
+  "meetingId": "814",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm home and umbrella policy active status and mortgagee evidence requirements",
+      "text": "Confirm the active status of Jonas and Clara Thimblefern’s Amber Teapot Insurance homeowner and umbrella policies following the closed-card premium draft and grace-period notice sent to the prior address. Confirm the mortgagee evidence requirements.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas asked for help confirming active status with Amber Teapot Insurance and the mortgagee evidence requirements, and the agreed follow-up is to confirm those items by June 28, 2024."
+    },
+    {
+      "templateId": "edf2fbce-5c49-5e58-9961-8db31aa328b7",
+      "title": "Change recurring payment instructions",
+      "text": "Confirm the requested recurring payment change, verify the effective timing with the provider or custodian, and document the old and new payment method or amount without storing unnecessary sensitive details. Address the recurring premium payment route for Jonas and Clara Thimblefern’s home and umbrella policies: replace the canceled Teacup Comet Bank debit card referenced in the carrier portal with future premiums drawn from the joint checking account.",
+      "priority": "medium",
+      "dueDate": "2024-07-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the carrier portal still referenced the Teacup Comet Bank debit card that Jonas canceled after a fraud alert, while Jonas wants future premiums drawn from the joint checking account instead of a card; the agreed follow-up is to address that payment-route change by July 2, 2024."
+    },
+    {
+      "templateId": "24021c5e-be89-5d42-9140-abb9dc028eee",
+      "title": "Complete address and residency update workflow",
+      "text": "Use this workflow when a client reports a new mailing address, tax residency change, seasonal residence, or household relocation. Confirm the effective date, update advisory records, and identify planning consequences for tax-aware investment management, retirement income distributions, and account communications. Align the Thimblefern household’s insurance mailing address records with the Durham home address reflected in mortgage records, the advisory household profile, and the deed.",
+      "priority": "medium",
+      "dueDate": "2024-07-03",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm move details and documentation",
+          "text": "Collect the new mailing address, physical residence, prior address, effective date, seasonal residence notes, and any supporting documentation the client is comfortable providing. Confirm the Durham home address reflected in mortgage records, the advisory household profile, and the deed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update internal records and communication preferences",
+          "text": "Update CRM, household profile, statement delivery preferences, meeting location notes, and any compliance-required address fields. Align insurance mailing address records with the Durham home address.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review planning impacts",
+          "text": "Check whether the move affects state tax assumptions, retirement distribution withholding, municipal bond exposure, estate document jurisdiction, insurance coverage, or advisor registration requirements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm completion with client",
+          "text": "Send a brief confirmation summarizing the updates made and any follow-up items the client should address with tax, legal, or account providers.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the mismatch affected notices and proof-of-coverage routing, and the agreed follow-up is to align the records by July 3, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete household protection review after Clara’s employment change",
+      "text": "Complete a household protection review reflecting Clara Thimblefern’s transition to self-employment and the loss of her former group life and employer-paid long-term disability coverage. Account for the new income pattern, mortgage, dependents, and Jonas’s existing $1,200,000 Coral Badger Life term policy.",
+      "priority": null,
+      "dueDate": "2024-07-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Clara’s former group life and disability coverage no longer applies after her transition to self-employment, and Jonas asked for a household protection review that reflects the new income pattern, mortgage, dependents, and existing term coverage. The agreed follow-up is to complete that review by Ju"
+    },
+    {
+      "templateId": "da720489-410c-59d0-8576-575d24b0e59c",
+      "title": "Prepare liquidity planning form",
+      "text": "Complete liquidity planning fields:\n\nClient/household: Jonas and Clara Thimblefern\nPlanning purpose: Near-term premium funding without reducing the household’s six-month core spending cash reserve\nTarget cash need: [$_____]\nTarget reserve months: [6]\nExpected use timeframe: [_____]\nCurrent checking/savings balance: [$52,000]\nCurrent money market or short-term reserves: [$_____]\nUpcoming known inflows: [SOURCE, AMOUNT, TIMING]\nUpcoming known outflows: [PURPOSE, AMOUNT, TIMING]\nIncome stability notes: Jonas earns $198,000 annually with an 18% target bonus. Clara’s private design practice currently generates approximately $3,500 per month in gross receipts while ramping up.\nPortfolio withdrawal needs: [_____]\nTax-sensitive constraints: [_____]\nAccounts to avoid using if possible: [_____]\nRecommended liquidity bucket: [_____]\nAction items approved by client: [_____]\nFollow-up needed: Prepare a near-term plan for paying the annual homeowner, umbrella, auto, and term premiums without reducing the household’s cash reserve below its six-month comfort level.",
+      "priority": "medium",
+      "dueDate": "2024-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas requested a near-term plan for paying the annual homeowner, umbrella, auto, and term premiums without reducing the household’s cash reserve below its six-month comfort level. The agreed follow-up is to prepare that plan by July 10, 2024."
+    }
+  ]
+}

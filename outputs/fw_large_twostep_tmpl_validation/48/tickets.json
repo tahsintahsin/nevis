@@ -1,0 +1,35 @@
+{
+  "meetingId": "48",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare equity vesting/trading window calendar",
+      "text": "Prepare a practical equity vesting and trading‑window calendar for Nadia Pebblefizz, separating Nadia‑controlled from company‑administered dates to resolve confusion over quarterly RSU vesting, option‑expiration sequencing, blackouts, and employer pre‑clearance steps, due 2025‑03‑07.",
+      "priority": null,
+      "dueDate": "2025-03-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps."
+    },
+    {
+      "templateId": null,
+      "title": "Complete pre‑window option exercise analysis",
+      "text": "Complete a pre‑window option exercise and sale analysis for Nadia Pebblefizz covering the next open trading window after the current blackout, assessing meaningful spread over strike, AMT exposure, share retention, and stock concentration, due 2025‑03‑14.",
+      "priority": null,
+      "dueDate": "2025-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For 2025-03-14, agreed pre-window option exercise/sale analysis covers next open trading window following current blackout, meaningful spread over strike, and Nadia weighing AMT exposure, share retention, and stock concentration."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing equity grant documents",
+      "text": "Obtain the missing equity grant documents for Nadia Pebblefizz, including the current equity incentive plan, portal option‑lot grant notices, and RSU tax‑withholding confirmations needed to reconcile withheld and deposited shares, due 2025‑03‑05.",
+      "priority": null,
+      "dueDate": "2025-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meetingId": "685",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Care Options Cost Comparison",
+      "text": "Prepare a side‑by‑side comparison for Harold Velvetreed and Lena Velvetreed that outlines in‑home aide coverage, adult day programming, short respite stays, transportation options, and projected out‑of‑pocket costs, using the care‑hour levels discussed, and deliver it by 2026-01-20.",
+      "priority": null,
+      "dueDate": "2026-01-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that comparison by 2026-01-20."
+    },
+    {
+      "templateId": null,
+      "title": "Build Family Caregiver Coverage Map",
+      "text": "Build a caregiver coverage map for Harold Velvetreed, Lena Velvetreed, daughter Sofia Copperwisp, and son Martin Velvetreed that details weekend support, remote medication assistance, and weekday evening gaps, reflecting the recent mobility changes, and complete it by 2026-01-16.",
+      "priority": null,
+      "dueDate": "2026-01-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to build a family caregiver coverage map by 2026-01-16."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Silver Marmot Intake Packet",
+      "text": "Assemble an intake packet for Harold Velvetreed and Lena Velvetreed that includes physician orders, care notes, aide agency estimates, invoices, and policy questions to support the upcoming Silver Marmot Insurance claim appointment, and have it ready by 2026-01-12.",
+      "priority": null,
+      "dueDate": "2026-01-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the intake packet by 2026-01-12."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Aide Shift Minimum Inconsistencies",
+      "text": "Resolve the inconsistency in aide shift minimums for the cost estimates for Harold Velvetreed and Lena Velvetreed by confirming agency quote requirements versus Sofia’s notes, and finalize the corrected estimates by 2026-01-13.",
+      "priority": null,
+      "dueDate": "2026-01-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to resolve the aide shift minimums in the cost estimates by 2026-01-13."
+    },
+    {
+      "templateId": null,
+      "title": "Correct Secure Upload Access for Lena",
+      "text": "Correct the secure upload access for Lena Velvetreed’s care records by fixing the portal login issue that currently uses Harold’s credentials, enabling a separate upload stream, and complete the fix by 2026-01-09.",
+      "priority": null,
+      "dueDate": "2026-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to correct secure upload access by 2026-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Address Policy Benefit Inflation Assumptions",
+      "text": "Address the differing inflation rider language in Harold Velvetreed’s and Lena Velvetreed’s Silver Marmot Insurance policies to ensure accurate daily benefit maximum projections in the care‑cost analysis, and finalize the adjustments by 2026-01-23.",
+      "priority": null,
+      "dueDate": "2026-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address the policy benefit inflation assumptions by 2026-01-23."
+    }
+  ]
+}

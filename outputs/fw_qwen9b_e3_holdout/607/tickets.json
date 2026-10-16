@@ -1,0 +1,75 @@
+{
+  "meetingId": "607",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Gareth Mossbutton’s home-care versus memory-care cash-flow projection",
+      "text": "Prepare a care-cost cash-flow projection for Lena and Gareth Mossbutton comparing continued home care with a move to the Coral Badger Residence memory-care studio. Use current aide hours, guaranteed income, portfolio values, and Lena’s preferred cash floor of at least $80,000 in immediately available cash.",
+      "priority": null,
+      "dueDate": "2025-06-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that projection for 2025-06-20."
+    },
+    {
+      "templateId": null,
+      "title": "Address Coral Badger Residence room deposit funding source",
+      "text": "Address which cash source Lena and Gareth Mossbutton should use for the Coral Badger Residence memory-care room deposit before the hold expires.",
+      "priority": null,
+      "dueDate": "2025-06-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the deposit funding source for 2025-06-09."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate caregiver payment and payroll guidance",
+      "text": "Coordinate guidance for Lena and Gareth Mossbutton on whether Nora Maplesprocket’s regular respite payments and potential household payments to backup caregivers create household payroll or reporting considerations.",
+      "priority": null,
+      "dueDate": "2025-07-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate on that caregiver payment and payroll question for 2025-07-01."
+    },
+    {
+      "templateId": null,
+      "title": "Review backup care assumption for missed Pocket Lantern Home Care shifts",
+      "text": "Review whether the care budget should include private backup coverage at a higher rate for missed Pocket Lantern Home Care evening shifts.",
+      "priority": null,
+      "dueDate": "2025-06-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the backup care assumption for 2025-06-17."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate authority provisions for current caregiving roles",
+      "text": "Review the trust successor trustee language and health-care directive backup agents in Lena and Gareth Mossbutton’s 2018 estate documents for alignment with their current caregiving roles and Gareth’s cognitive limitations.",
+      "priority": null,
+      "dueDate": "2025-06-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review those estate authority provisions for 2025-06-27."
+    },
+    {
+      "templateId": "a367693a-ffd0-5db2-ab0f-653fa242744d",
+      "title": "Single-Stock Compass Check",
+      "text": "Review the $185,000 Moonbadger Tools stock position in Lena and Gareth Mossbutton’s joint taxable account at Velvet Acorn Custody for care-funding potential, embedded gain, and concentration considerations.",
+      "priority": null,
+      "dueDate": "2025-06-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that position for 2025-06-25."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate tax impact of funding care from taxable-account sales versus IRA withdrawals",
+      "text": "Coordinate with Tobin Thimblefern on the tax effects of funding care from taxable-account sales versus IRA withdrawals, considering the household’s prior-year capital gains and charitable gifts.",
+      "priority": null,
+      "dueDate": "2025-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate on that tax impact question for 2025-07-03."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "meetingId": "91",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Evaluate Paper Otter Life term policy reinstatement",
+      "text": "Evaluate reinstatement of Soren Cloudpuddle's $750,000, 20-year Paper Otter Life term policy before losing the existing underwriting terms. The lapse notice followed a failed premium draft after the Teacup Comet Bank checking account was replaced.",
+      "priority": null,
+      "dueDate": "2024-12-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms."
+    },
+    {
+      "templateId": null,
+      "title": "Review Cloudpuddle term and disability protection",
+      "text": "Review term life coverage and disability protection for Soren and Lila Cloudpuddle against the $620,000 primary-residence mortgage, childcare needs, and education-funding exposure for Rowan, age 6. Account for Lila's reduction to part-time paid work and the resulting increased household dependence on Soren's salary.",
+      "priority": null,
+      "dueDate": "2024-12-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure."
+    }
+  ]
+}

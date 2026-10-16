@@ -1,0 +1,18 @@
+{
+ "config": "fw_minimax",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"528\", \"tickets\": [{\"title\": \"Identify records for Pocket Lantern Studio LLC bookkeeper and CPA\", \"text\": \"Identify the records Lena Bramblequill's bookkeeper and Nia Thimblefern, CPA should receive once Pocket Lantern Studio LLC client deposits begin. Pocket Lantern Studio LLC currently has formation papers but no dedicated operating account; Lena needs a clear list of documents to share with her bookkeeper and CPA.\", \"priority\": null, \"dueDate\": \"2024-09-13\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"she asked Apricot Compass Advisory to help identify the records her bookkeeper and Nia Thimblefern should receive once client deposits begin. The agreed follow-up is to identify those records by 2024-09-13.\" , \"templateId\": null}, {\"title\": \"Prepare quarterly estimated tax payment calendar for Lena Bramblequill\", \"text\": \"Prepare a quarterly estimated tax payment calendar for Lena Bramblequill that reflects expected invoice timing from Pocket Lantern Studio LLC consulting income and household cash availability. Lena has not previously made quarterly estimated tax payments from self-employment income, and her CPA Nia Thimblefern has not yet calculated the estimates.\", \"priority\": null, \"dueDate\": \"2024-09-20\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to prepare that calendar by 2024-09-20.\", \"templateId\": null}, {\"title\": \"Resolve Velvet Acorn Custody household dashboard feed issue\", \"text\": \"Resolve the Velvet Acorn Custody household dashboard feed issue that stopped pulling the former employer brokerage feed for Lena Bramblequill. The advisory portal is missing current equity position values for the 1,200 vested restricted stock units from Copper Firefly Design held in the former employer brokerage account.\", \"priority\": null, \"dueDate\": \"2024-09-10\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to address the feed issue by 2024-09-10.\", \"templateId\": null}, {\"title\": \"Review estate documents and beneficiary designations for Bramblequill household\", \"text\": \"Review Lena and Evan Bramblequill's existing wills and beneficiary designations now that Lena owns Pocket Lantern Studio LLC and expects business receivables to become part of the household balance sheet. The estate documents were last updated several years before the business launch, and the couple's wills name Lena's sister Priya Bramblequill as successor guardian for Nora and Milo.\", \"priority\": null, \"dueDate\": \"2024-10-04\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to review the estate documents and beneficiary designations by 2024-10-04.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 1099,
+    "output_tokens": 4938,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3776
+   },
+   "stop": "stop"
+  }
+ ]
+}

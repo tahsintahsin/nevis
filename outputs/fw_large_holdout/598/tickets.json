@@ -1,0 +1,35 @@
+{
+  "meetingId": "598",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update address and residency records",
+      "text": "Update Nolan and Lena Pebblefizz's address and residency records and route the changes to all relevant custodians, ensuring statements reflect their new Arizona residence.",
+      "priority": null,
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "update and route address/residency records by 2025-03-10 because statements still show Oregon"
+    },
+    {
+      "templateId": "7a01cf30-e455-55f4-92f2-f4ca51e7fee1",
+      "title": "Review mortgage document collection needs",
+      "text": "Review the mortgage file for completeness and planning relevance.\n\nEvidence to collect:\n- Current mortgage statement\n- Promissory note or loan summary, if available\n- Closing disclosure or settlement statement, if available\n- Escrow statement, if applicable\n- Property tax bill or assessment notice, if available\n- Homeowners insurance declaration page, if relevant to cash-flow review\n- Refinance, payoff, or modification correspondence, if applicable\n\nReview criteria:\n- Confirm current balance, interest rate, payment amount, and loan type.\n- Identify fixed versus adjustable rate features and any reset terms.\n- Note maturity date, prepayment penalties, balloon features, or special clauses if shown.\n- Separate principal, interest, taxes, insurance, and other escrow items where possible.\n- Compare mortgage obligations with the cash-flow plan.\n- Flag missing documents or conflicting figures for follow-up.\n\nFocus on obtaining the final closing disclosure, the current mortgage statement, and the homeowners insurance declaration page for the Pebblefizz mortgage.",
+      "priority": "medium",
+      "dueDate": "2025-03-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "complete the mortgage and insurance file by 2025-03-17 because final closing disclosure, current mortgage statement, and declaration page are missing"
+    },
+    {
+      "templateId": null,
+      "title": "Address payroll withholding evidence",
+      "text": "Verify and resolve the payroll withholding discrepancy for Nolan Pebblefizz, confirming the correct Arizona tax withholding based on his work location at Moonbadger Analytics and updating HR records accordingly.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "address payroll withholding evidence by 2025-03-21 because Nolan’s paystub showed Oregon withholding while HR showed Arizona mailing and work location"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "meetingId": "597",
+  "tickets": [
+    {
+      "templateId": "91cde54a-942b-5bf6-ba35-3e1da2bcf683",
+      "title": "Policy Renewal Follow-Up",
+      "text": "Send Arden Cloverwhisk a consolidated list of the remaining incomplete portal sections and paper forms for his onboarding, as he was unsure which items were still pending after the meeting.",
+      "priority": null,
+      "dueDate": "2026-02-19",
+      "assigneeId": "63629df6-d4ff-5094-94b9-fa7616e364c9",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to send that list by 2026-02-19."
+    },
+    {
+      "templateId": null,
+      "title": "Build short-term cash-flow schedule for income overlap",
+      "text": "Build a short-term cash-flow schedule for Arden Cloverwhisk tied to reserves, tuition, mortgage payments, and tax set-asides, accounting for his salary continuation through June 2026 and the new consulting role starting in March 2026.",
+      "priority": null,
+      "dueDate": "2026-03-13",
+      "assigneeId": "63629df6-d4ff-5094-94b9-fa7616e364c9",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to build a short-term cash-flow schedule tied to reserves, tuition, mortgage payments, and tax set-asides by 2026-03-13."
+    },
+    {
+      "templateId": "752e3914-82fb-5807-acc9-9084fd9392b5",
+      "title": "Evaluate and coordinate retirement plan rollover",
+      "text": "Collect the current Paper Otter Robotics 401(k) statement, source breakdown, vesting details, loan status, and summary plan information for Arden Cloverwhisk to compare available choices for the former employer plan.",
+      "priority": "medium",
+      "dueDate": "2026-02-26",
+      "assigneeId": "73ed661f-44f8-54f7-805a-e1a0790aadcb",
+      "subTasks": [
+        {
+          "title": "Collect current plan details and client objectives",
+          "text": "Request the latest plan statement, summary plan description if available, vesting details, outstanding loan status, after-tax or Roth source balances, and the client's rollover goals. Note whether the client is separated from service, retiring, changing employers, or consolidating accounts.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "73ed661f-44f8-54f7-805a-e1a0790aadcb"
+        },
+        {
+          "title": "Compare rollover options and tax considerations",
+          "text": "Evaluate keeping assets in the current plan, rolling to a new employer plan, rolling to an IRA, or taking any permitted distribution. Flag potential tax withholding, Roth treatment, net unrealized appreciation, creditor protection, fees, investment access, and required minimum distribution implications.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "7a62be5f-10c5-5522-aa4c-5884a6817dd1"
+        },
+        {
+          "title": "Prepare implementation instructions",
+          "text": "After the advisor documents the recommendation and client direction, prepare custodian or plan paperwork, verify registration details, confirm direct rollover payee instructions, and outline the expected transfer sequence.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "20f621f2-5914-5315-b873-8634d1145493"
+        },
+        {
+          "title": "Confirm receipt and invest according to plan",
+          "text": "Track rollover receipt, confirm cost basis or source breakdown if applicable, reconcile the amount received against the final plan statement, and notify the portfolio team when assets are ready for investment.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "15481dc3-df56-5a7e-8eb0-b1b051feab79"
+        }
+      ],
+      "evidence": "For the retirement plan rollover evaluation, the current Paper Otter Robotics plan statement, source breakdown, vesting details, loan status, and summary plan information are needed before the available choices for the former employer plan are compared, with follow-up needed by 2026-02-26."
+    },
+    {
+      "templateId": null,
+      "title": "Address external account aggregation access failure",
+      "text": "Address the external account aggregation access failure for Arden Cloverwhisk's taxable brokerage account at Velvet Acorn Custody, which failed twice during portal setup after multifactor authentication.",
+      "priority": null,
+      "dueDate": "2026-02-17",
+      "assigneeId": "63629df6-d4ff-5094-94b9-fa7616e364c9",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address external account aggregation access by 2026-02-17."
+    },
+    {
+      "templateId": null,
+      "title": "Complete equity compensation separation review",
+      "text": "Complete the equity compensation separation review for Arden Cloverwhisk, covering his incentive stock options and restricted stock units from Paper Otter Robotics, including exercise terms, cash requirements, and tax coordination points.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": "1663a6a7-7e20-5b7d-9c36-bf670a2d066c",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the equity compensation separation review by 2026-03-06."
+    },
+    {
+      "templateId": null,
+      "title": "Clarify duplicate home equity line payment coding",
+      "text": "Clarify whether the home equity line payment is duplicate coding or a separate obligation for Arden Cloverwhisk by obtaining the payment history needed to reconcile the household debt worksheet with the Teacup Comet Bank export.",
+      "priority": null,
+      "dueDate": "2026-02-28",
+      "assigneeId": "20f621f2-5914-5315-b873-8634d1145493",
+      "subTasks": [],
+      "evidence": "the payment history is needed by 2026-02-28 to clarify whether this is duplicate coding or a separate obligation."
+    },
+    {
+      "templateId": "278e4645-2b2c-502c-b086-38d3ff7c2144",
+      "title": "Follow up on client tax notice",
+      "text": "Obtain the complete IRS notice and permission to coordinate with CPA Sienna Maplesprocket of Copper Firefly Tax Studio for Arden Cloverwhisk, as the partial image provided does not show the full issue description or response instructions.",
+      "priority": "high",
+      "dueDate": "2026-02-18",
+      "assigneeId": "a99e4321-9f42-5aa9-b7eb-f9503ded0b62",
+      "subTasks": [],
+      "evidence": "the complete notice and permission to coordinate with Sienna Maplesprocket are needed before the matter can be routed, with follow-up needed by 2026-02-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review life insurance and estate documents for planning",
+      "text": "Review the life insurance policy details, current beneficiary designations, and estate documents for Arden and Lena Cloverwhisk to assess planning relevance given the birth of their younger child and changes in household circumstances.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": "73ed661f-44f8-54f7-805a-e1a0790aadcb",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to review coverage, titling, and named fiduciaries for planning relevance by 2026-03-20."
+    }
+  ]
+}

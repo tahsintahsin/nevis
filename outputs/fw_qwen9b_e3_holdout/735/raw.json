@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e3",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"735\", \"tickets\": [{\"title\": \"Prepare business cash runway and owner draw framework\", \"text\": \"Prepare a forward-looking business cash runway and owner draw framework for Cloudberry Kite Studio. Separate signed retainer revenue, possible project revenue, recurring software subscriptions, contractor costs, tax set-asides, and planned owner draws to show how long the business can operate without drawing from the taxable portfolio.\", \"priority\": null, \"dueDate\": \"2025-01-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Janelle asked for a forward-looking view that separates signed retainer revenue, possible project revenue, recurring software subscriptions, contractor costs, tax set-asides, and planned owner draws so she can see how long the business can operate without drawing from the taxable portfolio. The agreed follow-up is due 2025-01-10.\"}, {\"title\": \"Reconcile business bookkeeping balances\", \"text\": \"Reconcile the bookkeeping dashboard’s available business balance with the Teacup Comet Bank business checking account. Address the two client deposits marked as received in the dashboard but not yet settled in the bank account.\", \"priority\": null, \"dueDate\": \"2024-12-31\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the bookkeeping dashboard showed a higher available business balance than the Teacup Comet Bank business checking account because two client deposits were marked as received even though they had not settled in the bank account. The agreed reconciliation work is due 2024-12-31.\"}, {\"title\": \"Separate business card feed from household spending tracker\", \"text\": \"Separate the Teacup Comet Bank business card feed from the household spending tracker so contractor platform fees and design software charges are not recorded in personal spending categories.\", \"priority\": null, \"dueDate\": \"2025-01-03\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the Teacup Comet Bank business card feed is importing into the household spending tracker, causing contractor platform fees and design software charges to appear in personal spending categories. The agreed follow-up is due 2025-01-03.\"}, {\"title\": \"Coordinate quarterly tax reserve information with CPA\", \"text\": \"Coordinate with Harper Nettlewhisk of Paper Otter Tax on quarterly tax reserve information for Cloudberry Kite Studio. Provide projected gross receipts, expected deductible categories, Janelle’s planned owner draws, and Omar’s withholding information so the first self-employment tax reserve target can be estimated before the initial payment cycle for the new year.\", \"priority\": null, \"dueDate\": \"2025-01-17\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Harper requested projected gross receipts, expected deductible categories, Janelle’s planned owner draws, and Omar’s withholding information so the first self-employment tax reserve target can be estimated before the initial payment cycle for the new year. The agreed follow-up is due 2025-01-17.\"}]}",
+   "usage": {
+    "input_tokens": 3898,
+    "output_tokens": 708,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

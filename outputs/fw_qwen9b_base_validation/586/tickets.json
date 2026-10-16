@@ -1,0 +1,125 @@
+{
+  "meetingId": "586",
+  "tickets": [
+    {
+      "templateId": "08361f27-bfef-5da9-85f9-5136b2a38dcc",
+      "title": "Prepare liquidity planning analysis",
+      "text": "Review expected cash needs, emergency reserve targets, recurring income sources, upcoming distributions, and potential funding sources for Mira Willowdoodle and Arlen Copperwisp. Summarize recommended cash cushion, any portfolio trades needed to raise cash, tax considerations, and questions for the lead advisor before client discussion, addressing the shortfall in their six-month reserve preference due to wedding costs and remaining rent.",
+      "priority": "medium",
+      "dueDate": "2024-03-18",
+      "assigneeId": "04250424-b280-5443-9318-1c2f184393c9",
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-18 is to address the cash reserve and remaining lease impact."
+    },
+    {
+      "templateId": null,
+      "title": "Update household profile and address records",
+      "text": "Update the household profile and address records for Mira Willowdoodle and Arlen Copperwisp to reflect the shared household while preserving Mira's preferred separate ownership notes for premarital accounts, as agreed upon during the meeting.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-06 is to update the household profile and address records."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain marriage certificate evidence",
+      "text": "Obtain a certified or scanned copy of the marriage certificate for Mira Willowdoodle and Arlen Copperwisp to support account registration, beneficiary, and name-related records at Velvet Acorn Custody and other institutions, as Mossy Meteor Advisory did not have a copy in the client file.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-02-28 to obtain marriage certificate evidence."
+    },
+    {
+      "templateId": null,
+      "title": "Provide taxable account registration options",
+      "text": "Provide paperwork and a plain-language comparison for Mira Willowdoodle regarding keeping her Velvet Acorn Custody taxable account individually titled versus opening a new joint account for future household savings.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-01 is to provide the taxable account registration options."
+    },
+    {
+      "templateId": null,
+      "title": "Address online access for a spouse and household view",
+      "text": "Address Mira Willowdoodle's request for Arlen Copperwisp to receive view-only access to the household dashboard without giving him trading authority over her individual IRA and taxable accounts.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-29 is to address online access for a spouse and household view."
+    },
+    {
+      "templateId": null,
+      "title": "Address custodian beneficiary update error",
+      "text": "Address the Velvet Acorn Custody website error that occurred when Mira Willowdoodle tried to add Arlen Copperwisp as a contingent beneficiary, noting the failed session did not produce a confirmation number.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-27 is to address the custodian beneficiary update error."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer benefit elections",
+      "text": "Review Mira Willowdoodle's Clockwork Clover Robotics newlywed enrollment window and Arlen Copperwisp's Paper Otter Preparatory benefit-change process to address medical, life, and disability coverage choices for the combined household.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-05 is to review employer benefit elections."
+    },
+    {
+      "templateId": null,
+      "title": "Collect estate document copies and amendment pages",
+      "text": "Collect copies of Mira Willowdoodle's 2018 will and financial power of attorney, Arlen Copperwisp's 2016 will, and any amendment pages, as Mossy Meteor Advisory did not have these documents in its planning record.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-12 is to collect estate document copies and any amendment pages."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare joint tax withholding projection",
+      "text": "Prepare a coordinated 2024 withholding and estimated-tax projection for Mira Willowdoodle and Arlen Copperwisp to share with Celia Fablethimble of Apricot Compass Tax, accounting for combined salaries, bonuses, investment income, and Mira's $42,000 capital loss carryforward.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-04-05 is to prepare the joint tax withholding projection."
+    },
+    {
+      "templateId": null,
+      "title": "Conduct mortgage and property record review",
+      "text": "Conduct a review of the mortgage and property records for Mira Willowdoodle and Arlen Copperwisp's Lakewood townhouse, obtaining the missing current mortgage statement, deed vesting page, and homeowner policy declarations.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2024-03-15 for the mortgage and property record review based on those missing property records."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve beneficiary record inconsistencies",
+      "text": "Resolve the inconsistent post-marriage beneficiary records across Mira Willowdoodle's IRA (naming Tobin and Iris Willowdoodle) and Arlen Copperwisp's employer plan (no primary beneficiary displayed).",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-03-08 on beneficiary record inconsistencies."
+    },
+    {
+      "templateId": null,
+      "title": "Align life and disability coverage",
+      "text": "Align Mira Willowdoodle's individual term policy, group life coverage, Arlen Copperwisp's term policy, and employer coverage to ensure consistent beneficiary records and replacement-income assumptions for the new household.",
+      "priority": null,
+      "dueDate": "2024-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-03-14 on life and disability coverage alignment."
+    }
+  ]
+}

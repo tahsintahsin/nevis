@@ -1,0 +1,105 @@
+{
+  "meetingId": "168",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain home safety modification estimates",
+      "text": "Obtain contractor estimates for grab bars, stair rail changes, and shower entry modification to support the cash-flow plan for Owen Pebblefizz’s home safety modifications.",
+      "priority": null,
+      "dueDate": "2026-09-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The discharge therapist recommended grab bars, stair rail changes, and a shower entry modification, but no contractor estimates have been collected for the cash-flow plan;"
+    },
+    {
+      "templateId": null,
+      "title": "Gather long-term care claim materials",
+      "text": "Gather the long-term care claim materials for Owen Pebblefizz’s Velvet Acorn Life & Care policy, including the full policy, elimination-period ledger, physician certification form, and current claim packet.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The household has the benefit brochure but not the full policy, elimination-period ledger, physician certification form, or current claim packet for Owen’s home-care claim; the agreed follow-up is to gather long-term care claim materials by 2026-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Medicare home-health denial packet",
+      "text": "Assemble the Medicare home-health denial packet for Nadia Pebblefizz, including the explanation of benefits showing two denied therapy visits, appeal documentation, therapy notes, and homebound certification.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia brought an explanation of benefits showing two denied therapy visits and said the appeal window is short, while the therapy notes and homebound certification are not yet assembled; the agreed follow-up is to assemble the Medicare home-health denial packet by 2026-08-19."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare caregiver compensation framework",
+      "text": "Prepare a caregiver compensation framework for Lila Pebblefizz’s unpaid evening care, addressing documentation, tax reporting, and boundaries between gifts and paid care.",
+      "priority": null,
+      "dueDate": "2026-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The family described Lila’s unpaid evening care and the possibility of replacing part of her wages if her hours increase, with questions about documentation, tax reporting, and boundaries between gifts and paid care. The agreed follow-up is to prepare a caregiver compensation framework by 2026-09-05"
+    },
+    {
+      "templateId": null,
+      "title": "Revalidate Teacup Comet Bank transfer instructions",
+      "text": "Revalidate the recurring transfer instructions from Velvet Acorn Custody to Teacup Comet Bank checking, addressing the recent transfer failure.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Teacup Comet Bank checking account did not receive the scheduled transfer from Velvet Acorn Custody, and Paper Otter Home Care marked the latest invoice as past due."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Paper Otter Home Care invoice",
+      "text": "Reconcile the Paper Otter Home Care invoice, comparing billed visits against the family care log and identifying the unrecognized weekend premium rate for the overnight shift.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Paper Otter Home Care invoice shows more billed visits than the family care log, and one overnight shift appears under a weekend premium rate that Nadia did not recognize; the agreed follow-up is to reconcile the home-care invoice by 2026-08-23."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare care-cost cash-flow projection",
+      "text": "Prepare a twelve-month projection comparing current home-health hours, adult day care, and the quoted respite setting against pension income, Social Security, taxable-account cash, and possible IRA distribution sources for Nadia and Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia requested a twelve-month projection comparing current home-health hours, adult day care, and the quoted respite setting against pension income, Social Security, taxable-account cash, and possible IRA distribution sources. The agreed follow-up is to prepare the care-cost cash-flow projection by"
+    },
+    {
+      "templateId": null,
+      "title": "Address benefit changes from reduced work",
+      "text": "Address the impact on the monthly care budget and estimated tax payments if Nadia Pebblefizz’s consulting income of $2,100 per month stops due to caregiving demands.",
+      "priority": null,
+      "dueDate": "2026-09-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia’s consulting income may stop if caregiving demands continue, and she asked how losing that income would affect the monthly care budget and estimated tax payments; the agreed follow-up is to address benefit changes from reduced work by 2026-09-11."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare respite placement decision support",
+      "text": "Prepare a financial comparison of Thimble Harbor Assisted Living respite suite versus expanded in-home shifts for the family’s decision-making.",
+      "priority": null,
+      "dueDate": "2026-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Thimble Harbor Assisted Living is holding a respite suite only briefly, and the family wants a financial comparison with expanded in-home shifts before responding; the agreed follow-up is to prepare respite placement decision support by 2026-08-26."
+    },
+    {
+      "templateId": null,
+      "title": "Provide information for tax estimate of medical and caregiver costs",
+      "text": "Provide the projected home-care, adult day, respite, mileage, and caregiver-payment amounts to Jasper Copperwisp of Pocket Lantern Tax Partners for the 2025 federal tax return year-end tax planning.",
+      "priority": null,
+      "dueDate": "2026-09-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The family wants the CPA to see projected home-care, adult day, respite, mileage, and caregiver-payment amounts before year-end tax planning assumptions are updated; the agreed follow-up is to provide information for the tax estimate for medical and caregiver costs by 2026-09-08."
+    }
+  ]
+}

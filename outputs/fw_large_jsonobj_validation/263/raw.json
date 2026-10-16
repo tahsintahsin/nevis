@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_jsonobj",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"name\": \"response\",\n\"type\": \"object\",\n\"content\": {\n\"meetingId\": \"263\",\n\"tickets\": [\n{\n\"title\": \"Reset credentials and strengthen MFA\",\n\"text\": \"Reset credentials, review the recent session activity, and implement stronger multi‑factor authentication via approved channels for Jared and Ava Wrenpuddle, addressing the portal lockouts they experienced.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\",\n\"templateId\": null\n},\n{\n\"title\": \"Check transfer instructions and profile changes\",\n\"text\": \"Verify transfer instructions and profile changes for Jared and Ava Wrenpuddle, reviewing the pending Teacup Comet Bank link and confirming that no household account should be linked.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-19\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\",\n\"templateId\": null\n}\n]\n}\n}",
+   "usage": {
+    "input_tokens": 4882,
+    "output_tokens": 979,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 40
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Perform clean credential reset and MFA",
+      "text": "Perform a clean credential reset for Jared Wrenpuddle, review his session activity, and implement stronger multi-factor authentication for his Apricot Compass Wealth Advisory portal account, ensuring completion by 2024-03-18.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review pending transfer instruction profile change",
+      "text": "Review the pending transfer instruction and profile change request for Jared and Ava Wrenpuddle, confirming the correct Teacup Comet Bank linkage, by 2024-03-19.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "associated transfer-instruction/profile-change review was agreed for 2024-03-19."
+    }
+  ]
+}

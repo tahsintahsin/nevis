@@ -1,0 +1,18 @@
+{
+ "config": "fw_deepseek_64k",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"81\", \"tickets\": [{\"templateId\": null, \"title\": \"Update address records for Lila Copperwisp\", \"text\": \"Update Lila Copperwisp's address-related advisory and custodian records, including the Velvet Acorn Custody taxable account, after her Seattle apartment lease begins on 2025-04-01. The household is relocating from Portland, Oregon, to Seattle, Washington.\", \"priority\": null, \"dueDate\": \"2025-04-04\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2025-04-04 to update address-related advisory and custodian records after the lease begins\"}, {\"templateId\": null, \"title\": \"Obtain lease and Washington utility confirmation\", \"text\": \"Obtain the Seattle apartment lease and Washington utility confirmation missing from Lila Copperwisp's file. The lease begins 2025-04-01 and the Portland condo sale is scheduled to close 2025-04-11.\", \"priority\": null, \"dueDate\": \"2025-04-09\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"by 2025-04-09 to obtain the lease and Washington utility confirmation missing from the file\"}, {\"templateId\": null, \"title\": \"Review Oregon bond fund and Tin Sparrow concentration\", \"text\": \"Review Lila Copperwisp's Oregon municipal bond fund and approximately $86,000 Tin Sparrow Robotics share concentration held in the Velvet Acorn Custody taxable account, plus move-related cash needs. The household holds $74,000 at Teacup Comet Bank, with $18,000 reserved for moving and temporary duplicate housing.\", \"priority\": null, \"dueDate\": \"2025-04-25\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"by 2025-04-25 to review the Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs\"}]}",
+   "usage": {
+    "input_tokens": 4755,
+    "output_tokens": 7324,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

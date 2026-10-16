@@ -1,0 +1,75 @@
+{
+  "meetingId": "527",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare charitable funding comparison for Paper Otter Literacy Fund",
+      "text": "Prepare a side-by-side comparison of funding the $300,000 Paper Otter Literacy Fund commitment for Jonas Pebblefizz using cash, appreciated securities from the Velvet Acorn Custody account, and the existing Amber Teapot Charitable Trust donor-advised fund.",
+      "priority": null,
+      "dueDate": "2026-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas asked for a side-by-side comparison of using cash, appreciated securities from the Velvet Acorn Custody account, and the existing Amber Teapot Charitable Trust donor-advised fund for the Paper Otter Literacy Fund commitment. They agreed that the comparison is to be prepared by 2026-04-24."
+    },
+    {
+      "templateId": null,
+      "title": "Complete taxable lot review for in-kind giving",
+      "text": "Complete the taxable lot review of the Velvet Acorn Custody account for Jonas Pebblefizz, focusing on positions with unrealized gains and the concentrated Marzipan Meadow Robotics holding relevant to an in-kind charitable transfer analysis.",
+      "priority": null,
+      "dueDate": "2026-04-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Apricot Compass Advisory’s review of Velvet Acorn Custody data found several positions with unrealized gains and a concentrated Marzipan Meadow Robotics holding that may be relevant to an in-kind charitable transfer analysis. They agreed that the taxable lot review is to be completed by 2026-04-28."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain business-sale documents for charitable analysis",
+      "text": "Obtain the draft indication of interest, ownership schedule, and any transfer restrictions for the possible Copper Firefly Designworks transaction with Silver Marmot Holdings so the charitable analysis for Jonas Pebblefizz can address gift timing.",
+      "priority": null,
+      "dueDate": "2026-04-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For business-sale documents affecting gift timing, the charitable analysis lacks the draft indication of interest, ownership schedule, and any transfer restrictions connected to the possible Copper Firefly Designworks transaction with Silver Marmot Holdings; follow-up is needed by 2026-04-17."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve donor identity for pledge and receipt records",
+      "text": "Resolve the donor identity for the Paper Otter Literacy Fund pledge and receipt records for Jonas Pebblefizz and Nadia Pebblefizz, since the draft pledge lists Jonas individually while the household plan describes joint giving and a possible donor-advised fund grant path.",
+      "priority": null,
+      "dueDate": "2026-04-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For donor identity for pledge and receipt records, the Paper Otter Literacy Fund draft pledge lists Jonas individually, while the household plan describes joint giving by Jonas and Nadia and a possible donor-advised fund grant path; follow-up is needed by 2026-04-21."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Amber Teapot portal and account registration issue",
+      "text": "Resolve the Amber Teapot Charitable Trust portal and account registration issue for Jonas Pebblefizz, whose prior donor-advised fund grant request stalled after the portal rejected his login, sent a verification code to an old phone number, and may carry a former mailing address.",
+      "priority": null,
+      "dueDate": "2026-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas reported that a prior donor-advised fund grant request stalled after the Amber Teapot portal rejected his login and sent a verification code to an old phone number, and the account profile may also carry the former mailing address; follow-up is needed by 2026-04-18."
+    },
+    {
+      "templateId": null,
+      "title": "Handle Paper Otter pledge package logistics",
+      "text": "Handle the Paper Otter Literacy Fund pledge package logistics for Jonas Pebblefizz and Nadia Pebblefizz, preparing the completed pledge package and initial transfer instructions. Funding depends on whether the household uses cash, appreciated securities, or a donor-advised fund grant, and wet-signature transfer paperwork should be batched given Jonas's travel schedule.",
+      "priority": null,
+      "dueDate": "2026-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Paper Otter pledge package logistics, Paper Otter Literacy Fund’s campaign calendar calls for a completed pledge package and initial transfer instructions, and the package depends on whether the household uses cash, appreciated securities, or a donor-advised fund grant."
+    },
+    {
+      "templateId": null,
+      "title": "Update philanthropy plan for potential Copper Firefly transaction",
+      "text": "Update the philanthropy plan for Jonas Pebblefizz and Nadia Pebblefizz to distinguish charitable funding before transaction certainty from funding after transaction certainty, given the possible minority-interest sale of Copper Firefly Designworks to Silver Marmot Holdings.",
+      "priority": null,
+      "dueDate": "2026-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the possible minority-interest sale would change household liquidity and concentrated business exposure, and the charitable plan has not yet distinguished funding before transaction certainty from funding after transaction certainty; follow-up is needed by 2026-05-08."
+    }
+  ]
+}

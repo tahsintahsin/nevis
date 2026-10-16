@@ -1,0 +1,18 @@
+{
+ "config": "fw_deepseek_64k",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "",
+   "usage": {
+    "input_tokens": 6314,
+    "output_tokens": 64000,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "length"
+  }
+ ]
+}

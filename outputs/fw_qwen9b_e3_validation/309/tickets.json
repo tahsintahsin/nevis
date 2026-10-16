@@ -1,0 +1,55 @@
+{
+  "meetingId": "309",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review Pocket Lantern Analytics benefits elections",
+      "text": "Review Lena Copperwisp’s Pocket Lantern Analytics benefits elections, comparing household cost and coverage tradeoffs across the available medical tiers, HSA option, supplemental disability choices, and group life amounts before she submits her elections.",
+      "priority": null,
+      "dueDate": "2026-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the benefits elections by 2026-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Compare old employer retirement plan options",
+      "text": "Compare leaving Lena Copperwisp’s Velvet Acorn Robotics 401(k) at Tin Sparrow Retirement Services, moving it to Pocket Lantern Analytics, or rolling eligible money to an IRA. Address the account’s traditional pre-tax contributions, Roth contributions, and employer match money.",
+      "priority": null,
+      "dueDate": "2026-02-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "compare leaving the Tin Sparrow Retirement Services account in place, moving it to the new Pocket Lantern Analytics plan, or rolling eligible money to an IRA, with attention to the account’s pre-tax and Roth sources. The agreed follow-up is to compare those retirement plan options by 2026-02-13."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Access recovery request\n\nClient name: Lena Copperwisp\nAffected portal or institution: Tin Sparrow Retirement Services\nUser ID or known login email: [________________]\nIssue type: MFA reset / outdated email / other: multi-factor authentication prompt uses a former work phone number\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [yes / no / location: ________]\nSecurity notes or restrictions: Lena needs to retrieve plan notices and beneficiary screens without custodian assistance.\nNext action required: Resolve the MFA issue so Lena can access plan notices and beneficiary screens.",
+      "priority": "high",
+      "dueDate": "2026-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena reported that her multi-factor authentication prompt still uses a former work phone number, preventing her from retrieving plan notices and beneficiary screens without custodian assistance. The agreed follow-up is to address the access problem by 2026-02-03."
+    },
+    {
+      "templateId": "b64462f8-34be-598b-98ef-27befa5cee1d",
+      "title": "Contact client about concentrated position review",
+      "text": "Subject: Concentrated position review for Pocket Lantern Analytics restricted stock units\n\nHello Lena Copperwisp,\n\nWe would like to review Lena’s Pocket Lantern Analytics restricted stock units as part of your broader planning work. The goal is to understand risk, tax impact, liquidity needs, restrictions, and whether any staged diversification strategy should be considered. The review should consider the position size, vesting schedule, and any trading-window rules together with the existing taxable brokerage allocation.\n\nBefore our discussion, please send or confirm:\n- Current share count or market value: [________]\n- Cost basis information, if available: [________]\n- Account location or custodian: [________]\n- Any trading windows, lockups, insider restrictions, or employer rules: [________]\n- Near-term cash needs or planned charitable gifts: [________]\n- CPA or attorney contact for coordination, if authorized: [________]\n\nProposed discussion points:\n1. Why the position is held and whether the original purpose has changed.\n2. Tax consequences of selling, gifting, donating, or holding.\n3. Risk tolerance and impact on the overall portfolio.\n4. Potential diversification pace and decision criteria.\n\nPlease let us know a convenient time to review these items.",
+      "priority": "medium",
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review those equity details together by 2026-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh household cash-flow and withholding targets",
+      "text": "Refresh the Copperwisp household’s paycheck withholding and reserve targets to reflect Lena’s move from Velvet Acorn Robotics to Pocket Lantern Analytics, including salary, bonus timing, benefits deductions, and equity income potential. Account for Jonah’s variable self-employment income.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena’s move from Velvet Acorn Robotics to Pocket Lantern Analytics changes salary, bonus timing, benefits deductions, and equity income potential while Jonah’s self-employment income remains variable, creating a need to refresh paycheck withholding and reserve targets. The agreed follow-up is to ref"
+    }
+  ]
+}

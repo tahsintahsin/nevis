@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e3",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"91\", \"tickets\": [{\"title\": \"Evaluate Paper Otter Life term policy lapse and reinstatement\", \"text\": \"Evaluate lapse and reinstatement options for Soren Cloudpuddle’s $750,000 20-year Paper Otter Life term policy following the draft failure after his checking account was replaced. Address the notice’s draft failure and the goal of preserving existing underwriting terms.\", \"priority\": null, \"dueDate\": \"2024-12-13\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms.\"}, {\"title\": \"Review term coverage and disability protection\", \"text\": \"Review Soren Cloudpuddle’s term coverage and disability protection following Lila Cloudpuddle’s reduction to part-time work. Assess coverage needs in light of increased household dependence on his salary and the mortgage, childcare, and education-funding exposure.\", \"priority\": null, \"dueDate\": \"2024-12-20\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure.\"}]}",
+   "usage": {
+    "input_tokens": 2234,
+    "output_tokens": 330,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

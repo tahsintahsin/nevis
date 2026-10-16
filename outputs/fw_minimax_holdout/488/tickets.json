@@ -1,0 +1,97 @@
+{
+  "meetingId": "488",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare NQ option exercise alternatives for Lina Copperwisp",
+      "text": "Compare cash exercise, same-day sale, sell-to-cover, and no-exercise alternatives for Lina Copperwisp's 18,000 vested nonqualified stock options at Cloudberry Kite Robotics. Use the $14.20 exercise price, $46.80 current share price, estimated payroll withholding, and the household's $82,000 cash reserve at Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lina asked for a comparison of cash exercise, same-day sale, sell-to-cover, and no-exercise alternatives for the vested nonqualified options using the current portal share price, exercise price, estimated payroll withholding, and household cash reserve level; the agreed follow-up is due 2024-09-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare planning input before Cloudberry Kite Robotics preclearance",
+      "text": "Prepare planning input for Lina Copperwisp before any preclearance request or sale instruction is submitted for Cloudberry Kite Robotics shares. Account for the upcoming RSU vesting period and the limited trading window that follows.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lina wants planning input before any preclearance request or sale instruction is submitted; the agreed preparation is due 2024-09-10."
+    },
+    {
+      "templateId": null,
+      "title": "Review Cloudberry Kite Robotics single-stock concentration",
+      "text": "Review the single-stock concentration risk from Cloudberry Kite Robotics shares in the Copperwisp household's joint taxable account at Velvet Acorn Custody. The $685,000 position is roughly 58% of the $1,180,000 account and about 34% of listed household investable assets; consider the additional unvested RSU and vested option exposure outside account balances and Lina's preference to avoid a rushed sale that could create a large tax bill in one year.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A portfolio review found Cloudberry Kite Robotics shares are the largest joint taxable account holding and a material portion of listed household investable assets, with additional unvested RSU and vested option exposure outside account balances;"
+    },
+    {
+      "templateId": "f9746a61-66dc-53ab-bc91-7726bf563288",
+      "title": "Refresh Household Profile and Planning Facts",
+      "text": "Review and update the household profile for the Copperwisp household. Confirm current contact information, household members, employment status, key relationships, dependents, trusted contacts, major life changes, and any planning constraints that may affect retirement income planning, IRA or 401(k) rollover guidance, or tax-aware investment management. Note unresolved items and evidence still needed before relying on the refreshed profile. Update planning assumptions to reflect Lina Copperwisp's promotion at Cloudberry Kite Robotics, including the higher 35% bonus target, expected equity vesting cadence for the 6,000 unvested RSUs, and reduced flexibility around sale timing from new officer-level trading restrictions.",
+      "priority": "medium",
+      "dueDate": "2024-09-18",
+      "assigneeId": "08fc3afb-b8c9-54c5-827b-de2ab7c8e5cb",
+      "subTasks": [
+        {
+          "title": "Confirm core household details",
+          "text": "Verify Lina Copperwisp, Aron Copperwisp, mailing address, phone numbers, email addresses, preferred communication method, marital or partnership status, and household decision-makers. Record any discrepancies for follow-up.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update family, employment, and support relationships",
+          "text": "Confirm dependents, adult children or relatives involved in planning, employer status, retirement timing expectations, trusted contacts, powers of attorney known to the firm, and any caregiving responsibilities that could affect cash flow or account access.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Identify planning impacts and documentation gaps",
+          "text": "Summarize changes that may affect income planning, beneficiary coordination, tax assumptions, risk tolerance, liquidity needs, or rollover recommendations. List documents or confirmations still needed, such as updated estate documents, employer plan details, insurance information, or tax records.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "08fc3afb-b8c9-54c5-827b-de2ab7c8e5cb"
+        }
+      ],
+      "evidence": "Lina’s recent promotion changed her compensation mix and introduced tighter trading restrictions, and planning assumptions need to reflect the higher bonus target, expected equity vesting cadence, and reduced flexibility around sale timing; the agreed update to household planning assumptions is due "
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Cloudberry Kite Robotics share count and withholding",
+      "text": "Reconcile the share count and withholding assumptions for Lina Copperwisp's Cloudberry Kite Robotics equity. The employer equity portal shows 6,000 unvested RSUs, but a payroll withholding estimate she downloaded appears to calculate the next vesting tax impact using a smaller share count; resolve the discrepancy before tax projections rely on the estimate.",
+      "priority": null,
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lina’s employer equity portal shows 6,000 unvested RSUs, while a payroll withholding estimate she downloaded appears to calculate the next vesting tax impact using a smaller share count; reconciliation of the share count and withholding assumptions is needed before tax projections rely on the estima"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Cloudberry Kite Robotics trading policy and preclearance evidence",
+      "text": "Obtain the current Cloudberry Kite Robotics insider-trading policy, blackout calendar, and preclearance instructions for Lina Copperwisp. Apricot Compass Advisory has not received these documents; they are needed before any trading or preclearance work proceeds.",
+      "priority": null,
+      "dueDate": "2024-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lina described new officer-level trading restrictions after her promotion, but Apricot Compass Advisory has not received the current Cloudberry Kite Robotics insider-trading policy, blackout calendar, or preclearance instructions; current trading policy and preclearance evidence are needed by 2024-0"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn Custody tax-lot display issue",
+      "text": "Resolve the tax-lot display problem on Lina Copperwisp's Cloudberry Kite Robotics position at Velvet Acorn Custody. The online tax-lot page shows one lot twice and omits acquisition details on another lot, preventing identification of the lowest-gain shares for a potential sale.",
+      "priority": null,
+      "dueDate": "2024-08-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Velvet Acorn Custody’s online tax-lot page shows one Cloudberry Kite Robotics lot twice and omits acquisition details on another lot, preventing her from identifying the lowest-gain shares for a potential sale; the agreed follow-up on the custodian tax-lot display problem is due 2024-08-27."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "meetingId": "314",
+  "tickets": [
+    {
+      "templateId": "a5a5fd32-0e81-5137-9be4-206c688fccbb",
+      "title": "Review Financial Plan Snapshot",
+      "text": "Refresh key assumptions, compare current projections to stated goals, note material changes in income, expenses, taxes, assets, liabilities, retirement timing, and education funding needs, then list planning decisions for advisor review. Refresh the plan for Nora and Ellis Bramblequill after the relocation from Nashville, Tennessee to Asheville, North Carolina. Incorporate the new $622,000 mortgage at Amber Teapot Mortgage, $13,200 monthly spending target, $184,000 cash reserves at Teacup Comet Bank, ~$1.36M in Velvet Acorn Custody accounts, and updated assumptions for North Carolina residency, Asheville housing costs, commuting expenses, cash reserve targets, retirement savings, and Lila's education funding.",
+      "priority": "medium",
+      "dueDate": "2025-10-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to refresh the household plan for North Carolina residency, Asheville housing costs, revised commuting expenses, cash reserve targets, retirement savings, and Lila’s education funding assumptions by 2025-10-10."
+    },
+    {
+      "templateId": "d9b191a2-f79c-5e44-ab92-1a656d96a3be",
+      "title": "Conduct Benefits Enrollment Outreach",
+      "text": "Outreach purpose: benefits enrollment support for Ellis Bramblequill.\n\nMessage outline:\n1. Confirm the enrollment window or relative deadline: window closing 2025-09-30.\n2. Request current benefits materials: Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary.\n3. Ask about expected changes: relocation from Nashville to Asheville, new hybrid role.\n4. Identify decisions to review: HSA, disability coverage, supplemental life insurance, retirement contribution choices.\n5. If contacting a benefits professional, request clarification on: [PLAN RULES / EMPLOYER MATCH / COVERAGE EFFECTIVE DATE / ELIGIBILITY].\n6. Close with next step: schedule review before 2025-09-30 election window closes.\n\nReusable note: Do not provide final election instructions until plan documents and client priorities have been reviewed. Ellis started a hybrid data operations role at Cloudberry Kite Analytics with a $146,000 salary; review the benefits materials against HSA, disability, supplemental life insurance, and retirement contribution choices before the 2025-09-30 election window closes.",
+      "priority": "medium",
+      "dueDate": "2025-09-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review Ellis’s Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA, disability coverage, supplemental life insurance, and retirement contribution choices by 2025-09-30 before the election window closes."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Asheville Insurance Declarations and Premium Notice",
+      "text": "Obtain the Asheville homeowners declarations page, current umbrella declarations page, and premium notice from the insurance portal for Nora and Ellis Bramblequill. The file has sold Nashville property insurance records but lacks these documents; Nora confirmed they are still in the insurance portal.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Insurance evidence remains needed because the file has sold Nashville property insurance records but lacks the Asheville homeowners declarations page, current umbrella declarations page, and premium notice; Nora said those documents are still in the insurance portal."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate Payroll and Withholding Follow-Up with CPA",
+      "text": "Coordinate with Nora and Ellis Bramblequill's CPA to resolve the state residency and withholding question. Nora's Paper Otter Designworks paystub shows a Tennessee payroll address while the moving invoice, mortgage records, and utility setup show the Asheville residence.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Payroll and withholding follow-up remains needed because Nora’s Paper Otter Designworks paystub shows a Tennessee payroll address while the moving invoice, mortgage records, and utility setup show the Asheville residence, creating an unresolved state residency and withholding question for the client"
+    }
+  ]
+}

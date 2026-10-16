@@ -1,0 +1,55 @@
+{
+  "meetingId": "735",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare business cash runway projection",
+      "text": "Prepare a forward‑looking cash‑runway model for Cloudberry Kite Studio that separates signed retainer revenue, projected project income, software subscriptions, contractor costs, tax set‑asides and planned owner draws, using the business checking account at Teacup Comet Bank and the $410,000 taxable investment portfolio.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the business cash runway and owner draw framework, Janelle asked for a forward-looking view that separates signed retainer revenue, possible project revenue, recurring software subscriptions, contractor costs, tax set-asides, and planned owner draws so she can see how long the business can opera"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile business checking balance discrepancy",
+      "text": "Reconcile the reported business checking balance for Cloudberry Kite Studio with the actual $18,000 balance at Teacup Comet Bank, addressing the two client deposits that were marked received but have not settled.",
+      "priority": null,
+      "dueDate": "2024-12-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For bookkeeping balance reconciliation, the bookkeeping dashboard showed a higher available business balance than the Teacup Comet Bank business checking account because two client deposits were marked as received even though they had not settled in the bank account. The agreed reconciliation work i"
+    },
+    {
+      "templateId": null,
+      "title": "Separate business card feed from household tracker",
+      "text": "Separate the Teacup Comet Bank business card transaction feed from the household spending tracker so contractor platform fees and design software charges are correctly categorized as business expenses.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For business card feed separation, the Teacup Comet Bank business card feed is importing into the household spending tracker, causing contractor platform fees and design software charges to appear in personal spending categories. The agreed follow-up is due 2025-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate quarterly tax reserve estimation",
+      "text": "Coordinate with CPA Harper Nettlewhisk to gather projected gross receipts, expected deductible categories, Janelle Thimblefern’s planned owner draws, and Omar Thimblefern’s withholding information to estimate the first self‑employment tax reserve target.",
+      "priority": null,
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For quarterly tax reserve coordination, Harper requested projected gross receipts, expected deductible categories, Janelle’s planned owner draws, and Omar’s withholding information so the first self-employment tax reserve target can be estimated before the initial payment cycle for the new year. The"
+    },
+    {
+      "templateId": "5a2f9d93-76af-5592-a283-e3cad2411234",
+      "title": "Resolve missing signature on paperwork",
+      "text": "Use this checklist to clear a missing signature exception:\n- Identify the exact document, page, section, and signer needed.\n- Confirm whether the signature must be wet ink, electronic, notarized, medallion guaranteed, or witnessed.\n- Verify signer capacity, such as individual owner, trustee, authorized officer, custodian, agent under power of attorney, or spouse.\n- Compare signature requirements against account registration and current custodian instructions.\n- Send the signer a concise request with the corrected form and signing instructions.\n- Confirm all initials, dates, checkboxes, and related acknowledgments are complete before resubmission.\n- Save the corrected version in the approved document location and update the exception notes.\nApply this to obtain signed W‑9 forms and written scopes of work for the two design subcontractor invoices pending payment for Cloudberry Kite Studio.",
+      "priority": "medium",
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For subcontractor payment records, two design subcontractor invoices in the business folder did not include signed W-9 forms or written scopes of work, and the next payment batch depends on having complete vendor records for the files; this remains an unresolved need due 2025-01-08."
+    }
+  ]
+}

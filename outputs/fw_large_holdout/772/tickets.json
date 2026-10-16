@@ -1,0 +1,35 @@
+{
+  "meetingId": "772",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Evaluate appreciated shares for charitable gift",
+      "text": "Evaluate Nadia Willowdoodle’s appreciated Copper Firefly Energy shares to determine suitability for her planned $18,000 Moonbadger Literacy Foundation donation.",
+      "priority": null,
+      "dueDate": "2023-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by November 15, 2023 to evaluate appreciated shares for Nadia’s planned $18,000 Moonbadger Literacy Foundation gift before holiday travel."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain latest restricted stock vesting details",
+      "text": "Obtain the most recent restricted stock vesting confirmation or payroll withholding details from Cloudberry Kite Robotics for Nadia Willowdoodle to estimate her 2023 tax exposure.",
+      "priority": null,
+      "dueDate": "2023-10-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By October 20, 2023, the latest restricted stock vesting confirmation or payroll withholding detail from Cloudberry Kite Robotics is needed to estimate 2023 tax exposure."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash reserves and bonus allocation",
+      "text": "Review Nadia Willowdoodle’s cash holdings exceeding the six‑month reserve target together with her expected bonus to compare options for college savings, taxable investments, and mortgage principal payments.",
+      "priority": null,
+      "dueDate": "2023-12-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by December 8, 2023 to review cash above the stated six-month reserve target and the expected bonus for college savings, taxable investment, and mortgage principal comparisons."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "meetingId": "944",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Pre-Clearance Narrative for Sale",
+      "text": "Prepare a pre‑clearance narrative for Selene Velvetreed outlining the proposed sale size, liquidity purpose, destination account, and confirming no material nonpublic information, to be reviewed by Apricot Compass Advisory.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-06 to prepare pre-clearance narrative covering proposed sale size, liquidity purpose, account destination, and no material nonpublic information to Apricot Compass Advisory."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Velvet Acorn Custody Share Feed",
+      "text": "Reconcile the 18,200‑share feed from Velvet Acorn Custody with the 19,050 vested shares reported by Tin Sparrow Robotics for Selene Velvetreed.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-10 to reconcile Velvet Acorn Custody’s 18,200-share feed with the 19,050 vested shares in the employer report."
+    }
+  ]
+}

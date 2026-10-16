@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"193\", \"followups\": [{\"evidence\": \"by 2026-01-23 prepare approximately-$25,000 transfer instructions after brokerage-detail verification\", \"action\": \"Prepare approximately $25,000 transfer instructions for the Moonbadger Arts Center donation after verifying brokerage details\", \"templateId\": null}, {\"evidence\": \"by 2026-02-06 address Evan-noted prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language\", \"action\": \"Address the prior-year-only acknowledgment and add missing current pledge/receipt goods-or-services language\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 1376,
+    "output_tokens": 444,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1279
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"193\", \"tickets\": [{\"title\": \"Prepare Moonbadger Arts Center donation transfer instructions\", \"text\": \"Prepare approximately $25,000 transfer instructions for Sela Mossbutton and Jonah Mossbutton's donation of appreciated Velvet Acorn Growth Fund shares from their joint-taxable account to Moonbadger Arts Center's youth-workshop fund, after verifying brokerage details.\", \"priority\": null, \"dueDate\": \"2026-01-23\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"by 2026-01-23 prepare approximately-$25,000 transfer instructions after brokerage-detail verification\", \"templateId\": null}, {\"title\": \"Update Moonbadger Arts Center pledge and acknowledgment language\", \"text\": \"Address the prior-year-only acknowledgment and add missing current pledge and receipt goods-or-services language for Sela Mossbutton's 2026 donation to Moonbadger Arts Center's youth-workshop fund.\", \"priority\": null, \"dueDate\": \"2026-02-06\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"by 2026-02-06 address Evan-noted prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 1531,
+    "output_tokens": 923,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1557
+   },
+   "stop": "stop"
+  }
+ ]
+}

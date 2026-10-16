@@ -1,0 +1,12 @@
+# Large MoE, two-step pipeline: step 1 lists follow-ups (evidence, due date, template id), step 2 writes the tickets.
+provider: fireworks
+model: accounts/fireworks/models/gpt-oss-120b
+deployment: serverless
+prompt: two_step          # two-step prompt set (nevis/prompt.py TWO_STEP), same rules as the main prompt
+pipeline: two_step
+few_shot: none
+structured_output: json_schema
+temperature: 0.0
+max_tokens: 32000
+concurrency: 8
+notes: large MoE gpt-oss-120b, two-step

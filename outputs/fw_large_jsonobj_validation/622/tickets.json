@@ -1,0 +1,95 @@
+{
+  "type": "object",
+  "meetingId": "622",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate custodial security support call",
+      "text": "Coordinate a support call with Velvet Acorn Custody to address Helena Lanternmoss’s temporary online portal restrictions and the ongoing fraud review process.",
+      "priority": null,
+      "dueDate": "2023-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "She requested Apricot Compass Advisory support on a call with Velvet Acorn Custody to address temporary online restrictions and the fraud review process; the agreed follow-up is due November 8, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Investigate unauthorized external bank link",
+      "text": "Investigate the two trial credits labeled Buttonwood Balloon Payments and the pending external bank link appearing in Helena and Oliver Lanternmoss’s joint taxable account, determine source and any required reversals.",
+      "priority": null,
+      "dueDate": "2023-11-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the unknown external bank link and trial credits, the joint taxable account activity screen showed two small trial credits labeled Buttonwood Balloon Payments and a pending external bank link that Helena and Oliver did not authorize. The source and any reversal requirements remain unresolved, wi"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain custodian review evidence packet",
+      "text": "Obtain the full alert emails, screenshots of the recovery phone notice, and the latest Velvet Acorn Custody message center note for the Lanternmoss security file.",
+      "priority": null,
+      "dueDate": "2023-11-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the custodian review evidence packet, the full alert emails, screenshots of the recovery phone notice, and the latest Velvet Acorn Custody message center note were not yet available to Apricot Compass Advisory for the custodian security file; the agreed follow-up is due November 9, 2023."
+    },
+    {
+      "templateId": "b9bbc98a-1f36-58b9-822a-d05a22356a28",
+      "title": "Complete household profile update",
+      "text": "Refresh the household profile using Helena and Oliver Lanternmoss‑provided updates and recent planning notes. Confirm household members, contact preferences, employment status, dependents, trusted contacts, insurance context, estate document status, and any major life changes that may affect planning recommendations.",
+      "priority": "medium",
+      "dueDate": "2023-11-17",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect profile change information",
+          "text": "Request or compile updates for household members, addresses, contact preferences, employment, dependents, and major recent or expected life events.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "1616b784-b182-570a-93f0-464e57273315"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Revise income, savings, spending, retirement timing, education funding, and family support assumptions in the planning record as applicable.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4c50b52d-b095-5034-aa4e-727cb24fa800"
+        },
+        {
+          "title": "Identify advice impacts",
+          "text": "Flag changes that may affect tax planning, risk management, estate coordination, cash flow, or investment allocation recommendations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "77bba01f-a9ba-5af1-8070-be336e499218"
+        },
+        {
+          "title": "Confirm profile completion",
+          "text": "Review the updated profile for consistency and note any remaining open questions for the next client conversation.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "29e3bddf-1fa1-5d47-a1a5-65045f866fc7"
+        }
+      ],
+      "evidence": "For the trusted contact and household profile refresh, the profile review showed Oliver as the only trusted contact and included Helena’s prior work phone number; Ruth’s move into the household and Iris’s successor fiduciary role may affect the contact hierarchy and planning record. The agreed follo"
+    },
+    {
+      "templateId": null,
+      "title": "Update multifactor authentication methods",
+      "text": "Update Helena and Oliver Lanternmoss’s custodial profile to replace SMS authentication with app‑based multifactor authentication for both client logins and advisor‑view permissions.",
+      "priority": null,
+      "dueDate": "2023-11-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For multifactor authentication and device safeguards, Mira observed that the custodial profile notes still referenced SMS authentication and did not show app-based authentication for Helena’s login, Oliver’s login, or advisor-view permissions; the agreed follow-up is due November 14, 2023."
+    },
+    {
+      "templateId": "daf3067e-a97c-53bc-b265-e4d0b6ab86f2",
+      "title": "Follow up on policy renewal details",
+      "text": "Contact Helena Lanternmoss or Pocket Lantern Insurance to confirm the identity theft endorsement renewal status, premium changes, and coverage details, noting the reimbursement cap is below her expectation, and obtain any required documents before the renewal window closes.",
+      "priority": "medium",
+      "dueDate": "2023-11-22",
+      "assigneeId": "1616b784-b182-570a-93f0-464e57273315",
+      "subTasks": [],
+      "evidence": "For the identity theft coverage renewal comparison, the Pocket Lantern Insurance renewal materials describe an identity theft endorsement with a reimbursement cap below Helena’s expectation, and the coverage choice remains unresolved while the account security issue is being reviewed, with follow-up"
+    }
+  ]
+}

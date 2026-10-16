@@ -1,0 +1,96 @@
+{
+  "meetingId": "577",
+  "tickets": [
+    {
+      "templateId": "7a767e68-0323-54d8-9ff6-706018dcfde7",
+      "title": "Account security follow-up",
+      "text": "Restore Evan Thimblefern’s access to the Mossy Meteor Advisory client document portal without changing his primary email address. Resolve the lockout caused by two rejected one-time codes so he can upload the requested transfer packet and mortgage statement screenshots.",
+      "priority": null,
+      "dueDate": "2026-08-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "he asked for access restoration without changing his primary email address, and the agreed follow-up is to restore access by 2026-08-18."
+    },
+    {
+      "templateId": "3cde169a-b7dc-591b-9e92-db5e6af5ebf7",
+      "title": "Follow up on missing signature",
+      "text": "Use this workflow when a submitted form, agreement, authorization, or disclosure is returned incomplete because one or more required signatures, initials, or dates are missing. Confirm the exact missing items, provide a clean signing path, and document completion before resubmission. Address the missing documentation for Evan Thimblefern’s former-employer 401(k) rollover request at Juniper Jellyfish Benefits: the latest statement and a required signature guarantee page are missing.",
+      "priority": "medium",
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Identify the missing signature items",
+          "text": "Review the returned paperwork or custodian notice and list each missing signature, initial, date, or capacity designation. Note whether wet ink, electronic signature, witness, notary, or spousal consent is required. For Evan’s former-employer 401(k) rollover request, identify the missing Juniper Jellyfish Benefits statement and required signature guarantee page.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Send corrected signing instructions",
+          "text": "Prepare a concise follow-up message with the affected document name, the specific pages or fields requiring action, acceptable signing method, and how the client should return the completed item.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Verify completed packet before resubmission",
+          "text": "After receipt, confirm all signature requirements are complete and legible, then resubmit through the appropriate channel and save confirmation in the client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the latest Juniper Jellyfish Benefits statement and a required signature guarantee page were missing; the unresolved documentation need is dated 2026-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve beneficiary record mismatch",
+      "text": "Reconcile the beneficiary record mismatch on Evan Thimblefern’s Velvet Acorn Custody brokerage account. Planning notes list Lila Thimblefern as primary beneficiary, but the custodian profile screenshot shows no primary beneficiary on file. Address the discrepancy by 2026-08-26.",
+      "priority": null,
+      "dueDate": "2026-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the custodian profile screenshot shows no primary beneficiary on file; the agreed follow-up is to address the mismatch by 2026-08-26."
+    },
+    {
+      "templateId": "7509ead6-3ca2-5c84-bdb4-b75b976cb097",
+      "title": "Coordinate benefits enrollment support",
+      "text": "Use this coordination template when a client requests help reviewing employer benefits enrollment options, such as health coverage, HSA or FSA elections, disability coverage, group life insurance, retirement plan deferrals, or voluntary benefits. Keep recommendations within planning scope and document assumptions. Review Evan Thimblefern’s Clockwork Clover Systems annual election choices for health plan, HSA, disability coverage, group life, and 401(k) deferrals before he submits elections.",
+      "priority": "medium",
+      "dueDate": "2026-08-31",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather enrollment materials from client",
+          "text": "Ask the client for the benefits guide, plan comparison tables, premium costs, employer match details, enrollment portal screenshots if needed, and any questions they want addressed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare planning review notes",
+          "text": "Mira Quillwhistle reviews benefit choices for cash-flow impact, retirement contribution opportunities, tax considerations, coverage gaps, and coordination with existing planning assumptions.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "404e3513-579d-5368-b97f-3a7639c794de"
+        },
+        {
+          "title": "Return decision summary to client",
+          "text": "Provide a plain-language summary of key tradeoffs, items the client must decide directly, and questions to take to the employer benefits administrator or insurer.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update planning records after enrollment",
+          "text": "Once the client confirms elections, update planning inputs for premiums, retirement contributions, HSA or FSA amounts, insurance coverage, and employer match assumptions.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "requested review of health plan, HSA, disability coverage, group life, and 401(k) deferral choices before submitting elections; the agreed review is due 2026-08-31."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meetingId": "974",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Organize Moonbadger IRA beneficiary claim paperwork",
+      "text": "Organize the Moonbadger Custody beneficiary claim paperwork for Harold’s traditional IRA, confirming Lydia and Marcus’s beneficiary percentages and preparing tax withholding election language before Lydia signs any forms.",
+      "priority": null,
+      "dueDate": "2025-02-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia asked Apricot Compass Advisory to help organize the Moonbadger Custody beneficiary claim paperwork for Harold’s traditional IRA, including inherited account opening requirements, beneficiary percentage confirmation for Lydia and Marcus, and tax withholding election language before she signs an"
+    },
+    {
+      "templateId": null,
+      "title": "Assemble ownership evidence for Teacup Comet Bank account",
+      "text": "Assemble the bank statement, memo, and title evidence for the Teacup Comet Bank checking account to enable Sylvie Willowdoodle’s review of ownership status.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Teacup Comet Bank account ownership reconciliation, the estate binder lists the checking account with Harold’s materials, but an older memo describes the same account as joint with rights of survivorship; the agreed follow-up is to assemble the available bank statement, memo, and title evidence "
+    },
+    {
+      "templateId": null,
+      "title": "Obtain certified executor authority documents",
+      "text": "Obtain certified death certificates and letters confirming Lydia Cloudpuddle’s executor authority for Harold’s estate to satisfy Moonbadger Custody and Teacup Comet Bank documentation requirements.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Moonbadger Custody and Teacup Comet Bank each requested certified documentation before discussing Harold’s accounts with Lydia, and the meeting file did not yet contain certified death certificates or letters confirming Lydia’s executor authority; certified authority documents are needed by February"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare probate asset valuation packet",
+      "text": "Prepare a packet containing the date-of-death value for the Moonbadger taxable account, a copy of the residence price opinion, and a separately labeled beneficiary IRA value schedule for Sylvie Willowdoodle’s attorney and tax reference.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Sylvie requested a packet separating probate asset valuation support from beneficiary-designated account information; the agreed follow-up is to prepare date-of-death values for the Moonbadger taxable account, a copy of the residence price opinion, and a separately labeled beneficiary IRA value sche"
+    },
+    {
+      "templateId": "a2f44ece-8863-5f91-91e3-d2bf237eded2",
+      "title": "Login Access Recovery Request",
+      "text": "Escalate the estate portal access issue through the Moonbadger Custody service channel using Lydia Cloudpuddle’s executor contact information to resolve the inactive email link problem.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia reported that the estate portal activation link was sent to Harold’s inactive email address and that Moonbadger Custody would not reset it through her personal login; the agreed follow-up is to escalate the access issue through the custodian service channel using Lydia’s executor contact infor"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare short issue list for attorney",
+      "text": "Prepare a short issue list highlighting Harold’s remaining successor fiduciary role in Lydia and Owen’s estate documents for Lydia to discuss with Amber Teapot Law.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "During the document review, Mira noted that Harold still appears in a successor fiduciary role in Lydia and Owen’s estate document summary; the agreed follow-up is to prepare a short issue list for Lydia to discuss with Amber Teapot Law by February 21, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Model revised retirement and education plan",
+      "text": "Model a revised financial plan incorporating the expected IRA share, current household spending of $14,500 per month, the $413,000 mortgage balance, and existing investment accounts to assess retirement age and education funding impacts.",
+      "priority": null,
+      "dueDate": "2025-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia said the inheritance may change her target retirement age and her comfort with funding Rowan and Elin’s education from household cash flow; the agreed follow-up is to model a revised plan using the expected beneficiary IRA share, current household spending, mortgage balance, and existing inves"
+    }
+  ]
+}

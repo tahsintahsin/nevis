@@ -1,0 +1,85 @@
+{
+  "meetingId": "715",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare manual transfer package for joint taxable account",
+      "text": "Prepare a manual transfer package for Lena and Colin Copperwisp’s joint taxable account at Silver Marmot Brokerage to Velvet Acorn Custody. Preserve the in-kind transfer instruction for the taxable holdings. Resolve the account number format mismatch that caused the automated transfer request to be rejected.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that a manual package preserving the in-kind transfer instruction for the taxable holdings would be prepared, due 2024-08-02."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve identity verification upload loop",
+      "text": "Help resolve the repeated upload loop for Lena Copperwisp’s new receiving registration at Velvet Acorn Custody. The registration is conditionally open because the identity check was not fully cleared. Avoid asking her to resubmit the same identification through the portal.",
+      "priority": null,
+      "dueDate": "2024-07-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked Apricot Compass Advisory to help resolve the repeated upload loop rather than asking her to resubmit the same identification through the portal again; the agreed follow-up is due 2024-07-31."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate cost basis import for concentrated stock lots",
+      "text": "Coordinate with Velvet Acorn Custody to confirm cost basis import treatment for the low-basis Pocket Lantern Robotics shares in the transferred lots. Ensure the lots are not booked as unidentified positions.",
+      "priority": null,
+      "dueDate": "2024-08-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to coordinate with Velvet Acorn Custody so the transferred lots are not booked as unidentified positions, due 2024-08-06."
+    },
+    {
+      "templateId": "06a27d31-eb47-5478-9e96-7c3d9dacc92c",
+      "title": "Administer trust account",
+      "text": "Obtain an acceptable trust certification or equivalent trustee authority document for Lena and Colin Copperwisp’s taxable account registration. The taxable account is intended to align with the Copper Firefly Revocable Trust structure, dated 2018. Resolve the missing certification before the registration can be finalized.",
+      "priority": null,
+      "dueDate": "2024-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the receiving custodian still needs an acceptable trust certification or equivalent trustee authority document before the registration can be finalized; this remains needed, with a 2024-08-05 date."
+    },
+    {
+      "templateId": null,
+      "title": "Start Velvet Acorn Custody rollover IRA setup",
+      "text": "Start the Velvet Acorn Custody rollover IRA setup for Lena Copperwisp’s Pocket Lantern Robotics 401(k) assets. Coordinate direct-rollover instructions after plan access is confirmed.",
+      "priority": null,
+      "dueDate": "2024-08-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to start the Velvet Acorn Custody rollover IRA setup and coordinate direct-rollover instructions after plan access is confirmed, due 2024-08-09."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile inherited IRA owner name mismatch",
+      "text": "Reconcile the owner name mismatch on Colin Copperwisp’s inherited IRA before submitting another transfer request. The inherited IRA record at Silver Marmot Brokerage lists Colin’s legal name differently from the draft receiving paperwork.",
+      "priority": null,
+      "dueDate": "2024-08-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the titling before submitting another transfer request so the inherited IRA registration is not rejected, due 2024-08-07."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Colin’s inherited IRA statement",
+      "text": "Obtain a current statement for Colin Copperwisp’s inherited IRA showing the inherited IRA registration. Colin’s online access at Silver Marmot Brokerage did not display the needed document during the call.",
+      "priority": null,
+      "dueDate": "2024-08-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "obtaining the statement remains needed, with a 2024-08-04 date."
+    },
+    {
+      "templateId": null,
+      "title": "Track transfer sequence against fee-change timing target",
+      "text": "Track the household transfer sequence against Lena Copperwisp’s timing target to move the main household accounts before Silver Marmot Brokerage’s announced household service fee increase.",
+      "priority": null,
+      "dueDate": "2024-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "they agreed to track the transfer sequence against that client-imposed timing target, due 2024-08-23."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "meetingId": "945",
+  "tickets": [
+    {
+      "templateId": "9a4fc0ff-afc1-5128-b890-46ffa64af836",
+      "title": "Periodic Education Account Setup Check",
+      "text": "Each quarter, review Jessa and Aaron Willowdoodle's household with new child Ivy Willowdoodle, education goals, or gifting discussions to determine whether an education savings account setup conversation is appropriate. Confirm the intended beneficiary, account owner, contribution source, state tax considerations, investment approach, and gifting coordination before opening or funding any account. Prepare the education savings account structure and ownership comparison for Ivy Willowdoodle, including beneficiary naming, investment approach, Oregon state tax considerations, the $10,000 gift from Jessa's parents, and a possible $500 monthly household contribution.",
+      "priority": "low",
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the education savings account structure and ownership comparison by 2026-03-18."
+    },
+    {
+      "templateId": "bbc351a0-d7f3-59a9-9b6e-c1705881ee7f",
+      "title": "Prepare Cash Distribution Request",
+      "text": "Distribution purpose: Education funding for Ivy Willowdoodle\nRequested gross or net amount: $12,000\nSource account type: Taxable brokerage account at Velvet Acorn Custody\nPreferred delivery method: [ACH / check / wire / internal transfer]\nReceiving account or payee placeholder: Education savings account for Ivy Willowdoodle (to be opened)\nTax withholding instruction, if applicable: [Federal / state / none / discuss]\nFrequency: One-time\nLiquidity source to review: Money market\nClient authorization method: [Portal / signed form / recorded instruction / other]\nSpecial notes: Preserve Jessa and Aaron Willowdoodle's six-month emergency reserve preference.\n\nBefore processing, confirm available cash, tax considerations, required forms, and whether the request affects Jessa and Aaron Willowdoodle's plan assumptions. Review the initial $12,000 education funding transfer from the Velvet Acorn Custody taxable account money market after the education account is ready, while preserving the household's preferred emergency reserve level.",
+      "priority": "medium",
+      "dueDate": "2026-04-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that initial education funding transfer from taxable cash by 2026-04-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update Household Plan for Adoption Assumptions",
+      "text": "Update the household plan for Jessa and Aaron Willowdoodle to reflect Ivy Willowdoodle's adoption, parental leave cash flow, added infant care costs of $2,150 per month from Polka Fern Early Learning, and the longer education funding horizon.",
+      "priority": null,
+      "dueDate": "2026-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the household plan for those adoption-related assumptions by 2026-03-13."
+    },
+    {
+      "templateId": null,
+      "title": "Review Cash Reserve Target After Childcare Begins",
+      "text": "Review the cash reserve target for Jessa and Aaron Willowdoodle after Polka Fern Early Learning infant care begins at $2,150 per month, given the current $68,000 at Teacup Comet Bank and the household's six-month reserve preference.",
+      "priority": null,
+      "dueDate": "2026-03-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the cash reserve target after childcare begins by 2026-03-31."
+    },
+    {
+      "templateId": "b835d25d-d355-5804-8593-94348f4d26b8",
+      "title": "Review Concentrated Position",
+      "text": "Evaluate the Amber Teapot Robotics concentrated position for Jessa and Aaron Willowdoodle's portfolio risk, tax exposure, liquidity needs, restrictions, and diversification options. Use placeholders for Jessa and Aaron Willowdoodle, Amber Teapot Robotics, Velvet Acorn Custody, cost basis, holding period, and any trading limitations. The position is about 18% of the household's investable assets with an estimated $74,000 unrealized gain in the taxable account at Velvet Acorn Custody, and the review should compare hold, staged sale, and tax-aware funding alternatives for child-related goals.",
+      "priority": "high",
+      "dueDate": "2026-03-27",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [
+        {
+          "title": "Assemble Position Facts",
+          "text": "Collect current market value, share count, cost basis, acquisition history, holding period, account registration, and any employer equity plan details for Amber Teapot Robotics. Confirm whether blackout windows, lockups, Rule 144, or insider restrictions may apply.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "47926d53-db41-532d-99c2-224dc3aaa5ea"
+        },
+        {
+          "title": "Model Portfolio and Tax Impact",
+          "text": "Analyze concentration percentage, sector exposure, volatility, unrealized gain or loss, charitable giving opportunities, tax-loss offsets, and estimated tax impact under phased-sale scenarios.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "96c9c35b-0519-5544-bd5f-e8e441dccdb2"
+        },
+        {
+          "title": "Draft Diversification Recommendation",
+          "text": "Prepare a client-ready summary comparing hold, trim, staged sale, gifting, hedging, and reinvestment options. Include key assumptions, open questions for the CPA or attorney, and next-step implementation considerations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        }
+      ],
+      "evidence": "The agreed follow-up is to compare hold, staged sale, and tax-aware funding alternatives by 2026-03-27."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Employer Benefit Enrollment Information for Ivy",
+      "text": "Obtain employer benefit enrollment information for Ivy Willowdoodle from Amber Teapot Robotics, including the limited window to add medical coverage and consider dependent care elections, and confirm the exact family-tier premium and election amount.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Employer benefit enrollment information for Ivy remains needed by 2026-03-06."
+    },
+    {
+      "templateId": "e968965a-969b-53fe-a5d3-3b7ff9150636",
+      "title": "Review Access Recovery Evidence",
+      "text": "Review Jessa Willowdoodle's access recovery request for the Apricot Compass Advisory vault using these criteria and evidence points:\n\nCriteria:\n- Confirm the request is tied to Jessa Willowdoodle, a household member, trustee, executor, or approved agent.\n- Verify the impacted access type: client portal, custodian login, document vault, e-signature, secure email, or aggregation feed.\n- Determine whether access should be restored, reset, limited, transferred, or revoked.\n- Check for fraud indicators, unusual urgency, changed contact information, or mismatched identity details.\n- Confirm whether any compliance hold, deceased-client process, divorce restriction, or power-of-attorney review applies.\n\nEvidence to collect:\n- Approved identity verification record or call note.\n- Written request or secure message describing the access issue.\n- Current contact information on file and any requested changes.\n- Authorization documents if the requester is not Jessa Willowdoodle.\n- Screenshot or description of the error, excluding passwords or authentication codes.\n- Confirmation of resolution and any access changes made.\n\nAddress the rejected upload of adoption and insurance files and establish a working secure delivery route before sensitive records can be reviewed.",
+      "priority": "high",
+      "dueDate": "2026-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address secure document upload access by 2026-03-04."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Guardianship and Estate Planning Coordination Summary",
+      "text": "Prepare a guardianship and estate planning coordination summary for Jessa and Aaron Willowdoodle for attorney Hana Maplesprocket, covering the existing 2021 wills that predate Ivy Willowdoodle and the likely guardians Simon Nettlewhisk and Alia Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the guardianship and estate planning coordination summary by 2026-03-24."
+    },
+    {
+      "templateId": null,
+      "title": "Analyze Life and Disability Insurance Coverage Gaps",
+      "text": "Analyze life and disability insurance coverage gaps for Jessa and Aaron Willowdoodle against mortgage, childcare, education funding, and survivor income needs now that Ivy Willowdoodle is in the household, including Jessa's $750,000 Pocket Lantern Mutual term policy, Aaron's $500,000 Silver Marmot Life term policy, and employer coverage.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is a life and disability insurance coverage gap analysis by 2026-03-20."
+    },
+    {
+      "templateId": "62c5a272-405d-59f3-84b1-6a797052889c",
+      "title": "Collect Tax Documents",
+      "text": "Collect the Amber Teapot Robotics payroll detail for Jessa Willowdoodle's adoption assistance reimbursement so Derek Fablethimble can align the household's tax return assumptions. Confirm whether Derek Fablethimble has the needed payroll detail and coordinate delivery.",
+      "priority": null,
+      "dueDate": "2026-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Employer adoption assistance and tax preparation coordination remains unresolved because the planning file does not yet show whether Derek has the needed payroll detail, and follow-up is needed by 2026-03-12."
+    }
+  ]
+}

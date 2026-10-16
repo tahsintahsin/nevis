@@ -1,0 +1,89 @@
+{
+ "meetings": 80,
+ "ref_tickets": 476,
+ "pred_tickets": 487,
+ "north_star": 0.8880537856411019,
+ "north_star_by_ticket": 0.8951194184839044,
+ "meetings_without_miss": 0.8625,
+ "north_star_worst10pct": 0.7214285714285714,
+ "different_task_pairs": 7,
+ "f1": 0.9387331256490135,
+ "precision": 0.9281314168377823,
+ "recall": 0.9495798319327731,
+ "valid_rate": 1.0,
+ "invalid_tickets": 0,
+ "f1_macro": 0.9335911664588135,
+ "empty_meeting_acc": 0.8888888888888888,
+ "extra_from_declined": 0,
+ "count_abs_error": 0.5375,
+ "tickets_with_invention": 4,
+ "invented_facts": 4,
+ "invented_names": 0,
+ "template_ok": 0.9402654867256637,
+ "dueDate_ok": 1.0,
+ "assignee_ok": 0.9823008849557522,
+ "priority_ok": 0.9579646017699115,
+ "subtasks_ok": 0.9800884955752213,
+ "text_good": 0.8606194690265486,
+ "text_size_ok": 0.9469026548672567,
+ "text_style_ok": 0.9889380530973452,
+ "template_used_ok": 0.9690265486725663,
+ "template_kept": 0.9484947448439942,
+ "blanks_f1": 0.7837305831423478,
+ "judge_0_5": 4.743362831858407,
+ "blank_hit": 86,
+ "blank_missed": 20,
+ "blank_extra": 28,
+ "template_correct_freeform": 315,
+ "template_correct_template": 110,
+ "template_forced": 13,
+ "template_missed": 12,
+ "template_wrong_template": 2,
+ "north_star_95": [
+  0.8457595738105849,
+  0.9220636276721984
+ ],
+ "north_star_by_ticket_95": [
+  0.8586948541147927,
+  0.9240031244584225
+ ],
+ "f1_95": [
+  0.9049521081791718,
+  0.9645483389324375
+ ],
+ "precision_95": [
+  0.8928535280508966,
+  0.9596202793697836
+ ],
+ "recall_95": [
+  0.8927425138963601,
+  0.9847169896585515
+ ],
+ "north_star_no_tune_twin": 0.8879939494937333,
+ "meetings_no_tune_twin": 68,
+ "run": {
+  "meetings_with_meta": 80,
+  "models": {
+   "accounts/fireworks/models/minimax-m3": 80
+  },
+  "latency_median_s": 33.441799,
+  "latency_p90_s": 58.74158840000001,
+  "cost_mean_usd": 0.0095526,
+  "cost_median_usd": 0.008314409999999998,
+  "cost_total_usd": 0.764208
+ },
+ "settings": {
+  "invalid_policy": "meeting",
+  "judge": "accounts/fireworks/models/gpt-oss-120b",
+  "min_pair_score": 0.3
+ },
+ "judge_stats": {
+  "model": "accounts/fireworks/models/gpt-oss-120b",
+  "calls": 0,
+  "cached": 459,
+  "unparsed": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "seconds": 0.0
+ }
+}

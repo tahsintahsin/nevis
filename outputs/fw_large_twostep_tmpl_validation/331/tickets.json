@@ -1,0 +1,45 @@
+{
+  "meetingId": "331",
+  "tickets": [
+    {
+      "templateId": "623ad58d-d707-5b72-b93a-1627b0f205a7",
+      "title": "Gather debt refinance review details",
+      "text": "Complete the refinance review fields:\n\nCurrent debt type: [mortgage/student loan/business debt/other]\nCurrent balance: [amount]\nCurrent interest rate and type: [fixed/variable]\nCurrent payment: [amount and frequency]\nRemaining term: [term]\nProposed lender or source: [generic lender/source]\nProposed interest rate and type: [fixed/variable]\nProposed payment: [amount and frequency]\nEstimated closing or transaction costs: [amount]\nPrepayment penalty or exit cost: [yes/no/details]\nReason for refinance: [cash flow/rate reduction/consolidation/other]\nTax considerations to review: [deductibility, basis, business use, other]\nDocuments requested: [current statement, proposed terms, payoff quote, credit impact information]\nOpen questions: [list questions]\n\nModel the HELOC payment impact both with and without rolling it into a broader refinance structure for Julian Mossbutton, using the $74,500 balance and the projected $925 monthly payment after the May 1 reset.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian wanted the payment impact modeled with and without rolling the line into a broader refinance structure."
+    },
+    {
+      "templateId": "623ad58d-d707-5b72-b93a-1627b0f205a7",
+      "title": "Gather debt refinance review details",
+      "text": "Complete the refinance review fields:\n\nCurrent debt type: [mortgage/student loan/business debt/other]\nCurrent balance: [amount]\nCurrent interest rate and type: [fixed/variable]\nCurrent payment: [amount and frequency]\nRemaining term: [term]\nProposed lender or source: [generic lender/source]\nProposed interest rate and type: [fixed/variable]\nProposed payment: [amount and frequency]\nEstimated closing or transaction costs: [amount]\nPrepayment penalty or exit cost: [yes/no/details]\nReason for refinance: [cash flow/rate reduction/consolidation/other]\nTax considerations to review: [deductibility, basis, business use, other]\nDocuments requested: [current statement, proposed terms, payoff quote, credit impact information]\nOpen questions: [list questions]\n\nObtain the mortgage prepayment‑penalty language for the $486,000 Clockwork Clover Mortgage loan for Julian Mossbutton to complete the refinance review.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "any prepayment-penalty language not available during the conversation, limiting a complete refinance review."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare revised household budget for repayment",
+      "text": "Prepare a revised household budget for Julian Mossbutton and Lena Mossbutton to support setting an accelerated debt‑repayment target, using the updated take‑home pay of $9,250 per month after Lena’s schedule change and current core spending of $7,850 per month.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the revised budget is needed before setting a target for accelerated debt repayment."
+    },
+    {
+      "templateId": null,
+      "title": "Estimate tax impact of selling investments",
+      "text": "Estimate the tax impact of selling the appreciated holdings in Julian and Lena Mossbutton’s joint taxable investment account at Velvet Acorn Custody, valued at about $96,000, to determine how much can be used for debt reduction.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the tax impact needs to be estimated before using investments as a funding source."
+    }
+  ]
+}

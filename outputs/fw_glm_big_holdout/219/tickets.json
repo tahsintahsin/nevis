@@ -1,0 +1,35 @@
+{
+  "meetingId": "219",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare updated cash-flow projection",
+      "text": "Prepare an updated cash-flow projection for Lenora Cloudpuddle reflecting the Moonbadger Home Care aide schedule (twice weekly, four hours per visit at $38 per hour), possible increased visits, reduced work hours, and caregiver help from Gideon Cloudpuddle and Maren Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-04-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for 2026-04-17 is an updated cash-flow projection reflecting the aide schedule, possible increased visits, reduced work hours, and caregiver help from Gideon and adult daughter Maren Pebblefizz."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain complete long-term care policy evidence",
+      "text": "Obtain complete policy evidence for Lenora Cloudpuddle's 2014 Silver Marmot Insurance long-term care policy showing home-care benefit language, elimination period, and claim notice instructions; the file currently only has a policy summary showing a $186,000 benefit pool.",
+      "priority": null,
+      "dueDate": "2026-04-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Complete policy evidence showing home-care benefit language, elimination period, and claim notice instructions is needed by 2026-04-14."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile medical spending baseline",
+      "text": "Reconcile a medical spending baseline for Lenora Cloudpuddle because the file's annual out-of-pocket costs are far below her described monthly prescriptions, therapy copays, and home-care support.",
+      "priority": null,
+      "dueDate": "2026-04-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A reconciled medical spending baseline is needed by 2026-04-20 because the file’s annual out-of-pocket costs are far below Lenora’s described monthly prescriptions, therapy copays, and home-care support."
+    }
+  ]
+}

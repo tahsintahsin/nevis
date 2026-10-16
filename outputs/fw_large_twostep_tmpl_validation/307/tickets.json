@@ -1,0 +1,35 @@
+{
+  "meetingId": "307",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare calendar of option and RSU vesting",
+      "text": "Prepare a calendar of Tobin Mossbutton's option and RSU vesting dates, blackout periods, and pre‑clearance steps for his Copper Firefly Systems equity held at Velvet Acorn Custody, as requested for delivery by 2026-08-12.",
+      "priority": null,
+      "dueDate": "2026-08-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots."
+    },
+    {
+      "templateId": null,
+      "title": "Create illustration of exercise sale options",
+      "text": "Create an illustration for Tobin Mossbutton comparing same‑day sale, cash exercise, and partial exercise of his Copper Firefly Systems options and RSUs against his cash reserves and payroll withholding capacity, to be completed by 2026-08-19.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain full equity plan documents",
+      "text": "Obtain the full equity plan agreement, grant notices, and insider trading policy for Tobin Mossbutton's Copper Firefly Systems equity, as the current portal balance alone is insufficient, with delivery by 2026-08-05.",
+      "priority": null,
+      "dueDate": "2026-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance."
+    }
+  ]
+}

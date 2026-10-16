@@ -1,0 +1,12 @@
+# Large MoE: OpenAI gpt-oss-120b (~117B total / 5.1B active), serverless ($0.15 in / $0.60 out per 1M).
+provider: fireworks
+model: accounts/fireworks/models/gpt-oss-120b
+deployment: serverless
+prompt: main
+pipeline: single
+few_shot: none
+structured_output: json_schema
+temperature: 0.0
+max_tokens: 32000
+concurrency: 8
+notes: large MoE gpt-oss-120b, single call

@@ -1,0 +1,25 @@
+{
+  "meetingId": "263",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset credentials, review session, strengthen MFA",
+      "text": "Reset Jared Wrenpuddle’s portal credentials, review his recent sessions, and implement stronger multi-factor authentication via approved channels for Velvet Acorn Custody’s portal.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels."
+    },
+    {
+      "templateId": null,
+      "title": "Check transfer instructions and profile changes",
+      "text": "Check the pending Teacup Comet Bank link for Jared Wrenpuddle’s account and verify or update transfer instructions and profile changes as needed.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "2024-03-19 agreed work: check transfer instructions/profile changes."
+    }
+  ]
+}

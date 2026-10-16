@@ -1,0 +1,65 @@
+{
+  "meetingId": "813",
+  "tickets": [
+    {
+      "templateId": "098a99bb-56c3-5bae-8a8a-0daaeba9311f",
+      "title": "Year-End Deadline Sweep",
+      "text": "Prepare a side-by-side projection comparing continued weekday home-care aides, expanded evening coverage, and a limited assisted-living trial using current aide invoices, Lena’s short-term disability income (60% of $148,000 salary), Arun’s $3,850 monthly pension, Social Security, and portfolio accounts ($780,000 joint taxable account, $510,000 IRA, $430,000 401(k), and $92,000 checking/savings).",
+      "priority": null,
+      "dueDate": "2024-06-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked for a side-by-side projection comparing continued weekday home-care aides, expanded evening coverage, and a limited assisted-living trial using the current aide invoices, disability income, pension income, Social Security, and portfolio accounts. The committed follow-up is to prepare that"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate long-term care claim packet",
+      "text": "Coordinate the financial portions of Buttonwood Balloon Life’s long-term care claim packet, including care invoices, physician certification, and activities-of-daily-living statement, with the insurer and Pocket Lantern Home Care agency.",
+      "priority": null,
+      "dueDate": "2024-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Buttonwood Balloon Life has provided claim forms requiring care invoices, a physician certification, and an activities-of-daily-living statement before benefits can be reviewed, and Lena wants coordination of the financial portions with the insurer and care agency. The committed follow-up is that co"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain care agency records for planning file",
+      "text": "Obtain the signed care plan, weekly caregiver schedule, and rate sheet from Pocket Lantern Home Care showing weekday versus weekend charges, needed to separate recurring care costs from one-time setup charges for the planning file.",
+      "priority": null,
+      "dueDate": "2024-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Pocket Lantern Home Care materials available during the call did not include the signed care plan, the weekly caregiver schedule, or the rate sheet showing weekday versus weekend charges, which are needed to separate recurring care costs from one-time setup charges. The committed follow-up is to obt"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve long-term care benefit discrepancy",
+      "text": "Resolve the daily benefit mismatch between the insurer portal ($180) and the policy declaration page ($210) before claim assumptions can be modeled.",
+      "priority": null,
+      "dueDate": "2024-06-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the insurer portal shown by Lena lists a $180 daily benefit, while the policy declaration page in the household planning file states a $210 daily benefit, creating a mismatch before claim assumptions can be modeled. The committed follow-up is to resolve the mismatch for 2024-06-04."
+    },
+    {
+      "templateId": null,
+      "title": "Address home-care invoice delivery problem",
+      "text": "Address the Pocket Lantern Home Care invoice delivery problem where invoices are sent only to Lena’s personal email, delaying reimbursement tracking and making it difficult for Arun and Priya to confirm billed hours against the caregiver calendar.",
+      "priority": null,
+      "dueDate": "2024-05-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the care invoice delivery problem, Priya reported that Pocket Lantern Home Care sends invoices only to Lena’s personal email, which has delayed reimbursement tracking and made it difficult for Arun and Priya to confirm billed hours against the caregiver calendar."
+    },
+    {
+      "templateId": null,
+      "title": "Develop backup caregiver coverage plan",
+      "text": "Develop a temporary caregiver coverage schedule and estimated short-term cost range for Arun’s upcoming knee rehabilitation period, which will reduce his ability to drive Lena and cover transfers at home.",
+      "priority": null,
+      "dueDate": "2024-06-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arun’s upcoming knee rehabilitation will reduce his ability to drive Lena and cover transfers at home, so the household needs a temporary caregiver coverage schedule and an estimated short-term cost range before his recovery period begins. The committed follow-up is to develop that schedule and cost"
+    }
+  ]
+}

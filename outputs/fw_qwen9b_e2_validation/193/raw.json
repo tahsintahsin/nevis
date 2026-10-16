@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e2",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"193\", \"tickets\": [{\"title\": \"Prepare approximately $25,000 transfer instructions for Moonbadger Arts Center\", \"text\": \"Prepare approximately $25,000 transfer instructions for Sela Mossbutton’s donation to Moonbadger Arts Center’s youth-workshop fund. Verify brokerage details before finalizing the instructions. Sela and Jonah Mossbutton prefer shares from their joint-taxable account if manageable.\", \"priority\": null, \"dueDate\": \"2026-01-23\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed: by 2026-01-23 prepare approximately-$25,000 transfer instructions after brokerage-detail verification\"}, {\"title\": \"Address prior-year acknowledgment and missing pledge/receipt language\", \"text\": \"Address Evan Thimblefern’s notes on the prior-year-only acknowledgment and the missing current pledge and goods-or-services language for Sela Mossbutton’s donation.\", \"priority\": null, \"dueDate\": \"2026-02-06\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"by 2026-02-06 address Evan-noted prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language.\"}]}",
+   "usage": {
+    "input_tokens": 746,
+    "output_tokens": 298,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+  "meetingId": "814",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm home and umbrella policy active status",
+      "text": "Confirm active status of the home and umbrella policies with Amber Teapot Insurance and verify mortgagee evidence requirements for the Thimblefern household in Durham, NC, after a draft failed due to a closed card.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to confirm those items by June 28, 2024."
+    },
+    {
+      "templateId": "edf2fbce-5c49-5e58-9961-8db31aa328b7",
+      "title": "Change recurring payment instructions",
+      "text": "Update the recurring premium payment route for the Thimblefern household's home and umbrella policies from the canceled Teacup Comet Bank debit card to the joint checking account at Teacup Comet Bank.",
+      "priority": "medium",
+      "dueDate": "2024-07-02",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address that payment-route change by July 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Align household profile address with insurance records",
+      "text": "Align the household profile address, mortgage records, and Amber Teapot Insurance records to the new Durham home address to fix notice routing and proof-of-coverage issues.",
+      "priority": null,
+      "dueDate": "2024-07-03",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to align the records by July 3, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete household protection needs review",
+      "text": "Complete a household protection needs review for the Thimblefern household reflecting Clara's transition to self-employment, the new income pattern, the $865,000 mortgage, and existing term coverage.",
+      "priority": null,
+      "dueDate": "2024-07-15",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that review by July 15, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare near-term premium funding plan",
+      "text": "Prepare a near-term plan for paying the annual homeowner, umbrella, auto, and term premiums for the Thimblefern household without reducing their six-month cash reserve below $11,800 x 6.",
+      "priority": null,
+      "dueDate": "2024-07-10",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that plan by July 10, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing declarations pages and evidence",
+      "text": "Obtain current declarations pages and evidence for the homeowner, umbrella, auto, flood, and term life policies to verify limits, riders, exclusions, and beneficiaries for the Thimblefern household.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "This remains a needed follow-up, with no date set."
+    },
+    {
+      "templateId": null,
+      "title": "Verify roof age and alarm documentation",
+      "text": "Verify roof age and monitored alarm documentation for the Thimblefern household's Durham home to satisfy Amber Teapot Insurance's open underwriting condition for the homeowner renewal.",
+      "priority": null,
+      "dueDate": "2024-07-05",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "This remains a needed follow-up by July 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Verify life insurance beneficiary designations",
+      "text": "Verify the beneficiary designations for Jonas's Coral Badger Life term policy to confirm if Clara is the primary beneficiary and the children are contingent beneficiaries.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "This remains a needed follow-up, with no date set."
+    }
+  ]
+}

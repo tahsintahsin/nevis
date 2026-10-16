@@ -1,0 +1,75 @@
+{
+  "meetingId": "472",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update household address and delivery preferences",
+      "text": "Update Alina Wrenpuddle's household mailing address, tax-residence note, and electronic delivery preferences across the advisory profile, Velvet Acorn Custody accounts, the Moonbadger Robotics retirement plan contact record, and Silver Marmot Life policy records to reflect the move from Portland to Boulder.",
+      "priority": null,
+      "dueDate": "2025-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-08-26 the household mailing address, tax-residence note, and electronic delivery preferences should be updated across the advisory profile, Velvet Acorn Custody accounts, the Moonbadger Robotics retirement plan contact record, and Silver Marmot Life policy records because ma"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn Custody mail and notification issue",
+      "text": "Address the Velvet Acorn Custody mail and notification problem for Alina Wrenpuddle after two mailed notices were returned to sender following address forwarding and Alina reported not receiving a taxable-account trade confirmation email expected through electronic delivery.",
+      "priority": null,
+      "dueDate": "2025-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed that by 2025-08-22 the Velvet Acorn Custody mail and notification problem should be addressed, after two mailed notices were returned to sender following address forwarding and Alina reported not receiving a taxable-account trade confirmation email expected through electronic delive"
+    },
+    {
+      "templateId": null,
+      "title": "Collect Boulder closing disclosure and mortgage statements",
+      "text": "Collect the Boulder closing disclosure, the first full mortgage statement for the new home, and a current statement for the Portland condo after its conversion to rental use for Alina Wrenpuddle's planning file.",
+      "priority": null,
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-08-29, the agreed follow-up is to collect the Boulder closing disclosure, the first full mortgage statement for the new home, and a current statement for the Portland condo after its conversion to rental use, because those items are missing from the planning file."
+    },
+    {
+      "templateId": null,
+      "title": "Review benefits enrollment after state change",
+      "text": "Review the employer portal's relocation special enrollment window for health coverage, HSA eligibility, disability elections, and dependent coverage for Alina Wrenpuddle following the move to Colorado.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-09-05, the agreed benefits enrollment review after the state change should cover the employer portal’s relocation special enrollment window for health coverage, HSA eligibility, disability elections, and dependent coverage."
+    },
+    {
+      "templateId": null,
+      "title": "Review beneficiary alignment across retirement records",
+      "text": "Review beneficiary alignment for Alina Wrenpuddle's retirement accounts, specifically addressing the discrepancy where the rollover IRA names Theo as primary beneficiary while the Moonbadger Robotics 401(k) lists the Oregon revocable trust as primary with no contingent beneficiaries.",
+      "priority": null,
+      "dueDate": "2025-09-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-09-19 beneficiary alignment across retirement records should be reviewed because a review screen showed Alina’s rollover IRA naming Theo as primary beneficiary, while the Moonbadger Robotics 401(k) lists the Oregon revocable trust as primary and no contingent beneficiaries; "
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate relocation tax-residency and withholding",
+      "text": "Coordinate relocation tax-residency facts for Alina Wrenpuddle and Theo Wrenpuddle, including part-year Oregon and Colorado filing, payroll withholding for Alina's Moonbadger Robotics wages and RSU sourcing, and estimated payments for Theo's freelance income.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-09-12 relocation tax-residency coordination should address part-year Oregon and Colorado filing facts, payroll withholding questions for Alina’s Moonbadger Robotics wages, RSU sourcing questions, and estimated payment considerations for Theo’s freelance income."
+    },
+    {
+      "templateId": null,
+      "title": "Update post-move financial plan assumptions",
+      "text": "Update the post-move financial plan assumptions for Alina Wrenpuddle and Theo Wrenpuddle to replace Oregon housing costs and pre-move cash-flow estimates with the Boulder mortgage, expected rental income from the Portland condo, and new school-related expenses.",
+      "priority": null,
+      "dueDate": "2025-10-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed that by 2025-10-10 the post-move financial plan assumptions should be updated because the current planning model still reflects Oregon housing costs, a condo sale assumption, and pre-move cash-flow estimates rather than the Boulder mortgage, expected rental income, and new school-re"
+    }
+  ]
+}

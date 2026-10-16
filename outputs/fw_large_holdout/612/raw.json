@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"612\",\n\"tickets\": [\n{\n\"templateId\": \"a19cba02-6935-5708-8852-6d1c2cd423d5\",\n\"title\": \"Complete address and residency update checks\",\n\"text\": \"Update household, planning, address, spouse contact, and outside‑institution records for Dana Cloudpuddle and Ellis Willowdoodle.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2024-09-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"They agreed by 2024-09-06 to update household, planning, address, spouse contact, and outside-institution records.\"\n},\n{\n\"templateId\": \"70f06a3e-5fd7-517b-b68a-3b58951aede6\",\n\"title\": \"Benefits Enrollment Quick Start\",\n\"text\": \"Obtain benefits evidence for Ellis Willowdoodle from Paper Otter School, including the rate sheet and beneficiary confirmation, as required.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Benefits evidence is needed by 2024-09-13 because Ellis had not downloaded the Paper Otter School rate sheet or beneficiary confirmation.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Update IRA beneficiary listing for Dana Cloudpuddle\",\n\"text\": \"Update the beneficiary on Dana Cloudpuddle’s Velvet Acorn Custody IRA, replacing Blair Nettlewhisk with Ellis Willowdoodle, as agreed.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-10\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"They agreed by 2024-09-10 to address Dana’s Velvet Acorn Custody IRA beneficiary listing Blair Nettlewhisk, after Dana said Ellis should replace Blair.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2860,
+    "output_tokens": 1914,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

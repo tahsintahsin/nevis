@@ -1,0 +1,35 @@
+{
+  "meetingId": "834",
+  "tickets": [
+    {
+      "templateId": "eeaa9b5d-78e4-55ba-98d9-0f6ae221111e",
+      "title": "Follow up on account security concern",
+      "text": "Security concern type: unauthorized access\nAffected account or platform: Velvet Acorn Custody\nDate client reported concern: 2025-11-06\nClient's preferred contact method: secure portal messages or phone calls\nImmediate action requested: custodian escalation, credential reset coordination, evidence documentation, phone update\nCustodian or platform contact: Velvet Acorn Custody\nEvidence to review: Paige’s forwarded login alert for a session she did not recognize and her statement that she could not verify whether recent account activity was legitimate\nResolution status: open\nNext client update: by 2025-11-07\nInternal notes: \nPaige Lanternmoss reported an unrecognized login alert on her Velvet Acorn Custody account and could not verify recent activity. The follow-up includes custodian escalation, credential reset coordination, evidence documentation, and a phone update to Paige by 2025-11-07.",
+      "priority": "high",
+      "dueDate": "2025-11-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-07 covering custodian escalation, evidence documentation, credential reset coordination, and a phone update to Paige."
+    },
+    {
+      "templateId": "d59658c9-3bcc-573c-a34e-479818bc4c60",
+      "title": "Follow up on missing signature",
+      "text": "Contact Darin Lanternmoss through the approved communication channel to explain which document still needs signature, where to sign, and how to return it securely. Confirm receipt of the completed signature page and update the document status log. The portal upload contains Paige Lanternmoss's signed pages but not Darin Lanternmoss's signature page. Contact Darin through the approved channel, explain the required signature location, and confirm secure return of the signed page by 2025-11-10.",
+      "priority": "medium",
+      "dueDate": "2025-11-10",
+      "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9",
+      "subTasks": [],
+      "evidence": "For the household authorization package, the portal upload contains Paige’s signed pages but not Darin’s signature page. They agreed on follow-up by 2025-11-10 to contact Darin through the approved channel, explain the required signature location, and confirm secure return of the signed page."
+    },
+    {
+      "templateId": "340a01fd-6530-54e3-8336-c6224508592f",
+      "title": "Track custodian transfer status",
+      "text": "Check the pending transfer with the receiving custodian, note the latest status, and alert the advisor if assets, cost basis, or residual cash have not arrived as expected. Check the Velvet Acorn Custody transfer tracker for the taxable account move from Teacup Comet Brokerage. The cost basis file and a small residual cash sweep do not match the sending statement Paige Lanternmoss uploaded. Document whether remaining assets or basis details are still pending by 2025-11-12.",
+      "priority": "medium",
+      "dueDate": "2025-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the taxable account move, the Velvet Acorn Custody transfer tracker shows securities received from Teacup Comet Brokerage, but the cost basis file and a small residual cash sweep do not match the sending statement Paige uploaded. They agreed on follow-up by 2025-11-12 to check the receiving cust"
+    }
+  ]
+}

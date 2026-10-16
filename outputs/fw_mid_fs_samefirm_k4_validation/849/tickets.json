@@ -1,0 +1,45 @@
+{
+  "meetingId": "849",
+  "tickets": [
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Record Lena Pebblefizz as a dependent in the household profile and update childcare and medical cash flow assumptions to reflect the new family member.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate."
+    },
+    {
+      "templateId": null,
+      "title": "Provide family-attorney checklist for estate document update",
+      "text": "Provide a family-attorney checklist because the 2021 will and healthcare documents predate Lena and lack a minor-child guardian. Coordinate with the attorney to update estate documents to include Lena.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Owen’s individual term policy declaration page and both spouses’ disability details",
+      "text": "Obtain Owen Pebblefizz’s individual term policy declaration page and both spouses’ disability details to complete the protection review. Nadia’s group life benefit summary is in the portal, but Owen’s policy and disability details are needed.",
+      "priority": null,
+      "dueDate": "2025-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete."
+    },
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update Nadia Pebblefizz’s revised Cloudberry Kite parental-leave income estimate in the household profile to reflect the impact of the leave on household cash flow.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate."
+    }
+  ]
+}

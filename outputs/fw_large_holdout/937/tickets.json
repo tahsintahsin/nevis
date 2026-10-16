@@ -1,0 +1,136 @@
+{
+  "meetingId": "937",
+  "tickets": [
+    {
+      "templateId": "d0a74fb4-d997-51d3-a171-f40e13c7dd68",
+      "title": "Coordinate Divorce Document Package",
+      "text": "Use this coordination template when Liora Velvetreed needs help organizing financial documents related to divorce proceedings. Maintain confidentiality, avoid legal advice, and route documents only to authorized parties. Assemble approved account, income, debt, insurance, estate, and beneficiary records for Sela Fablethimble at Moonbadger Legal, with sharing limited to the divorce matter.",
+      "priority": "high",
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Intake authorization and document list",
+          "text": "Confirm authorized contacts, communication limits, and requested document categories such as statements, tax records, income records, insurance, liabilities, and estate documents.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "b384ec7e-6251-5024-b063-047ec07f91d8"
+        },
+        {
+          "title": "Compile financial records",
+          "text": "Collect available account statements, cost basis summaries, cash flow records, beneficiary confirmations, and debt summaries from approved sources.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "b93ee058-c11a-51d8-8005-81fe1e23bd94"
+        },
+        {
+          "title": "Review planning implications",
+          "text": "Identify investment, retirement, tax, equity compensation, cash flow, and beneficiary issues that may require advisor discussion or outside professional review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        },
+        {
+          "title": "Coordinate secure handoff",
+          "text": "Package approved documents through the secure delivery method and log what was shared, with whom, and under what authorization.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "b384ec7e-6251-5024-b063-047ec07f91d8"
+        }
+      ],
+      "evidence": "The agreed follow-up is due March 8, 2024."
+    },
+    {
+      "templateId": "e968965a-969b-53fe-a5d3-3b7ff9150636",
+      "title": "Review Access Recovery Evidence",
+      "text": "Review the access recovery request using these criteria and evidence points:\n\nCriteria:\n- Confirm the request is tied to an authorized client, household member, trustee, executor, or approved agent.\n- Verify the impacted access type: client portal, custodian login, document vault, e-signature, secure email, or aggregation feed.\n- Determine whether access should be restored, reset, limited, transferred, or revoked.\n- Check for fraud indicators, unusual urgency, changed contact information, and mismatched identity details.\n- Confirm whether any compliance hold, deceased-client process, divorce restriction, or power-of-attorney review applies.\n\nEvidence to collect:\n- Approved identity verification record or call note.\n- Written request or secure message describing the access issue.\n- Current contact information on file and any requested changes.\n- Authorization documents if the requester is not the primary client.\n- Screenshot or description of the error, excluding passwords or authentication codes.\n- Confirmation of resolution and any access changes made.\n\nReview Liora Velvetreed's secure vault access, contact information, and permissions to ensure Devin Velvetreed no longer has visibility.",
+      "priority": "high",
+      "dueDate": "2024-03-05",
+      "assigneeId": "b384ec7e-6251-5024-b063-047ec07f91d8",
+      "subTasks": [],
+      "evidence": "The agreed follow-up, due March 5, 2024, is to review access, contact information, and permissions."
+    },
+    {
+      "templateId": null,
+      "title": "Request missing divorce records",
+      "text": "Request missing divorce records for Liora Velvetreed, including Devin’s retirement plan statements, Buttonwood Balloon Studio distribution history, and the home equity line freeze notice, through the authorized legal channel.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to request the records through the authorized legal channel by March 12, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Update marital balance sheet mortgage figure",
+      "text": "Update the marital balance sheet for Liora Velvetreed with the verified mortgage payoff amount after checking source documents, reconciling the $411,000 figure from the legal worksheet with the $424,880 principal shown in the Coral Badger Lending portal.",
+      "priority": null,
+      "dueDate": "2024-03-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up, due March 11, 2024, is to check the source documents and update the marital balance sheet with the verified figure."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare settlement conference financial figures",
+      "text": "Prepare the marital balance sheet and sustainable cash flow view for Liora Velvetreed ahead of the settlement conference, incorporating home-retention scenarios, support payments, legal fees, and tax-sensitive sale assumptions.",
+      "priority": null,
+      "dueDate": "2024-03-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is due March 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare adviser comments for attorney review",
+      "text": "Prepare adviser comments for Liora Velvetreed’s attorney regarding ownership and beneficiary review for separation, covering account titling, beneficiary designations, trustee roles, and insurance ownership before any legal or custodial changes.",
+      "priority": null,
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up, due March 22, 2024, is to prepare adviser comments for attorney review before any legal or custodial changes are made."
+    },
+    {
+      "templateId": "b835d25d-d355-5804-8593-94348f4d26b8",
+      "title": "Review Concentrated Position",
+      "text": "Evaluate a concentrated position for portfolio risk, tax exposure, liquidity needs, restrictions, and diversification options for Liora Velvetreed. Use placeholders for the client, ticker/security, custodian, cost basis, holding period, and any trading limitations. Model staged sale, retention, gifting, and reinvestment alternatives for her Paper Otter Robotics holdings, considering liquidity needs and divorce restrictions.",
+      "priority": "high",
+      "dueDate": "2024-03-18",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [
+        {
+          "title": "Assemble Position Facts",
+          "text": "Collect current market value, share count, cost basis, acquisition history, holding period, account registration, and any employer equity plan details for [security/position]. Confirm whether blackout windows, lockups, Rule 144, or insider restrictions may apply.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "47926d53-db41-532d-99c2-224dc3aaa5ea"
+        },
+        {
+          "title": "Model Portfolio and Tax Impact",
+          "text": "Analyze concentration percentage, sector exposure, volatility, unrealized gain or loss, charitable giving opportunities, tax-loss offsets, and estimated tax impact under phased-sale scenarios.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "96c9c35b-0519-5544-bd5f-e8e441dccdb2"
+        },
+        {
+          "title": "Draft Diversification Recommendation",
+          "text": "Prepare a client-ready summary comparing hold, trim, staged sale, gifting, hedging, and reinvestment options. Include key assumptions, open questions for the CPA or attorney, and next-step implementation considerations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        }
+      ],
+      "evidence": "The agreed follow-up, due March 18, 2024, is to model staged sale, retention, gifting, and reinvestment alternatives with attention to liquidity needs and divorce restrictions."
+    },
+    {
+      "templateId": "bbc351a0-d7f3-59a9-9b6e-c1705881ee7f",
+      "title": "Prepare Cash Distribution Request",
+      "text": "Distribution purpose: legal retainer and near-term living costs\nRequested gross or net amount: $35,000 net\nSource account type: joint taxable investment account\nPreferred delivery method: internal transfer\nReceiving account or payee placeholder: Liora Velvetreed's separate Teacup Comet Bank checking account\nTax withholding instruction, if applicable: none\nFrequency: one-time\nLiquidity source to review: joint taxable account\nClient authorization method: [Authorization Method]\nSpecial notes: [Notes]\n\nProcess the one-time $35,000 net transfer from the joint taxable account to Liora Velvetreed’s separate checking account at Teacup Comet Bank for a legal retainer and near-term living costs.",
+      "priority": "medium",
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is due March 6, 2024."
+    }
+  ]
+}

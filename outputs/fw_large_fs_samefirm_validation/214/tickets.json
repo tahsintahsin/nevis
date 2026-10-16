@@ -1,0 +1,174 @@
+{
+  "meetingId": "214",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Address mortgage servicing and title update",
+      "text": "Address the mortgage servicing requirements with the servicer and update the property title with the county for Sera Bramblequill following Aaron Bramblequill’s death. The mortgage balance is about $214,000 with a 3.25% fixed rate.",
+      "priority": null,
+      "dueDate": "2025-09-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the mortgage servicing and title update by 2025-09-26."
+    },
+    {
+      "templateId": null,
+      "title": "Organize Moonbadger Life claim packet",
+      "text": "Organize the carrier claim packet for the $500,000 Moonbadger Life term policy and track insurer requirements for the death benefit for Sera Bramblequill.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is due 2025-09-12."
+    },
+    {
+      "templateId": "2bff7cdf-61bd-5aee-a6d0-97acebf0bd9d",
+      "title": "Coordinate benefits enrollment support",
+      "text": "Coordinate benefits enrollment support for a client or household during an open enrollment or new employment benefits decision. Use placeholders for employer materials, plan options, and elections; do not record sensitive personal information beyond what is needed for planning. For Sera Bramblequill after the loss of her spouse, review the health, life, disability, and beneficiary elections once Clockwork Clover Robotics employer materials are available.",
+      "priority": "medium",
+      "dueDate": "2025-09-24",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect benefits materials",
+          "text": "Request the benefits guide, plan comparison, premium schedule, employer match details, HSA or FSA options, life and disability coverage options, and enrollment instructions.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review planning tradeoffs",
+          "text": "Evaluate the materials for retirement contribution opportunities, tax considerations, insurance gaps, HSA eligibility, cash-flow impact, and coordination with existing coverage.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "f6d9a44b-9bea-529b-b92d-e5989a322533"
+        },
+        {
+          "title": "Prepare client decision summary",
+          "text": "Summarize key elections, unresolved questions, and any items the client should confirm with the employer or benefits administrator before submitting choices.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Document final elections for planning file",
+          "text": "After the client confirms submission, record the selected benefits categories, planning assumptions, and follow-up items for future review.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "The agreed follow-up for employer benefits after loss of spouse is due 2025-09-24."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain trust certification pages",
+      "text": "Obtain short certification of trust and trustee acceptance pages needed for custodian and bank retitling requests for Sera Bramblequill’s 2017 revocable living trust.",
+      "priority": null,
+      "dueDate": "2025-09-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed on trust certification pages for retitling accounts by 2025-09-17."
+    },
+    {
+      "templateId": null,
+      "title": "Update estate attorney contact",
+      "text": "Update the contact information for Lavender Sprocket Law to identify the current attorney handling survivor trust questions for Sera Bramblequill.",
+      "priority": null,
+      "dueDate": "2025-09-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed on the estate attorney contact update by 2025-09-22."
+    },
+    {
+      "templateId": null,
+      "title": "Supply certified death certificates",
+      "text": "Supply additional certified copies of Aaron Bramblequill’s death certificate as required by the insurer, employer plan, bank, mortgage servicer, and estate attorney for Sera Bramblequill.",
+      "priority": null,
+      "dueDate": "2025-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed on the certified death certificate supply by 2025-09-10."
+    },
+    {
+      "templateId": "c52158ee-6426-5164-a073-1a4df25362c7",
+      "title": "Track custodian transfer status",
+      "text": "Track the transfer of Aaron Bramblequill’s Silver Marmot Engineering 401(k) to the designated receiving account. Transfer type: direct rollover\nSending institution: Silver Marmot Engineering\nReceiving custodian: [custodian name]\nAccount registration: Aaron Bramblequill’s 401(k) beneficiary transfer\nApproximate transfer amount or asset list: $528,000 (approx.)\nSubmitted by: [team member]\nSubmission method: [portal / fax / mail / other]\nSubmission reference or case ID: [placeholder]\nCurrent status: Pending; rollover request acknowledged but no estimated completion timing.\nLast custodian contact: Silver Marmot Engineering acknowledged receipt of the rollover request.\nOpen issues: No estimated completion timing; other open requirements to be confirmed.\nNext follow-up action: Track custodian status and document any open requirements by 2025-09-19.\nClient communication needed: [yes/no and notes]",
+      "priority": "medium",
+      "dueDate": "2025-09-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is due 2025-09-19."
+    },
+    {
+      "templateId": null,
+      "title": "Verify custodian online access settings",
+      "text": "Verify Sera Bramblequill’s Velvet Acorn Custody online access and trusted contact settings before submitting additional estate paperwork.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is due 2025-09-12."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm pension termination notice",
+      "text": "Confirm the termination of Aaron Bramblequill’s Silver Marmot Engineering pension and update cash‑flow projections for Sera Bramblequill.",
+      "priority": null,
+      "dueDate": "2025-09-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up on Aaron’s pension termination notice is due 2025-09-15."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Social Security survivor benefit questions",
+      "text": "Prepare a concise list of questions covering survivor benefit timing and Sera Bramblequill’s own future retirement benefit for her Social Security appointment.",
+      "priority": null,
+      "dueDate": "2025-09-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for Social Security survivor benefit appointment preparation is due 2025-09-11."
+    },
+    {
+      "templateId": null,
+      "title": "Update household cash‑flow model",
+      "text": "Update the household cash‑flow model to reflect Aaron Bramblequill’s death, pension cessation, revised spending estimate of $7,400 per month, and near‑term estate expenses for Sera Bramblequill.",
+      "priority": null,
+      "dueDate": "2025-10-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up on the household cash-flow model is due 2025-10-10."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate final joint and estate tax",
+      "text": "Coordinate planning information with CPA Tobin Mossbutton for the 2025 joint and estate tax return, including wages, pension, insurance proceeds, and estate‑administration items for Sera Bramblequill.",
+      "priority": null,
+      "dueDate": "2025-09-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for final joint and estate tax coordination is due 2025-09-30."
+    },
+    {
+      "templateId": null,
+      "title": "Separate memorial expense cash reserve",
+      "text": "Separate approximately $24,000 of memorial, travel, and legal expense cash reserve from longer‑term investment cash for Sera Bramblequill.",
+      "priority": null,
+      "dueDate": "2025-09-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed on the memorial and legal expense cash reserve by 2025-09-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review Tin Sparrow position tax basis",
+      "text": "Review the tax basis and liquidity needs of the $146,000 Tin Sparrow Software position in the joint taxable account before any sale is considered for Sera Bramblequill.",
+      "priority": null,
+      "dueDate": "2025-10-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is due 2025-10-03."
+    }
+  ]
+}

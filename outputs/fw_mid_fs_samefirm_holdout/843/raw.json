@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "835",
+  "838"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"843\", \"tickets\": [{\"title\": \"Update marital status, shared household address, trusted contact preference, and account mailing records\", \"text\": \"Update marital status, shared household address, trusted contact preference, and account mailing records for Liora Pebblefizz after her marriage to Rowan Nettlewhisk on 2026-03-28. Liora plans to live in Rowan’s Oregon townhouse while working for Coral Badger Analytics.\", \"priority\": null, \"dueDate\": \"2026-04-24\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2026-04-24.\"}, {\"title\": \"Coordinate beneficiary and estate document updates after marriage\", \"text\": \"Coordinate beneficiary updates and estate document collection for Liora Pebblefizz. Update IRA beneficiary to name Rowan Nettlewhisk as primary, and collect post-marriage estate document copies. Current custodian profile shows Sela Pebblefizz as sole primary beneficiary; no post-marriage estate documents are in the file.\", \"priority\": null, \"dueDate\": \"2026-05-01\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Beneficiary and estate coordination needs follow-up by 2026-05-01: Liora said Rowan should be primary beneficiary on the IRA, but the custodian profile still showed Sela Pebblefizz as sole primary beneficiary and no post-marriage estate document copies were in the file.\"}]}",
+   "usage": {
+    "input_tokens": 18064,
+    "output_tokens": 377,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

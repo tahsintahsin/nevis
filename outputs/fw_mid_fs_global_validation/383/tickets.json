@@ -1,0 +1,85 @@
+{
+  "meetingId": "383",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Set up jointly registered brokerage account at Velvet Acorn Custody",
+      "text": "Set up a jointly registered brokerage account at Velvet Acorn Custody to receive monthly surplus from the new household checking arrangement, keeping each spouse’s existing retirement accounts separate.",
+      "priority": null,
+      "dueDate": "2024-07-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan asked for a jointly registered brokerage account at the custodian to receive monthly surplus from the new household checking arrangement while keeping each spouse’s existing retirement accounts separate. They agreed to set up the joint taxable account, with follow-up due July 12, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain marriage documentation for account records",
+      "text": "Obtain the marriage certificate and Lila’s identification details for the custodian’s jointly held account paperwork and household-level profile records.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The secure portal does not yet contain a marriage certificate or Lila’s identification details, and the custodian requires those records before adding Lila to jointly held account paperwork or household-level profile records. The agreed follow-up is to obtain the marriage documentation for account r"
+    },
+    {
+      "templateId": null,
+      "title": "Complete marriage-based beneficiary review across accounts",
+      "text": "Complete a beneficiary review across Rowan’s IRA, Roth IRA, employer retirement plan, term life policy, and group life coverage, using current beneficiary records as the starting evidence and updating to reflect the marriage.",
+      "priority": null,
+      "dueDate": "2024-07-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The recent marriage prompted a beneficiary review across Rowan’s IRA, Roth IRA, employer retirement plan, term life policy, and group life coverage, using the current beneficiary records already visible in the client file as the starting evidence. They agreed to complete that marriage-based benefici"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile equity vesting records between spreadsheet and portal export",
+      "text": "Reconcile the difference between Rowan’s personal spreadsheet and the equity portal export for restricted stock units and nonqualified stock options, affecting projected cash flow and tax withholding estimates.",
+      "priority": null,
+      "dueDate": "2024-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan’s personal spreadsheet shows a different restricted stock unit vesting cadence than the equity portal export provided during the meeting, affecting projected cash flow and tax withholding estimates for the combined household plan. They agreed to reconcile the equity vesting records by July 22,"
+    },
+    {
+      "templateId": null,
+      "title": "Address custodian address and portal access issue",
+      "text": "Address the custodian address and portal access issue, including ensuring Lila receives the household portal invitation email and that prior address changes appear on recent custodian statements.",
+      "priority": null,
+      "dueDate": "2024-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan also reported that prior online address changes did not appear on recent custodian statements and that Lila did not receive the household portal invitation email, creating a service issue before the couple’s records are combined. They agreed to address the custodian address and portal access i"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate document updates to reflect marriage and new properties",
+      "text": "Coordinate estate document updates to reflect the marriage, the two properties (Portland townhouse and Salem condo), and the desired decision-makers for financial and health care matters.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The planning review found that Rowan’s estate documents predate the marriage and do not reflect Lila’s role, the two properties, or the desired decision-makers for financial and health care matters. They agreed to estate document coordination by August 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate residency and tax planning with CPA",
+      "text": "Coordinate with Sasha Cloudpuddle on the Oregon-to-Washington household move, including mailing address, legal residence, payroll withholding, and how the two owned properties should be reflected in planning records.",
+      "priority": null,
+      "dueDate": "2024-07-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan requested coordination with Sasha Cloudpuddle on the Oregon-to-Washington household move, including mailing address, legal residence, payroll withholding, and how the two owned properties should be reflected in planning records. They agreed to residency and tax coordination, with follow-up due"
+    },
+    {
+      "templateId": null,
+      "title": "Review employer benefits election choices",
+      "text": "Compare Rowan’s health, dental, vision, HSA, disability, life insurance, and payroll deduction choices against Lila’s available coverage before making elections, using the post-marriage enrollment window from Rowan’s employer benefits portal.",
+      "priority": null,
+      "dueDate": "2024-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan wants health, dental, vision, HSA, disability, life insurance, and payroll deduction choices compared against Lila’s available coverage before making elections. They agreed to the employer benefits election review, with follow-up due July 10, 2024."
+    }
+  ]
+}

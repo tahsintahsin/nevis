@@ -1,0 +1,27 @@
+{
+ "model": "accounts/fireworks/models/gpt-oss-120b",
+ "latency_s": 57.088176,
+ "input_tokens": 4427,
+ "output_tokens": 7271,
+ "cache_write_tokens": 0,
+ "cache_read_tokens": 4702,
+ "cost_usd": 0.00509718,
+ "cost_basis": "tokens",
+ "token_cost_usd": 0.00509718,
+ "config": "fw_large_twostep_tmpl",
+ "provider": "fireworks",
+ "deployment": "serverless",
+ "api_model": "accounts/fireworks/models/gpt-oss-120b",
+ "fine_tuned": false,
+ "prompt_version": "two_step_tmpl-9efed385",
+ "pipeline": "two_step",
+ "few_shot": "none",
+ "few_shot_examples": [],
+ "structured_output": "json_schema",
+ "calls": 2,
+ "stop_reasons": [
+  "stop",
+  "stop"
+ ],
+ "effort": null
+}

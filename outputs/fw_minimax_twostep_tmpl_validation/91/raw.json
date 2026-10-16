@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"91\", \"followups\": [{\"evidence\": \"2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms.\", \"action\": \"Evaluate lapse/reinstatement options for the Paper Otter Life term policy and update the recurring premium payment instructions to the new checking account before existing underwriting terms are lost.\", \"templateId\": \"d10e4f55-d668-5176-8f2d-c6edcb653ac1\"}, {\"evidence\": \"2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure.\", \"action\": \"Review Soren's term life coverage amount and disability protection given Lila's shift to part-time work and the household's mortgage, childcare, and education-funding exposure.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 1863,
+    "output_tokens": 1115,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1279
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"TEMPLATE\", \"tickets\": [{\"title\": \"Update recurring payment instructions\", \"text\": \"Confirm the Paper Otter Life term policy premium payment to be changed, verify authorization, update the recurring instructions, and document the effective cycle and confirmation source. Evaluate lapse/reinstatement options for Soren Cloudpuddle's $750,000 20-year Paper Otter Life term policy after the premium draft failed when the Teacup Comet Bank checking account was replaced, and update the recurring premium payment instructions to the new checking account before existing underwriting terms are lost.\", \"priority\": \"medium\", \"dueDate\": null, \"assigneeId\": null, \"subTasks\": [], \"templateId\": \"d10e4f55-d668-5176-8f2d-c6edcb653ac1\", \"evidence\": \"2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms.\"}, {\"title\": \"Review Soren Cloudpuddle term life and disability coverage\", \"text\": \"Review Soren Cloudpuddle's $750,000 20-year Paper Otter Life term coverage amount and disability protection given Lila Cloudpuddle's shift to part-time work, which increases household dependence on his salary alongside the $620,000 primary-residence mortgage, childcare for dependent child Rowan Cloudpuddle (age 6), and education-funding exposure.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"subTasks\": [], \"templateId\": null, \"evidence\": \"2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure.\"}]}",
+   "usage": {
+    "input_tokens": 2089,
+    "output_tokens": 2545,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1557
+   },
+   "stop": "stop"
+  }
+ ]
+}

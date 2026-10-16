@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"528\",\n\"tickets\": [\n{\n\"title\": \"Identify bookkeeper and CPA record requirements\",\n\"text\": \"Identify the specific records Lena Bramblequill's bookkeeper and Nia Thimblefern, CPA, need to receive once Pocket Lantern Studio LLC client deposits begin, to ensure proper separation of business and household finances.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to identify those records by 2024-09-13.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Prepare quarterly tax payment calendar\",\n\"text\": \"Prepare a quarterly tax payment calendar for Lena Bramblequill that reflects expected invoice timing from Pocket Lantern Studio LLC and household cash availability, addressing the gap where her CPA has not yet calculated estimated taxes for the new consulting income.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-20\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to prepare that calendar by 2024-09-20.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Address Velvet Acorn Custody feed issue\",\n\"text\": \"Address the issue where the Velvet Acorn Custody household dashboard stopped pulling the former employer brokerage feed, leaving the advisory portal without current equity position values for Lena Bramblequill's Copper Firefly Design restricted stock units.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-10\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to address the feed issue by 2024-09-10.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Review estate documents and beneficiary designations\",\n\"text\": \"Review the existing wills and beneficiary designations for Lena Bramblequill and Evan Bramblequill to determine if updates are needed now that Lena owns Pocket Lantern Studio LLC and expects business receivables to become part of the household balance sheet.\",\n\"priority\": null,\n\"dueDate\": \"2024-10-04\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to review the estate documents and beneficiary designations by 2024-10-04.\"\n,\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2129,
+    "output_tokens": 582,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

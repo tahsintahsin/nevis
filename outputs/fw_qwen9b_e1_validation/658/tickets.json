@@ -1,0 +1,85 @@
+{
+  "meetingId": "658",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Elin’s spring tuition funding schedule",
+      "text": "Prepare a month-by-month schedule for Elin’s spring tuition at Marzipan Meadow College showing how much of the charges can come from Elin’s 529 account, the Teacup Comet tuition set-aside, and the Paper Otter Treasury fund without changing retirement contributions.",
+      "priority": null,
+      "dueDate": "2023-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that schedule by December 19, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain itemized Marzipan Meadow billing packet",
+      "text": "Obtain the itemized student account PDF for Elin’s Marzipan Meadow College billing packet to substantiate the payment plan and qualified expense categories.",
+      "priority": null,
+      "dueDate": "2023-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the itemized billing packet by December 12, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Elin’s 529 balance mismatch",
+      "text": "Resolve the discrepancy between Mira’s mobile screenshot of Elin’s 529 account balance at $67,400 and the downloaded statement showing $72,270 for the same account.",
+      "priority": null,
+      "dueDate": "2023-12-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve the balance mismatch by December 15, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Identify Elin’s 529 payment or reimbursement workflow",
+      "text": "Identify an acceptable direct payment or reimbursement workflow for Elin’s 529 account at Velvet Acorn Custody, given the college portal rejected the bank verification for direct 529 payment and displayed an error after two attempts.",
+      "priority": null,
+      "dueDate": "2023-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to identify the payment or reimbursement workflow by December 18, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Rowan’s education funding projection",
+      "text": "Prepare a separate planning track for Rowan’s education funding using the existing 529 balance, expected test and application costs, and a first-year college savings target that does not rely on borrowing.",
+      "priority": null,
+      "dueDate": "2023-12-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that projection by December 29, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Rowan’s scholarship cost-gap estimate",
+      "text": "Prepare a cost-gap estimate for Rowan’s college list before the first school deposit decision, using the scholarship response calendar provided by Rowan’s counselor.",
+      "priority": null,
+      "dueDate": "2024-02-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the cost-gap estimate by February 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Elin’s off-campus housing projection",
+      "text": "Prepare a projection of which rent, food, and utility amounts for Elin’s off-campus apartment could fit into the education funding plan versus parent cash flow.",
+      "priority": null,
+      "dueDate": "2024-01-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that projection by January 19, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare sale-sequencing and tax estimate for the taxable education reserve",
+      "text": "Prepare a sale-sequencing and tax estimate for the Paper Otter taxable account’s equity index fund unrealized gains and the Treasury position earmarked for tuition, before using the reserve.",
+      "priority": null,
+      "dueDate": "2024-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the sale-sequencing and tax estimate by January 3, 2024."
+    }
+  ]
+}

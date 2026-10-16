@@ -1,0 +1,21 @@
+{
+ "config": "fw_minimax_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"849\", \"tickets\": [{\"title\": \"Update household profile\", \"text\": \"Record Lena Pebblefizz as a dependent in the household profile, update childcare and medical cash flow assumptions, and capture Nadia Pebblefizz's revised Cloudberry Kite Robotics parental-leave income estimate. Reflect the new family of three and the parental-leave/infant-expense reserve held at Teacup Comet Bank.\", \"priority\": null, \"dueDate\": \"2025-02-14\", \"assigneeId\": null, \"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\", \"subTasks\": [], \"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate.\"}, {\"title\": \"Prepare family-attorney estate document checklist\", \"text\": \"Prepare a family-attorney checklist for Nadia and Owen Pebblefizz because their 2021 will and healthcare documents predate daughter Lena Pebblefizz and lack a minor-child guardian designation. The current estate documents name Owen's sister Celia Pebblefizz as executor but omit Lena.\", \"priority\": null, \"dueDate\": \"2025-02-21\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian.\"}, {\"title\": \"Collect Owen's term policy and disability details\", \"text\": \"Obtain Owen Pebblefizz's individual term policy declaration page and both spouses' disability policy details to complete the household protection review. Only Nadia's group life benefit summary is currently in the portal.\", \"priority\": null, \"dueDate\": \"2025-02-18\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete.\"}]}",
+   "usage": {
+    "input_tokens": 353,
+    "output_tokens": 1925,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 13054
+   },
+   "stop": "stop"
+  }
+ ]
+}

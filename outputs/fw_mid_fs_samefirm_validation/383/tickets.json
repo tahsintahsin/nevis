@@ -1,0 +1,75 @@
+{
+  "meetingId": "383",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain marriage documentation for account records",
+      "text": "Obtain the marriage documentation for account records by June 28, 2024. The custodian requires marriage certificate and Lila's identification details before adding Lila to jointly held account paperwork or household-level profile records.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the marriage documentation for account records by June 28, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete marriage-based beneficiary review",
+      "text": "Complete a marriage-based beneficiary review across Rowan Bramblequill's IRA, Roth IRA, employer retirement plan, term life policy, and group life coverage, using the current beneficiary records already visible in the client file as the starting evidence.",
+      "priority": null,
+      "dueDate": "2024-07-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete that marriage-based beneficiary review by July 17, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer benefits election options",
+      "text": "Compare Rowan Bramblequill's health, dental, vision, HSA, disability, life insurance, and payroll deduction choices against Lila Nettlewhisk's available coverage before making elections.",
+      "priority": null,
+      "dueDate": "2024-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to the employer benefits election review, with follow-up due July 10, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile equity vesting records",
+      "text": "Reconcile the restricted stock unit vesting cadence between Rowan Bramblequill's personal spreadsheet and the equity portal export, affecting projected cash flow and tax withholding estimates for the combined household plan.",
+      "priority": null,
+      "dueDate": "2024-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the equity vesting records by July 22, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Address custodian address and portal access issue",
+      "text": "Address the custodian address and portal access issue for Rowan Bramblequill, including correcting recent online address changes that did not appear on statements and resolving Lila Nettlewhisk's missing household portal invitation email.",
+      "priority": null,
+      "dueDate": "2024-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to address the custodian address and portal access issue by July 3, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate document updates",
+      "text": "Coordinate estate document updates to reflect Rowan Bramblequill's marriage to Lila Nettlewhisk, including Lila's role, the two properties, and desired decision-makers for financial and health care matters.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to estate document coordination by August 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate residency and tax planning",
+      "text": "Coordinate residency and tax planning with Sasha Cloudpuddle on the Oregon-to-Washington household move, including mailing address, legal residence, payroll withholding, and how the two owned properties should be reflected in planning records.",
+      "priority": null,
+      "dueDate": "2024-07-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to residency and tax coordination, with follow-up due July 26, 2024."
+    }
+  ]
+}

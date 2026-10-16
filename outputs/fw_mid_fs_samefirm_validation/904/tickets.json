@@ -1,0 +1,55 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete inherited account beneficiary package",
+      "text": "Complete the beneficiary paperwork for the inherited taxable brokerage account and inherited IRA at Velvet Acorn Custody, as indicated by Nessa Cloudpuddle, the estate coordinator.",
+      "priority": null,
+      "dueDate": "2024-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate arrangement after family changes",
+      "text": "Review Elian Thimblefern’s estate arrangement, which still names Corin Mossbutton as primary health-care agent and personal representative, in light of the inherited assets and new beneficiary coordination questions.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "because those documents still name Corin in primary fiduciary roles and the inherited assets add new property and beneficiary coordination questions, the agreed estate arrangement review after family changes is due 2024-03-08."
+    },
+    {
+      "templateId": "b69561c0-d94b-5366-9da1-17d83160108e",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Refresh Elian Thimblefern’s financial plan to reflect the inherited taxable brokerage allocation, inherited IRA allocation, and 35% lake cabin interest, and the material impact on retirement timing assumptions, cash reserve position, tax picture, and investment allocation.",
+      "priority": "medium",
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "Mira’s review noted that expected taxable assets, inherited IRA, and cabin interest would materially change Elian’s retirement timing assumptions, cash reserve position, tax picture, and investment allocation; the agreed post-inheritance plan refresh is due 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain date-of-death valuation statements and cabin appraisal",
+      "text": "Obtain custodian valuation statements for the inherited brokerage and IRA accounts, and a cabin appraisal, to preserve basis records and clarify the 35% versus one-third ownership interest.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Date-of-death valuation support is needed because the memo lists estimated inherited asset values, but Elian does not yet have supporting custodian valuation statements or cabin appraisal materials needed to preserve basis records."
+    },
+    {
+      "templateId": null,
+      "title": "Clarify lake cabin ownership percentage",
+      "text": "Clarify whether Elian’s lake cabin interest is 35% as the estate memo states, or one-third as the property tax email from Nessa Cloudpuddle describes the siblings as equal owners.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lake cabin ownership percentage clarification is needed because the memo lists a 35% cabin interest for Elian, while a property tax email shared by Nessa describes the siblings as equal one-third owners."
+    }
+  ]
+}

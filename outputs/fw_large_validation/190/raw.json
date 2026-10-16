@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"190\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Prepare share-transfer instructions for Moonbadger\",\n\"text\": \"Prepare share-transfer instructions for Sela Mossbutton to move approximately $25,000 of Velvet Acorn Growth Fund shares from her joint taxable account to Moonbadger Arts Center, using the verified brokerage delivery details.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"asked for agreed 2026-01-23 approximately-$25,000 share-transfer instructions to Moonbadger using verified brokerage-delivery details.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain updated pledge confirmation language\",\n\"text\": \"Obtain a current pledge‑confirmation and receipt language for the Moonbadger Arts Center youth‑workshop fund donation, replacing the prior‑year acknowledgment, for Sela Mossbutton’s $25,000 share gift.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"agreed 2026-02-06.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1393,
+    "output_tokens": 1265,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

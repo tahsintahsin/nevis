@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"916\", \"followups\": [{\"evidence\": \"Mira noted that 529 distributions, scholarships, technology costs, and any student loan interest records should be coordinated with Harper Dewspindle before tax-season records are assembled.\", \"action\": \"Coordinate with Harper Dewspindle on 529 distributions, scholarships, technology costs, and student loan interest records before tax-season records are assembled.\"}]}",
+   "usage": {
+    "input_tokens": 4321,
+    "output_tokens": 20593,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 960
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\":\"916\",\"tickets\":[{\"title\":\"Coordinate education tax items with Harper Dewspindle\",\"text\":\"Coordinate with Harper Dewspindle of Buttonwood Balloon Tax Advisors on 529 distributions, scholarships, technology costs, and student loan interest records for Lyra Maplesprocket's Marzipan Meadow University expenses before tax-season records are assembled for Selene and Daniel Maplesprocket.\",\"priority\":null,\"dueDate\":null,\"assigneeId\":null,\"subTasks\":[],\"evidence\":\"Mira noted that 529 distributions, scholarships, technology costs, and any student loan interest records should be coordinated with Harper Dewspindle before tax-season records are assembled.\",\"templateId\":null}\n]\n}",
+   "usage": {
+    "input_tokens": 4424,
+    "output_tokens": 2449,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1554
+   },
+   "stop": "stop"
+  }
+ ]
+}

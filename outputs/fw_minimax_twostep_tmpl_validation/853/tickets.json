@@ -1,0 +1,15 @@
+{
+  "meetingId": "853",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review Velvet Acorn Custody unfamiliar-device alert",
+      "text": "Review the Velvet Acorn Custody unfamiliar-device alert for Leona Thimblefern, check for profile or distribution-instruction changes, and coordinate pre-upload custodian security steps. The failure blocks phone, email, and trusted-contact review, and the question of service access versus an outdated household profile remains unresolved.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meetingId": "863",
+  "tickets": [
+    {
+      "templateId": "6de54a2b-b2bf-5cf1-a156-20f21d05d24d",
+      "title": "Open education savings account",
+      "text": "Open a new education savings account for future contributions, comparing options for Nia and Owen Dewspindle given Nia’s upcoming college start and Owen’s remaining years. Use the client’s preference for electronic signatures and secure document handling.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2026-03-20 a comparison will be prepared of using Nia’s 529 balance, taxable brokerage assets, expected bonus cash, and a limited sale of Cloudberry Kite Robotics shares to cover the first-year college funding gap while preserving Liora’s stated cash reserve floor."
+    },
+    {
+      "templateId": null,
+      "title": "Collect tuition payment method selection",
+      "text": "Select and confirm the tuition payment method for Nia’s Marzipan Meadow University enrollment before the first bill. Choose between the semester lump-sum payment or monthly payment plan, and communicate the selection to the university portal.",
+      "priority": null,
+      "dueDate": "2026-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the Marzipan Meadow University portal offers a semester lump-sum payment or monthly payment plan, and the family has not chosen the method needed before the first bill can be processed."
+    },
+    {
+      "templateId": null,
+      "title": "Collect current 529 account statements",
+      "text": "Obtain current statements for Nia’s 529 account at Velvet Acorn Custody, Owen’s 529 account at Velvet Acorn Custody, and the grandparent-owned education account mentioned by Dorian Dewspindle. Confirm account ownership, balances, and available distribution options.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Current statements for Nia’s 529 account, Owen’s 529 account, and a grandparent-owned education account Dorian mentioned are needed by 2026-03-18 because the planning file lacks them and account ownership, balances, and available distribution options cannot be confirmed."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Nia’s 529 account balance difference",
+      "text": "Reconcile the discrepancy between Liora’s tuition spreadsheet listing Nia’s 529 balance at about $82,000 and the Velvet Acorn Custody portal statement showing about $74,600 after a prior distribution. Identify the source of the difference.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Liora’s tuition spreadsheet lists Nia’s 529 balance at about $82,000, while the portal statement shows about $74,600 after a prior distribution, and the source of the difference was not identified during the call."
+    },
+    {
+      "templateId": null,
+      "title": "Review college cost worksheet",
+      "text": "Review the college cost worksheet to separate scholarship aid, required technology costs, housing charges, and tuition. Identify which amounts should be matched to education account distributions and which records should be retained for tax reporting.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena’s review found scholarship aid, required technology costs, housing charges, and tuition grouped together, making it unclear which amounts should be matched to education account distributions and which records should be retained for tax reporting."
+    }
+  ]
+}

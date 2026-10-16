@@ -1,0 +1,85 @@
+{
+  "meetingId": "78",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Organize estate settlement planning file",
+      "text": "Organize a planning-side file for Lydia Cloudpuddle's role as co-executor of Nora Velvetreed's estate. Separate probate assets, beneficiary assets, estate professionals, family decision points, and household planning impacts. Include the traditional IRA at Velvet Acorn Custody (~$410,000), the taxable brokerage account at Tin Sparrow Investments (~$275,000), the condominium (~$620,000), and the $25,000 charitable bequest to Moonbadger Community Arts Fund.",
+      "priority": null,
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia asked Apricot Compass Advisory to organize a planning-side file separating probate assets, beneficiary assets, estate professionals, family decision points, and household planning impacts. The agreed follow-up is to organize that file by 2025-08-08."
+    },
+    {
+      "templateId": null,
+      "title": "Address inherited IRA beneficiary claim packet requirements",
+      "text": "Address the requirements for establishing Lydia Cloudpuddle's inherited IRA at Velvet Acorn Custody. Obtain a certified death certificate for Nora Velvetreed, secure letters of authority, and complete the beneficiary claim packet. Lydia currently has only a photocopy of the death certificate and an unsigned draft claim form.",
+      "priority": null,
+      "dueDate": "2025-08-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Velvet Acorn Custody requires a certified death certificate, letters of authority, and a beneficiary claim packet before establishing Lydia’s inherited IRA registration; Lydia only has a photocopy of the death certificate and an unsigned draft claim form. The agreed follow-up is to address the claim"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Tin Sparrow account ownership treatment",
+      "text": "Resolve the ownership treatment of the Tin Sparrow Investments brokerage account for Nora Velvetreed's estate. Reconcile the transfer-on-death registration naming Lydia Cloudpuddle and Calvin Velvetreed with Paper Otter Legal's preliminary inventory listing the same account as a probate asset, so estate accounting can be finalized.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The ownership treatment remains unresolved before estate accounting can be finalized, with follow-up needed by 2025-08-15."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare estate cash-flow calendar for condominium",
+      "text": "Prepare a practical cash-flow calendar for Nora Velvetreed's condominium estate administration. Include recurring condominium expenses, likely sale-preparation costs, estate-paid items, and any personal advances by co-executors Lydia Cloudpuddle and Calvin Velvetreed so they can coordinate fairly.",
+      "priority": null,
+      "dueDate": "2025-08-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia requested a practical calendar showing recurring condominium expenses, likely sale-preparation costs, estate-paid items, and any personal advances by the co-executors so she can coordinate fairly with Calvin. The agreed follow-up is to prepare that calendar by 2025-08-06."
+    },
+    {
+      "templateId": null,
+      "title": "Review inherited IRA distribution choices",
+      "text": "Review available inherited IRA distribution approaches for Lydia Cloudpuddle's inherited IRA at Velvet Acorn Custody. Cover estimated taxable income effects, withholding preferences, and how different withdrawal pacing would interact with her planned retirement from Copper Firefly Design at age 62, before she signs account setup instructions.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia wants a planning review of available inherited IRA distribution approaches, estimated taxable income effects, withholding preferences, and how different withdrawal pacing would interact with her planned retirement timing before she signs account setup instructions. The agreed follow-up is to c"
+    },
+    {
+      "templateId": "c0849ab3-1ea7-5ae4-8eb0-302abcb9d836",
+      "title": "Perform recurring beneficiary designation review",
+      "text": "At each annual review cycle, and after any reported major life event, confirm whether beneficiary designations should be reviewed for retirement accounts, insurance policies, transfer-on-death registrations, and education accounts. Document the date of the last confirmed beneficiary review, evidence available, discrepancies found, and any forms or custodian steps needed. For Lydia Cloudpuddle, align contingent beneficiary designations across her older employer 401(k) (currently naming only Mara) and her IRA (naming both children) to reflect her stated intent of equal treatment of Mara and Theo.",
+      "priority": "medium",
+      "dueDate": "2025-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review found that Lydia’s older employer 401(k) beneficiary record names only Mara as contingent beneficiary, while the advisory records for Lydia’s IRA name both children; Lydia said her current intent is equal treatment of Mara and Theo across retirement assets. The agreed follow-up is to a"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain estate professional communication authorization",
+      "text": "Obtain authorization allowing Sienna Bramblequill of Paper Otter Legal to discuss asset values, beneficiary registrations, basis information, and liquidity questions with Apricot Compass Advisory and Clockwork Clover Tax for Nora Velvetreed's estate administration.",
+      "priority": null,
+      "dueDate": "2025-07-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Sienna requested permission to discuss asset values, beneficiary registrations, basis information, and liquidity questions with Apricot Compass Advisory and Clockwork Clover Tax; the current advisory file does not include an authorization covering estate counsel. The agreed follow-up is to obtain th"
+    },
+    {
+      "templateId": null,
+      "title": "Address Velvet Acorn inherited account name correction",
+      "text": "Address the name mismatch on the Velvet Acorn Custody inherited account service record, which was opened under Lydia Velvetreed while Lydia Cloudpuddle's identification and advisory records use her married name. Coordinate the custodian correction so inherited account paperwork can be accepted.",
+      "priority": null,
+      "dueDate": "2025-08-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Velvet Acorn Custody opened the service record under Lydia Velvetreed even though Lydia’s identification and advisory records use Lydia Cloudpuddle. The mismatch may prevent acceptance of inherited account paperwork unless the custodian corrects the registration workflow, and the agreed follow-up is"
+    }
+  ]
+}

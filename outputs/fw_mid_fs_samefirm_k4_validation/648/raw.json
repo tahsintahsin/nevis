@@ -1,0 +1,23 @@
+{
+ "config": "fw_mid_fs_samefirm_k4",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "652",
+  "656",
+  "657",
+  "585"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"648\", \"tickets\": [{\"title\": \"Restore secure online access to Velvet Acorn Custody portal\", \"text\": \"Restore Lena Copperwisp’s secure online access to the Velvet Acorn Custody portal using a method that does not rely on the old SMS code path, after repeated unexpected multifactor authentication prompts locked her out.\", \"priority\": null, \"dueDate\": \"2025-04-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Lena reported receiving multiple unexpected multifactor authentication prompts overnight before being locked out of her Velvet Acorn Custody portal access. The agreed follow-up is to restore secure online access by April 10, 2025.\"}, {\"title\": \"Review unrecognized external bank nickname link\", \"text\": \"Review the pending external bank nickname at Velvet Acorn Custody that Lena Copperwisp did not recognize, and reconcile it with her known instructions and account records.\", \"priority\": null, \"dueDate\": \"2025-04-11\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the custodian activity view shown during the call displayed a pending external bank nickname that Lena did not recognize, and no completed transfer from that pending destination was visible.\"}, {\"title\": \"Update recurring transfer instructions with verified Teacup Comet Bank destination\", \"text\": \"Update the regular $2,500 monthly transfer from the joint taxable account at Velvet Acorn Custody to Teacup Comet Bank checking to use only a verified Teacup Comet Bank destination with phone confirmation before money movement, and pause the transfer until replacement instructions are set.\", \"priority\": null, \"dueDate\": \"2025-04-14\", \"assigneeId\": null, \"templateId\": \"37c17d04-e353-50f8-a3c6-359f520559a4\", \"subTasks\": [], \"evidence\": \"Lena asked for the regular taxable-account transfer to be paused until replacement instructions use only a verified Teacup Comet Bank destination with phone confirmation before money movement; the agreed follow-up is to update the instructions by April 14, 2025.\"}, {\"title\": \"Collect bank incident documentation from Teacup Comet Bank\", \"text\": \"Collect the Teacup Comet Bank incident reference, statement pages showing any attempted micro-deposits, and written confirmation of which bank account numbers remain valid.\", \"priority\": null, \"dueDate\": \"2025-04-15\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the team did not yet have the Teacup Comet Bank incident reference, statement pages showing any attempted micro-deposits, or written confirmation of which bank account numbers remain valid; the agreed follow-up is to collect those materials by April 15, 2025.\"}, {\"title\": \"Refresh custodian alert records and trusted contact verification\", \"text\": \"Refresh the Velvet Acorn Custody alert record to remove Lena’s prior work email and add Noah Copperwisp’s current mobile number as a trusted contact verification option.\", \"priority\": null, \"dueDate\": \"2025-04-18\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Mira’s review found the custodian alert record still used Lena’s prior work email and did not include Noah’s current mobile number as a trusted contact verification option; the agreed follow-up is to refresh those records by April 18, 2025.\"}, {\"title\": \"Coordinate secure tuition funding for Marzipan Meadow School\", \"text\": \"Coordinate secure tuition funding for the next $8,600 spring tuition installment at Marzipan Meadow School, ensuring funds are not routed through any unverified destination account.\", \"priority\": null, \"dueDate\": \"2025-04-16\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Marzipan Meadow School’s payment schedule requires the next tuition installment before the next normal advisory service cycle, and Lena does not want funds routed through any unverified destination account; the agreed follow-up is to coordinate secure tuition funding by April 16, 2025.\"}]}",
+   "usage": {
+    "input_tokens": 26056,
+    "output_tokens": 987,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

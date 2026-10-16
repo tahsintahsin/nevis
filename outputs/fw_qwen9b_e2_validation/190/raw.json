@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e2",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"190\", \"tickets\": [{\"title\": \"Prepare share-transfer instructions for Moonbadger Arts Center\", \"text\": \"Prepare approximately $25,000 in share-transfer instructions for Sela Mossbutton’s appreciated Velvet Acorn Growth Fund shares in the joint-taxable account with Jonah Mossbutton. Use verified brokerage-delivery details for the Moonbadger Arts Center youth-workshop fund.\", \"priority\": null, \"dueDate\": \"2026-01-23\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"asked for agreed 2026-01-23 approximately-$25,000 share-transfer instructions to Moonbadger using verified brokerage-delivery details.\"}]}",
+   "usage": {
+    "input_tokens": 1781,
+    "output_tokens": 170,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

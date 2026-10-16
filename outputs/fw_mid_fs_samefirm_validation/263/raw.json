@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"263\", \"tickets\": [{\"title\": \"Reset credentials and review portal session security\", \"text\": \"Reset Jared Wrenpuddle’s portal credentials and review the session for security concerns after repeated lockouts following an uninitiated password-reset email on 2024-03-18. Implement stronger MFA via approved channels.\", \"priority\": null, \"dueDate\": \"2024-03-18\", \"assigneeId\": null, \"templateId\": \"1dddaf09-0fc9-53d8-a432-b9d4dba60cc8\", \"subTasks\": [], \"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\"}, {\"title\": \"Check Teacup Comet Bank transfer instructions and profile changes\", \"text\": \"Verify Teacup Comet Bank link status and profile changes for the Wrenpuddle household. Confirm whether any transfer instructions or account profile updates are needed, given Jared’s statement that no household accounts are linked.\", \"priority\": null, \"dueDate\": \"2024-03-19\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\"}]}",
+   "usage": {
+    "input_tokens": 9992,
+    "output_tokens": 314,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 6366
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+  "meetingId": "264",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Check funding and release requirements",
+      "text": "Check the $75,000 renovation draw funding and release requirements for Adrian Copperwisp, confirming cash availability in the joint taxable account at Velvet Acorn Custody and ensuring compliance with trading window rules before transferring to the Teacup Comet Bank checking account.",
+      "priority": null,
+      "dueDate": "2024-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to check funding and release requirements by 2024-05-08."
+    },
+    {
+      "templateId": null,
+      "title": "Establish $12,000 monthly transfer",
+      "text": "Establish a $12,000 monthly transfer from Adrian Copperwisp’s joint taxable account at Velvet Acorn Custody to the Teacup Comet Bank checking account to support household spending while Lila reduces summer hours.",
+      "priority": null,
+      "dueDate": "2024-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to establish the recurring transfer by 2024-05-15."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain correct destination account evidence",
+      "text": "Obtain verified account details for the Teacup Comet Bank checking account intended by Adrian Copperwisp, reconciling the discrepancy between the custodian‑recorded ending 4482 and the online number ending 4824.",
+      "priority": null,
+      "dueDate": "2024-05-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "correct destination evidence is needed by 2024-05-03."
+    },
+    {
+      "templateId": null,
+      "title": "Conduct operations review of prior distribution",
+      "text": "Conduct an operations review to determine whether a hold, coding issue, or bank processing problem caused the four‑business‑day delay of Adrian Copperwisp’s previous distribution to the Teacup Comet Bank checking account.",
+      "priority": null,
+      "dueDate": "2024-05-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is an operations review by 2024-05-07 to determine whether a hold, coding issue, or bank processing issue was involved."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare sale estimate and coordinate CPA",
+      "text": "Prepare a sale estimate for the appreciated positions in Adrian Copperwisp’s joint taxable account at Velvet Acorn Custody and coordinate the projection with CPA Simon Maplesprocket before final lot selection.",
+      "priority": null,
+      "dueDate": "2024-05-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare a sale estimate and coordinate with the CPA before final lot selection by 2024-05-13."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare concentration snapshot of Moonbadger equity",
+      "text": "Prepare a concentration snapshot of Adrian Copperwisp’s exposure to Moonbadger Systems equity across salary, RSU, option, and 401(k) holdings to inform decisions on taxable lot sales.",
+      "priority": null,
+      "dueDate": "2024-05-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare a concentration snapshot by 2024-05-22 before deciding which taxable lots or company shares to sell."
+    },
+    {
+      "templateId": "5d3934d9-cdd2-568e-b71d-880bf3b37545",
+      "title": "Review debt refinance opportunity",
+      "text": "Evaluate whether a refinance appears beneficial using specific review criteria and evidence:\n\nCriteria:\n- Current rate, proposed rate, term, payment, and total interest comparison.\n- Closing costs, points, fees, and break-even period.\n- Fixed versus variable rate risk and reset provisions.\n- Prepayment penalties or payoff restrictions on existing debt.\n- Impact on liquidity, emergency reserve, retirement savings, and investment plan.\n- Tax deductibility considerations to review with Adrian Copperwisp’s tax professional.\n- Whether the refinance extends debt beyond the client’s planning horizon.\n\nEvidence to collect:\n- Current loan statement.\n- Proposed refinance estimate or lender worksheet.\n- Payoff quote or balance estimate.\n- Credit score range if voluntarily provided by the client.\n- Property value estimate or collateral details if relevant.\n- Client objective for refinancing, such as lower payment, shorter term, cash-out, or debt consolidation.\n\nAdrian Copperwisp wants to compare using the unused $150,000 home‑equity line of credit at Teacup Comet Bank versus a new refinance quote for the $512,000 mortgage.",
+      "priority": "medium",
+      "dueDate": "2024-05-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare the home equity and refinance options by 2024-05-20."
+    },
+    {
+      "templateId": null,
+      "title": "Create month‑by‑month cash schedule",
+      "text": "Create a month‑by‑month cash schedule for Adrian Copperwisp’s upcoming tuition installment, property‑tax bill, and renovation draw to avoid relying on the emergency reserve.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "a month-by-month cash schedule is needed by 2024-05-10 to avoid relying on emergency reserves."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain contractor draw schedule",
+      "text": "Obtain the draw schedule from Buttonwood Balloon Builders for the $168,000 kitchen renovation to determine timing of remaining payments for Adrian Copperwisp.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the draw schedule is needed by 2024-05-10."
+    },
+    {
+      "templateId": "4e281385-ab1a-5371-bbeb-6149eade9e34",
+      "title": "Coordinate care cost planning review",
+      "text": "Coordinate an internal review for anticipated care costs such as in‑home support, assisted living, skilled nursing, or family caregiver support. Focus on cash flow, liquidity, insurance coverage, tax considerations, and documentation needs.\n\nGather monthly range, timing, and whether gifts or loans are intended for supporting Orla Dewspindle, Lila’s mother, as requested by Adrian Copperwisp.",
+      "priority": "high",
+      "dueDate": "2024-05-24",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Build care cost cash flow estimate",
+          "text": "Gather monthly care cost ranges, expected start timing expressed relatively, available income sources, insurance benefits, and family contribution assumptions for planning analysis.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "4cbe713b-b420-5401-9de5-20d1f947c70e"
+        },
+        {
+          "title": "Review portfolio liquidity options",
+          "text": "Identify cash, short-term reserves, taxable account options, and potential tradeoffs for funding care costs without disrupting the broader investment strategy unnecessarily.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "c1a49788-6ae9-58e6-9066-d2af45af57ca"
+        },
+        {
+          "title": "Confirm paperwork and authority needs",
+          "text": "Check whether approved contacts, power of attorney documentation, beneficiary records, billing instructions, or custodian forms need attention before distributions or account changes.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f"
+        },
+        {
+          "title": "Advisor recommendation review",
+          "text": "Review the care funding plan with attention to retirement income sustainability, tax-aware withdrawals, and family communication next steps.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "c854500b-e11d-5582-a467-2df1b4a16f54"
+        }
+      ],
+      "evidence": "the agreed follow-up is to obtain monthly range, timing, and whether gifts or loans are intended by 2024-05-24."
+    },
+    {
+      "templateId": "7f5ae3b3-7c06-5e34-9cae-e3e2c6236189",
+      "title": "Follow up on policy renewal materials",
+      "text": "Contact Adrian Copperwisp or insurance professional to request current renewal information, premium changes, coverage changes, beneficiary updates, and any underwriting or billing issues. Escalate material changes that may affect the client’s financial plan.\n\nObtain the homeowner and umbrella policy renewal packet from Silver Marmot Assurance for Adrian and Lila Copperwisp.",
+      "priority": "medium",
+      "dueDate": "2024-05-17",
+      "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f",
+      "subTasks": [],
+      "evidence": "the insurance renewal packet is needed by 2024-05-17."
+    },
+    {
+      "templateId": "6defa4b0-70a0-57a3-90d3-91c02e86d1ba",
+      "title": "Coordinate tax notice follow-up",
+      "text": "Outreach outline:\n\nTo client:\n- Confirm receipt of tax notice dated [NOTICE DATE] for tax year [TAX YEAR].\n- Ask Adrian Copperwisp to upload the full notice, including all pages and response instructions.\n- Clarify whether any payment, penalty, missing form, income mismatch, or identity verification is referenced.\n- Request permission to coordinate with [CPA NAME / TAX PROFESSIONAL ROLE].\n\nTo tax professional:\n- Share client-authorized copy of the notice via approved secure method.\n- Ask for interpretation of the issue, recommended response, and any documentation needed from Apricot Compass Wealth Advisory.\n- Confirm whether portfolio tax documents, realized gain details, retirement distribution records, or estimated payment history are needed.\n\nInternal notes:\n- Track response window as stated on the notice without adding a fixed template deadline.\n- Escalate urgent payment, levy, fraud, or identity verification concerns to the advisor.\n\nCollect the state tax notice materials for Adrian Copperwisp and upload them for review.",
+      "priority": "high",
+      "dueDate": "2024-05-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the state tax notice materials are needed by 2024-05-06."
+    }
+  ]
+}

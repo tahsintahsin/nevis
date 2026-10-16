@@ -1,0 +1,94 @@
+{
+  "meetingId": "648",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Restore secure portal access for Lena Copperwisp",
+      "text": "Restore Lena Copperwisp's secure online access to her Velvet Acorn Custody portal using a secure method that does not rely on the old SMS code path after she was locked out from repeated unexpected multifactor authentication prompts overnight.",
+      "priority": null,
+      "dueDate": "2025-04-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to restore secure online access by April 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Review unrecognized external bank link on Velvet Acorn Custody",
+      "text": "Review the pending external bank nickname visible in the Velvet Acorn Custody activity view that Lena Copperwisp did not recognize and reconcile it against her known instructions and the account record to determine whether the link should be removed or confirmed.",
+      "priority": null,
+      "dueDate": "2025-04-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to review that link by April 11, 2025."
+    },
+    {
+      "templateId": "37c17d04-e353-50f8-a3c6-359f520559a4",
+      "title": "Update recurring payment instructions",
+      "text": "Pause the regular $2,500 monthly transfer from Lena and Noah Copperwisp's joint taxable account at Velvet Acorn Custody to Teacup Comet Bank checking until replacement instructions use only a verified Teacup Comet Bank destination with phone confirmation before money movement.",
+      "priority": null,
+      "dueDate": "2025-04-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to update the instructions by April 14, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Teacup Comet Bank incident documentation",
+      "text": "Collect the Teacup Comet Bank incident reference, statement pages showing any attempted micro-deposits, and written confirmation of which bank account numbers remain valid for Lena and Noah Copperwisp's accounts.",
+      "priority": null,
+      "dueDate": "2025-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to collect those materials by April 15, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh custodian alert and trusted contact records",
+      "text": "Update the Velvet Acorn Custody alert record to remove Lena Copperwisp's prior work email and add Noah Copperwisp's current mobile number as a trusted contact verification option.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to refresh those records by April 18, 2025."
+    },
+    {
+      "templateId": "2974a8c0-611f-5588-be97-de7bb712ce3e",
+      "title": "Coordinate cash distribution request",
+      "text": "Process Lena and Noah Copperwisp's requested tuition distribution to Marzipan Meadow School for the $8,600 spring installment by confirming authorization, available cash, tax or planning implications, custodian requirements, and completion evidence before closing the request. Ensure funds are not routed through any unverified destination account.",
+      "priority": "high",
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm request and authorization",
+          "text": "Confirm the $8,600 tuition distribution amount, destination instructions for Marzipan Meadow School, delivery method, source account, and Lena and Noah Copperwisp's authorization using approved firm procedures. Note any missing authorization items. Ensure the destination is verified and not an unverified external link.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "9782c69b-a31e-53cf-8230-c42e9847e6f1"
+        },
+        {
+          "title": "Review portfolio and cash availability",
+          "text": "Confirm whether sufficient cash is available in the joint taxable account at Velvet Acorn Custody (about $52,000 in cash) or Teacup Comet Bank checking (combined household cash of about $96,000), identify trades needed to raise cash, and flag any portfolio or market-timing considerations for advisor approval.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "c5963df7-a996-52ae-9658-442eed4012b6"
+        },
+        {
+          "title": "Approve planning impact",
+          "text": "Review tax withholding, retirement account distribution rules, income plan impact, and whether the request conflicts with the current financial plan.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "df99827f-8111-5e19-8497-17b6087744fb"
+        },
+        {
+          "title": "Submit and confirm completion",
+          "text": "Submit custodian paperwork or digital request, monitor status, confirm funds were sent to Marzipan Meadow School, and save completion evidence to the client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "54ef51bb-1cfb-5db7-a7e4-f84dcf89b1a2"
+        }
+      ],
+      "evidence": "the agreed follow-up is to coordinate secure tuition funding by April 16, 2025."
+    }
+  ]
+}

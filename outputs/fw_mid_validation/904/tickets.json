@@ -1,0 +1,35 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete inherited account beneficiary package",
+      "text": "Complete the inherited account beneficiary package for Elian Thimblefern. Nessa Cloudpuddle indicated completed paperwork is needed for the estate's next transfer batch.",
+      "priority": "medium",
+      "dueDate": "2024-02-09",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09"
+    },
+    {
+      "templateId": null,
+      "title": "Review estate arrangement after family changes",
+      "text": "Review the estate arrangement for Elian Thimblefern after family changes. Estate documents still name Corin Mossbutton as primary fiduciary, and inherited assets add new property and beneficiary coordination questions.",
+      "priority": "medium",
+      "dueDate": "2024-03-08",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "the agreed estate arrangement review after family changes is due 2024-03-08"
+    },
+    {
+      "templateId": "cca90b15-6f97-580b-93a9-3f991da6a2cb",
+      "title": "Complete charitable transfer intake fields",
+      "text": "Review Elian Thimblefern's financial plan after inheritance. Expected taxable assets, inherited IRA, and cabin interest will materially change retirement timing assumptions, cash reserve position, tax picture, and investment allocation.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "Mira’s review noted that expected taxable assets, inherited IRA, and cabin interest would materially change Elian’s retirement timing assumptions, cash reserve position, tax picture, and investment allocation; the agreed post-inheritance plan refresh is due 2024-02-23"
+    }
+  ]
+}

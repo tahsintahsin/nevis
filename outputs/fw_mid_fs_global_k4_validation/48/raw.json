@@ -1,0 +1,23 @@
+{
+ "config": "fw_mid_fs_global_k4",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657",
+  "60",
+  "329"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"48\", \"tickets\": [{\"title\": \"Recover client portal access\", \"text\": \"Recover Nadia Pebblefizz’s access to the Apricot Compass Wealth Advisory client portal after the reported access failure. Write the body from the summary, explaining the portal access issue and the need to restore access for reviewing equity compensation records.\", \"priority\": null, \"dueDate\": \"2025-03-07\", \"assigneeId\": null, \"templateId\": \"ab602761-3406-545d-946a-f89ed918aa51\", \"subTasks\": [], \"evidence\": \"Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\"}, {\"title\": \"Collect education grant documents\", \"text\": \"Collect the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations for Nadia Pebblefizz’s Moonbadger Dataworks equity grants. These documents are needed to reconcile withheld/deposited shares and are currently missing from the advisory file.\", \"priority\": null, \"dueDate\": \"2025-03-05\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"For 2025-03-05, agreed equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares.\"}, {\"title\": \"Prepare equity vesting and trading-window calendar\", \"text\": \"Create a practical equity vesting/trading-window calendar for Nadia Pebblefizz separating Nadia-controlled from company-administered dates. Include quarterly RSU vesting, option-expiration sequencing, blackout periods, and employer preclearance steps.\", \"priority\": null, \"dueDate\": \"2025-03-07\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\"}, {\"title\": \"Prepare pre-window option exercise/sale analysis\", \"text\": \"Prepare a pre-window option exercise/sale analysis for Nadia Pebblefizz covering the next open trading window following the current blackout, meaningful spread over strike price, and Nadia’s considerations of AMT exposure, share retention, and stock concentration.\", \"priority\": null, \"dueDate\": \"2025-03-14\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"For 2025-03-14, agreed pre-window option exercise/sale analysis covers next open trading window following current blackout, meaningful spread over strike, and Nadia weighing AMT exposure, share retention, and stock concentration.\"}]}",
+   "usage": {
+    "input_tokens": 4870,
+    "output_tokens": 728,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 23405
+   },
+   "stop": "stop"
+  }
+ ]
+}

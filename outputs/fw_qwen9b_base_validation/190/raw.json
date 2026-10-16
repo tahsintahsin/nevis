@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"190\",\n\"tickets\": [\n{\n\"title\": \"Prepare share-transfer instructions for Moonbadger Arts Center\",\n\"text\": \"Prepare approximately $25,000 share-transfer instructions for Sela Mossbutton to move appreciated Velvet Acorn Growth Fund shares from her joint-taxable account with Jonah Mossbutton to the Moonbadger Arts Center youth-workshop fund, using verified brokerage-delivery details.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-23\",\n\"assigneeId\": \"91e6fcb2-95ab-5fbf-b81c-989b1748ccb3\",\n\"subTasks\": [],\n\"evidence\": \"asked for agreed 2026-01-23 approximately-$25,000 share-transfer instructions to Moonbadger using verified brokerage-delivery details\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Obtain current planned-gift pledge-confirmation language\",\n\"text\": \"Obtain current planned-gift pledge-confirmation or receipt-language regarding goods/services for Sela Mossbutton's gift to the Moonbadger Arts Center, as the existing file only contains prior-year acknowledgment.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": \"91e6fcb2-95ab-5fbf-b81c-989b1748ccb3\",\n\"subTasks\": [],\n\"evidence\": \"Evan noted file has Moonbadger prior-year acknowledgment, not current planned-gift pledge-confirmation/receipt-language on goods/services; agreed 2026-02-06\"\n,\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1781,
+    "output_tokens": 401,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"168\", \"followups\": [{\"evidence\": \"the agreed follow-up is to obtain home safety modification estimates by 2026-09-03.\", \"action\": \"Obtain contractor estimates for the discharge therapist's recommended home safety modifications (grab bars, stair rail changes, shower entry modification).\", \"templateId\": null}, {\"evidence\": \"the agreed follow-up is to gather long-term care claim materials by 2026-08-22.\", \"action\": \"Gather the full long-term care policy, elimination-period ledger, physician certification form, and current claim packet for Owen's home-care claim.\", \"templateId\": null}, {\"evidence\": \"the agreed follow-up is to assemble the Medicare home-health denial packet by 2026-08-19.\", \"action\": \"Assemble the Medicare home-health denial packet (therapy notes, homebound certification, and EOB) for the two denied therapy visits.\", \"templateId\": null}, {\"evidence\": \"The agreed follow-up is to prepare a caregiver compensation framework by 2026-09-05.\", \"action\": \"Prepare a caregiver compensation framework covering documentation, tax reporting, and boundaries between gifts and paid care for Lila.\", \"templateId\": null}, {\"evidence\": \"follow-up on care agency authorization contacts remains needed.\", \"action\": \"Follow up with Paper Otter Home Care on care agency authorization contacts so Nadia can manage Owen's schedule changes.\", \"templateId\": null}, {\"evidence\": \"The agreed follow-up is to prepare the care-cost cash-flow projection by 2026-08-29.\", \"action\": \"Prepare a twelve-month care-cost cash-flow projection comparing current home-health hours, adult day care, and the quoted respite setting against pension, Social Security, taxable-account cash, and possible IRA distribution sources.\", \"templateId\": null}, {\"evidence\": \"the agreed follow-up is to address benefit changes from reduced work by 2026-09-11.\", \"action\": \"Address how the loss of Nadia's part-time consulting income would affect the monthly care budget and estimated tax payments.\", \"templateId\": null}, {\"evidence\": \"The agreed follow-up is to address the recurring transfer failure by 2026-08-21.\", \"action\": \"Address the recurring $5,000 monthly transfer failure from the Velvet Acorn Custody taxable account to the Teacup Comet Bank checking account and resolve the past-due Paper Otter Home Care invoice.\", \"templateId\": null}, {\"evidence\": \"the agreed follow-up is to reconcile the home-care invoice by 2026-08-23.\", \"action\": \"Reconcile the Paper Otter Home Care invoice against the family care log, including the disputed weekend premium-rate overnight shift.\", \"templateId\": null}, {\"evidence\": \"The agreed follow-up is to prepare a liquidity plan after the portfolio review by 2026-08-30.\", \"action\": \"Prepare a liquidity plan addressing the shortfall in cash and short-duration holdings relative to the household's preferred care reserve.\", \"templateId\": null}, {\"evidence\": \"the agreed follow-up is to prepare respite placement decision support by 2026-08-26.\", \"action\": \"Prepare respite placement decision support comparing the Thimble Harbor Assisted Living respite suite with expanded in-home shifts before the family responds.\", \"templateId\": null}, {\"evidence\": \"the agreed follow-up is to provide information for the tax estimate for medical and caregiver costs by 2026-09-08.\", \"action\": \"Provide projected home-care, adult day, respite, mileage, and caregiver-payment amounts to the CPA for the year-end medical and caregiver tax estimate.\", \"templateId\": null}, {\"evidence\": \"updated health-care authority documentation remains needed.\", \"action\": \"Update health-care authority documentation, including current medical powers of attorney and a HIPAA release for Matteo.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 3068,
+    "output_tokens": 5570,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1279
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"TBD\", \"tickets\": []}",
+   "usage": {
+    "input_tokens": 3942,
+    "output_tokens": 2408,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1557
+   },
+   "stop": "stop"
+  }
+ ]
+}

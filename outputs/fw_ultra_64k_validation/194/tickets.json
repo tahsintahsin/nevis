@@ -1,0 +1,97 @@
+{
+  "meetingId": "194",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain term policy lapse remediation details from Velvet Acorn Life Insurance",
+      "text": "Obtain reinstatement terms, catch-up premium amount, conversion availability, and underwriting requirements from Velvet Acorn Life Insurance for Arlo Copperwisp's $1.5 million term life policy that lapsed after a failed premium draft from the closed Pocket Lantern Bank account.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain that carrier information by March 1, 2024."
+    },
+    {
+      "templateId": "430e12f8-8d1e-56b8-b622-187c9d3239d4",
+      "title": "Process recurring payment change request",
+      "text": "Complete the recurring payment change intake before submitting any instruction.\n\nClient household: Copperwisp\nRequest type: change funding source\nPayment purpose: insurance premiums (term life and disability)\nCurrent payment amount: [________________]\nNew payment amount, if applicable: [________________]\nCurrent frequency: [________________]\nNew frequency, if applicable: [________________]\nRequested effective timing: by February 29, 2024\nFunding account nickname or registration, no full account number: Teacup Comet Bank operating account\nDestination or payee: Velvet Acorn Life Insurance; Coral Badger Insurance\nTax withholding change needed? Not applicable\nClient authorization method received: [________________]\nCustodian or provider forms required: Velvet Acorn Life Insurance forms\nSpecial handling notes: replace closed Pocket Lantern Bank account\nConfirmation sent to client: No",
+      "priority": "medium",
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the payment source by February 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current property and casualty declarations from Polka Fern Insurance Agency",
+      "text": "Obtain current home, auto, umbrella, and rental property declarations pages from Polka Fern Insurance Agency for the Copperwisp household to confirm latest renewal coverage limits, as the advisory file and client portal only have older copies.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Current declarations are needed by March 8, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review rental condo insurance protection for Bend property",
+      "text": "Review landlord, tenant, liability, property loss, and loss-of-rent exposures for the Copperwisp's Bend rental condo purchased in January 2024 for $635,000 with a $410,000 mortgage, expected gross rent $3,200 per month, to ensure adequate coverage beyond prior household insurance review.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that protection by March 15, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare Moonbadger Robotics benefits election with private coverage",
+      "text": "Compare Moonbadger Robotics supplemental life, disability, and beneficiary settings with Arlo Copperwisp's private coverage (Velvet Acorn Life Insurance term life and Coral Badger Insurance disability) before the benefits election portal closes, to ensure the family's core protection plan does not rely solely on employer benefits.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That comparison is needed by March 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn Life Insurance beneficiary discrepancy with Cloudberry Kite Custody records",
+      "text": "Obtain current carrier evidence from Velvet Acorn Life Insurance to resolve the beneficiary arrangement discrepancy between the carrier portal and the beneficiary summary in the Cloudberry Kite Custody planning file for Arlo Copperwisp's $1.5 million term life policy, before finalizing the protection review.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That evidence is needed by March 12, 2024."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Request the client's current estate planning documents, organize received files, and prepare a concise gap summary for advisor review. Include wills, revocable trust documents, powers of attorney, health care directives, beneficiary designation evidence, trust funding records, and any recent attorney correspondence. Do not provide legal interpretation; identify document dates, named roles, missing pages or signatures, and items that may require attorney confirmation.\n\nCollect estate planning documents for Arlo and Lena Copperwisp, including wills, revocable trust documents, powers of attorney, health care directives, beneficiary designation evidence, trust funding records, and recent attorney correspondence from Buttonwood Balloon Legal (2016). The estate binder lacks trust funding evidence and fiduciary role information may not reflect current household and insurance beneficiary structure.",
+      "priority": "medium",
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "The agreed follow-up is to collect the estate planning documents by March 22, 2024."
+    }
+  ]
+}

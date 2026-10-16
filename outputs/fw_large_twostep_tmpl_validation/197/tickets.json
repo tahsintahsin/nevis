@@ -1,0 +1,55 @@
+{
+  "meetingId": "197",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate IRA transfer address exception",
+      "text": "Coordinate the IRA transfer address exception for Selma Copperwisp with Paper Otter Retirement Services and Velvet Acorn Custody, ensuring the rollover address is updated by the August 25, 2026 deadline.",
+      "priority": null,
+      "dueDate": "2026-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate the exception by August 25, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Address joint account registration mismatch",
+      "text": "Address the joint account registration mismatch for Selma and Graham Copperwisp at Clockwork Clover Brokerage, reconciling the tenancy‑by‑entirety record with the intended joint‑tenant‑with‑rights‑of‑survivorship status by August 22, 2026.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the mismatch by August 22, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate temporary account shell",
+      "text": "Resolve the duplicate temporary account shell issue for Selma Copperwisp at Velvet Acorn Custody and Clockwork Clover Brokerage, consolidating the unintended shell and aligning the ACATS request by August 23, 2026.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Handle restricted security manual transfer window",
+      "text": "Handle the restricted security manual transfer window for Selma Copperwisp’s Copper Firefly Semiconductors position at Clockwork Clover Brokerage, processing the manual transfer outside the standard ACATS feed by August 28, 2026.",
+      "priority": null,
+      "dueDate": "2026-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to handle it by August 28, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Address cash holdback before taxable transfer",
+      "text": "Address the cash holdback before the taxable transfer for Selma Copperwisp’s individual brokerage at Clockwork Clover Brokerage, preserving funds for property tax and estimated tax payments and adjusting the ACATS instruction by August 21, 2026.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the cash holdback by August 21, 2026."
+    }
+  ]
+}

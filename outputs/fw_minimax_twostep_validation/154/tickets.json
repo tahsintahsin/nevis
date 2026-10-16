@@ -1,0 +1,104 @@
+{
+  "meetingId": "154",
+  "tickets": [
+    {
+      "templateId": "49855936-cdb3-553c-9d96-aedf56efcad7",
+      "title": "Open and Prepare New Account",
+      "text": "Use this workflow to prepare, submit, and confirm a new client account opening package for Nolan and Lila Pebblefizz. The account is a joint taxable advisory account with transfer-on-death registration, a moderate-growth objective, tax sensitivity, and a preference to avoid adding to the existing Paper Otter Analytics concentration; funding will come from cash above the $120,000 household reserve at Teacup Comet Bank and from anticipated estate cash. Confirm account purpose, registration type, funding path, required disclosures, and operational readiness before considering the account complete.",
+      "priority": "medium",
+      "dueDate": "2024-11-01",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm account profile and registration",
+          "text": "Verify the intended account type, ownership or registration (joint with TOD), tax classification, moderate-growth investment objective, risk tolerance, and any special restrictions (avoid adding to Paper Otter Analytics concentration) before paperwork is prepared for Nolan and Lila Pebblefizz.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4"
+        },
+        {
+          "title": "Prepare and review account documents",
+          "text": "Complete the custodian or platform forms, advisory agreement items, fee schedule references, TOD beneficiary fields, and required disclosures for Nolan and Lila Pebblefizz's joint taxable advisory account. Review for missing signatures, inconsistent addresses, and incomplete identity information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Submit opening package and track approval",
+          "text": "Submit the account package through the appropriate channel and monitor for approval, rejection, or additional information requests. Record any follow-up items in the Nolan and Lila Pebblefizz client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm funding and first operational setup",
+          "text": "Confirm funding instructions, transfer status, cash availability from Teacup Comet Bank (above the $120,000 household reserve) and anticipated estate cash, model or allocation setup, statement delivery preference, and online access readiness before closing the workflow for Nolan and Lila Pebblefizz.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4"
+        }
+      ],
+      "evidence": "They agreed to proceed with the account-opening work by 2024-11-01."
+    },
+    {
+      "templateId": "f5286f1b-d273-53aa-86ac-8930bce13b82",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Complete the following placeholders for benefits enrollment review:\n\nEmployee name: Lila Pebblefizz\nEmployer or plan sponsor: Moonbadger Design Studio\nEnrollment period or qualifying event: New job started September 2024; enrollment window closing soon\nBenefit year: 2024\nHousehold members to consider: Nolan Pebblefizz (spouse), Rowan Pebblefizz (16), Ivy Pebblefizz (19)\nMedical plan options available: [Medical plan options]\nDental and vision options: [Dental and vision options]\nHealth savings account or flexible spending account eligibility: [HSA/FSA eligibility]\nEmployer retirement plan contribution election: [Contribution election]\nEmployer match details: [Employer match details]\nLife and disability insurance options: [Insurance options]\nKey questions or tradeoffs: [Questions]\nDocuments received: Employee portal screenshots provided during the meeting\nRecommended follow-up: Side-by-side review before enrollment window closes",
+      "priority": "medium",
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete the Moonbadger Design Studio benefits enrollment review by 2024-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare year-end tax projection and charitable funding analysis",
+      "text": "Prepare a year-end tax projection and charitable funding analysis for Nolan and Lila Pebblefizz covering withholding, estimated tax exposure, appreciated-share giving from the Velvet Acorn Custody taxable account, and whether a larger charitable gift should be made before year-end. Coordinate the analysis with their $18,000 annual charitable giving pattern, including recurring support to Silver Marmot Arts Fund, and reflect higher household income from Nolan Pebblefizz's Paper Otter Analytics equity vesting and Lila Pebblefizz's new Moonbadger Design Studio wages.",
+      "priority": null,
+      "dueDate": "2024-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete the year-end tax projection and charitable funding analysis by 2024-12-06."
+    },
+    {
+      "templateId": "0b36d91c-41e3-5416-b667-1892b9e43f2a",
+      "title": "Gather Inheritance Intake Details",
+      "text": "Collect the core facts needed to evaluate the inheritance from Adele Pebblefizz's estate for Nolan Pebblefizz, including the expected asset types (approximately $220,000 in cash plus a fractional inherited IRA interest), estimated timing, estate contact information, beneficiary status, tax documents expected, and any immediate cash flow or investment implications. The client file does not yet contain the estate inventory, beneficiary confirmation, inherited IRA custodian notice, or expected distribution schedule. Do not request sensitive account numbers unless required through secure channels.",
+      "priority": "high",
+      "dueDate": "2024-10-30",
+      "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4",
+      "subTasks": [],
+      "evidence": "They agreed to complete the inheritance intake for Adele Pebblefizz’s estate by 2024-10-30."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Paper Otter Analytics stock cost basis",
+      "text": "Reconcile the Paper Otter Analytics stock cost basis between Nolan Pebblefizz's spreadsheet and the Velvet Acorn Custody unrealized gain report for the approximately $96,000 of vested equity held in the household's taxable brokerage account. The discrepancy affects which shares may be suitable for charitable gifting or trimming as part of the concentration-management discussion.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the Paper Otter Analytics stock basis by 2024-11-08."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm Velvet Acorn Custody portal and IRA beneficiary settings",
+      "text": "Confirm current records and correct account-level settings for Nolan and Lila Pebblefizz's Velvet Acorn Custody portal, including the paper-delivery setting that still shows for one household login and the IRA beneficiary update Nolan believed was submitted. The service follow-up is limited to confirming current records and correcting account-level settings where needed.",
+      "priority": null,
+      "dueDate": "2024-10-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "they agreed to address it by 2024-10-23."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare estate document coordination points for attorney review",
+      "text": "Prepare estate document coordination points for Nolan and Lila Pebblefizz to send to their estate attorney, noting that the 2017 estate plan still references guardianship provisions created when both children were minors and names a successor trustee who has since moved overseas. The review should reflect the current family situation, including son Rowan Pebblefizz (16) and daughter Ivy Pebblefizz (19) at Thimble Harbor College.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare the estate document coordination points by 2024-11-15."
+    }
+  ]
+}

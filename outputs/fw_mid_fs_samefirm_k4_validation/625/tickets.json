@@ -1,0 +1,114 @@
+{
+  "meetingId": "625",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare mortgage liquidity source analysis",
+      "text": "Prepare a mortgage liquidity source analysis for Julian and Iris Nettlewhisk comparing bank cash, short-term bond holdings, taxable brokerage sales, and vested employer shares to fund the remaining down payment while preserving the stated $80,000 post-closing emergency reserve target. Use current household spending of about $9,600 per month and the preliminary mortgage estimate of $5,850 per month including escrow.",
+      "priority": null,
+      "dueDate": "2025-10-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian asked for a mortgage liquidity source analysis comparing bank cash, short-term bond holdings, taxable brokerage sales, and vested employer shares to fund the remaining down payment while preserving the stated reserve target; the agreed follow-up is due 2025-10-08."
+    },
+    {
+      "templateId": null,
+      "title": "Collect underwriting asset documentation",
+      "text": "Obtain and upload the most recent Teacup Comet Bank statement and Velvet Acorn Custody brokerage statement to the lender’s portal to document the earnest money withdrawal source and satisfy underwriting requirements. The underwriter is asking for documentation tying the $25,000 earnest money deposit to the source account.",
+      "priority": null,
+      "dueDate": "2025-10-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the lender’s portal shows the most recent Teacup Comet Bank statement and Velvet Acorn Custody brokerage statement have not been uploaded, and the underwriter is asking for documentation tying the earnest money withdrawal to the source account; this remains needed by 2025-10-06."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash-flow effect of rate-lock alternatives",
+      "text": "Review the cash-flow effect of the updated loan terms’ rate-lock alternatives for Julian and Iris Nettlewhisk before Julian responds to the lender. Include the financing contingency timeline in the analysis.",
+      "priority": null,
+      "dueDate": "2025-10-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The mortgage contact sent updated loan terms with a rate-lock choice and financing contingency timeline, and Julian wants the cash-flow effect of the lock alternatives reviewed before he responds; the agreed review is due 2025-10-10."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve student loan payment discrepancy",
+      "text": "Resolve the $230 per month discrepancy between the mortgage application’s $640 monthly student loan payment for Iris Nettlewhisk and the current servicer’s $410 income-driven payment. Update the mortgage file with the correct $410 payment to ensure accurate debt-to-income calculation for underwriting.",
+      "priority": null,
+      "dueDate": "2025-10-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the mortgage application lists Iris’s student loan payment as $640 per month, while the current servicer statement provided by Iris shows a $410 income-driven payment, creating a different debt-to-income calculation for underwriting; resolution remains needed by 2025-10-07."
+    },
+    {
+      "templateId": null,
+      "title": "Update aggregation feed and liquidity worksheet",
+      "text": "Update the Velvet Acorn Custody aggregation feed in the planning portal to reflect current cash and short-term bond positions, so the liquidity worksheet accurately shows available funds for closing.",
+      "priority": null,
+      "dueDate": "2025-10-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Velvet Acorn Custody aggregation feed in the planning portal is showing a stale joint brokerage balance, so the liquidity worksheet is not reflecting the current cash and short-term bond positions available for closing; the agreed follow-up is due 2025-10-06."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate new-home insurance and liability coverage",
+      "text": "Coordinate new-home insurance and liability coverage for the Portland townhouse purchase. Julian and Iris Nettlewhisk currently have only renters coverage; update the policy set to include homeowners insurance and adjust the umbrella liability policy as needed for the new property and liability exposure.",
+      "priority": null,
+      "dueDate": "2025-10-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The townhouse purchase changes the household’s property and liability exposure, and the couple has only renters coverage in place through their current policy set;"
+    },
+    {
+      "templateId": null,
+      "title": "Review tax-lot suitability for down-payment cash",
+      "text": "Review the taxable ETF positions in Julian and Iris Nettlewhisk’s joint brokerage account at Velvet Acorn Custody to identify which holdings have short-term gain lots versus lower-gain long-term lots, and determine the most suitable holdings if brokerage assets are used for closing cash. The review is needed because several positions have both short-term and long-term gain lots.",
+      "priority": null,
+      "dueDate": "2025-10-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena noted that several taxable ETF positions have both short-term gain lots and lower-gain long-term lots, affecting which holdings may be most suitable if brokerage assets are used for closing cash; the agreed tax-lot review is due 2025-10-09."
+    },
+    {
+      "templateId": "b9bbc98a-1f36-58b9-822a-d05a22356a28",
+      "title": "Complete household profile update",
+      "text": "Refresh the household profile for Julian and Iris Nettlewhisk using client-provided updates and recent planning notes. Confirm household members (including Rowan Nettlewhisk), contact preferences, employment status (Julian at Cloudberry Kite Robotics, Iris at Paper Otter Diagnostics), dependents, trusted contacts, insurance context, estate document status, and major life changes (new home purchase). Update income, savings, spending, and retirement timing assumptions in the planning record as applicable.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect profile change information",
+          "text": "Request or compile updates for household members, addresses, contact preferences, employment, dependents, and major recent or expected life events.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "1616b784-b182-570a-93f0-464e57273315"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Revise income, savings, spending, retirement timing, education funding, and family support assumptions in the planning record as applicable.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4c50b52d-b095-5034-aa4e-727cb24fa800"
+        },
+        {
+          "title": "Identify advice impacts",
+          "text": "Flag changes that may affect tax planning, risk management, estate coordination, cash flow, or investment allocation recommendations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "77bba01f-a9ba-5af1-8070-be336e499218"
+        },
+        {
+          "title": "Confirm profile completion",
+          "text": "Review the updated profile for consistency and note any remaining open questions for the next client conversation.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "29e3bddf-1fa1-5d47-a1a5-65045f866fc7"
+        }
+      ],
+      "evidence": "Julian and his spouse, Iris Nettlewhisk, have a signed purchase contract for a Portland, Oregon townhouse with a $945,000 purchase price. Their household includes one child, Rowan Nettlewhisk, who is in elementary school."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "meetingId": "672",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare estate attorney coordination package",
+      "text": "Prepare an organized packet for Priya Cloudpuddle at Paper Otter Law showing current household assets, account titling, trustee concerns, and beneficiary records so Nora Thimblefern’s legal documents can be refreshed from the older estate plan. Include the 2013 revocable trust, pour-over will, durable power of attorney, and health care directive, and note the trustee transition concerns (Mark Velvetreed’s Parkinson’s diagnosis and out-of-state residence).",
+      "priority": null,
+      "dueDate": "2025-12-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that estate attorney coordination package by 2025-12-05."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare successor trustee suitability notes",
+      "text": "Prepare notes on successor trustee suitability for Nora Thimblefern’s revocable trust, evaluating whether Mark Velvetreed remains practical as first successor trustee after his Parkinson’s diagnosis and out-of-state residence, and whether Lena, Renee Lanternmoss, or a corporate fiduciary should be considered as alternatives.",
+      "priority": null,
+      "dueDate": "2026-01-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare successor trustee suitability notes by 2026-01-12."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve IRA beneficiary inconsistency",
+      "text": "Resolve the IRA beneficiary inconsistency at Velvet Acorn Custody. The custodian portal shows a beneficiary allocation that does not align with Nora Thimblefern’s current intent and includes an older designation she did not recognize. Update the beneficiary records to match the estate plan’s family distribution structure.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The IRA beneficiary record shown in the custodian portal does not align with the estate plan’s family distribution structure and includes an older allocation that Nora did not recognize as her current intent, so Nora’s IRA beneficiary inconsistency remains unresolved."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve taxable account transfer-on-death registration problem",
+      "text": "Resolve the taxable account transfer-on-death registration problem at Velvet Acorn Custody. The submitted registration wording did not match the custodian’s accepted format for the trust reference, so the joint account transfer-on-death update was rejected.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Velvet Acorn Custody displayed a rejection notice for the joint account transfer-on-death update because the submitted registration wording did not match the custodian’s accepted format for the trust reference, leaving the taxable account transfer-on-death registration problem unresolved."
+    },
+    {
+      "templateId": null,
+      "title": "Address employer plan beneficiary and benefit election package",
+      "text": "Address the employer plan beneficiary and benefit election package for Nora Thimblefern. The Clockwork Clover Analytics portal shows a closing notice for benefit elections and still lists contingent beneficiaries using old addresses for Lena and Owen. Update the portal records and ensure beneficiary designations are current.",
+      "priority": null,
+      "dueDate": "2025-11-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora reported that the Clockwork Clover Analytics portal shows a closing notice for benefit elections and still lists contingent beneficiaries using old addresses for Lena and Owen. The agreed follow-up is to address the employer plan beneficiary and benefit election package by 2025-11-25."
+    },
+    {
+      "templateId": null,
+      "title": "Review life insurance ownership and beneficiary records",
+      "text": "Review life insurance ownership and beneficiary records for Nora and Calvin Thimblefern. The existing records include the Silver Marmot Life term policy and employer group life coverage, but may not mirror the intended trustee and contingent beneficiary structure. Confirm the intended designations and update as needed.",
+      "priority": null,
+      "dueDate": "2025-12-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The policy inventory showed multiple coverage sources, including the Silver Marmot Life term policy and employer group life coverage, with beneficiary records that may not mirror the intended trustee and contingent beneficiary structure. The agreed follow-up is to review life insurance ownership and"
+    },
+    {
+      "templateId": null,
+      "title": "Address charitable bequest recipient identity",
+      "text": "Address the charitable bequest recipient identity for Nora Thimblefern’s estate. The estate documents name Cloudberry Kite Literacy Foundation, but Nora reported that the organization merged and she does not have the current legal recipient name, tax identification details, or preferred successor charity language. Determine the current legal recipient or a suitable successor charity.",
+      "priority": null,
+      "dueDate": "2025-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora reported that the organization merged and she does not have the current legal recipient name, tax identification details, or preferred successor charity language, leaving the charitable bequest recipient identity unresolved."
+    },
+    {
+      "templateId": null,
+      "title": "Complete inheritance intake from Ellen Thimblefern’s estate",
+      "text": "Complete the inheritance intake from Ellen Thimblefern’s estate, including asset character (cash and inherited IRA), distribution timing, and tax reporting details. Use the preliminary executor correspondence indicating an estimated inheritance value between $170,000 and $220,000.",
+      "priority": null,
+      "dueDate": "2025-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora brought preliminary executor correspondence indicating that her inheritance may include cash and an inherited IRA, with asset character, distribution timing, and tax reporting details still to be reviewed. The agreed follow-up is to complete inheritance intake from Ellen Thimblefern’s estate by"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate CPA materials for estate and tax assumptions",
+      "text": "Coordinate CPA materials for estate and tax assumptions involving unrealized gains in the taxable account, expected inheritance reporting, charitable bequests, and possible trust funding steps for Daniel Pebblefizz at Amber Teapot Tax. Use the agreed follow-up by 2026-01-09.",
+      "priority": null,
+      "dueDate": "2026-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate CPA materials for estate and tax assumptions by 2026-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Review property title and mortgage documents",
+      "text": "Review property title and mortgage documents for Nora Thimblefern’s primary residence and lake cabin. The residence is jointly owned, but the lake cabin is in Nora’s individual name. Confirm how these fit with the trust plan and the revocable trust’s trustee and beneficiary provisions.",
+      "priority": null,
+      "dueDate": "2025-12-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review property title and mortgage documents by 2025-12-10."
+    },
+    {
+      "templateId": null,
+      "title": "Provide digital asset and household contact inventory format",
+      "text": "Provide a consolidated digital asset and household contact inventory format that Calvin Thimblefern could use if Nora were incapacitated. Include passwords, subscription accounts, and household vendor contacts that are currently scattered across personal files.",
+      "priority": null,
+      "dueDate": "2025-12-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora also described passwords, subscription accounts, and household vendor contacts as scattered across personal files and asked for a consolidated inventory format that Calvin could use if she were incapacitated."
+    }
+  ]
+}

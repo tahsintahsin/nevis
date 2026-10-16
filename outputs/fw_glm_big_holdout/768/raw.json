@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"768\", \"tickets\": [\n{\"title\": \"Open new client account\", \"text\": \"Open the approved joint taxable account for Lila Copperwisp and Rowan Thistlefable at the existing custodian, Velvet Acorn Custody. Confirm account type, registration, ownership details, funding source (initially funded from Teacup Comet Bank savings), beneficiary or authorized party requirements when applicable, advisory fee setup, document status, and delivery preferences (both spouses receiving online access and electronic statements) before submitting the application package.\", \"priority\": \"high\", \"dueDate\": \"2024-10-18\", \"assigneeId\": \"5c5439fe-19f1-52ba-8646-5d8a3755e27e\", \"templateId\": \"7e079875-a636-5be9-84a0-36c6f079b4eb\", \"subTasks\": [], \"evidence\": \"The agreed follow-ups are to open a joint taxable account at the existing custodian by 2024-10-18, initially funded from Teacup Comet Bank savings, with both spouses receiving online access and electronic statements\"},\n{\"title\": \"Prepare beneficiary change forms\", \"text\": \"Prepare beneficiary change forms for Lila Copperwisp naming Rowan Thistlefable as primary and Camila Copperwisp as contingent where allowed, covering the $410,000 IRA at Velvet Acorn Custody and the $126,000 401(k).\", \"priority\": null, \"dueDate\": \"2024-10-25\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"prepare beneficiary change forms by 2024-10-25 naming Rowan primary and Camila Copperwisp contingent where allowed\"},\n{\"title\": \"Collect household identity records\", \"text\": \"Collect household identity records for Lila Copperwisp and Rowan Thistlefable, including the certified marriage certificate, because profiles still show Lila's prior household status and the file lacks it.\", \"priority\": null, \"dueDate\": \"2024-10-14\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"collect household identity records by 2024-10-14 because profiles still show Lila's prior household status and the file lacks the certified marriage certificate\"}\n]}",
+   "usage": {
+    "input_tokens": 1729,
+    "output_tokens": 547,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2123
+   },
+   "stop": "stop"
+  }
+ ]
+}

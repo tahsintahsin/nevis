@@ -1,0 +1,115 @@
+{
+  "meetingId": "607",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare care-cost cash-flow projection",
+      "text": "Prepare a comparison of continued home care with a move to Coral Badger Residence memory-care studio, using current aide hours, guaranteed income, portfolio values, and Lena's preferred $80,000 cash floor. Use household income of $7,030 per month (Gareth's pension $2,950 + Social Security $4,180) and 2024 spending of $7,100 per month.",
+      "priority": null,
+      "dueDate": "2025-06-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked for a comparison of continued home care with a move to the quoted Coral Badger Residence memory-care studio, using current aide hours, guaranteed income, portfolio values, and her preferred cash floor. The agreed follow-up is to prepare that projection for 2025-06-20."
+    },
+    {
+      "templateId": null,
+      "title": "Address memory-care room deposit funding source",
+      "text": "Determine which cash source to use for Coral Badger Residence's room deposit before the hold expires. Consider checking the $142,000 checking/savings balance, $80,000 cash floor, and available HELOC credit of $175,000.",
+      "priority": null,
+      "dueDate": "2025-06-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Coral Badger Residence is holding a room pending deposit, and Lena wants to know which cash source to use before the hold expires. The agreed follow-up is to address the deposit funding source for 2025-06-09."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain long-term care claim evidence",
+      "text": "Obtain the elimination-period log and attending physician statement from Silver Marmot Mutual to complete the claim packet for Gareth's long-term care policy. The policy has a $180 daily benefit, three-year benefit pool, and 90-day elimination period.",
+      "priority": null,
+      "dueDate": "2025-06-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the elimination-period log and attending physician statement were not available during the conversation, and the insurer requires a claim packet before evaluating benefits. The unresolved need is to obtain the missing claim evidence for 2025-06-13."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile prescription spending variance",
+      "text": "Reconcile the difference between Lena's monthly prescription costs and the Teacup Comet Bank transaction average, relating to a new specialty medication and mail-order timing.",
+      "priority": null,
+      "dueDate": "2025-06-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena’s spending sheet lists monthly prescription costs below the average shown in Teacup Comet Bank transactions, with the difference appearing to relate to a new specialty medication and mail-order timing. The unresolved need is to reconcile that variance for 2025-06-18."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate caregiver payment and payroll question",
+      "text": "Coordinate whether caregiver payments to Nora Maplesprocket and backup caregivers create household payroll or reporting considerations, and provide guidance on payroll obligations.",
+      "priority": null,
+      "dueDate": "2025-07-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora’s respite role is becoming more regular and backup caregivers may be paid directly by the household, and Lena needs guidance on whether caregiver payments create household payroll or reporting considerations. The agreed follow-up is to coordinate on that caregiver payment and payroll question f"
+    },
+    {
+      "templateId": null,
+      "title": "Review backup care assumption for missed shifts",
+      "text": "Review whether the care budget should include private backup coverage at a higher rate, given that Pocket Lantern Home Care has missed two evening shifts recently.",
+      "priority": null,
+      "dueDate": "2025-06-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Pocket Lantern Home Care has missed two evening shifts recently, and Lena asked whether the care budget should include private backup coverage at a higher rate. The agreed follow-up is to review the backup care assumption for 2025-06-17."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate authority provisions",
+      "text": "Review trust successor trustee language and health-care directive backup agents to ensure they reflect the household's present caregiving roles, given Gareth's cognitive limitations and current roles.",
+      "priority": null,
+      "dueDate": "2025-06-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "trust successor trustee language and health-care directive backup agents predate Gareth’s current cognitive limitations and may not reflect the household’s present caregiving roles. The agreed follow-up is to review those estate authority provisions for 2025-06-27."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain retirement account beneficiary information",
+      "text": "Obtain the beneficiary report for Lena's Roth IRA and Gareth's IRA at Velvet Acorn Custody to determine whether the trust or children are currently listed as beneficiaries.",
+      "priority": null,
+      "dueDate": "2025-06-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the Velvet Acorn Custody beneficiary report was not available for Lena’s Roth IRA or Gareth’s IRA, and Lena was unsure whether the trust or children are currently listed. The unresolved need is to obtain the beneficiary information for 2025-06-21."
+    },
+    {
+      "templateId": null,
+      "title": "Review concentrated Moonbadger Tools stock position",
+      "text": "Review the $185,000 Moonbadger Tools stock position in the joint taxable account for embedded gain, concentration risk, and its potential as a care-funding source.",
+      "priority": null,
+      "dueDate": "2025-06-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "review of the joint taxable account found a large Moonbadger Tools stock position that could be a care-funding source but may create embedded gain and concentration considerations. The agreed follow-up is to review that position for 2025-06-25."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain home equity line agreement and draw terms",
+      "text": "Obtain the current Teacup Comet Bank HELOC agreement and draw terms for evaluating a care-cost liquidity backstop.",
+      "priority": null,
+      "dueDate": "2025-06-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the Teacup Comet Bank portal shows available home equity credit, but the current agreement and draw terms were not in the planning file for evaluating a care-cost liquidity backstop. The unresolved need is to obtain the current agreement and draw terms for 2025-06-24."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate tax impact of funding care",
+      "text": "Coordinate with Tobin Thimblefern on the tax effects of funding care from taxable-account sales versus IRA withdrawals, considering the prior-year $22,000 of taxable capital gains and $18,000 of charitable gifts.",
+      "priority": null,
+      "dueDate": "2025-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked for coordination with Tobin Thimblefern on the tax effects of funding care from taxable-account sales versus IRA withdrawals, considering the prior-year capital gains and charitable gifts. The agreed follow-up is to coordinate on that tax impact question for 2025-07-03."
+    }
+  ]
+}

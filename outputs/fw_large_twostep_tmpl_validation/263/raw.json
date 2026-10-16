@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"263\",\n\"followups\": [\n{\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\",\n\"action\": \"Reset the client portal credentials.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\",\n\"action\": \"Review the client portal session activity.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\",\n\"action\": \"Implement stronger multi‑factor authentication via approved channels.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\",\n\"action\": \"Check and update the transfer instructions and profile changes.\",\n\"templateId\": \"32d114ba-8f40-54cb-953d-781d5ca26c93\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2741,
+    "output_tokens": 1040,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1339
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"263\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Reset portal credentials for Jared and Ava\",\n\"text\": \"Reset the portal credentials for Jared and Ava Wrenpuddle, ensuring the new password is set via the approved portal process after the uninitiated reset email on 2024-03-18.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review portal session activity for Wrenpuddle\",\n\"text\": \"Review the portal session activity for Jared and Ava Wrenpuddle, focusing on recent lockouts and any unauthorized access attempts noted on 2024-03-18.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Implement stronger MFA for Wrenpuddle portal\",\n\"text\": \"Implement stronger multi‑factor authentication for Jared and Ava Wrenpuddle’s portal using approved channels, as agreed on 2024-03-18, to prevent future lockouts.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\"\n},\n{\n\"templateId\": \"32d114ba-8f40-54cb-953d-781d5ca26c93\",\n\"title\": \"Complete household profile update\",\n\"text\": \"Refresh the household profile using the latest Jared and Ava Wrenpuddle-provided information. Confirm household members, employment status, dependents, key contacts, income sources, recurring obligations, benefits, risk preferences, and communication preferences. Note any planning implications that should be routed to the advisory team. Check and update the transfer instructions and profile changes, verifying the pending Teacup Comet Bank link and confirming that no household account exists, as discussed on 2024-03-19.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2024-03-19\",\n\"assigneeId\": null,\n\"subTasks\": [\n{\n\"title\": \"Collect household changes\",\n\"text\": \"Request updates for household members, employment, dependents, contact information, outside advisors, and major life changes since the prior profile review.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": \"ef41105d-921f-5052-8549-4d1a0f81fa3f\"\n},\n{\n\"title\": \"Update planning assumptions\",\n\"text\": \"Record changes to income, savings, spending, insurance coverage, benefits, goals, and risk tolerance in the planning record.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": \"4cbe713b-b420-5401-9de5-20d1f947c70e\"\n},\n{\n\"title\": \"Advisor review of planning impacts\",\n\"text\": \"Review the updated household profile for retirement income, tax-aware investment, equity compensation, or estate coordination implications that warrant follow-up.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": \"368cf34f-7766-520c-b44f-afbfa66af4ab\"\n}\n],\n\"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4657,
+    "output_tokens": 2457,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 140
+   },
+   "stop": "stop"
+  }
+ ]
+}

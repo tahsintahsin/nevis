@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"853\", \"tickets\": [{\"title\": \"Review unfamiliar-device alert and check profile/distribution-instruction changes\", \"text\": \"Review the Velvet Acorn Custody unfamiliar-device alert that blocked Leona Thimblefern’s portal authentication. Check for any unauthorized profile or distribution-instruction changes, and coordinate pre-upload custodian security steps to restore service access.\", \"priority\": null, \"dueDate\": \"2026-02-06\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"}, {\"title\": \"Update household profile details\", \"text\": \"Update Leona Thimblefern’s household profile in the Copper Firefly Advisory client record, including contact preferences, employment status, dependents, key advisors, and any major life changes, to resolve the outdated profile that remained unresolved during the call.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\", \"subTasks\": [], \"evidence\": \"during call, service access versus outdated household profile remained unresolved.\"}]}",
+   "usage": {
+    "input_tokens": 14678,
+    "output_tokens": 316,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

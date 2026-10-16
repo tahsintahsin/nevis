@@ -1,0 +1,94 @@
+{
+  "meetingId": "648",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Restore secure portal access for Lena",
+      "text": "Restore Lena Copperwisp's secure online access to the Velvet Acorn Custody portal using a method that does not rely on the previous SMS code path, to be completed by 2025-04-10.",
+      "priority": null,
+      "dueDate": "2025-04-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to restore secure online access by April 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Review pending external bank link",
+      "text": "Review the pending external bank nickname shown in Lena Copperwisp's Velvet Acorn Custody activity view to determine its legitimacy, with completion required by 2025-04-11.",
+      "priority": null,
+      "dueDate": "2025-04-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to review that link by April 11, 2025."
+    },
+    {
+      "templateId": "37c17d04-e353-50f8-a3c6-359f520559a4",
+      "title": "Update recurring payment instructions",
+      "text": "Update the recurring $2,500 transfer from Lena and Noah Copperwisp's joint taxable account at Velvet Acorn Custody to pause the monthly movement and require a verified Teacup Comet Bank destination confirmed by phone, to be completed by 2025-04-14.",
+      "priority": null,
+      "dueDate": "2025-04-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to update the instructions by April 14, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Teacup Comet Bank incident materials",
+      "text": "Collect the Teacup Comet Bank incident reference, statement pages showing any attempted micro‑deposits, and written confirmation of which bank account numbers remain valid for Lena Copperwisp, with collection due by 2025-04-15.",
+      "priority": null,
+      "dueDate": "2025-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to collect those materials by April 15, 2025."
+    },
+    {
+      "templateId": "6bd34209-a23b-5a1f-9dec-3ad30064074f",
+      "title": "Refresh household profile details",
+      "text": "Update Copperwisp household members, contact preferences, employment status, dependents, key advisors, and major life changes in the Copperwisp client record. Refresh the custodian alert record to use Lena Copperwisp’s current work email and add Noah Copperwisp’s mobile number as a trusted contact verification option, to be completed by 2025-04-18.",
+      "priority": "low",
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to refresh those records by April 18, 2025."
+    },
+    {
+      "templateId": "2974a8c0-611f-5588-be97-de7bb712ce3e",
+      "title": "Coordinate cash distribution request",
+      "text": "Process a requested tuition payment distribution for Lena Copperwisp by confirming authorization, available cash, tax or planning implications, custodian requirements, and completion evidence before closing the request, ensuring funds are routed only to verified accounts for Marzipan Meadow School, to be completed by 2025-04-16.",
+      "priority": "high",
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm request and authorization",
+          "text": "Confirm distribution amount, destination instructions, delivery method, account source, and client authorization using approved firm procedures. Note any missing authorization items.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "9782c69b-a31e-53cf-8230-c42e9847e6f1"
+        },
+        {
+          "title": "Review portfolio and cash availability",
+          "text": "Confirm whether sufficient cash is available, identify trades needed to raise cash, and flag any portfolio or market-timing considerations for advisor approval.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "c5963df7-a996-52ae-9658-442eed4012b6"
+        },
+        {
+          "title": "Approve planning impact",
+          "text": "Review tax withholding, retirement account distribution rules, income plan impact, and whether the request conflicts with the current financial plan.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "df99827f-8111-5e19-8497-17b6087744fb"
+        },
+        {
+          "title": "Submit and confirm completion",
+          "text": "Submit custodian paperwork or digital request, monitor status, confirm funds were sent, and save completion evidence to the client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "54ef51bb-1cfb-5db7-a7e4-f84dcf89b1a2"
+        }
+      ],
+      "evidence": "the agreed follow-up is to coordinate secure tuition funding by April 16, 2025."
+    }
+  ]
+}

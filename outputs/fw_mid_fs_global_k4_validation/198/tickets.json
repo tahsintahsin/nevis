@@ -1,0 +1,137 @@
+{
+  "meetingId": "198",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble tax filing data for first married year",
+      "text": "Assemble year-to-date pay statements, equity vesting records, mortgage interest information for both properties, and condominium rental income data for Priya Copperwisp at Copper Firefly Tax Studio’s first married-year tax projection. Use Dahlia Mossbutton’s Amber Teapot Analytics pay statements, equity vesting records, the townhouse and condominium mortgage interest, and the $2,650/month condominium lease income.",
+      "priority": null,
+      "dueDate": "2023-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For tax filing data for the first married year, Priya asked Dahlia to provide year-to-date pay statements, equity vesting records, mortgage interest information for both properties, and condominium rental income data for the first post-marriage tax projection. The agreed follow-up is to assemble tha"
+    },
+    {
+      "templateId": null,
+      "title": "Begin household account transition review",
+      "text": "Begin the operational review for changing selected contact information, household mailing preferences, and joint visibility settings on advisory-serviced accounts after the marriage of Dahlia Mossbutton and Owen Cloudpuddle.",
+      "priority": null,
+      "dueDate": "2023-11-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dahlia asked to begin the operational review for changing selected contact information, household mailing preferences, and joint visibility settings on advisory-serviced accounts after the marriage. The agreed follow-up is to begin that review by 2023-11-03."
+    },
+    {
+      "templateId": null,
+      "title": "Review household payment funding source",
+      "text": "Address the review of moving selected household payments that are currently drafted from Dahlia Mossbutton’s individual Teacup Comet Bank account to the new Paper Otter Bank joint checking account.",
+      "priority": null,
+      "dueDate": "2023-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dahlia asked about moving selected household payments that are currently drafted from her individual Teacup Comet Bank account to the new Paper Otter Bank joint checking account. The agreed follow-up is to address that payment funding review by 2023-11-15."
+    },
+    {
+      "templateId": null,
+      "title": "Review joint cash reserve target",
+      "text": "Review the joint cash reserve target for Dahlia Mossbutton and Owen Cloudpuddle, considering separate savings accounts, a new joint checking account, two properties, and higher combined monthly spending than Dahlia’s prior single-household plan assumed.",
+      "priority": null,
+      "dueDate": "2023-11-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the joint cash reserve target by 2023-11-17."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve townhouse ownership and insurance documentation",
+      "text": "Clarify the intended ownership and insured-interest documentation for the townhouse where the mortgage statement lists Owen as sole borrower but the homeowners policy declaration page now names both spouses.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the mortgage statement lists Owen as sole borrower, while the homeowners policy declaration page now names both spouses, leaving the intended ownership and insured-interest documentation unclear; the documentation issue remains needed."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Collect current copies of Dahlia Mossbutton’s and Owen Cloudpuddle’s estate documents that predate the marriage and identify Lina Mossbutton rather than Owen Cloudpuddle in key personal roles. The advisory file has old documents but no current copies have been reviewed by Apricot Compass Advisory.",
+      "priority": "medium",
+      "dueDate": "2023-11-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "For estate document collection for the marriage review, Dahlia described existing estate documents that predate the marriage and identify Lina Mossbutton rather than Owen Cloudpuddle in key personal roles, and current copies have not yet been reviewed by Apricot Compass Advisory. The agreed follow-u"
+    },
+    {
+      "templateId": null,
+      "title": "Set written authorization boundaries for Owen Cloudpuddle account access",
+      "text": "Obtain or create written authorization showing what account-specific information Apricot Compass Advisory may share with Owen Cloudpuddle, establishing clear boundaries for household planning conversations.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dahlia wants Owen included in household planning conversations, but there is not yet written authorization showing what account-specific information Apricot Compass Advisory may share with him; written authority boundaries remain needed."
+    },
+    {
+      "templateId": null,
+      "title": "Complete employer beneficiary designation evidence",
+      "text": "Complete the beneficiary evidence for Dahlia Mossbutton’s Amber Teapot Analytics 401(k) by confirming the current beneficiary record and contingent beneficiary details, resolving the discrepancy between the plan website screen (Mossbutton) and uploaded household documents (Mossbutton-Cloudpuddle).",
+      "priority": null,
+      "dueDate": "2023-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For employer beneficiary designation evidence, Dahlia showed a plan website screen indicating that her Amber Teapot Analytics 401(k) beneficiary record may still list Lina Mossbutton, but the screen did not show contingent beneficiary details or a confirmation record; complete beneficiary evidence r"
+    },
+    {
+      "templateId": null,
+      "title": "Address custodian beneficiary update rejection",
+      "text": "Address the Velvet Acorn Custody beneficiary change rejection because the account profile uses Mossbutton while one uploaded household document used Mossbutton-Cloudpuddle. Reconcile the naming discrepancy and resubmit the beneficiary update.",
+      "priority": null,
+      "dueDate": "2023-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For custodian beneficiary update rejection, Dahlia reported that Velvet Acorn Custody rejected an online beneficiary change because the account profile uses Mossbutton while one uploaded household document used Mossbutton-Cloudpuddle. The agreed follow-up is to address that custodian beneficiary upd"
+    },
+    {
+      "templateId": null,
+      "title": "Compare employer benefit options for new spouse coverage",
+      "text": "Compare health, dental, vision, disability, and life insurance options for Dahlia Mossbutton and Owen Cloudpuddle, considering their first-time joint enrollment and near-term enrollment window.",
+      "priority": null,
+      "dueDate": "2023-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For open enrollment comparison for new spouse coverage, Dahlia and Owen’s employer benefit elections are being considered together for the first time, and Dahlia said the enrollment window creates a near-term need to compare health, dental, vision, disability, and life insurance options. The agreed "
+    },
+    {
+      "templateId": null,
+      "title": "Review concentrated employer stock position",
+      "text": "Review Dahlia Mossbutton’s Amber Teapot Analytics stock position in her taxable brokerage account at Velvet Acorn Custody, including the approximately $92,000 in vested equity awards and future restricted stock vesting from the same employer.",
+      "priority": null,
+      "dueDate": "2023-12-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For concentrated employer stock exposure, the account review found that Amber Teapot Analytics stock remains a meaningful position in Dahlia’s taxable account in addition to future restricted stock vesting from the same employer. The agreed follow-up is to review that employer stock position by 2023"
+    }
+  ]
+}

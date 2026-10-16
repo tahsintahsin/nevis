@@ -1,0 +1,35 @@
+{
+  "meetingId": "606",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare first-year education funding source comparison",
+      "text": "Prepare a side-by-side schedule for Lena Pebblefizz’s first academic year at Thimble Harbor University showing how the Velvet Acorn Custody 529 account, education savings CD, taxable account sales, and household cash could cover costs while preserving the $50,000 cash reserve floor.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora asked for a side-by-side schedule showing how Lena’s 529 account, the education savings CD, taxable account sales, and household cash could cover the first academic year while preserving the stated cash reserve floor; the agreed follow-up is due 2025-01-24."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on Velvet Acorn 529 distribution access issue",
+      "text": "Follow up on the Velvet Acorn Custody 529 distribution page rejecting the saved Teacup Comet Bank link twice and failing to provide a confirmation number. Clarify the preferred payment path and confirm the correct distribution access procedure.",
+      "priority": null,
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora reported that the distribution page rejected the saved Teacup Comet Bank link twice and did not provide a confirmation number, leaving the preferred payment path uncertain; the agreed follow-up is due 2025-01-17."
+    },
+    {
+      "templateId": "7a01cf30-e455-55f4-92f2-f4ca51e7fee1",
+      "title": "Review mortgage document collection needs",
+      "text": "Review the mortgage file for completeness and planning relevance.\n\nEvidence to collect:\n- Current mortgage statement\n- Promissory note or loan summary, if available\n- Closing disclosure or settlement statement, if available\n- Escrow statement, if applicable\n- Property tax bill or assessment notice, if available\n- Homeowners insurance declaration page, if relevant to cash-flow review\n- Refinance, payoff, or modification correspondence, if applicable\n\nReview criteria:\n- Confirm current balance, interest rate, payment amount, and loan type.\n- Identify fixed versus adjustable rate features and any reset terms.\n- Note maturity date, prepayment penalties, balloon features, or special clauses if shown.\n- Separate principal, interest, taxes, insurance, and other escrow items where possible.\n- Compare mortgage obligations with the cash-flow plan.\n- Flag missing documents or conflicting figures for follow-up.\n\nReview Nora and Evan Pebblefizz’s mortgage file in light of Evan’s possible shift from salaried employee to remote contractor and the beginning of tuition payments.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The overlap among education cash flow, account movement, and document review was informational: the conversation covered tuition timing, 529 distribution mechanics, taxable-account liquidity, missing school evidence, and a custodian access problem, so the scope did not fit neatly into only one opera"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "meetingId": "263",
+  "tickets": [
+    {
+      "templateId": "1dddaf09-0fc9-53d8-a432-b9d4dba60cc8",
+      "title": "Review equity award details",
+      "text": "Review the equity award details for Jared Wrenpuddle at Apricot Compass Wealth Advisory, including portal access and MFA setup, following the credential reset and session review agreed on 2024-03-18.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f",
+      "subTasks": [],
+      "evidence": "For portal safeguards, repeated lockouts followed an uninitiated password-reset email; 2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels."
+    },
+    {
+      "templateId": "2eae4c50-1d11-5add-a2ee-3e8c2bf59061",
+      "title": "Verify cash distribution readiness",
+      "text": "Verify cash distribution readiness for Jared Wrenpuddle's Teacup Comet Bank link review, checking transfer instructions and profile changes following the agreed 2024-03-19 work.",
+      "priority": "high",
+      "dueDate": "2024-03-19",
+      "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f",
+      "subTasks": [],
+      "evidence": "For bank-link review, activity showed a pending Teacup Comet Bank link; Jared said no household account; 2024-03-19 agreed work: check transfer instructions/profile changes."
+    }
+  ]
+}

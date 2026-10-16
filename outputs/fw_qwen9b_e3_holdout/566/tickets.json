@@ -1,0 +1,65 @@
+{
+  "meetingId": "566",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm employer trading restrictions and permitted transactions",
+      "text": "Confirm what types of transactions or preset trading instructions Copper Firefly Analytics compliance would permit for Mira Quillwhistle before any sale or exercise plan is implemented. Account for executive pre-clearance requirements and trading restrictions, including open trading windows after earnings releases and potential restrictions related to Mira’s participation in internal product launch meetings.",
+      "priority": null,
+      "dueDate": "2025-05-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For employer trading restriction review, Mira described executive pre-clearance requirements and product launch information access, so the agreed follow-up is to confirm what types of transactions or preset trading instructions compliance would permit before any sale or exercise plan is implemented "
+    },
+    {
+      "templateId": null,
+      "title": "Prepare equity compensation diversification framework",
+      "text": "Prepare a written diversification framework for Mira Quillwhistle covering restricted stock vesting, option exercise choices, potential share sales, tax withholding, and household liquidity needs. Address how to reduce Copper Firefly Analytics stock exposure before funding the planned home renovation and future college costs without disrupting planned spending.",
+      "priority": null,
+      "dueDate": "2025-06-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira asked for a written framework that combines restricted stock vesting, option exercise choices, potential share sales, tax withholding, and household liquidity needs so she can reduce single-stock exposure without disrupting planned spending; the agreed follow-up is to prepare that framework by "
+    },
+    {
+      "templateId": null,
+      "title": "Update household cash-flow inputs for possible lower income",
+      "text": "Update the household cash-flow inputs to reflect Tomas Cloudpuddle’s possible transition from Marzipan Meadow School to consulting work and the resulting period of lower predictable household income. Incorporate the updated cash-flow assumptions into the equity strategy.",
+      "priority": null,
+      "dueDate": "2025-06-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Tomas is considering leaving Marzipan Meadow School for consulting work, and Mira wanted the equity strategy to reflect a possible period of lower predictable household income; the agreed follow-up is to update the cash-flow inputs by 2025-06-13."
+    },
+    {
+      "templateId": null,
+      "title": "Evaluate restricted stock vesting withholding election",
+      "text": "Evaluate the withholding method selection required by Copper Firefly Analytics for Mira Quillwhistle’s next restricted stock vest. Compare the options against her projected wage income, bonus, and potential option exercise activity.",
+      "priority": null,
+      "dueDate": "2025-06-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira noted that the employer portal will require a withholding method selection for the next restricted stock vest, and the choice should be evaluated against her projected wage income, bonus, and potential option exercise activity; the agreed follow-up is to evaluate the withholding election by 202"
+    },
+    {
+      "templateId": null,
+      "title": "Address option quantity discrepancy",
+      "text": "Address the discrepancy between the 42,000 outstanding nonqualified stock options shown in the Copper Firefly Analytics employer portal and the 39,000 recorded in Mira Quillwhistle’s last saved annual statement. Investigate the difference using available documents and clarify the correct option quantity.",
+      "priority": null,
+      "dueDate": "2025-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the employer portal showed 42,000 outstanding nonqualified stock options, while Mira’s last saved annual statement showed 39,000, and the difference was not explained by the documents available during the meeting; the agreed follow-up is to address the discrepancy by 2025-06-03."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve equity portal download problem",
+      "text": "Address the Copper Firefly Analytics equity portal’s inability to export transaction confirmations following a recent authentication change. Resolve the download problem so Mira can save withholding and vesting evidence for planning records.",
+      "priority": null,
+      "dueDate": "2025-05-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira reported that the Copper Firefly Analytics equity portal stopped exporting transaction confirmations after a recent authentication change, preventing her from saving withholding and vesting evidence for planning records; the agreed follow-up is to address the download problem by 2025-05-28."
+    }
+  ]
+}

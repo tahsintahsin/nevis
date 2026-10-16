@@ -1,0 +1,115 @@
+{
+  "meetingId": "586",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Address cash reserve and remaining lease impact",
+      "text": "Address the shortfall in Mira and Arlen's six-month cash reserve preference given wedding costs, Mira's remaining apartment rent through 2024-05-31, and the combined monthly spending estimate. Determine how to close the gap before the lease expires.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "wedding costs, Mira’s remaining apartment rent, and the combined monthly spending estimate left the household below Mira’s stated six-month cash reserve preference; the agreed follow-up by 2024-03-18 is to address the cash reserve and remaining lease impact."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain marriage certificate evidence",
+      "text": "Obtain a certified or scanned copy of the marriage certificate for account registration, beneficiary updates, and name-related records at the custodian and insurance carriers.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The custodian and insurance carriers may require a certified or scanned marriage certificate for account registration, beneficiary, and name-related records, and Mossy Meteor Advisory did not have a copy in the client file;"
+    },
+    {
+      "templateId": null,
+      "title": "Provide taxable account registration options",
+      "text": "Provide a plain-language comparison of keeping Mira's Velvet Acorn Custody taxable account individually titled versus opening a new joint account for future household savings.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira asked for paperwork and a plain-language comparison for keeping her Velvet Acorn Custody taxable account individually titled versus opening a new joint account for future household savings; the agreed follow-up by 2024-03-01 is to provide the taxable account registration options."
+    },
+    {
+      "templateId": null,
+      "title": "Address online access for spouse and household view",
+      "text": "Address Arlen's request for view-only access to the household dashboard without granting trading authority over Mira's individual IRA and taxable accounts.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "She also asked whether Arlen could receive view-only access to the household dashboard without giving him trading authority over her individual IRA and taxable accounts; the agreed follow-up by 2024-02-29 is to address online access for a spouse and household view."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve beneficiary record inconsistencies",
+      "text": "Resolve the inconsistent beneficiary records across accounts. Update Mira's IRA records to reflect post-marriage beneficiary designations and address the missing primary beneficiary on Arlen's employer-plan screen.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The beneficiary information visible during the call showed Mira’s IRA records still naming Tobin Willowdoodle and Iris Willowdoodle, while Arlen’s employer-plan screen did not display a primary beneficiary, creating inconsistent post-marriage records across accounts;"
+    },
+    {
+      "templateId": null,
+      "title": "Address custodian beneficiary update error",
+      "text": "Address the custodian beneficiary update error at Velvet Acorn Custody where adding Arlen as a contingent beneficiary returned an error without a confirmation number.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira reported that Velvet Acorn Custody’s website returned an error when she tried to add Arlen as a contingent beneficiary, and the failed session did not produce a confirmation number; the agreed follow-up by 2024-02-27 is to address the custodian beneficiary update error."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer benefit elections",
+      "text": "Review employer benefit elections for Mira's Clockwork Clover Robotics newlywed enrollment window and Arlen's Paper Otter Preparatory benefit-change process, covering medical, life, and disability coverage for the combined household.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s Clockwork Clover Robotics newlywed enrollment window and Arlen’s Paper Otter Preparatory benefit-change process affect medical, life, and disability coverage choices for the combined household; the agreed follow-up by 2024-03-05 is to review employer benefit elections."
+    },
+    {
+      "templateId": null,
+      "title": "Align life and disability coverage records",
+      "text": "Align the beneficiary records and replacement-income assumptions across Mira's individual term policy, group life coverage, Arlen's term policy, and employer coverage for the new household.",
+      "priority": null,
+      "dueDate": "2024-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The review found that Mira’s individual term policy, Mira’s group life coverage, Arlen’s term policy, and Arlen’s employer coverage had different beneficiary records and replacement-income assumptions for the new household;"
+    },
+    {
+      "templateId": null,
+      "title": "Collect estate document copies and amendment pages",
+      "text": "Collect copies of the signed wills and financial powers of attorney for Mira and Arlen, including any amendment pages, to update the advisory planning record.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira signed a will and financial power of attorney in 2018 before the marriage. Arlen signed a will in 2016 after Pippa was born. Mira and Arlen described older wills and powers of attorney, but Mossy Meteor Advisory did not have copies of the signed documents or any amendment pages in its planning "
+    },
+    {
+      "templateId": null,
+      "title": "Review mortgage and property records",
+      "text": "Review the current mortgage statement, deed vesting page, and homeowner policy declarations for Arlen's Lakewood townhouse based on the missing property records.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arlen had the mortgage balance and rate available during the call, but the current mortgage statement, deed vesting page, and homeowner policy declarations were not available. Follow-up is needed by 2024-03-15 for the mortgage and property record review based on those missing property records."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare joint tax withholding projection",
+      "text": "Prepare a coordinated 2024 withholding and estimated-tax projection to share with Celia Fablethimble of Apricot Compass Tax, accounting for two salaries, bonuses, investment income, and Mira's $42,000 capital loss carryforward from 2022.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira and Arlen asked for a coordinated 2024 withholding and estimated-tax projection to share with Celia because the marriage combines two salaries, bonuses, investment income, and Mira’s capital loss carryforward; the agreed follow-up by 2024-04-05 is to prepare the joint tax withholding projection"
+    }
+  ]
+}

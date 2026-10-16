@@ -1,0 +1,64 @@
+{
+  "meetingId": "843",
+  "tickets": [
+    {
+      "templateId": "e399f327-5544-58b2-b9e0-4d6560d263b5",
+      "title": "Update Household Profile and Planning Assumptions",
+      "text": "Refresh the household profile for Liora Pebblefizz. Confirm current household members, contact preferences, employment status, retirement target assumptions, tax filing status, dependent or caregiving changes, key professional contacts, and any new planning priorities. Record evidence sources in the CRM and flag items that affect retirement income planning, IRA rollover guidance, or tax-conscious investment management. Update marital status to reflect the 2026-03-28 marriage to Rowan Nettlewhisk, change the shared household address to Rowan's Oregon townhouse, refresh the trusted contact preference, and update account mailing records at Velvet Acorn Custody for the taxable brokerage and traditional IRA before the next planning update.",
+      "priority": "medium",
+      "dueDate": "2026-04-24",
+      "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90",
+      "subTasks": [
+        {
+          "title": "Confirm Household and Contact Details",
+          "text": "Verify household members, preferred names, addresses, phone numbers, email preferences, trusted contact status, and communication permissions for Liora Pebblefizz. Note any missing confirmations or outdated fields.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        },
+        {
+          "title": "Refresh Employment, Income, and Retirement Assumptions",
+          "text": "Update employer status, expected retirement timing, recurring income sources, benefits changes, and IRA or 401(k) rollover considerations. Capture the evidence reviewed, such as client confirmation, pay information, benefit summaries, or account statements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        },
+        {
+          "title": "Review Tax, Estate, and Professional Contact Fields",
+          "text": "Confirm tax filing status, CPA or attorney contact placeholders, estate document status, beneficiary review needs, and any household life event changes. Leave placeholders blank when the client has not provided the information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        },
+        {
+          "title": "Document Changes and Route Follow-Ups",
+          "text": "Summarize completed updates, unresolved questions, and planning impacts. Create follow-up tasks for missing documents, advice updates, or client outreach where needed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        }
+      ],
+      "evidence": "She asked Apricot Compass Advisory to update marital status, shared household address, trusted contact preference, and account mailing records before the next planning update; the agreed follow-up is due 2026-04-24."
+    },
+    {
+      "templateId": null,
+      "title": "Update IRA beneficiary to Rowan Nettlewhisk",
+      "text": "Update the traditional IRA beneficiary designation at Velvet Acorn Custody for Liora Pebblefizz, replacing sole primary beneficiary Sela Pebblefizz with Rowan Nettlewhisk as the new primary beneficiary following the 2026-03-28 marriage.",
+      "priority": null,
+      "dueDate": "2026-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Beneficiary and estate coordination needs follow-up by 2026-05-01: Liora said Rowan should be primary beneficiary on the IRA, but the custodian profile still showed Sela Pebblefizz as sole primary beneficiary and no post-marriage estate document copies were in the file."
+    },
+    {
+      "templateId": "d4cfd0c9-567e-57cf-8754-aa655a6d7db4",
+      "title": "Request estate document copies and related details",
+      "text": "Outreach purpose: collect current estate planning documents for financial planning review.\n\nSuggested message:\n\nHello Liora Pebblefizz,\n\nWe are updating Liora Pebblefizz's estate planning records so the financial plan, beneficiary designations, and account titling can be reviewed consistently. When convenient, please provide copies of the following items if available:\n\n- Will\n- Revocable trust or trust summary\n- Durable power of attorney\n- Health care directive or medical power of attorney\n- Current beneficiary designation confirmations\n- Any recent amendments or restatements\n\nPlease also confirm whether [Attorney Name/Firm] remains the drafting attorney and whether any estate document updates are currently in progress.\n\nPreferred secure delivery method: [Secure Upload Link or Delivery Instructions]\nFollow-up contact: [Advisor or Team Contact]\nNotes for special handling: [Confidentiality, co-trustee, or family communication notes]\n\nLiora married Rowan Nettlewhisk on 2026-03-28 and no post-marriage estate document copies are in the file; collect updated will, trust, power of attorney, and beneficiary designation documents to support the beneficiary and estate coordination work due 2026-05-01.",
+      "priority": "medium",
+      "dueDate": "2026-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Beneficiary and estate coordination needs follow-up by 2026-05-01: Liora said Rowan should be primary beneficiary on the IRA, but the custodian profile still showed Sela Pebblefizz as sole primary beneficiary and no post-marriage estate document copies were in the file."
+    }
+  ]
+}

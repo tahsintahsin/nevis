@@ -1,0 +1,35 @@
+{
+  "meetingId": "331",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Model HELOC payment impact scenarios",
+      "text": "Model the HELOC payment impact for Julian Mossbutton, using the Teacup Comet Bank line balance of $74,500 and the reset payment of $925, both as a standalone amortizing loan and as part of a broader mortgage refinance structure.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian wanted the payment impact modeled with and without rolling the line into a broader refinance structure."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare updated cash‑flow budget",
+      "text": "Prepare an updated cash‑flow budget for Julian and Lena Mossbutton, reflecting the reduced household take‑home pay of $9,250 per month, core spending of $7,850, and existing debt obligations, to establish a target for accelerated debt repayment.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the revised budget is needed before setting a target for accelerated debt repayment."
+    },
+    {
+      "templateId": null,
+      "title": "Estimate tax consequences of investment liquidation",
+      "text": "Estimate the tax consequences for Julian Mossbutton of liquidating appreciated holdings in his joint taxable investment account at Velvet Acorn Custody, valued at approximately $96,000, to fund debt reduction.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the tax impact needs to be estimated before using investments as a funding source."
+    }
+  ]
+}

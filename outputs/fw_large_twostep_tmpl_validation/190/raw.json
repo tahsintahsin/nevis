@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"190\",\n\"followups\": [\n{\n\"evidence\": \"asked for agreed 2026-01-23 approximately-$25,000 share-transfer instructions to Moonbadger using verified brokerage-delivery details.\",\n\"action\": \"Prepare share‑transfer instructions for approximately $25,000 of Velvet Acorn Growth Fund shares to Moonbadger, to be delivered by 2026-01-23.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"Evan noted file has Moonbadger prior-year acknowledgment, not current planned-gift pledge-confirmation/receipt-language on goods/services; agreed 2026-02-06.\",\n\"action\": \"Obtain or draft the current planned‑gift pledge confirmation and receipt language for the Moonbadger Arts Center donation, to be completed by 2026-02-06.\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2662,
+    "output_tokens": 997,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"190\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Prepare share transfer instructions for Moonbadger\",\n\"text\": \"Prepare share‑transfer instructions for Sela Mossbutton to move approximately $25,000 of Velvet Acorn Growth Fund shares to Moonbadger Arts Center, using the verified brokerage delivery details, to be completed by 2026-01-23.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"asked for agreed 2026-01-23 approximately-$25,000 share-transfer instructions to Moonbadger using verified brokerage-delivery details.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain draft pledge confirmation language for Moonbadger\",\n\"text\": \"Obtain a draft of the current planned‑gift pledge confirmation and receipt language for Sela Mossbutton’s donation to Moonbadger Arts Center, ensuring it reflects the goods/services provided, to be finalized by 2026-02-06.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Evan noted file has Moonbadger prior-year acknowledgment, not current planned-gift pledge-confirmation/receipt-language on goods/services; agreed 2026-02-06.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3271,
+    "output_tokens": 1495,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 140
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e2",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"946\", \"tickets\": [{\"title\": \"Compare 401(k) rollover options\", \"text\": \"Compare keeping Dana Wrenpuddle’s former Cloudberry Kite Design 401(k), moving eligible assets to the new Silver Marmot Analytics plan, or rolling to an IRA. Cover Roth and pre-tax assets, investment menus, fees, and simplicity, keeping Dana’s preference for no more than two primary investment accounts outside checking and savings.\", \"priority\": null, \"dueDate\": \"2024-03-29\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Dana asked to compare keeping the former 401(k), moving it to the new plan, or rolling eligible assets to an IRA, covering Roth money, menus, fees, and simplicity; the agreed follow-up is due 2024-03-29.\"}, {\"title\": \"Obtain Silver Marmot Analytics benefits packet\", \"text\": \"Obtain the Silver Marmot Analytics benefits packet for Dana Wrenpuddle while enrollment is open.\", \"priority\": null, \"dueDate\": \"2024-03-22\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The Silver Marmot Analytics benefits packet is still needed by 2024-03-22 while enrollment is open.\"}, {\"title\": \"Reconcile prior 401(k) deferral savings with stated salary\", \"text\": \"Review Dana Wrenpuddle’s prior pay stub and stated salary to reconcile the old 401(k) deferral percentage with the expected annual savings level. Account for the possibility that bonus deferrals are separate.\", \"priority\": null, \"dueDate\": \"2024-04-05\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Mira’s review of Dana’s prior pay stub and stated salary found the old 401(k) deferral percentage may not produce the same annual savings level, especially if bonus deferrals are separate; follow-up is needed by 2024-04-05.\"}]}",
+   "usage": {
+    "input_tokens": 1292,
+    "output_tokens": 497,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 5120
+   },
+   "stop": "stop"
+  }
+ ]
+}

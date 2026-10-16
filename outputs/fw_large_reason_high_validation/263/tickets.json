@@ -1,0 +1,47 @@
+{
+  "meetingId": "263",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset credentials, review session, strengthen MFA",
+      "text": "Reset Jared and Ava Wrenpuddle’s Apricot Compass Wealth Advisory portal credentials, review recent session activity for unauthorized access, and implement stronger multi‑factor authentication via approved channels as agreed.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Reset portal credentials",
+          "text": "Reset the Wrenpuddle portal credentials to restore access.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review session activity",
+          "text": "Review recent portal session logs for any unauthorized access.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Enable stronger MFA",
+          "text": "Enable stronger multi‑factor authentication via approved channels.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels."
+    },
+    {
+      "templateId": null,
+      "title": "Check transfer instructions and profile changes",
+      "text": "Check the Wrenpuddle’s transfer instructions and profile changes for the pending Teacup Comet Bank link as agreed.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "2024-03-19 agreed work: check transfer instructions/profile changes."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_ultra",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"853\",\n\"tickets\": [\n{\n\"title\": \"Review security alert and coordinate custodian security steps\",\n\"text\": \"Review the Velvet Acorn Custody unfamiliar-device alert for Leona Thimblefern, check profile and distribution-instruction changes, and coordinate pre-upload custodian security steps to restore portal access.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": null,\n\"templateId\": null,\n\"subTasks\": [\n{\n\"title\": \"Review Velvet Acorn Custody unfamiliar-device alert\",\n\"text\": \"Review the unfamiliar-device alert from Velvet Acorn Custody for Leona Thimblefern.\",\n\"priority\": null,\n\"assigneeId\": null,\n\"dueDate\": null\n},\n{\n\"title\": \"Check profile and distribution-instruction changes\",\n\"text\": \"Check for any changes to Leona Thimblefern's profile and distribution instructions.\",\n\"priority\": null,\n\"assigneeId\": null,\n\"dueDate\": null\n},\n{\n\"title\": \"Coordinate pre-upload custodian security steps\",\n\"text\": \"Coordinate pre-upload security steps with Velvet Acorn Custody to restore portal access.\",\n\"priority\": null,\n\"assigneeId\": null,\n\"dueDate\": null\n}\n],\n\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 570,
+    "output_tokens": 2161,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

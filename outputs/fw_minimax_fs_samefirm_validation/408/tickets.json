@@ -1,0 +1,85 @@
+{
+  "meetingId": "408",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare mortgage reset and refinance comparison",
+      "text": "Prepare a side-by-side comparison for Liora and Jonah Nettlewhisk of keeping the adjustable mortgage after the reset, using the fixed-rate refinance quote, and combining or leaving the Teacup Comet Bank HELOC separate. Include payment estimates, closing costs, and cash reserve impact.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2025-01-24."
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing refinance documents for Silver Marmot Mortgage",
+      "text": "Collect the current pay stub, Jonah's year-to-date profit-and-loss statement, the most recent business bank statement, and a complete prior-year tax return packet for the Silver Marmot Mortgage refinance file for Liora and Jonah Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That document packet remains an unresolved issue needing follow-up by 2025-01-28."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve mortgage payoff balance discrepancy",
+      "text": "Reconcile the $642,000 principal balance shown on Liora Nettlewhisk's mortgage portal with the $655,800 figure on the loan officer worksheet. The difference affects loan-to-value and cash-to-close estimates for the Silver Marmot Mortgage refinance.",
+      "priority": null,
+      "dueDate": "2025-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2025-01-23."
+    },
+    {
+      "templateId": "432e4a09-cd76-510d-b173-4fe70356ef9a",
+      "title": "Recover Client Portal Access",
+      "text": "Recover Teacup Comet Bank access for Liora and Jonah Nettlewhisk so recent HELOC and checking statements can be retrieved for Silver Marmot Mortgage lender review. Two-factor prompts are going to Jonah's old phone number and bank statement exports failed during the call.",
+      "priority": null,
+      "dueDate": "2025-01-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That access issue remains unresolved and needs follow-up by 2025-01-27."
+    },
+    {
+      "templateId": null,
+      "title": "Model cash-flow stress test for debt repayment",
+      "text": "Model the reset mortgage payment, Teacup Comet Bank HELOC interest, credit card payoff target, Eleni's school costs, and Hazel Willowdoodle's possible voluntary support amount against the household's monthly income and spending for Liora and Jonah Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that modeling by 2025-01-31."
+    },
+    {
+      "templateId": "9e10aee4-f276-52cb-be0c-39f25dd71780",
+      "title": "Review Concentrated Position",
+      "text": "Assess position size, tax basis, liquidity needs, risk tolerance, trading restrictions, and diversification options before recommending any action. Compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction for Liora and Jonah Nettlewhisk, considering the Clockwork Clover Systems stock position in the joint taxable brokerage account at Velvet Acorn Custody (~$156,000, basis ~$42,000).",
+      "priority": "medium",
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction by 2025-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Address appraisal and rate-lock readiness items",
+      "text": "Address the loan officer's rate-lock window and appraisal checklist timing constraint by providing insurance declarations, the property tax bill, and HOA confirmation before underwriting review for Liora and Jonah Nettlewhisk's Silver Marmot Mortgage refinance.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those readiness items by 2025-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Show non-retirement funding options for debt restructuring",
+      "text": "Show non-retirement funding options for Liora and Jonah Nettlewhisk's debt restructuring before any retirement-account cash-flow scenario, per Liora's instruction that IRA or 401(k) withdrawals should be treated only as a last-resort scenario.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed planning analysis is to show non-retirement funding options before any retirement-account cash-flow scenario by 2025-02-03."
+    }
+  ]
+}

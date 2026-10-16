@@ -1,0 +1,114 @@
+{
+  "meetingId": "383",
+  "tickets": [
+    {
+      "templateId": "7fb8b0a0-5b5e-5c6d-b065-57aa5bb6a365",
+      "title": "Open new client account",
+      "text": "Set up a jointly registered taxable brokerage account at Velvet Acorn Custody for Rowan Bramblequill and Lila Nettlewhisk to receive monthly surplus from the new household checking arrangement, while keeping each spouse's existing retirement accounts separate. The custodian requires the marriage certificate and Lila's identification details before adding Lila to jointly held account paperwork.",
+      "priority": null,
+      "dueDate": "2024-07-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan asked for a jointly registered brokerage account at the custodian to receive monthly surplus from the new household checking arrangement while keeping each spouse’s existing retirement accounts separate. They agreed to set up the joint taxable account, with follow-up due July 12, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain marriage documentation for account records",
+      "text": "Obtain the marriage certificate and Lila Nettlewhisk's identification details for Rowan Bramblequill's account records at Velvet Acorn Custody. The custodian requires these records before adding Lila to jointly held account paperwork or household-level profile records.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the marriage documentation for account records by June 28, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete marriage-based beneficiary review",
+      "text": "Complete a beneficiary review across Rowan Bramblequill's IRA, Roth IRA, Copper Firefly Design Studio employer retirement plan, Silver Marmot Insurance term life policy, and employer-paid group life coverage, using the current beneficiary records in the client file as starting evidence. The recent marriage to Lila Nettlewhisk on June 8, 2024 prompted the review.",
+      "priority": null,
+      "dueDate": "2024-07-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete that marriage-based beneficiary review by July 17, 2024."
+    },
+    {
+      "templateId": "ea72a089-c993-5e8f-841d-f6200220eb97",
+      "title": "Guide benefits enrollment decision and submission",
+      "text": "Use this workflow when a client needs support reviewing available benefits, selecting appropriate coverage, and confirming enrollment completion. Keep recommendations coordinated with Rowan Bramblequill's broader financial plan, tax considerations, and liquidity needs. Rowan's Copper Firefly Design Studio benefits portal shows a post-marriage enrollment window, and Rowan wants health, dental, vision, HSA, disability, life insurance, and payroll deduction choices compared against Lila Nettlewhisk's available coverage before making elections.",
+      "priority": "medium",
+      "dueDate": "2024-07-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect benefits materials and key enrollment constraints",
+          "text": "Request the current benefits guide, plan comparison sheets, premium schedule, employer contribution details, enrollment window, and any life event documentation needed for eligibility.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b8e2c7b7-c2eb-5c77-bd00-b52a6274fbbe"
+        },
+        {
+          "title": "Review plan fit and planning tradeoffs",
+          "text": "Compare health, disability, life insurance, HSA/FSA, retirement plan, deferred compensation, and equity-related elections as applicable. Note cash flow impact, tax implications, beneficiary needs, and coordination with existing coverage, including Lila Nettlewhisk's available coverage.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "023f23f9-31e8-5017-b1bd-fb41f9bd99f0"
+        },
+        {
+          "title": "Prepare enrollment recommendations for client discussion",
+          "text": "Summarize proposed elections, open questions, documents needed, and any items requiring confirmation from the employer benefits team or outside tax professional.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b8e2c7b7-c2eb-5c77-bd00-b52a6274fbbe"
+        },
+        {
+          "title": "Confirm submission and retain evidence",
+          "text": "After the client submits elections, request confirmation pages or benefit summaries and save them to the client record for future planning reference.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "b3a630c1-61a9-5cb8-80b2-77d67083ab27"
+        }
+      ],
+      "evidence": "They agreed to the employer benefits election review, with follow-up due July 10, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile equity vesting records",
+      "text": "Reconcile Rowan Bramblequill's personal spreadsheet restricted stock unit vesting cadence against the Copper Firefly Design Studio equity portal export provided during the meeting. The discrepancy affects projected cash flow and tax withholding estimates for the combined household plan covering 1,250 RSUs and 620 nonqualified stock options.",
+      "priority": null,
+      "dueDate": "2024-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the equity vesting records by July 22, 2024."
+    },
+    {
+      "templateId": "a1390762-214b-50ce-9af1-cd6c13e97218",
+      "title": "Send address and residency update outreach",
+      "text": "Outreach outline:\nSubject: Confirming address and residency update for Rowan Bramblequill\n\nHello Rowan Bramblequill,\n\nWe understand you may need to update your mailing address, legal residence, or tax residency information. To help us keep your records current, please confirm the following:\n\n- New mailing address: [ADDRESS]\n- Effective date of address change: [DATE]\n- Is this also your legal residence? [YES / NO]\n- Prior state or jurisdiction: [PRIOR LOCATION]\n- New state or jurisdiction: [NEW LOCATION]\n- Any expected change to employment location, withholding, or state tax filing: [DETAILS]\n- Accounts, statements, or documents that should use a different mailing address: [DETAILS]\n- CPA or attorney to include, if any: [CONTACT NAME AND EMAIL]\n\nOnce confirmed, we will review required custodian forms, update internal records, and coordinate any planning follow-up related to taxes, estate documents, or account restrictions.\n\nThank you,\n[TEAM MEMBER NAME]\nRowan reported that prior online address changes did not appear on recent custodian statements and that Lila Nettlewhisk did not receive the household portal invitation email; resolve both with Velvet Acorn Custody before the couple's records are combined.",
+      "priority": "medium",
+      "dueDate": "2024-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to address the custodian address and portal access issue by July 3, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate document updates after marriage",
+      "text": "Coordinate updates to Rowan Bramblequill's estate documents, which predate the June 8, 2024 marriage to Lila Nettlewhisk and do not reflect Lila's role, the Portland townhouse and Salem condo, or the desired decision-makers for financial and health care matters. The will, financial power of attorney, and health care directive were prepared by Paper Otter Legal Group.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to estate document coordination by August 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate residency and tax planning with CPA",
+      "text": "Coordinate with Rowan Bramblequill's CPA Sasha Cloudpuddle on the Oregon-to-Washington household move, covering mailing address, legal residence, payroll withholding, and how the Portland townhouse and Salem condo should be reflected in planning records. The couple is preparing to move into a jointly leased home in Vancouver, Washington later in 2024.",
+      "priority": null,
+      "dueDate": "2024-07-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to residency and tax coordination, with follow-up due July 26, 2024."
+    }
+  ]
+}

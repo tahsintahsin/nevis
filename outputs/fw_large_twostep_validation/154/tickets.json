@@ -1,0 +1,104 @@
+{
+  "meetingId": "154",
+  "tickets": [
+    {
+      "templateId": "49855936-cdb3-553c-9d96-aedf56efcad7",
+      "title": "Open and Prepare New Account",
+      "text": "Use this workflow to prepare, submit, and confirm a new client account opening package. Confirm account purpose, registration type, funding path, required disclosures, and operational readiness before considering the account complete. Open a joint taxable advisory account for Nolan and Lila Pebblefizz with transfer‑on‑death registration, targeting a moderate‑growth, tax‑sensitive investment profile for cash exceeding the $120,000 reserve and the expected $220,000 inheritance, and complete the work by 2024‑11‑01.",
+      "priority": "medium",
+      "dueDate": "2024-11-01",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm account profile and registration",
+          "text": "Verify the intended account type, ownership or registration, tax classification if applicable, investment objective, risk tolerance, and any special restrictions before paperwork is prepared.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4"
+        },
+        {
+          "title": "Prepare and review account documents",
+          "text": "Complete the custodian or platform forms, advisory agreement items, fee schedule references, beneficiary fields if applicable, and required disclosures. Review for missing signatures, inconsistent addresses, and incomplete identity information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Submit opening package and track approval",
+          "text": "Submit the account package through the appropriate channel and monitor for approval, rejection, or additional information requests. Record any follow-up items in the client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm funding and first operational setup",
+          "text": "Confirm funding instructions, transfer status, cash availability, model or allocation setup, statement delivery preference, and online access readiness before closing the workflow.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4"
+        }
+      ],
+      "evidence": "They agreed to proceed with the account-opening work by 2024-11-01."
+    },
+    {
+      "templateId": "f5286f1b-d273-53aa-86ac-8930bce13b82",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Complete the following placeholders for benefits enrollment review:\n\nEmployee name: Lila Pebblefizz\nEmployer or plan sponsor: Moonbadger Design Studio\nEnrollment period or qualifying event: \nBenefit year: \nHousehold members to consider: Nolan Pebblefizz, Lila Pebblefizz, Rowan Pebblefizz, Ivy Pebblefizz\nMedical plan options available: \nDental and vision options: \nHealth savings account or flexible spending account eligibility: \nEmployer retirement plan contribution election: \nEmployer match details: \nLife and disability insurance options: \nKey questions or tradeoffs: \nDocuments received: \nRecommended follow-up: \n\nReview Lila Pebblefizz’s benefits enrollment for Moonbadger Design Studio, comparing medical, disability, life, HSA/FSA eligibility, and retirement contribution options, and provide side‑by‑side analysis before the enrollment window closes on 2024‑10‑25.",
+      "priority": "medium",
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete the Moonbadger Design Studio benefits enrollment review by 2024-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Year‑End Tax Projection and Charitable Funding Analysis",
+      "text": "Prepare a year‑end tax projection for Nolan and Lila Pebblefizz that coordinates withholding, estimates tax exposure, models appreciated‑share charitable giving, and evaluates whether a larger charitable gift should be made before year‑end, to be completed by 2024‑12‑06.",
+      "priority": null,
+      "dueDate": "2024-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete the year-end tax projection and charitable funding analysis by 2024-12-06."
+    },
+    {
+      "templateId": "0b36d91c-41e3-5416-b667-1892b9e43f2a",
+      "title": "Gather Inheritance Intake Details",
+      "text": "Collect the core facts needed to evaluate the inheritance from Adele Pebblefizz, including the expected $220,000 cash, fractional IRA interest, timing, estate contact information, beneficiary status, and any tax documents, to be completed by 2024‑10‑30.",
+      "priority": "high",
+      "dueDate": "2024-10-30",
+      "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4",
+      "subTasks": [],
+      "evidence": "They agreed to complete the inheritance intake for Adele Pebblefizz’s estate by 2024-10-30."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Paper Otter Analytics Stock Cost Basis",
+      "text": "Reconcile the cost basis for Paper Otter Analytics shares in Nolan Pebblefizz’s taxable brokerage account to resolve the discrepancy between his spreadsheet and the Velvet Acorn Custody unrealized gain report, and identify shares suitable for charitable gifting or concentration management, by 2024‑11‑08.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the Paper Otter Analytics stock basis by 2024-11-08."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm and Correct Velvet Acorn Custody Portal Settings",
+      "text": "Confirm the current settings in the Velvet Acorn Custody portal for Nolan Pebblefizz’s household login, ensure paper delivery is disabled, verify the beneficiary update for his IRA is correctly reflected, and correct any account‑level settings as needed by 2024‑10‑23.",
+      "priority": null,
+      "dueDate": "2024-10-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The service follow-up is limited to confirming current records and correcting account-level settings where needed, and they agreed to address it by 2024-10-23."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Estate Document Coordination Points",
+      "text": "Prepare a list of coordination points for Nolan and Lila Pebblefizz’s estate attorney to review the guardianship provisions and successor trustee information in light of the children’s ages and the trustee’s relocation, and deliver the points by 2024‑11‑15.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare the estate document coordination points by 2024-11-15."
+    }
+  ]
+}

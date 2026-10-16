@@ -1,0 +1,98 @@
+{
+  "name": "response",
+  "type": "object",
+  "properties": {
+    "meetingId": {
+      "type": "string"
+    },
+    "tickets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "templateId": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "title": {
+            "type": "string"
+          },
+          "text": {
+            "type": "string"
+          },
+          "priority": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "dueDate": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "assigneeId": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "subTasks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "title": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "priority": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                },
+                "assigneeId": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                }
+              },
+              "required": [
+                "title",
+                "text",
+                "priority",
+                "assigneeId"
+              ]
+            }
+          },
+          "evidence": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "templateId",
+          "title",
+          "text",
+          "priority",
+          "dueDate",
+          "assigneeId",
+          "subTasks",
+          "evidence"
+        ]
+      }
+    }
+  },
+  "required": [
+    "meetingId",
+    "tickets"
+  ],
+  "meetingId": "577",
+  "tickets": []
+}

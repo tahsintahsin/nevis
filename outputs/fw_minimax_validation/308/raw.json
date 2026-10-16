@@ -1,0 +1,18 @@
+{
+ "config": "fw_minimax",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"308\", \"tickets\": [{\"title\": \"Prepare life insurance coverage analysis for Mossbutton household\", \"text\": \"Prepare a life insurance coverage analysis for Alina and Derek Mossbutton reflecting Nora's adoption, Derek's reduced income during unpaid leave from Velvet Acorn Pediatrics, the $412,000 mortgage balance, and current policies (Alina's group life at Tin Sparrow Analytics equal to one times salary and Derek's $250,000 term policy with Moonbadger Life through 2041).\", \"priority\": null, \"dueDate\": \"2026-03-09\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed to prepare life insurance coverage analysis by 2026-03-09 reflecting Nora's adoption, Derek's reduced household income during leave, the mortgage balance, and current group and term policies.\"}, {\"title\": \"Care Cost Planning Starter\", \"text\": \"Create a single view of childcare and education funding tradeoffs for Alina and Derek Mossbutton, showing how the $2,150 per month daycare quote and desired college savings draw from the same monthly surplus, with reserve impact, dependent-care reimbursements, and possible education account funding levels. The household keeps about $61,000 in checking and savings at Teacup Comet Bank with regular pre-child spending of about $9,200 per month.\", \"priority\": null, \"dueDate\": \"2026-03-12\", \"assigneeId\": null, \"templateId\": \"d9317489-4c3f-5a88-801f-76eec7064887\", \"subTasks\": [], \"evidence\": \"They agreed by 2026-03-12 to create one view of childcare and education funding tradeoffs because the daycare quote and desired college savings contribution would draw from the same monthly surplus, showing reserve impact, dependent-care reimbursements, and possible education account funding levels.\"}, {\"title\": \"Address dependent-care enrollment timing for Mossbutton household\", \"text\": \"Address dependent-care enrollment timing for Alina and Derek Mossbutton because Derek's employer portal at Velvet Acorn Pediatrics shows a benefits enrollment window closing soon, and Alina was unsure which parent's dependent-care arrangement should be used given the expected daycare start and Derek's leave transition.\", \"priority\": null, \"dueDate\": \"2026-02-27\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2026-02-27 to address dependent-care enrollment timing because Derek's employer portal shows a benefits enrollment window closing soon, and Alina was unsure which parent's dependent-care arrangement should be used given the expected daycare start and leave transition.\"}]}",
+   "usage": {
+    "input_tokens": 2074,
+    "output_tokens": 7844,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2206
+   },
+   "stop": "stop"
+  }
+ ]
+}

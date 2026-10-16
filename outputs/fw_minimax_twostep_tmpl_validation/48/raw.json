@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"48\", \"followups\": [{\"evidence\": \"Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\", \"action\": \"Prepare a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates\", \"templateId\": null}, {\"evidence\": \"For 2025-03-14, agreed pre-window option exercise/sale analysis covers next open trading window following current blackout, meaningful spread over strike, and Nadia weighing AMT exposure, share retention, and stock concentration.\", \"action\": \"Prepare pre-window option exercise/sale analysis covering next open trading window, spread, AMT exposure, share retention, and stock concentration\", \"templateId\": null}, {\"evidence\": \"For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares.\", \"action\": \"Obtain equity grant documents: current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 2904,
+    "output_tokens": 1380,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1279
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"48\", \"tickets\": [{\"title\": \"Prepare equity vesting and trading-window calendar for Nadia Pebblefizz\", \"text\": \"Prepare a practical equity vesting and trading-window calendar for Nadia Pebblefizz that separates Nadia-controlled dates from Moonbadger Dataworks-administered dates. The calendar should address her 18,400 unvested RSUs vesting quarterly through 2028, option-expiration sequencing, blackout periods, and employer preclearance steps.\", \"priority\": null, \"dueDate\": \"2025-03-07\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\", \"templateId\": null}, {\"title\": \"Prepare pre-window option exercise and sale analysis for Nadia Pebblefizz\", \"text\": \"Prepare a pre-window option exercise and sale analysis for Nadia Pebblefizz covering the next open trading window at Moonbadger Dataworks following the current blackout. The analysis should evaluate meaningful spread over strike on her vested ISOs/NSOs, AMT exposure, share retention considerations, and stock concentration given employer stock and vested options as the household's largest single-company exposure.\", \"priority\": null, \"dueDate\": \"2025-03-14\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"For 2025-03-14, agreed pre-window option exercise/sale analysis covers next open trading window following current blackout, meaningful spread over strike, and Nadia weighing AMT exposure, share retention, and stock concentration.\", \"templateId\": null}, {\"title\": \"Obtain equity grant documents for Nadia Pebblefizz\", \"text\": \"Obtain the current Moonbadger Dataworks equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations for Nadia Pebblefizz. These documents are needed to reconcile withheld and deposited shares and complete the equity grant file.\", \"priority\": null, \"dueDate\": \"2025-03-05\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 3203,
+    "output_tokens": 2086,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1557
+   },
+   "stop": "stop"
+  }
+ ]
+}

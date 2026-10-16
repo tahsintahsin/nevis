@@ -1,0 +1,85 @@
+{
+  "meetingId": "960",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare appreciated stock donation analysis",
+      "text": "Prepare the appreciated stock donation analysis for Nora Velvetreed's donor-advised fund at Silver Marmot Foundation, comparing cash versus low-basis Paper Otter Robotics shares, including expected reduction in concentration and records needed for transfer.",
+      "priority": "medium",
+      "dueDate": "2024-03-20",
+      "assigneeId": "7e92d20a-b9bc-5850-a6db-11d718e32d49",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that appreciated stock donation analysis by March 20, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review concentrated employer stock for charitable lots",
+      "text": "Review concentrated employer stock (Paper Otter Robotics) for charitable lot selection details, considering taxable lots with large unrealized gains, before Nora chooses assets for charitable funding.",
+      "priority": "medium",
+      "dueDate": "2024-03-27",
+      "assigneeId": "7e92d20a-b9bc-5850-a6db-11d718e32d49",
+      "subTasks": [],
+      "evidence": "Tobin’s portfolio review found that several taxable lots of Paper Otter Robotics stock have large unrealized gains, making the lot-selection details relevant before Nora chooses assets for charitable funding. The agreed follow-up is to review concentrated employer stock for charitable lots by March "
+    },
+    {
+      "templateId": null,
+      "title": "Address charitable giving timeline before filing package closes",
+      "text": "Address the charitable giving timeline to confirm which prior charitable records belong in Priya Dewspindle's filing package and which gifts are only current-year planning items, before the extended tax return filing package closes.",
+      "priority": "medium",
+      "dueDate": "2024-03-25",
+      "assigneeId": "7e92d20a-b9bc-5850-a6db-11d718e32d49",
+      "subTasks": [],
+      "evidence": "The extended tax return process created a planning deadline for confirming which prior charitable records belong in Priya’s filing package and which gifts are only current-year planning items. The agreed follow-up is to address the charitable giving timeline before the filing package closes by March"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain or resolve donor-advised fund contribution receipt",
+      "text": "Obtain or resolve the donor-advised fund contribution receipt for Nora Velvetreed's gift to Silver Marmot Foundation to substantiate the deductible gift for Priya Dewspindle's filing package.",
+      "priority": "medium",
+      "dueDate": "2024-03-22",
+      "assigneeId": "7e92d20a-b9bc-5850-a6db-11d718e32d49",
+      "subTasks": [],
+      "evidence": "Nora’s records include a bank transfer note for a contribution to Silver Marmot Foundation, but the file does not include the foundation’s contribution confirmation needed to substantiate the deductible donor-advised fund gift. The agreed follow-up is to obtain or resolve the donor-advised fund cont"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile donor-advised fund balance",
+      "text": "Reconcile the donor-advised fund balance for Nora Velvetreed at Silver Marmot Foundation, checking whether pending grants, investment movement, or timing of deposits explains the difference between the portal balance and the downloaded activity summary.",
+      "priority": "medium",
+      "dueDate": "2024-03-29",
+      "assigneeId": "7e92d20a-b9bc-5850-a6db-11d718e32d49",
+      "subTasks": [],
+      "evidence": "Nora’s donor-advised fund portal balance differed from the activity summary she downloaded, and the team discussed checking whether pending grants, investment movement, or timing of deposits explains the difference. The agreed follow-up is to reconcile the donor-advised fund balance by March 29, 202"
+    },
+    {
+      "templateId": null,
+      "title": "Support pending grant recommendation review",
+      "text": "Support the pending grant recommendation review for the Marzipan Meadow Rural Clinic grant in Nora Velvetreed's donor-advised fund at Silver Marmot Foundation, determining if additional information is needed.",
+      "priority": "medium",
+      "dueDate": "2024-03-18",
+      "assigneeId": "7e92d20a-b9bc-5850-a6db-11d718e32d49",
+      "subTasks": [],
+      "evidence": "Nora also reported that the grant recommendation to Marzipan Meadow Rural Clinic still appeared pending in the donor-advised fund portal after she expected it to move forward, and she wanted help determining whether Silver Marmot Foundation needs additional information. The agreed follow-up is to su"
+    },
+    {
+      "templateId": null,
+      "title": "Address charitable plan after family caregiving change",
+      "text": "Address the charitable plan to add a modest annual grant category for eldercare access organizations in Hazel Velvetreed's county, following Nora Velvetreed's mother moving into assisted living.",
+      "priority": "medium",
+      "dueDate": "2024-04-05",
+      "assigneeId": "7e92d20a-b9bc-5850-a6db-11d718e32d49",
+      "subTasks": [],
+      "evidence": "Nora said her mother, Hazel Velvetreed, recently moved into assisted living, prompting Nora to consider adding a modest annual grant category for eldercare access organizations in Hazel’s county. The agreed follow-up is to address the charitable plan after that family caregiving change by April 5, 2"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare CPA-ready charitable documentation packet",
+      "text": "Prepare a CPA-ready charitable documentation packet for Nora Velvetreed that separates donor-advised fund contributions, donor-advised fund grants, and any direct charitable gifts, so Priya Dewspindle can use the records without repeated clarification for the tax filing.",
+      "priority": "medium",
+      "dueDate": "2024-04-12",
+      "assigneeId": "7e92d20a-b9bc-5850-a6db-11d718e32d49",
+      "subTasks": [],
+      "evidence": "Nora requested a single packet for Priya that separates donor-advised fund contributions, donor-advised fund grants, and any direct charitable gifts so the tax records do not mix deductible and non-deductible documentation. The agreed follow-up is to prepare the CPA-ready charitable documentation pa"
+    }
+  ]
+}

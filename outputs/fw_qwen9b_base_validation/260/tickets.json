@@ -1,0 +1,25 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset portal credentials and strengthen MFA",
+      "text": "Perform an approved-channel clean credential reset and session review for Jared and Ava Wrenpuddle, implementing stronger MFA setup following their reported repeated lockouts.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18"
+    },
+    {
+      "templateId": null,
+      "title": "Review pending Teacup Comet Bank transfer instructions",
+      "text": "Review the pending transfer instructions and profile change request associated with the Teacup Comet Bank link found in the Wrenpuddle household's brokerage account, as the client reported no existing relationship there.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Account activity showed a pending Teacup Comet Bank link; Jared said the household had none there, and associated transfer-instruction/profile-change review was agreed for 2024-03-19."
+    }
+  ]
+}

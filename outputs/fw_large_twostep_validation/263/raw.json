@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"263\",\n\"followups\": [\n{\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\",\n\"action\": \"Reset portal credentials, review session activity, and implement stronger MFA via approved channels.\"\n},\n{\n\"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\",\n\"action\": \"Verify and update transfer instructions and profile changes for the pending bank link.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3669,
+    "output_tokens": 522,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"263\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Reset portal credentials and MFA\",\n\"text\": \"Reset the portal credentials for Jared and Ava Wrenpuddle, review recent session activity, and implement stronger multi-factor authentication via approved channels on the Apricot Compass Wealth Advisory portal.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Verify and update transfer instructions\",\n\"text\": \"Verify and update the transfer instructions and profile changes for Jared and Ava Wrenpuddle’s pending Teacup Comet Bank link on their joint taxable brokerage account.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-19\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4603,
+    "output_tokens": 1028,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  }
+ ]
+}

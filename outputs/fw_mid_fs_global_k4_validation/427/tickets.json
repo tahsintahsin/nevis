@@ -1,0 +1,55 @@
+{
+  "meetingId": "427",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare care-cost runway projection",
+      "text": "Prepare a care-cost runway projection comparing the current aide schedule (32 hours per week at $38 per hour from Pocket Lantern Home Care) with a higher-coverage scenario and showing when the household's $142,000 in checking and savings at Teacup Comet Bank would require an increased taxable-account withdrawal. Use baseline spending of about $7,400 per month and $8,900 per month from Social Security and pensions.",
+      "priority": null,
+      "dueDate": "2024-01-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Helena asked for a care-cost runway projection comparing the current aide schedule with a higher-coverage scenario and showing when cash reserves would require an increased taxable-account withdrawal; the agreed follow-up is due 2024-01-05."
+    },
+    {
+      "templateId": null,
+      "title": "Document family caregiver reimbursement approach",
+      "text": "Document a family caregiver reimbursement approach for Lila Cloudpuddle that does not blur gifts, wages, and shared household costs. Lila is reducing her clinic hours to cover weekday transportation and medication supervision three nights per week.",
+      "priority": null,
+      "dueDate": "2024-01-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lila is reducing her clinic hours to cover weekday transportation and medication supervision, and Helena wants a documented family caregiver reimbursement approach that does not blur gifts, wages, and shared household costs; the agreed follow-up is due 2024-01-12."
+    },
+    {
+      "templateId": null,
+      "title": "Collect long-term care claim file materials",
+      "text": "Collect the full policy contract, claim packet, and elimination-period instructions from Amber Teapot Life Insurance for Martin Cloudpuddle’s long-term care claim. The latest premium notice references a 90-day elimination period and a $210 daily benefit limit.",
+      "priority": null,
+      "dueDate": "2024-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For long-term care claim file materials, Helena had the premium notice but not the full policy contract, claim packet, or elimination-period instructions requested by Amber Teapot Life Insurance; those materials are needed by 2024-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Pocket Lantern Home Care portal billed hours",
+      "text": "Reconcile the discrepancy between Pocket Lantern Home Care’s portal billed hours and Helena’s calendar and aide sign-in sheet for the first service week. The portal shows more billed aide hours than documented, so the home-care invoice amount is not ready for planning assumptions.",
+      "priority": null,
+      "dueDate": "2024-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Pocket Lantern Home Care’s portal shows more billed aide hours for the first service week than Helena’s calendar and aide sign-in sheet, so the home-care invoice amount is not ready for planning assumptions; the agreed follow-up is due 2024-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare financial questions and affordability figures for rehab care conference",
+      "text": "Prepare financial questions and affordability figures for the near-term care conference set by the rehab team to review home therapy authorization and daily supervision. Include current cash reserves, aide costs, and projected withdrawal needs.",
+      "priority": null,
+      "dueDate": "2024-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The rehab team set a near-term care conference to review home therapy authorization and daily supervision, and Helena wants financial questions and affordability figures ready for that conversation; the agreed follow-up is due 2024-01-08."
+    }
+  ]
+}

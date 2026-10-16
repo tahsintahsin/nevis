@@ -1,0 +1,65 @@
+{
+  "meetingId": "716",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain Lea's identifying information and marriage certificate",
+      "text": "Obtain from Daniel Copperwisp Lea Copperwisp's full legal identifying information and a copy of the marriage certificate so Velvet Acorn Custody can complete the household and beneficiary record updates.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those items remain needed by 2025-01-06."
+    },
+    {
+      "templateId": "70ed524c-85e2-5a82-b10e-86adb63f1e5f",
+      "title": "Update client address and residency information",
+      "text": "Process a client address or residency change after receiving written confirmation. Verify the new mailing address, legal residence, seasonal address if any, effective date, state tax implications to flag for the advisor, custodian forms required, and communication preferences. Record the update in the CRM and confirm completion to the client. Daniel Copperwisp has moved into Lea Copperwisp's townhouse in Portland, Oregon, and will send written confirmation of the preferred mailing address and legal residence; update custodian mailing information at Velvet Acorn Custody.",
+      "priority": "medium",
+      "dueDate": "2025-01-07",
+      "assigneeId": "0c95f12a-aa0b-5e7d-82d7-30d510a640ca",
+      "subTasks": [],
+      "evidence": "Daniel said he is now living at Lea’s townhouse and asked that Apricot Compass Advisory update the household record and custodian mailing information once he sends written confirmation of the preferred mailing address and legal residence; the agreed follow-up is due 2025-01-07."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare account registration and beneficiary-change materials",
+      "text": "Prepare for Daniel Copperwisp materials reviewing options for keeping the taxable brokerage account at Velvet Acorn Custody individually titled, adding transfer-on-death instructions, and updating primary beneficiaries on advisory-held retirement assets in light of his marriage to Lea Copperwisp.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daniel asked for materials to review options for keeping his taxable brokerage account individually titled, adding transfer-on-death instructions, and updating primary beneficiaries on advisory-held retirement assets in light of the marriage; the agreed follow-up is due 2025-01-08."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve beneficiary-record mismatch on retirement accounts",
+      "text": "Resolve the beneficiary-record issue for Daniel Copperwisp at Velvet Acorn Custody: the traditional IRA still lists Owen Copperwisp as beneficiary and the taxable brokerage account has no transfer-on-death beneficiary on file, while Daniel intends Lea Copperwisp as primary beneficiary.",
+      "priority": null,
+      "dueDate": "2025-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the IRA record still lists Owen and the taxable account has no transfer-on-death beneficiary on file; resolving the beneficiary-record issue remains needed by 2025-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare tax filing summary for CPA discussion",
+      "text": "Prepare for Daniel Copperwisp a concise summary of investment income, potential capital-gain exposure, withholding information, and filing-status questions for his discussion with his CPA at Paper Otter Tax Services about filing jointly or separately for the first married tax year.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daniel wanted Apricot Compass Advisory to prepare a concise summary of investment income, potential capital-gain exposure, withholding information, and filing-status questions for that discussion; the agreed follow-up is due 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare estate attorney information outline",
+      "text": "Prepare for Daniel Copperwisp an outline of the account and beneficiary information his estate attorney would need to evaluate updates to his revocable trust drafted in 2018, which names Owen Copperwisp as successor trustee and predates his marriage to Lea Copperwisp.",
+      "priority": null,
+      "dueDate": "2025-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daniel asked for an outline of the account and beneficiary information his estate attorney would need to evaluate updates; the agreed follow-up is due 2025-01-15."
+    }
+  ]
+}

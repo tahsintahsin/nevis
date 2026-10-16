@@ -1,0 +1,117 @@
+{
+  "meetingId": "672",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare estate attorney coordination package",
+      "text": "Prepare an organized packet for Priya Cloudpuddle at Paper Otter Law showing Nora Thimblefern’s current household assets, account titling, trustee concerns, and beneficiary records.",
+      "priority": null,
+      "dueDate": "2025-12-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that estate attorney coordination package by 2025-12-05."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare successor trustee suitability notes",
+      "text": "Prepare notes evaluating the suitability of potential successor trustees for Nora Thimblefern’s revocable trust, including health status of Mark Velvetreed and alternatives such as Lena, Renee, or a corporate fiduciary.",
+      "priority": null,
+      "dueDate": "2026-01-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare successor trustee suitability notes by 2026-01-12."
+    },
+    {
+      "templateId": null,
+      "title": "Address employer plan beneficiary package",
+      "text": "Address the employer benefit election and beneficiary package for Nora Thimblefern, updating the Clockwork Clover Analytics portal to reflect current contingent beneficiaries and election choices.",
+      "priority": null,
+      "dueDate": "2025-11-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the employer plan beneficiary and benefit election package by 2025-11-25."
+    },
+    {
+      "templateId": "bee9d70c-4f03-57d8-ae3d-865674f63b65",
+      "title": "Complete insurance policy review workflow",
+      "text": "Review Nora Thimblefern’s life insurance policies, including the $750,000 term policy from Silver Marmot Life and the $430,000 employer group coverage, to verify ownership and beneficiary records.",
+      "priority": "medium",
+      "dueDate": "2025-12-16",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect current policy documents",
+          "text": "Request and organize current declaration pages, policy statements, in-force illustrations where applicable, beneficiary records, premium notices, and carrier correspondence.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "e0430e5a-5400-534f-9752-ecaa97d7c1bc"
+        },
+        {
+          "title": "Analyze coverage and ownership",
+          "text": "Compare policy type, coverage amount, insured party, owner, beneficiary, riders, premiums, cash value, surrender provisions, and loan status against the client's planning goals.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "f5b59b4f-79b3-50b1-8601-8f1944733958"
+        },
+        {
+          "title": "Prepare advisor recommendation summary",
+          "text": "Document gaps, overlaps, tax considerations, estate planning coordination needs, and suggested next steps for advisor review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28"
+        }
+      ],
+      "evidence": "The agreed follow-up is to review life insurance ownership and beneficiary records by 2025-12-16."
+    },
+    {
+      "templateId": "b98bc51d-5aea-5347-8b91-b046dd45e5a0",
+      "title": "Coordinate charitable transfer request",
+      "text": "Coordinate a charitable transfer from Nora Thimblefern’s donor-advised fund at Pocket Lantern Charitable Fund to the appropriate charitable recipient, confirming the asset amount and required authorizations.",
+      "priority": "medium",
+      "dueDate": "2025-12-12",
+      "assigneeId": "e0430e5a-5400-534f-9752-ecaa97d7c1bc",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the current charitable transfer from the donor-advised fund by 2025-12-12."
+    },
+    {
+      "templateId": "82c535f6-f98f-52fc-8453-b16e37794924",
+      "title": "Review inheritance intake information",
+      "text": "Review the inheritance information for Nora Thimblefern from Ellen Thimblefern’s estate, gathering correspondence, executor details, and asset character to plan tax reporting and integration.",
+      "priority": "high",
+      "dueDate": "2025-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete inheritance intake from Ellen Thimblefern’s estate by 2025-12-18."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate CPA materials for estate tax",
+      "text": "Coordinate with CPA Daniel Pebblefizz to gather tax assumptions and estate planning materials for Nora Thimblefern, covering unrealized gains, inheritance reporting, and charitable bequest considerations.",
+      "priority": null,
+      "dueDate": "2026-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate CPA materials for estate and tax assumptions by 2026-01-09."
+    },
+    {
+      "templateId": "1704c178-93d9-51e4-9460-13fd19ef9b38",
+      "title": "Collect mortgage document package",
+      "text": "Collect mortgage and title documents for Nora Thimblefern’s primary residence and lake cabin, including statements, loan agreements, tax bills, and insurance declarations, to verify alignment with the trust plan.",
+      "priority": "medium",
+      "dueDate": "2025-12-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review property title and mortgage documents by 2025-12-10."
+    },
+    {
+      "templateId": null,
+      "title": "Provide digital asset inventory format",
+      "text": "Provide a digital asset and household contact inventory template for Nora Thimblefern, enabling Calvin to locate passwords, subscriptions, and vendor contacts if she becomes incapacitated.",
+      "priority": null,
+      "dueDate": "2025-12-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to provide a digital asset and household contact inventory format by 2025-12-22."
+    }
+  ]
+}

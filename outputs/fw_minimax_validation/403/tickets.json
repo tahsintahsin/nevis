@@ -1,0 +1,194 @@
+{
+  "meetingId": "403",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare education funding calendar for Selena Thimblefern",
+      "text": "Prepare a side-by-side funding calendar for Selena Thimblefern showing 529 distributions, taxable brokerage withdrawals, expected Calder reimbursements, and Teacup Comet Bank cash for Nico's first Tin Sparrow University bill and Lila's Moonbadger Preparatory payments.",
+      "priority": null,
+      "dueDate": "2026-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed work is to prepare that funding calendar by 2026-05-15."
+    },
+    {
+      "templateId": null,
+      "title": "Check Tin Sparrow University billing and payment logistics",
+      "text": "Check withdrawal lead times, payee instructions, account settlement timing, and payment method limits for Selena Thimblefern's first Tin Sparrow University billing cycle before she initiates any education payment.",
+      "priority": null,
+      "dueDate": "2026-06-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to check those billing and payment logistics by 2026-06-05."
+    },
+    {
+      "templateId": "ca0beb64-4823-5deb-8d28-1f7a5f7d128e",
+      "title": "Collect Client Tax Documents",
+      "text": "Request and organize current tax documents for Selena Thimblefern's planning review, including prior-year federal and state returns, W-2s, 1099s, K-1s, estimated tax payment records, charitable giving summaries, and any tax notices. Track missing items and route complete packet to the planning team. The Apricot Compass Advisory file did not contain her most recently filed federal and state returns, current wage information, and education-related tax forms that Petra Nettlewhisk referenced for planning.",
+      "priority": "medium",
+      "dueDate": "2026-05-12",
+      "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb",
+      "subTasks": [],
+      "evidence": "The committed follow-up is to collect the tax packet by 2026-05-12."
+    },
+    {
+      "templateId": "5e79e466-5ab1-5dbb-b640-48dd21ca6ee1",
+      "title": "Collect Education Account Setup Details",
+      "text": "Please complete the following fields before preparing education account paperwork for Daphne Willowdoodle's new grandparent-owned account for Nico and Lila Thimblefern:\n\nAccount type requested: [529 plan / custodial account / other]\nAccount owner: [full legal name]\nAccount owner contact information: [phone and email]\nBeneficiary student: [full legal name]\nBeneficiary date of birth: [MM/DD/YYYY]\nBeneficiary relationship to owner: [relationship]\nBeneficiary state of residence: [state]\nInitial contribution amount or transfer estimate: [$ amount]\nFunding source: [bank account / transfer / rollover / other]\nInvestment option preference: [age-based / static / advisor recommendation / other]\nSuccessor owner, if applicable: [full legal name]\nSpecial instructions or constraints: [notes]\nRequired documents uploaded: [yes/no/list]",
+      "priority": "medium",
+      "dueDate": "2026-05-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to collect the setup information by 2026-05-22."
+    },
+    {
+      "templateId": "9a857c70-2f94-5743-b175-02e061844b04",
+      "title": "Coordinate Missing Signature Follow-Up",
+      "text": "Use this coordination workflow when paperwork cannot be submitted or processed because a signature, initials, date, or required authorization is missing. Confirm the needed correction before contacting Selena Thimblefern and keep the request limited to the deficient item. The Velvet Acorn Custody bank authorization package for her 529 distributions showed her printed name and Teacup Comet Bank information but lacked the required authorization signature page.",
+      "priority": "medium",
+      "dueDate": "2026-05-09",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Validate the missing signature requirement",
+          "text": "Review the form package and processing notes to identify the exact missing signature, initials, date, or authorization. Confirm whether wet signature, e-signature, or custodian-specific language is required. The Velvet Acorn Custody bank authorization package for Selena Thimblefern's 529 distributions showed her printed name and Teacup Comet Bank information but lacked the required authorization signature page.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb"
+        },
+        {
+          "title": "Confirm planning or account impact",
+          "text": "Determine whether the missing signature affects account opening, transfer timing, trading authority, beneficiary changes, or other planning deadlines. Note any client-facing implications for the advisor.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9268210f-ef66-5a4b-88ad-788a4cfe5d2d"
+        },
+        {
+          "title": "Send corrected signature request",
+          "text": "Contact the client through the approved secure channel with clear instructions, the corrected form or signature page, and a brief explanation of what is needed. Avoid sending unnecessary pages containing sensitive information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb"
+        },
+        {
+          "title": "Advisor confirmation before resubmission",
+          "text": "Review the completed correction and confirm the package is ready for resubmission or escalation if the client has questions about the request.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5"
+        }
+      ],
+      "evidence": "The committed follow-up is to correct the authorization package by 2026-05-09."
+    },
+    {
+      "templateId": "432e4a09-cd76-510d-b173-4fe70356ef9a",
+      "title": "Recover Client Portal Access",
+      "text": "Restore Selena Thimblefern's Apricot Compass Advisory portal access after the multi-factor code failed following her mobile carrier change, so she can upload the Tin Sparrow University aid letter and continue secure document exchange.",
+      "priority": null,
+      "dueDate": "2026-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to restore portal access by 2026-05-08."
+    },
+    {
+      "templateId": null,
+      "title": "Review 529 successor owner discrepancy for Selena Thimblefern",
+      "text": "Review the discrepancy between Velvet Acorn Custody's 529 profile listing Calder as successor owner and Selena Thimblefern's estate binder identifying Amara Pebblefizz as the intended financial decision-maker for Nico and Lila.",
+      "priority": null,
+      "dueDate": "2026-05-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that discrepancy by 2026-05-16."
+    },
+    {
+      "templateId": null,
+      "title": "Check Tin Sparrow University aid portal supporting documents",
+      "text": "Check the supporting documents for the Tin Sparrow University aid portal discrepancy that lists Calder's email as the primary parent contact even though Nico's FAFSA submission used Selena Thimblefern's household information, before she contacts the aid office.",
+      "priority": null,
+      "dueDate": "2026-05-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to check the supporting documents by 2026-05-23."
+    },
+    {
+      "templateId": "8eca0f6f-5cda-5bef-b735-b8eb223908fa",
+      "title": "Track Custodian Transfer Status",
+      "text": "On a recurring basis, check transfer status with the custodian every few business days until completion or rejection. Record the current stage, outstanding requirements, estimated processing window, and any action needed by the client, advisor, or delivering firm. Escalate if the transfer remains stalled beyond the custodian's normal processing range or if new paperwork is requested. Monitor Nico Thimblefern's Paper Otter Custody UTMA transfer to Velvet Acorn Custody after the delivering custodian showed the request as pending review rather than in process.",
+      "priority": "medium",
+      "dueDate": "2026-05-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to monitor the transfer by 2026-05-20."
+    },
+    {
+      "templateId": null,
+      "title": "Review Nico's 529 allocation for near-term tuition use",
+      "text": "Review Nico Thimblefern's 529 account allocation at Velvet Acorn Custody, which remains heavily allocated to equities despite near-term tuition use, and assess risk and liquidity before any large distribution.",
+      "priority": null,
+      "dueDate": "2026-05-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed review is due 2026-05-29."
+    },
+    {
+      "templateId": "9e10aee4-f276-52cb-be0c-39f25dd71780",
+      "title": "Review Concentrated Position",
+      "text": "Assess position size, tax basis, liquidity needs, risk tolerance, trading restrictions, and diversification options before recommending any action. Review Selena Thimblefern's Cloudberry Kite Biotech stock position in her taxable brokerage account, valued at about $280,000 with an estimated cost basis of $74,000, and prepare a tax-aware sale range that could help cover education costs without selling the entire position at once.",
+      "priority": "medium",
+      "dueDate": "2026-06-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that sale-range analysis by 2026-06-12."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh Selena Thimblefern's retirement projection",
+      "text": "Refresh Selena Thimblefern's retirement projection to reflect Nico's college enrollment, Lila's Moonbadger Preparatory costs, and the expected use of taxable assets for her preferred retirement timing at age 62.",
+      "priority": null,
+      "dueDate": "2026-06-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to refresh the retirement projection by 2026-06-19."
+    },
+    {
+      "templateId": null,
+      "title": "Compare beneficiary records against Selena Thimblefern's estate binder",
+      "text": "Compare beneficiary records for Selena Thimblefern's retirement accounts, insurance policies, and education accounts against her estate binder after the divorce and in light of Nico and Lila's education funding needs.",
+      "priority": null,
+      "dueDate": "2026-05-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that comparison by 2026-05-27."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash reserve impact for Selena Thimblefern",
+      "text": "Review the cash reserve impact for Selena Thimblefern, since the combined education funding gap and Copper Firefly Contractors roof repair estimate would reduce her Teacup Comet Bank cash below her stated $72,000 reserve target if paid entirely from bank savings.",
+      "priority": null,
+      "dueDate": "2026-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to review the cash reserve impact by 2026-06-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Calder reimbursement tracking schedule and packet",
+      "text": "Prepare a tracking schedule and document packet for Selena Thimblefern to track Calder's 40% reimbursement of qualified college costs after scholarships, subject to the $25,000 annual cap per child, including eligible costs and proof of payment.",
+      "priority": null,
+      "dueDate": "2026-05-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that tracking schedule and document packet by 2026-05-23."
+    },
+    {
+      "templateId": null,
+      "title": "Review Selena Thimblefern's insurance coverage alignment",
+      "text": "Review Selena Thimblefern's term life coverage amount, policy beneficiary records, and employer coverage through Clockwork Clover Insurance to confirm alignment with her children's needs after the divorce and remaining education funding obligations.",
+      "priority": null,
+      "dueDate": "2026-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The committed follow-up is to review those insurance coverage items by 2026-06-03."
+    }
+  ]
+}

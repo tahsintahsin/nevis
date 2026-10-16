@@ -1,0 +1,125 @@
+{
+  "meetingId": "359",
+  "tickets": [
+    {
+      "templateId": "25f12d10-20d2-5147-8b25-a3648032f5b3",
+      "title": "Run Liquidity Planning Check",
+      "text": "Review expected cash needs, available reserves, upcoming withdrawals, and any planned large expenses before recommending trades or distributions. Update the cash reserve target for Asha and Ronan Velvetreed: Ronan's consulting project is ending with a likely gap before the next engagement, and he prefers at least 12 months of core spending (about $16,500 per month) in cash at Teacup Comet Bank, with $70,000 of the $212,000 already earmarked for estimated and property taxes.",
+      "priority": "medium",
+      "dueDate": "2024-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Ronan described a consulting project ending and a likely gap before the next engagement, changing the household’s reserve target before any equity sale proceeds are assumed; the agreed follow-up for 2024-03-13 is to update the cash reserve."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare concentration analysis for Moonbadger Robotics holdings",
+      "text": "Prepare a side-by-side comparison for Asha Velvetreed of selling a portion of vested Moonbadger Robotics shares versus holding through the next open trading window, using tax lots from the Velvet Acorn Custody brokerage account and the Moonbadger Robotics stock plan account. Moonbadger Robotics stock is about 58% of the roughly $1.84 million brokerage account, with 31,600 vested shares and 24,400 unvested restricted stock units as of 2024-02-23.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha asked for a side-by-side comparison of selling a portion of vested shares versus holding through the next open window, using tax lots from the brokerage account and the stock plan account; the agreed follow-up for 2024-03-08 is to prepare the concentration analysis for Moonbadger Robotics holdi"
+    },
+    {
+      "templateId": null,
+      "title": "Develop portfolio concentration comfort range",
+      "text": "Develop a target single-company concentration range for the Velvetreed household that accounts for future Moonbadger Robotics restricted stock unit vesting. Current Moonbadger Robotics exposure is materially above the household's stated comfort level, and Asha Velvetreed prefers scheduled diversification over a single large sale.",
+      "priority": null,
+      "dueDate": "2024-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The review showed single-company exposure materially above the household’s stated comfort level, and Asha asked for a target range that accounts for future restricted stock unit vesting; the agreed follow-up for 2024-03-20 is to develop the portfolio concentration comfort range."
+    },
+    {
+      "templateId": null,
+      "title": "Review trading-window compliance",
+      "text": "Review Moonbadger Robotics trading-window compliance for Asha Velvetreed, including whether a planned sale can be entered before the window opens under a pre-cleared trading plan. Moonbadger Robotics policy limits discretionary sales to open trading windows after earnings unless a pre-cleared trading plan is in place, and the firm maintains a restricted-list note for Asha.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha was unsure whether a planned sale could be entered before the window opens; the agreed follow-up for 2024-03-05 is to review trading-window compliance."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain employer trading materials from Moonbadger Robotics",
+      "text": "Obtain the current insider-trading policy, blackout calendar, and pre-clearance contact from Moonbadger Robotics for Asha Velvetreed, since these were not included in the meeting file and are needed to plan any discretionary share sales.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The meeting file did not include the current insider-trading policy, blackout calendar, or pre-clearance contact from Moonbadger Robotics; the needed follow-up for 2024-03-05 is to obtain the employer trading materials."
+    },
+    {
+      "templateId": "25f12d10-20d2-5147-8b25-a3648032f5b3",
+      "title": "Run Liquidity Planning Check",
+      "text": "Review expected cash needs, available reserves, upcoming withdrawals, and any planned large expenses before recommending trades or distributions. Complete the liquidity check for Asha Velvetreed's next Moonbadger Robotics restricted stock unit settlement, which may create sell-to-cover shares and additional cash flow, keeping liquidity assumptions for tuition, taxes, and mortgage payments separate from long-term investment decisions.",
+      "priority": "medium",
+      "dueDate": "2024-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The next restricted stock unit settlement may create sell-to-cover shares and additional cash-flow data, so liquidity assumptions for tuition, taxes, and mortgage payments were separated from long-term investment decisions; the agreed follow-up for 2024-03-20 is to complete the upcoming vest liquidi"
+    },
+    {
+      "templateId": null,
+      "title": "Model long-dated option exercise alternatives",
+      "text": "Model exercise-and-hold, same-day sale, and staged exercise scenarios for Asha Velvetreed's Moonbadger Robotics options: 36,000 nonqualified stock options with a $14.50 strike and 22,000 incentive stock options with a $9.75 strike, against the $52.40 share price used in the call discussion.",
+      "priority": null,
+      "dueDate": "2024-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the group discussed comparing exercise-and-hold, same-day sale, and staged exercise scenarios; the agreed follow-up for 2024-03-14 is to model the long-dated option exercise alternatives."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing award agreements and withholding elections",
+      "text": "Obtain the signed award agreements and tax withholding elections for Asha Velvetreed's most recent Moonbadger Robotics equity grant, which were not available during the call despite having the stock plan dashboard and grant summary.",
+      "priority": null,
+      "dueDate": "2024-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha had the stock plan dashboard and a grant summary, but not the signed award agreements or tax withholding elections for the most recent equity grant; the needed follow-up for 2024-03-04 is to obtain the missing award agreements and withholding elections."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve incentive stock option share-count mismatch",
+      "text": "Resolve the mismatch between Asha Velvetreed's personal spreadsheet and the Moonbadger Robotics employer portal on the exercisable incentive stock option count, since the correct figure is needed for tax projections.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha’s personal spreadsheet listed a lower exercisable incentive stock option count than the employer portal, creating uncertainty about which figure should be used in tax projections; the needed follow-up for 2024-03-06 is to resolve the incentive stock option share-count mismatch."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate payroll withholding and estimated tax planning",
+      "text": "Coordinate with CPA Kellan Nettlewhisk at Silver Marmot Tax on payroll withholding and estimated tax planning for Asha and Ronan Velvetreed, because Moonbadger Robotics restricted stock vesting, option exercises, and bonus timing may cause uneven tax withholding. The 2023 return showed $96,000 of federal and $24,000 of Oregon estimated tax payments.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha requested coordination with Kellan because restricted stock vesting, option exercises, and bonus timing may cause uneven tax withholding; the agreed follow-up for 2024-03-18 is to coordinate payroll withholding and estimated tax planning."
+    },
+    {
+      "templateId": null,
+      "title": "Address cost-basis import issue for transferred company shares",
+      "text": "Work with Velvet Acorn Custody to address imported cost basis for Asha Velvetreed's transferred Moonbadger Robotics shares, where several acquisition-date fields are blank and would affect gain calculations for any sales.",
+      "priority": null,
+      "dueDate": "2024-03-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian noted that the custodian’s imported cost basis for transferred Moonbadger Robotics shares showed several blank acquisition-date fields, which would affect gain calculations for sales; the agreed follow-up for 2024-03-11 is to address the cost-basis import issue for transferred company shares."
+    },
+    {
+      "templateId": null,
+      "title": "Review beneficiary and trust titling discrepancy",
+      "text": "Review the titling and beneficiary discrepancy for the Velvetreed household: the Pocket Lantern Family Trust is named in the 2017 estate documents signed with attorney Darin Cloudpuddle but does not directly own any investment accounts, while the Velvet Acorn Custody brokerage and retirement accounts remain individually titled or beneficiary-driven.",
+      "priority": null,
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The trust is named in the estate documents, but the brokerage and retirement accounts reviewed during the call remain individually titled or beneficiary-driven; the needed follow-up for 2024-03-22 is to review the beneficiary and trust titling discrepancy."
+    }
+  ]
+}

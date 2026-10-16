@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_reason_low",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"304\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Compare home equity reset payment options\",\n\"text\": \"Compare the projected home equity line reset payment with refinance, a fixed home equity loan, and accelerated payoff alternatives for Evan Cloudpuddle.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Using lender terms Evan brought, the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Collect loan documents for reset\",\n\"text\": \"Collect the missing loan reset notice and full agreement documents for Evan Cloudpuddle to verify margin, draw‑period language, and prepayment terms.\",\n\"priority\": null,\n\"dueDate\": \"2024-08-26\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Reconcile credit‑monitoring balance discrepancy\",\n\"text\": \"Reconcile the $92,100 credit‑monitoring balance with the portal’s reported balance of about $86,400 for Evan Cloudpuddle.\",\n\"priority\": null,\n\"dueDate\": \"2024-08-30\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal’s about $86,400.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Prepare cash‑flow scenario for debt tradeoffs\",\n\"text\": \"Prepare a cash‑flow scenario showing debt‑repayment tradeoffs for Evan Cloudpuddle after accounting for regular spending pressure and the estimated home‑equity reset payment.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed cash-flow scenario due 2024-09-13 is to show debt-repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2088,
+    "output_tokens": 1334,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

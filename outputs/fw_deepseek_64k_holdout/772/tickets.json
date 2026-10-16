@@ -1,0 +1,64 @@
+{
+  "meetingId": "772",
+  "tickets": [
+    {
+      "templateId": "928ef1e8-7dd1-558a-afd3-1a6c408947a0",
+      "title": "Coordinate charitable transfer",
+      "text": "Coordinate a proposed charitable transfer using Nadia Willowdoodle's stated giving intent, eligible assets, tax considerations, custodian requirements, and recipient charity instructions. Confirm the recommended transfer method before any forms are sent for signature or assets are moved. Evaluate appreciated Copper Firefly Energy shares held in the Velvet Acorn Custody joint taxable account for the planned $18,000 Moonbadger Literacy Foundation gift before holiday travel.",
+      "priority": "medium",
+      "dueDate": "2023-11-15",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm gift intent and transfer method",
+          "text": "Document the charitable purpose, approximate gift amount or asset description, preferred timing, recipient organization details, and whether the transfer is intended as cash, appreciated securities, QCD, donor-advised fund contribution, or another method.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b0769e27-90e0-5d04-9b7a-59c3e6e62004"
+        },
+        {
+          "title": "Review tax and planning considerations",
+          "text": "Check whether the proposed transfer aligns with the financial plan, charitable deduction strategy, AGI limits, RMD status if applicable, cost basis considerations, and coordination needs with the client's CPA.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "130cfbca-49c1-5229-8b8a-f22b7a7de62b"
+        },
+        {
+          "title": "Prepare transfer instructions and approvals",
+          "text": "Gather custodian forms, charity delivery instructions, account registration details, signature requirements, and any required compliance approvals before submitting the transfer request.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "5c5439fe-19f1-52ba-8646-5d8a3755e27e"
+        },
+        {
+          "title": "Confirm completion and records",
+          "text": "Verify delivery with the custodian and recipient organization, save confirmations, note any acknowledgment letter needed, and update the planning record with final transfer details.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "c2456bd9-6772-5dad-9f55-3c2f28a5d4e3"
+        }
+      ],
+      "evidence": "They agreed by November 15, 2023 to evaluate appreciated shares for Nadia’s planned $18,000 Moonbadger Literacy Foundation gift before holiday travel."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain restricted stock vesting confirmation from Cloudberry Kite Robotics",
+      "text": "Obtain the latest restricted stock vesting confirmation or payroll withholding detail from Cloudberry Kite Robotics for Nadia Willowdoodle to estimate her 2023 tax exposure.",
+      "priority": null,
+      "dueDate": "2023-10-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By October 20, 2023, the latest restricted stock vesting confirmation or payroll withholding detail from Cloudberry Kite Robotics is needed to estimate 2023 tax exposure."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash reserve and bonus allocation options",
+      "text": "Review cash above the six-month reserve target and Nadia Willowdoodle's expected December bonus for college savings, taxable investment, and mortgage principal comparisons.",
+      "priority": null,
+      "dueDate": "2023-12-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by December 8, 2023 to review cash above the stated six-month reserve target and the expected bonus for college savings, taxable investment, and mortgage principal comparisons."
+    }
+  ]
+}

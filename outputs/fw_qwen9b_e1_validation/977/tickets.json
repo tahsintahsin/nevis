@@ -1,0 +1,65 @@
+{
+  "meetingId": "977",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update household address and state-residency records",
+      "text": "Replace the Portland mailing address with the Fort Collins household address across the advisory profile, custodian records, portal delivery settings, IRA records, and Robin’s household contact record once move-in confirmation is available.",
+      "priority": null,
+      "dueDate": "2025-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2025-07-03."
+    },
+    {
+      "templateId": "bf1a1f75-3fe2-5cb6-8261-3d4ebbddb335",
+      "title": "Collect tax documents for planning review",
+      "text": "Please collect the following tax materials for the planning file:\n\nTax year: [Tax Year]\nClient household or entity: Mossbutton household\nCPA or tax preparer contact: Nia Bramblequill at Clockwork Clover Tax\nExpected filing status: [Filing Status]\nDocuments requested: Moonbadger Analytics paystub, Tin Sparrow Learning Cooperative year-to-date payroll report, moving reimbursement information, written permission for Nia Bramblequill at Clockwork Clover Tax to coordinate with the advisory team\nDocuments already received: [Received Items]\nDocuments still outstanding: Moonbadger Analytics paystub, Tin Sparrow Learning Cooperative year-to-date payroll report, moving reimbursement information, written permission for Nia Bramblequill at Clockwork Clover Tax to coordinate with the advisory team\nSecure upload location or delivery method: [Secure Upload Method]\nSpecial planning questions to review: [Questions]\nPermission to coordinate with tax preparer: Yes",
+      "priority": "medium",
+      "dueDate": "2025-07-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2025-07-11."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare brokerage transfer package",
+      "text": "Prepare a transfer package for Elena’s taxable brokerage account to Velvet Acorn Custody. Address the two account notices sent to the former Portland address and the service desk’s inability to confirm corrected delivery settings.",
+      "priority": null,
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed work covers a transfer package for the taxable brokerage to Velvet Acorn Custody, due 2025-07-18."
+    },
+    {
+      "templateId": "7e5df057-b6d6-59e3-b7ef-4b6f7ca3a27c",
+      "title": "Collect Mortgage Document Packet",
+      "text": "Assemble the financial packet for the Fort Collins townhouse mortgage using the advisory record. Include recent brokerage, retirement, bank, and insurance statements. Do not send full account numbers by email.",
+      "priority": null,
+      "dueDate": "2025-06-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2025-06-30."
+    },
+    {
+      "templateId": "f4c9cebf-44bc-53c4-8301-3d3ac2e2e7cf",
+      "title": "Review insurance policies on a recurring cadence",
+      "text": "Compare Elena’s Silver Marmot Insurance policies and provider list against the Fort Collins household setup. Account for the relocation changes to the insured residence, vehicle garaging location, local medical network, and emergency contacts.",
+      "priority": "medium",
+      "dueDate": "2025-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2025-07-25."
+    },
+    {
+      "templateId": null,
+      "title": "Review household beneficiary records and attorney coordination notes",
+      "text": "Consolidate a review of household beneficiary records and attorney coordination notes. Address the IRA, taxable transfer-on-death note, and Silver Marmot Insurance life policy, which still reference the Oregon trust documents and Lara Thimblefern as successor contact.",
+      "priority": null,
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is a consolidated review of household beneficiary records and attorney coordination notes, due 2025-08-08."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "meetingId": "923",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare coordinated Roth conversion projection",
+      "text": "Prepare a coordinated projection for Helena and Gabriel Thimblefern showing whether a partial Roth conversion still makes sense in a high-income year, incorporating Helena's Moonbadger Instruments bonus estimate, vested RSU shares, Gabriel's Copper Firefly Design Studio income range, and the household's charitable plans.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that coordinated projection by 2025-08-15."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estimated tax assumptions with CPA",
+      "text": "Coordinate projected estimated tax payments and withholding assumptions for Helena and Gabriel Thimblefern with CPA Lina Maplesprocket of Paper Otter Tax Services before the next household cash-flow update, given the unusually high income year and Gabriel's uneven business income.",
+      "priority": null,
+      "dueDate": "2025-09-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate those assumptions by 2025-09-01."
+    },
+    {
+      "templateId": null,
+      "title": "Review paystub and withholding discrepancy",
+      "text": "Review the discrepancy between Helena Thimblefern's Moonbadger Instruments year-to-date paystub and the bonus and withholding amounts used in the preliminary tax estimate; the variance is large enough to affect quarterly tax planning.",
+      "priority": null,
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the discrepancy by 2025-07-18."
+    },
+    {
+      "templateId": "69200860-58a0-5ea4-beb1-03406f61c2f5",
+      "title": "Coordinate Benefits Enrollment Support",
+      "text": "Use this coordination template when a client needs help reviewing employer benefit choices, organizing enrollment materials, or confirming elections. Keep recommendations within advisory scope and document assumptions clearly. Helena Thimblefern needs a review of Moonbadger Instruments' available health plan, HSA, disability, life insurance, and 401(k) election choices before the employer portal closes, as the employer moved its benefits cycle.",
+      "priority": "medium",
+      "dueDate": "2025-07-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather enrollment materials",
+          "text": "Request the benefits guide, enrollment portal summary, plan options, employer contribution details, deadlines stated by the employer, and current elections. Store documents in the planning file.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review planning implications",
+          "text": "Analyze available retirement plan, health plan, HSA/FSA, disability, life insurance, and equity or deferred compensation options for planning relevance. Summarize tradeoffs and questions for the client discussion.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d5f4d664-f103-5774-9e44-6776b889980a"
+        },
+        {
+          "title": "Confirm client elections and documentation",
+          "text": "After the client makes selections, request confirmation of submitted elections or a benefits summary. Note any follow-up items for payroll, beneficiaries, or future plan updates.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "The agreed follow-up is to complete that benefits enrollment review by 2025-07-10."
+    },
+    {
+      "templateId": "754a9d70-aa34-5a38-973d-b82743cfae93",
+      "title": "Resolve Missing Signature Packet",
+      "text": "Use this workflow when a form, agreement, authorization, or disclosure is otherwise complete but cannot proceed because one or more required signatures, initials, dates, or attestations are missing. Confirm the exact deficiency, contact the signer with clear instructions, and verify the corrected packet before filing or submission. The Silver Marmot Giving Fund charitable transfer packet for Helena and Gabriel Thimblefern is otherwise complete, but the spouse consent page and one donor acknowledgment page were not signed in the returned copy.",
+      "priority": "medium",
+      "dueDate": "2025-07-01",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Identify the signature gap",
+          "text": "Review the document packet and note each missing signature, initial, date, witness line, notary block, or required checkbox. Confirm whether electronic signature, wet signature, or custodian-specific signing is required.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Send signer instructions",
+          "text": "Contact the client or authorized signer with the specific pages and fields needing completion. Include return instructions, acceptable delivery method, and any identity or witness requirements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Verify corrected packet",
+          "text": "After receipt, confirm the corrected pages are legible, complete, and consistent with the rest of the packet before updating the task status or forwarding for processing.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "The agreed follow-up is to obtain the missing signatures by 2025-07-01."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare year-end charitable giving schedule",
+      "text": "Prepare a year-end giving schedule for Helena and Gabriel Thimblefern that coordinates the Silver Marmot Giving Fund donor-advised fund balance of approximately $96,000, possible appreciated securities gifts, anonymous grant preferences, and tax projection assumptions.",
+      "priority": null,
+      "dueDate": "2025-10-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that giving schedule by 2025-10-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update file with inheritance materials",
+      "text": "Update the advisory file for Helena and Gabriel Thimblefern with Gabriel's expected estate distribution materials once estate account values, tax character, and beneficiary paperwork from his late mother's estate are available.",
+      "priority": null,
+      "dueDate": "2025-08-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the file with those inheritance materials by 2025-08-01."
+    },
+    {
+      "templateId": null,
+      "title": "Provide estate planning summary to attorney",
+      "text": "Provide a planning summary for Oren Dewspindle at Clockwork Clover Legal covering account titling, beneficiaries, charitable intent, and family caregiving concerns for Helena and Gabriel Thimblefern before the couple schedules an estate document refresh.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to provide that planning summary by 2025-09-05."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve pending beneficiary update status",
+      "text": "Resolve the status of the beneficiary update Helena Thimblefern submitted through Velvet Acorn Custody, which still appears as pending, and confirm whether the retirement account and taxable account updates were both accepted.",
+      "priority": null,
+      "dueDate": "2025-07-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve the beneficiary update status by 2025-07-05."
+    },
+    {
+      "templateId": "17950cbe-9ee9-58bc-b99e-e6117b79ef90",
+      "title": "Collect Mortgage Documents",
+      "text": "Request the current mortgage statement, note or loan summary, escrow details if applicable, interest rate, term, payment amount, and any refinance or payoff information needed for the planning file. Obtain the current mortgage statement for Helena and Gabriel Thimblefern's primary residence, showing escrow, payment allocation, and payoff information, to refresh the retirement cash-flow model; the mortgage balance is approximately $690,000 at a fixed 3.10% rate.",
+      "priority": "low",
+      "dueDate": "2025-07-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the current mortgage statement by 2025-07-12."
+    },
+    {
+      "templateId": "7373d127-9653-5d08-a0fb-ae04c0aa22bb",
+      "title": "Review Insurance Policy Details",
+      "text": "Review the client's insurance policy information, including policy type, owner, insured, beneficiary structure, premium pattern, coverage amount, riders, surrender value if applicable, and known planning purpose. Note gaps, upcoming decisions, tax considerations, and coordination needed with the insurance professional or estate attorney. Review Helena Thimblefern's $1,000,000 and Gabriel Thimblefern's $750,000 Amber Teapot Insurance term life policies, which may no longer align with the $690,000 mortgage balance, retirement timing, and Rowan Thimblefern's remaining education period.",
+      "priority": "medium",
+      "dueDate": "2025-08-22",
+      "assigneeId": "d5f4d664-f103-5774-9e44-6776b889980a",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the insurance coverage by 2025-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Develop concentrated Moonbadger stock plan",
+      "text": "Develop a plan for the concentrated Moonbadger Instruments position in Helena and Gabriel Thimblefern's taxable brokerage account at Velvet Acorn Custody, where Moonbadger Instruments stock and vested RSU shares of about $460,000 within the approximately $1,840,000 account exceed the concentration Helena is comfortable carrying into the next planning year.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to develop a plan for the concentrated Moonbadger position by 2025-09-12."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_mid",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"383\", \"tickets\": [{\"title\": \"Obtain marriage documentation for account records\", \"text\": \"Obtain the marriage documentation for account records by June 28, 2024.\", \"priority\": null, \"dueDate\": \"2024-06-28\", \"assigneeId\": \"7af879b6-095a-5014-bb2e-0838d87e56e9\", \"subTasks\": [], \"evidence\": \"The agreed follow-up is to obtain the marriage documentation for account records by June 28, 2024.\",\"templateId\": null}, {\"title\": \"Complete marriage-based beneficiary review\", \"text\": \"Complete the marriage-based beneficiary review across IRA, Roth IRA, employer retirement plan, term life policy, and group life coverage by July 17, 2024.\", \"priority\": null, \"dueDate\": \"2024-07-17\", \"assigneeId\": \"7af879b6-095a-5014-bb2e-0838d87e56e9\", \"subTasks\": [], \"evidence\": \"They agreed to complete that marriage-based beneficiary review by July 17, 2024.\", \"templateId\": null}, {\"title\": \"Review employer benefits election options\", \"text\": \"Compare health, dental, vision, HSA, disability, life insurance, and payroll deduction choices against Lila's available coverage before making elections by July 10, 2024.\", \"priority\": null, \"dueDate\": \"2024-07-10\", \"assigneeId\": \"7af879b6-095a-5014-bb2e-0838d87e56e9\", \"subTasks\": [], \"evidence\": \"They agreed to the employer benefits election review, with follow-up due July 10, 2024.\", \"templateId\": null}, {\"title\": \"Reconcile equity vesting records\", \"text\": \"Reconcile the equity vesting records between personal spreadsheet and equity portal export by July 22, 2024.\", \"priority\": null, \"dueDate\": \"2024-07-22\", \"assigneeId\": \"7af879b6-095a-5014-bb2e-0838d87e56e9\", \"subTasks\": [], \"evidence\": \"They agreed to reconcile the equity vesting records by July 22, 2024.\", \"templateId\": null}, {\"title\": \"Address custodian address and portal access issue\", \"text\": \"Address the custodian address and portal access issue by July 3, 2024.\", \"priority\": null, \"dueDate\": \"2024-07-03\", \"assigneeId\": \"7af879b6-095a-5014-bb2e-0838d87e56e9\", \"subTasks\": [], \"evidence\": \"They agreed to address the custodian address and portal access issue by July 3, 2024.\", \"templateId\": null}, {\"title\": \"Coordinate estate document updates\", \"text\": \"Coordinate estate document updates to reflect Lila's role, the two properties, and desired decision-makers by August 2, 2024.\", \"priority\": null, \"dueDate\": \"2024-08-02\", \"assigneeId\": \"7af879b6-095a-5014-bb2e-0838d87e56e9\", \"subTasks\": [], \"evidence\": \"They agreed to estate document coordination by August 2, 2024.\", \"templateId\": null}, {\"title\": \"Coordinate residency and tax planning with CPA\", \"text\": \"Coordinate residency and tax planning with Sasha Cloudpuddle on Oregon-to-Washington move, including mailing address, legal residence, payroll withholding, and property reflection by July 26, 2024.\", \"priority\": null, \"dueDate\": \"2024-07-26\", \"assigneeId\": \"7af879b6-095a-5014-bb2e-0838d87e56e9\", \"subTasks\": [], \"evidence\": \"They agreed to residency and tax coordination, with follow-up due July 26, 2024.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 5648,
+    "output_tokens": 1053,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

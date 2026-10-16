@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"904\",\n\"followups\": [\n{\n\"evidence\": \"the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09.\",\n\"action\": \"Complete the inherited account beneficiary package.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"the agreed post-inheritance plan refresh is due 2024-02-23.\",\n\"action\": \"Refresh the post‑inheritance financial plan.\",\n\"templateId\": \"b69561c0-d94b-5366-9da1-17d83160108e\"\n},\n{\n\"evidence\": \"the agreed estate arrangement review after family changes is due 2024-03-08.\",\n\"action\": \"Conduct an estate arrangement review.\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1432,
+    "output_tokens": 980,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1339
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"904\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Complete inherited account beneficiary package\",\n\"text\": \"Complete the inherited account beneficiary package for Elian Thimblefern, working with Velvet Acorn Custody, and ensure all required beneficiary forms are filled and returned by 2024-02-09.\",\n\"priority\": null,\n\"dueDate\": \"2024-02-09\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09.\"\n},\n{\n\"templateId\": \"b69561c0-d94b-5366-9da1-17d83160108e\",\n\"title\": \"Review financial plan assumptions and recommendations\",\n\"text\": \"Review Elian Thimblefern’s financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items. Confirm whether new facts require updated recommendations or a follow‑up meeting agenda. Refresh Elian Thimblefern’s post‑inheritance financial plan by 2024-02-23, incorporating the newly inherited taxable brokerage, IRA, and lake cabin interest held at Velvet Acorn Custody, which affect retirement timing, cash reserves, tax outlook, and investment allocation.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2024-02-23\",\n\"assigneeId\": \"2ca7893e-43b2-59f5-aea6-48ca520deb27\",\n\"subTasks\": [],\n\"evidence\": \"the agreed post-inheritance plan refresh is due 2024-02-23.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Conduct estate arrangement review\",\n\"text\": \"Conduct an estate arrangement review for Elian Thimblefern, examining the 2012 estate documents that name the late spouse Corin Mossbutton as primary health‑care agent and personal representative, and address the new beneficiary and property considerations before 2024-03-08.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-08\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed estate arrangement review after family changes is due 2024-03-08.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3295,
+    "output_tokens": 2043,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 140
+   },
+   "stop": "stop"
+  }
+ ]
+}

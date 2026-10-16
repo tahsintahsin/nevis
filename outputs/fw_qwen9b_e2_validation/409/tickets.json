@@ -1,0 +1,25 @@
+{
+  "meetingId": "409",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain missing tax records for Anika Pebblefizz’s 2022 notice review",
+      "text": "Obtain the missing Velvet Acorn consolidated tax form and charitable giving summary for Beren Nettlewhisk’s review of Anika Pebblefizz’s 2022 federal and state returns.",
+      "priority": null,
+      "dueDate": "2024-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the notice packet available to Apricot Compass lacked the Velvet Acorn consolidated tax form and charitable giving summary Beren requested; the agreed follow-up is to obtain those records by April 18, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile the Velvet Acorn dividend variance",
+      "text": "Reconcile the $14,860 of ordinary dividends reported in the IRS correspondence with the $7,440 shown in the return worksheet reviewed during the call.",
+      "priority": null,
+      "dueDate": "2024-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the IRS correspondence lists $14,860 of ordinary dividends from the Velvet Acorn taxable account, while the return worksheet reviewed during the call shows $7,440 for the same income category; resolution of the custodian income variance is needed by April 24, 2024."
+    }
+  ]
+}

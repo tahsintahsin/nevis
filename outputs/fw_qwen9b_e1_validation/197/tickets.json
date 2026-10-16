@@ -1,0 +1,55 @@
+{
+  "meetingId": "197",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate IRA transfer address exception",
+      "text": "Coordinate the rejected IRA transfer address exception with Paper Otter Retirement Services and Velvet Acorn Custody. Address the rollover rejection caused by the former plan address differing from Selma’s current residential address.",
+      "priority": null,
+      "dueDate": "2026-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate the exception by August 25, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Address joint account registration mismatch",
+      "text": "Address the joint account registration mismatch between the transfer paperwork and the Clockwork Clover Brokerage statement. The paperwork lists Selma and Graham as joint tenants with rights of survivorship, while the statement shows tenancy by entirety registration.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the mismatch by August 22, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate receiving account shell",
+      "text": "Resolve the duplicate receiving account shell issue at Velvet Acorn Custody. Two temporary taxable account shells were created for Selma, and Clockwork Clover Brokerage associated the pending ACATS request with the shell Apricot Compass Advisory did not intend to use.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Handle restricted security manual transfer",
+      "text": "Handle the Copper Firefly Semiconductors position in Selma’s individual brokerage outside the standard ACATS feed during the current processing window. Clockwork Clover Brokerage reported the position must be handled outside the standard ACATS feed.",
+      "priority": null,
+      "dueDate": "2026-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to handle it by August 28, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Address cash holdback before taxable transfer",
+      "text": "Address the cash holdback before the taxable transfer. Nora’s review found that the existing ACATS instruction would move all cash from Selma’s individual brokerage even though property tax and estimated tax payments are normally funded from that account.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the cash holdback by August 21, 2026."
+    }
+  ]
+}

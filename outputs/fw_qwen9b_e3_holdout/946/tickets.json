@@ -1,0 +1,64 @@
+{
+  "meetingId": "946",
+  "tickets": [
+    {
+      "templateId": "d5a7c920-0675-56d6-a029-4ea40b62764f",
+      "title": "Coordinate Retirement Plan Rollover",
+      "text": "Use this workflow when a client is evaluating a rollover from an employer retirement plan to an IRA or another eligible plan. Confirm objectives, compare available options, document recommendations, and track transfer completion without using client-specific account numbers in the template. For Dana Wrenpuddle, compare keeping the former Cloudberry Kite Design 401(k), moving eligible assets to the new Silver Marmot Analytics plan, or rolling to an IRA. Cover Roth and pre-tax assets, investment menus, fees, and simplicity, consistent with Dana’s preference for no more than two primary investment accounts outside checking and savings.",
+      "priority": "medium",
+      "dueDate": "2024-03-29",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather plan and account details",
+          "text": "Request current plan statement, investment menu, fee disclosures, distribution paperwork, and any employer separation or plan eligibility details from the client.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d8e692ff-a8b4-590c-a1fc-b950bd8e57e2"
+        },
+        {
+          "title": "Analyze rollover alternatives",
+          "text": "Compare keeping assets in the current plan, rolling to a new employer plan, rolling to an IRA, or taking other permissible action. Include fees, services, creditor protection considerations, investment access, and tax implications.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9e041d4d-509e-588f-a2a9-2f29f4b97a54"
+        },
+        {
+          "title": "Prepare recommendation summary",
+          "text": "Draft a concise summary of the recommended path, required client decisions, anticipated transfer method, and any cautions for advisor review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        },
+        {
+          "title": "Track transfer and confirm investment plan",
+          "text": "After client authorization, monitor rollover status, confirm receipt of funds, and coordinate reinvestment according to the approved allocation.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b93ee058-c11a-51d8-8005-81fe1e23bd94"
+        }
+      ],
+      "evidence": "Dana asked to compare keeping the former 401(k), moving it to the new plan, or rolling eligible assets to an IRA, covering Roth money, menus, fees, and simplicity; the agreed follow-up is due 2024-03-29."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Silver Marmot Analytics benefits packet",
+      "text": "Obtain the Silver Marmot Analytics benefits packet needed for Dana Wrenpuddle’s enrollment while enrollment remains open.",
+      "priority": null,
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Silver Marmot Analytics benefits packet is still needed by 2024-03-22 while enrollment is open."
+    },
+    {
+      "templateId": null,
+      "title": "Review prior pay stub and salary assumptions",
+      "text": "Review Dana Wrenpuddle’s prior pay stub and stated salary to assess whether the old 401(k) deferral percentage will produce the same annual savings level, accounting for the possibility that bonus deferrals are separate.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review of Dana’s prior pay stub and stated salary found the old 401(k) deferral percentage may not produce the same annual savings level, especially if bonus deferrals are separate; follow-up is needed by 2024-04-05."
+    }
+  ]
+}

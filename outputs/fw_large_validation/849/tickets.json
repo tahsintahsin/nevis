@@ -1,0 +1,35 @@
+{
+  "meetingId": "849",
+  "tickets": [
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update the Pebblefizz household profile to record daughter Lena Pebblefizz as a dependent, adjust childcare and medical cash‑flow projections, and incorporate Nadia Pebblefizz’s revised parental‑leave income estimate.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate."
+    },
+    {
+      "templateId": null,
+      "title": "Provide family-attorney checklist for Pebblefizz household",
+      "text": "Provide a family-attorney checklist for Nadia and Owen Pebblefizz to address the 2021 will and healthcare documents that predate daughter Lena and lack a minor‑child guardian.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian."
+    },
+    {
+      "templateId": "6e82ee3b-ba82-5d59-b208-ef1c302e4e48",
+      "title": "Document policy renewal follow-up details",
+      "text": "Complete policy renewal follow-up using the placeholders below:\n\nPolicy type: Individual term life\nCarrier or policy provider: [carrier/provider]\nPolicy identifier reference: [internal reference only]\nRenewal period: [renewal period]\nPremium change or notable cost update: [premium change]\nCoverage changes to review: [coverage changes]\nBeneficiary or owner details to confirm: [items to confirm]\nClient questions or concerns: [questions]\nDocuments requested or received: Owen’s individual term policy declaration page; disability details for Nadia and Owen Pebblefizz\nRecommended next action: Obtain documents and upload to portal\nAdvisor review needed: yes – review coverage completeness\nFollow-up communication channel: email\nCompletion notes: [notes]\n\nObtain Owen Pebblefizz’s individual term policy declaration page and disability details for both spouses by the requested date to complete the protection review.",
+      "priority": "medium",
+      "dueDate": "2025-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete."
+    }
+  ]
+}

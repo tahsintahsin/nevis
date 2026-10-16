@@ -1,0 +1,94 @@
+{
+  "meetingId": "834",
+  "tickets": [
+    {
+      "templateId": "eeaa9b5d-78e4-55ba-98d9-0f6ae221111e",
+      "title": "Follow up on account security concern",
+      "text": "Follow up on the unrecognized Velvet Acorn Custody login alert reported by Paige Lanternmoss. Coordinate custodian escalation, document evidence, reset credentials, and provide a phone update to Paige by 2025-11-07.",
+      "priority": "high",
+      "dueDate": "2025-11-07",
+      "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9",
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-07 covering custodian escalation, evidence documentation, credential reset coordination, and a phone update to Paige."
+    },
+    {
+      "templateId": "d59658c9-3bcc-573c-a34e-479818bc4c60",
+      "title": "Follow up on missing signature",
+      "text": "Contact Darin Lanternmoss to obtain his signature for the household authorization package, which currently lacks his page but has Paige's signed pages. Explain the required signature location and confirm secure return by 2025-11-10.",
+      "priority": "medium",
+      "dueDate": "2025-11-10",
+      "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9",
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-10 to contact Darin through the approved channel, explain the required signature location, and confirm secure return of the signed page."
+    },
+    {
+      "templateId": "340a01fd-6530-54e3-8336-c6224508592f",
+      "title": "Track custodian transfer status",
+      "text": "Check the Velvet Acorn Custody transfer status regarding the move from Teacup Comet Brokerage. Document whether the missing cost basis file and residual cash sweep are still pending by 2025-11-12.",
+      "priority": "medium",
+      "dueDate": "2025-11-12",
+      "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9",
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-12 to check the receiving custodian’s latest status and document whether remaining assets or basis details are still pending."
+    },
+    {
+      "templateId": "96edd7b2-1df4-595b-96aa-9e7c04b9813d",
+      "title": "Complete beneficiary update workflow",
+      "text": "Confirm the requested changes to Paige Lanternmoss's IRA beneficiary records for Darin, Liora, and the Willow Pudding Family Trust. Identify the correct custodian process and flag any trust wording requiring estate attorney review by 2025-11-14.",
+      "priority": "medium",
+      "dueDate": "2025-11-14",
+      "assigneeId": "08744d31-7555-51ee-a1eb-a482b9defeeb",
+      "subTasks": [
+        {
+          "title": "Confirm beneficiary instructions",
+          "text": "Review the client's requested beneficiary changes, including primary and contingent beneficiaries, percentages, relationship details, and any per stirpes or trust-related language. Flag anything that requires attorney or estate planning review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "08744d31-7555-51ee-a1eb-a482b9defeeb"
+        },
+        {
+          "title": "Prepare custodian documentation",
+          "text": "Identify the correct beneficiary update method for each affected account, prepare forms or portal steps, and confirm whether spousal consent, medallion signature guarantee, or trust documentation is required.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9"
+        },
+        {
+          "title": "Submit and track update",
+          "text": "Submit the completed documentation through the approved custodian channel and track the request until the custodian confirms the beneficiary record has been updated.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9"
+        },
+        {
+          "title": "Confirm completion with client",
+          "text": "Send the client a concise confirmation that the beneficiary update has been completed, noting any accounts still pending or any items the client should retain with estate documents.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "08744d31-7555-51ee-a1eb-a482b9defeeb"
+        }
+      ],
+      "evidence": "They agreed on follow-up by 2025-11-14 to confirm the requested designations, identify the correct custodian process, and flag any trust wording that may require estate attorney review."
+    },
+    {
+      "templateId": "ff5229e6-e93f-5a25-852e-f97d59d919cf",
+      "title": "Review insurance policy details",
+      "text": "Review the Silver Marmot Life term policies owned by Paige and Darin Lanternmoss. Collect missing premium schedules, conversion language, and recent policy statements to assess coverage timing, premium changes, and beneficiary alignment.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9",
+      "subTasks": [],
+      "evidence": "During file review, the client file contained declarations pages for the Silver Marmot Life term policies but not the current premium schedule, conversion language, or recent policy statements. Current policy evidence is needed before Apricot Compass can assess coverage timing, premium changes, and "
+    },
+    {
+      "templateId": "b91c5012-f119-507f-91de-d78d8599cb42",
+      "title": "Review charitable transfer readiness",
+      "text": "Review the proposed gift of appreciated Copper Firefly Systems shares to Marzipan Meadow Arts Fund. Collect charity delivery instructions, coordinate tax questions, and gather confirmation evidence for Paige's records by 2025-11-21.",
+      "priority": "medium",
+      "dueDate": "2025-11-21",
+      "assigneeId": "cfb16eef-36b4-5092-834a-0def4bf72648",
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-21 covering the proposed asset, charity delivery instructions, tax coordination questions, and confirmation evidence needed for Paige’s records."
+    }
+  ]
+}

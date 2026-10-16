@@ -1,0 +1,23 @@
+{
+ "config": "fw_mid_fs_global_k4",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657",
+  "60",
+  "329"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"904\", \"tickets\": [{\"title\": \"Complete inherited account beneficiary package\", \"text\": \"Complete the inherited account beneficiary package for Elian Thimblefern’s inherited IRA and taxable brokerage account at Velvet Acorn Custody. Obtain and submit the completed paperwork needed for the estate’s next transfer batch.\", \"priority\": null, \"dueDate\": \"2024-02-09\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Velvet Acorn Custody sent beneficiary claim packets for the inherited IRA and taxable account, and Nessa indicated completed paperwork is needed for the estate’s next transfer batch; the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09.\"}, {\"title\": \"Obtain date-of-death valuation statements\", \"text\": \"Obtain custodian valuation statements for Elian Thimblefern’s inherited assets to support date-of-death basis records. The preliminary estate memo lists estimated values but Elian does not yet have supporting custodian valuation statements or cabin appraisal materials.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Date-of-death valuation support is needed because the memo lists estimated inherited asset values, but Elian does not yet have supporting custodian valuation statements or cabin appraisal materials needed to preserve basis records.\"}, {\"title\": \"Clarify lake cabin ownership percentage\", \"text\": \"Clarify Elian Thimblefern’s ownership percentage in the lake cabin. The estate memo lists a 35% interest, while a property tax email from Nessa Cloudpuddle describes the siblings as equal one-third owners. Resolve the discrepancy to confirm the correct ownership share.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Lake cabin ownership percentage clarification is needed because the memo lists a 35% cabin interest for Elian, while a property tax email shared by Nessa describes the siblings as equal one-third owners.\"}, {\"title\": \"Refresh retirement and financial plan assumptions\", \"text\": \"Refresh Elian Thimblefern’s retirement timing assumptions, cash reserve position, tax picture, and investment allocation based on the expected taxable assets, inherited IRA, and cabin interest. The material changes from the inheritance require an updated financial plan review.\", \"priority\": null, \"dueDate\": \"2024-02-23\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Mira’s review noted that expected taxable assets, inherited IRA, and cabin interest would materially change Elian’s retirement timing assumptions, cash reserve position, tax picture, and investment allocation; the agreed post-inheritance plan refresh is due 2024-02-23.\"}, {\"title\": \"Review estate arrangement after family changes\", \"text\": \"Review Elian Thimblefern’s estate arrangement after the family changes from the inheritance. The estate documents signed in 2012 name late spouse Corin Mossbutton as primary health-care agent and personal representative; the inherited assets add new property and beneficiary coordination questions. Confirm the current arrangement and update as needed.\", \"priority\": null, \"dueDate\": \"2024-03-08\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Elian’s estate documents were signed in 2012 and name late spouse Corin Mossbutton as primary health-care agent and personal representative; because those documents still name Corin in primary fiduciary roles and the inherited assets add new property and beneficiary coordination questions, the agreed estate arrangement review after family changes is due 2024-03-08.\"}]}",
+   "usage": {
+    "input_tokens": 10273,
+    "output_tokens": 859,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 16384
+   },
+   "stop": "stop"
+  }
+ ]
+}

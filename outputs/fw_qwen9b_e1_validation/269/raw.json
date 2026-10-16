@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e1",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"269\", \"tickets\": [{\"title\": \"Update business launch profile and retirement plan analysis\", \"text\": \"Update planning records for Arlen Nettlewhisk’s shift to Pocket Lantern Studio self-employment. Compare retirement plan choices using forecast net profit, no current employees, and his preferred contribution range.\", \"priority\": null, \"dueDate\": \"2024-06-21\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2024-06-21.\"}, {\"title\": \"Prepare estimated tax cash-flow schedule\", \"text\": \"Prepare a cash-flow schedule for Arlen Nettlewhisk to set aside taxes from irregular Pocket Lantern Studio retainers. Coordinate with CPA Lila Juniperjingle with permission before his next estimated payment.\", \"priority\": null, \"dueDate\": \"2024-06-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2024-06-10.\"}, {\"title\": \"Follow up on missing business account opening records\", \"text\": \"Follow up on missing Pocket Lantern Studio operating account opening records. The team could not review the Teacup Comet Bank account without the signature card, first statement, and online balance export in the secure portal.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"A follow-up is needed on missing business account opening records because the team could not review the Pocket Lantern Studio operating account without the Teacup Comet Bank signature card, first statement, and online balance export in the secure portal\"}, {\"title\": \"Follow up on income forecast discrepancy\", \"text\": \"Follow up on the income forecast discrepancy. The call projection showed annual gross revenue of $168,000, while the Marzipan Meadow Bookkeeping worksheet showed $132,000 and excluded one signed retainer.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"A follow-up is needed on the income forecast discrepancy because the call projection showed annual gross revenue of $168,000, while the Marzipan Meadow Bookkeeping worksheet showed $132,000 and excluded one signed retainer\"}, {\"title\": \"Resolve duplicated portal transactions\", \"text\": \"Resolve duplicated portal transactions after the Teacup Comet Bank connection changed from personal checking to business checking.\", \"priority\": null, \"dueDate\": \"2024-06-06\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2024-06-06.\"}]}",
+   "usage": {
+    "input_tokens": 744,
+    "output_tokens": 637,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 5120
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+  "meetingId": "331",
+  "tickets": [
+    {
+      "templateId": "f97ad76a-c137-5418-ae58-f5b4ab6a808a",
+      "title": "Coordinate tax notice follow-up",
+      "text": "Review the notice, confirm what taxing authority is requesting, identify the response deadline as a relative timing item, and coordinate with the client and tax professional before any payment or reply is submitted.",
+      "priority": "high",
+      "dueDate": null,
+      "assigneeId": "b7144541-a2d9-5894-bafe-8ebbb63e46f4",
+      "subTasks": [
+        {
+          "title": "Collect and classify the notice",
+          "text": "Request a complete copy of the notice, envelope, and any prior correspondence. Record the tax year, agency, notice type, proposed amount, and response options.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Reconcile notice against planning records",
+          "text": "Compare the notice to available return summaries, estimated tax payment records, withholding information, retirement distributions, and prior client notes.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Coordinate with the client’s CPA or tax preparer",
+          "text": "Send a concise summary with placeholders for the notice type, tax year, amount, and requested action. Ask the tax professional to confirm whether the client should respond, dispute, amend, or pay.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Document final action and follow-up",
+          "text": "Record the agreed response plan, evidence reviewed, submission method, and any follow-up check needed after the response is sent.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "CPA coordination on interest treatment and investment sales was completed on 2024-04-09 after Julian asked that the household’s CPA receive the debt-restructure assumptions, potential investment-sale amounts, and questions about home-equity interest treatment for the current tax year."
+    },
+    {
+      "templateId": "623ad58d-d707-5b72-b93a-1627b0f205a7",
+      "title": "Gather debt refinance review details",
+      "text": "Complete the refinance review fields:\n\nCurrent debt type: [mortgage/student loan/business debt/other]\nCurrent balance: [amount]\nCurrent interest rate and type: [fixed/variable]\nCurrent payment: [amount and frequency]\nRemaining term: [term]\nProposed lender or source: [generic lender/source]\nProposed interest rate and type: [fixed/variable]\nProposed payment: [amount and frequency]\nEstimated closing or transaction costs: [amount]\nPrepayment penalty or exit cost: [yes/no/details]\nReason for refinance: [cash flow/rate reduction/consolidation/other]\nTax considerations to review: [deductibility, basis, business use, other]\nDocuments requested: [current statement, proposed terms, payoff quote, credit impact information]\nOpen questions: [list questions]",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "On 2024-04-09, the mortgage refinance comparison was completed after Julian asked for a side-by-side evaluation of the current adjustable mortgage reset, a fixed-rate refinance, and a principal-reduction refinance using the current loan balance, estimated closing costs, and the household’s monthly-p"
+    },
+    {
+      "templateId": "2efc41ba-91f8-5d86-b2a2-3c797cb65cc0",
+      "title": "Complete access recovery checks",
+      "text": "Use this checklist to guide account access recovery:\n- Confirm the affected account or portal type without recording passwords or full account numbers.\n- Verify the authorized user and acceptable identity verification method.\n- Confirm the current phone number, email, mailing address, and trusted contact process if applicable.\n- Check whether multi-factor authentication, device approval, or security questions are blocking access.\n- Determine whether the custodian, employer plan, or portal administrator requires a form, call, or secure message.\n- Record the recovery path, expected processing time, and any client action still needed.\n- Confirm access restoration and remind the client to store credentials securely outside Apricot Compass Advisory systems.",
+      "priority": "high",
+      "dueDate": null,
+      "assigneeId": "b7144541-a2d9-5894-bafe-8ebbb63e46f4",
+      "subTasks": [],
+      "evidence": "Employer plan access recovery was completed on 2024-04-09 after Julian could not open the Moonbadger Robotics retirement plan portal because multi-factor authentication still used an old phone number, blocking review of plan loan rules and contribution settings."
+    }
+  ]
+}

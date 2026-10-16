@@ -1,0 +1,85 @@
+{
+  "meetingId": "567",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare guardian nomination and estate document refresh",
+      "text": "Update Mira and Jonas Quillwhistle's estate documents to include a guardian nomination for their daughter Lila, trust provisions for a minor child, and updated fiduciary choices, replacing the 2019 documents that predate parenthood.",
+      "priority": null,
+      "dueDate": "2026-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for guardian nomination and estate document refresh is due 2026-03-15."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare education funding account structure outline",
+      "text": "Prepare an outline of practical choices for an education savings account for Lila Quillwhistle, covering owner selection, beneficiary information, initial funding from cash reserves, recurring contributions, and tax or gifting considerations.",
+      "priority": null,
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that education funding account structure outline by 2026-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Lila Quillwhistle legal identity records",
+      "text": "Obtain Lila Quillwhistle's Social Security number and final adoption decree, which are currently missing and needed for account-opening information and household tax documentation.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The team does not yet have Lila’s Social Security number or final adoption decree, and those records are needed for both account-opening information and the household’s tax documentation; this unresolved legal identity records issue needs follow-up by 2026-03-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare life insurance needs analysis",
+      "text": "Prepare a life insurance needs analysis for Mira and Jonas Quillwhistle considering mortgage payoff, survivor income, childcare costs, and a targeted education funding amount.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The adoption changed the household’s protection needs, so the agreed follow-up by 2026-02-27 is preparation of a life insurance needs analysis considering mortgage payoff, survivor income, childcare costs, and a targeted education funding amount."
+    },
+    {
+      "templateId": null,
+      "title": "Verify disability benefit coverage details",
+      "text": "Verify Mira's employer long-term disability coverage replacement percentage and Jonas's available disability coverage details, as the benefits summary only showed wage-replacement and Jonas's coverage is unclear.",
+      "priority": null,
+      "dueDate": "2026-02-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Disability benefit verification remains needed by 2026-02-24."
+    },
+    {
+      "templateId": null,
+      "title": "Organize CPA packet for adoption and childcare",
+      "text": "Organize adoption-related tax records, childcare deposit evidence, dependent information, and employer benefit elections for Mira and Jonas Quillwhistle to be ready for CPA Alina Dewspindle's spring preparation cutoff.",
+      "priority": null,
+      "dueDate": "2026-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for the CPA packet is due 2026-03-10."
+    },
+    {
+      "templateId": null,
+      "title": "Estimate dependent care benefit versus cash flow",
+      "text": "Compare using a dependent care flexible spending account versus paying childcare costs entirely from cash flow for Mira and Jonas Quillwhistle once full-time infant care begins at Buttonwood Balloon Early Learning.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for the dependent care benefit estimate is due 2026-02-18."
+    },
+    {
+      "templateId": "06ce3b8f-97db-50d6-b568-9379f45c3196",
+      "title": "Resolve account access recovery issue",
+      "text": "Resolve the Velvet Acorn Custody authentication issue where the security code is being sent to an old mobile number, blocking joint statement downloads and planned funding transfers.",
+      "priority": "high",
+      "dueDate": "2026-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for the custodian portal access interruption is due 2026-02-14."
+    }
+  ]
+}

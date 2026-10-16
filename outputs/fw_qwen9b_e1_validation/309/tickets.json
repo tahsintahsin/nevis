@@ -1,0 +1,65 @@
+{
+  "meetingId": "309",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review Lena Copperwisp’s new employer benefits elections",
+      "text": "Review Lena Copperwisp’s Pocket Lantern Analytics benefits elections, including medical tiers, HSA option, supplemental disability choices, and group life amounts. Compare household cost and coverage tradeoffs before Lena submits her elections.",
+      "priority": null,
+      "dueDate": "2026-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the benefits elections by 2026-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Compare Lena Copperwisp’s old employer retirement plan options",
+      "text": "Compare leaving Lena Copperwisp’s Velvet Acorn Robotics 401(k) in place, moving it to the new Pocket Lantern Analytics plan, or rolling eligible money to an IRA. Address the account’s pre-tax and Roth sources.",
+      "priority": null,
+      "dueDate": "2026-02-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare those retirement plan options by 2026-02-13."
+    },
+    {
+      "templateId": null,
+      "title": "Address Lena Copperwisp’s Tin Sparrow Retirement Services login access problem",
+      "text": "Address Lena Copperwisp’s Tin Sparrow Retirement Services login access problem. Her multi-factor authentication prompt still uses a former work phone number, preventing her from retrieving plan notices and beneficiary screens without custodian assistance.",
+      "priority": null,
+      "dueDate": "2026-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the access problem by 2026-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on Lena Copperwisp’s old retirement plan beneficiary information",
+      "text": "Follow up on Lena Copperwisp’s old retirement plan beneficiary information. The old retirement plan screens available in Lena’s records do not clearly show whether Jonah and Emery are reflected under current beneficiary designations, and the estate documents predate the new employer benefits package.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "this information needs follow-up by 2026-02-27."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh Lena and Jonah Copperwisp’s household cash-flow and withholding",
+      "text": "Refresh Lena and Jonah Copperwisp’s household cash-flow and withholding. Lena’s move from Velvet Acorn Robotics to Pocket Lantern Analytics changes salary, bonus timing, benefits deductions, and equity income potential while Jonah’s self-employment income remains variable.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to refresh those items by 2026-02-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review Lena Copperwisp’s Pocket Lantern Analytics equity concentration",
+      "text": "Review Lena Copperwisp’s Pocket Lantern Analytics restricted stock units together with her existing taxable brokerage allocation. Address the position size, vesting schedule, and any trading-window rules.",
+      "priority": null,
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review those equity details together by 2026-02-20."
+    }
+  ]
+}

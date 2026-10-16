@@ -1,0 +1,85 @@
+{
+  "meetingId": "309",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review benefits elections before submission",
+      "text": "Review the Pocket Lantern Analytics medical tiers, HSA option, supplemental disability choices, and group life amounts to compare household cost and coverage tradeoffs before Lena submits her benefits elections.",
+      "priority": null,
+      "dueDate": "2026-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the benefits elections by 2026-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Compare old employer retirement plan options",
+      "text": "Compare leaving the Tin Sparrow Retirement Services account in place, moving it to the new Pocket Lantern Analytics plan, or rolling eligible money to an IRA, with attention to the account’s pre-tax and Roth sources.",
+      "priority": null,
+      "dueDate": "2026-02-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked Apricot Compass Advisory to compare leaving the Tin Sparrow Retirement Services account in place, moving it to the new Pocket Lantern Analytics plan, or rolling eligible money to an IRA, with attention to the account’s pre-tax and Roth sources. The agreed follow-up is to compare those ret"
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing Tin Sparrow Retirement Services records",
+      "text": "Obtain the Velvet Acorn Robotics plan fee disclosure, summary plan description, and a complete transaction history for the most recent quarter from Tin Sparrow Retirement Services to evaluate fees, investment restrictions, and transfer limitations.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the current file does not include the Velvet Acorn Robotics plan fee disclosure, summary plan description, or a complete transaction history for the most recent quarter; those records are needed to evaluate fees, investment restrictions, and any transfer limitations by 2026-02-06."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Tin Sparrow Retirement Services balance discrepancy",
+      "text": "Investigate the difference between the Tin Sparrow login balance Lena read during the call and the amount shown on the last downloaded statement. Determine whether market movement, a distribution, or a posting delay explains the difference.",
+      "priority": null,
+      "dueDate": "2026-02-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the Tin Sparrow login balance Lena read during the call was lower than the amount shown on the last downloaded statement, and the meeting notes did not identify whether market movement, a distribution, or a posting delay explains the difference; that issue needs follow-up by 2026-02-12."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Tin Sparrow MFA access problem",
+      "text": "Address Lena’s multi-factor authentication prompt that still uses a former work phone number, preventing her from retrieving plan notices and beneficiary screens without custodian assistance.",
+      "priority": null,
+      "dueDate": "2026-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena reported that her multi-factor authentication prompt still uses a former work phone number, preventing her from retrieving plan notices and beneficiary screens without custodian assistance. The agreed follow-up is to address the access problem by 2026-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Check beneficiary designations on old retirement plan",
+      "text": "Confirm whether Jonah Copperwisp and Emery Copperwisp are reflected under current beneficiary designations on the Tin Sparrow Retirement Services account, and update records if needed.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the old retirement plan screens available in Lena’s records do not clearly show whether Jonah and Emery are reflected under current beneficiary designations, and the estate documents predate the new employer benefits package; this information needs follow-up by 2026-02-27."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh household paycheck withholding and reserve targets",
+      "text": "Refresh paycheck withholding and reserve targets for the Copperwisp household, accounting for Lena’s move from Velvet Acorn Robotics to Pocket Lantern Analytics (changes in salary, bonus timing, benefits deductions, and equity income potential) and Jonah’s variable self-employment income.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena’s move from Velvet Acorn Robotics to Pocket Lantern Analytics changes salary, bonus timing, benefits deductions, and equity income potential while Jonah’s self-employment income remains variable, creating a need to refresh paycheck withholding and reserve targets. The agreed follow-up is to ref"
+    },
+    {
+      "templateId": null,
+      "title": "Review restricted stock unit details and trading-window rules",
+      "text": "Review the position size, vesting schedule, and trading-window rules for Lena’s new restricted stock units at Pocket Lantern Analytics, together with her existing taxable brokerage allocation.",
+      "priority": null,
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira noted that Lena’s new restricted stock units could eventually add employer-stock exposure on top of the existing taxable brokerage allocation, so the position size, vesting schedule, and any trading-window rules need to be reviewed together. The agreed follow-up is to review those equity detail"
+    }
+  ]
+}

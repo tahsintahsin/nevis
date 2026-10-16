@@ -1,0 +1,143 @@
+{
+  "meetingId": "224",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare written household account map",
+      "text": "Prepare a written household account map for Dana Bramblequill distinguishing her premarital savings, individual brokerage account, rental condo cash flows, joint Teacup Comet Bank accounts, and shared expense funding arrangement.",
+      "priority": null,
+      "dueDate": "2026-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana requested a written household account map distinguishing her premarital savings, individual brokerage account, rental condo cash flows, joint Teacup Comet Bank accounts, and shared expense funding arrangement; this was agreed for 2026-08-02."
+    },
+    {
+      "templateId": "fbbdddd5-865b-51c3-a01a-013cd6ced637",
+      "title": "Verify recurring payment change",
+      "text": "Verify the recurring mortgage contribution setup for Dana Bramblequill to address duplicate funding risk identified in the scheduled transfer and joint‑account transfer.",
+      "priority": "high",
+      "dueDate": "2026-07-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana reported that a scheduled transfer from her individual Teacup Comet Bank account and a new joint-account transfer both appear tied to the townhouse mortgage contribution, creating a risk of duplicate household funding for the same payment cycle;"
+    },
+    {
+      "templateId": "9170179a-0718-5240-a325-b14431a4be07",
+      "title": "Refresh household profile on a recurring cadence",
+      "text": "Refresh Dana Bramblequill’s household profile to add Oliver Cloudpuddle’s full legal name, shared residence, mailing address, and contact details as non‑trading contacts.",
+      "priority": "medium",
+      "dueDate": "2026-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana provided Oliver’s full legal name, shared residence, preferred household mailing address, and contact details so the advisory household record and non-trading contact fields can be updated separately from that authorization; the agreed update is dated 2026-07-18."
+    },
+    {
+      "templateId": null,
+      "title": "Update Velvet Acorn Custody address",
+      "text": "Update the address on Dana Bramblequill’s Velvet Acorn Custody account to reflect the shared mailing address at Oliver Cloudpuddle’s townhouse in Portland, Oregon.",
+      "priority": null,
+      "dueDate": "2026-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The advisor portal for Dana’s Velvet Acorn Custody account still shows her prior apartment mailing address and single household status, while Dana identified Oliver’s townhouse as the shared mailing address;"
+    },
+    {
+      "templateId": null,
+      "title": "Update beneficiary designations",
+      "text": "Update beneficiary designations for Dana Bramblequill’s IRA, taxable transfer‑on‑death registration, Moonbadger Design Labs 401(k), and group life insurance to reflect her marriage to Oliver Cloudpuddle and compare contingent options.",
+      "priority": null,
+      "dueDate": "2026-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana asked for help updating beneficiary designations on her IRA, taxable transfer-on-death registration if available, Moonbadger Design Labs 401(k), and group life coverage to reflect her marriage and to compare contingent beneficiary options; the agreed follow-up is dated 2026-07-25."
+    },
+    {
+      "templateId": "b4b28e1a-9a89-5911-87af-edffbf515fb3",
+      "title": "Complete policy renewal follow-up",
+      "text": "Complete the renewal follow‑up for Oliver Cloudpuddle’s Lavender Sprocket Insurance term life policy, obtaining the renewal notice and current declarations page.",
+      "priority": "medium",
+      "dueDate": "2026-08-05",
+      "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742",
+      "subTasks": [
+        {
+          "title": "Collect renewal notice and current policy details",
+          "text": "Request or locate the renewal notice, current declarations page, premium summary, coverage limits, named insured details, beneficiary or owner information if applicable, and any stated renewal action requirements. Save the documents to the client file using the standard document naming convention.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        },
+        {
+          "title": "Review renewal changes and planning implications",
+          "text": "Compare the renewal terms with the current policy. Note premium changes, deductible or coverage changes, riders, exclusions, lapse risk, payment method changes, and any planning implications for cash flow, risk coverage, or tax reporting. Escalate material concerns to the lead advisor.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a8da8f8f-1814-56bc-93a4-f7ec3a48a450"
+        },
+        {
+          "title": "Contact carrier or agent for missing information",
+          "text": "If details are incomplete, contact [carrier or agent name] to confirm renewal status, required forms, accepted payment methods, processing timeframe, and whether any underwriting or client signature is required. Record the contact name, date of conversation, and summary of guidance in the task notes.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        },
+        {
+          "title": "Confirm recommendation and client instructions",
+          "text": "Prepare a concise client follow-up summarizing the renewal options, advisor recommendation, required next steps, and any deadline stated in the renewal notice. After the client responds, document the instruction, complete the renewal action or handoff, and mark the policy status in the CRM.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4"
+        }
+      ],
+      "evidence": "Oliver said he received a Lavender Sprocket Insurance renewal notice for his term life policy, but the notice and current declarations page were not available during the meeting even though the notice references a near-term renewal response window; the insurance renewal documentation remains needed "
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate joint tax filing",
+      "text": "Coordinate with CPA Rowan Nettlewhisk of Copper Firefly Tax Partners on the joint federal tax filing, rental condo reporting, equity compensation withholding, and estimated tax payments for Dana Bramblequill and Oliver Cloudpuddle.",
+      "priority": null,
+      "dueDate": "2026-08-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dana and Oliver asked Apricot Compass Advisory to coordinate with Rowan on expected joint filing, rental condo reporting, equity compensation withholding, and any estimated payment planning affected by the marriage; the agreed coordination is dated 2026-08-09."
+    },
+    {
+      "templateId": "f2960ec0-96f0-55d4-9d2a-6de1f7cfaaa5",
+      "title": "Coordinate equity award review",
+      "text": "Coordinate an equity award review for Dana Bramblequill’s Moonbadger Design Labs restricted stock units, focusing on upcoming vesting and trading‑window considerations before any portal election.",
+      "priority": "medium",
+      "dueDate": "2026-07-29",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect equity award documents",
+          "text": "Request current grant agreements, vesting schedule, plan portal screenshots, tax withholding elections, recent paystub, and any employer trading-window or blackout-policy guidance.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        },
+        {
+          "title": "Analyze planning implications",
+          "text": "Review vesting timing, option exercise cost, RSU withholding, AMT exposure if applicable, concentration level, cash-flow needs, and whether CPA coordination is needed before action.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "a8da8f8f-1814-56bc-93a4-f7ec3a48a450"
+        },
+        {
+          "title": "Confirm recommended action plan",
+          "text": "Finalize advice on hold, sell, exercise, diversify, or defer decisions. Identify what requires client approval, employer portal action, or custodian follow-up.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4"
+        },
+        {
+          "title": "Document execution and follow-up",
+          "text": "Record decisions, confirmations, trade or exercise instructions, tax notes, and next review trigger based on the next vesting event or trading window.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        }
+      ],
+      "evidence": "Mira and Tobin noted Dana’s employer-stock concentration in the taxable account and the additional unvested restricted stock units, and Dana wants the next vesting and trading-window considerations reviewed before she makes any employer portal election;"
+    }
+  ]
+}

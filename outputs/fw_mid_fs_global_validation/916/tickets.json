@@ -1,0 +1,75 @@
+{
+  "meetingId": "916",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Resolve 529 beneficiary enrollment-year discrepancy",
+      "text": "Correct the enrollment-year mismatch in Lyra’s Moonbadger 529 account at Velvet Acorn Custody. The record shows an expected enrollment year earlier than Lyra’s actual Marzipan Meadow University start timing, which may affect the account’s age-based allocation path and withdrawal planning assumptions.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the Velvet Acorn Custody record for Lyra’s Moonbadger 529 account displayed an expected enrollment year earlier than Lyra’s actual Marzipan Meadow University start timing, which may affect the account’s age-based allocation path and withdrawal planning assumptions."
+    },
+    {
+      "templateId": null,
+      "title": "Complete itemized university bill and aid evidence review",
+      "text": "Obtain and review the final itemized university bill for Lyra’s first year at Marzipan Meadow University, including the merit grant application, meal plan selection, student health fee, and all aid documentation, to determine the precise funding shortfall.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the available portal screen showed the total estimated cost but did not show the final itemized charges, meal plan selection, student health fee, or posted merit grant application to the account."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate grandparent tuition gift funding source",
+      "text": "Distinguish between a direct school payment, a family reimbursement, and a possible contribution to Lyra’s 529 account from Ruth Willowdoodle’s offer to help with Lyra’s first-year education cost. Update the planning file accordingly.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Ruth Willowdoodle’s offer to help with Lyra’s first-year cost introduced a new funding source, and Selene wanted the planning file to distinguish a direct school payment, a family reimbursement, and a possible contribution to the 529 account."
+    },
+    {
+      "templateId": null,
+      "title": "Review short-horizon investment allocation for Lyra’s 529 account",
+      "text": "Review Lyra’s Moonbadger 529 account investment allocation (currently 26% equity funds, 66% short-duration fixed income and cash, 8% real asset funds) against the expected distribution schedule for near-term tuition spending.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review noted that the Lyra 529 account still has a meaningful equity allocation despite near-term tuition spending, and Selene wanted the account reviewed against the expected distribution schedule."
+    },
+    {
+      "templateId": null,
+      "title": "Complete temporary 529 contribution adjustment review",
+      "text": "Determine whether the household should pause or redirect the monthly $600 contribution to Lyra’s 529 account while Lyra’s first-year shortfall is being funded, and consider the impact on Theo’s longer time horizon with the $450 monthly contribution.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Selene asked whether the household should pause or redirect the monthly 529 contributions while Lyra’s first-year shortfall is being funded and while Theo’s longer time horizon remains in view."
+    },
+    {
+      "templateId": null,
+      "title": "Compare student loan, cash, and home equity funding options",
+      "text": "Compare the offered federal student loan, household cash, taxable brokerage account liquidation, and the unused $150,000 home equity line of credit with Silver Marmot Bank as funding sources for Lyra’s first-year education costs, before the school’s acceptance window closes.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The discussion was prompted by the aid package’s federal student loan offer and Selene’s request for a comparison of using the offered student loan, additional cash, taxable-account liquidation, or the home equity line before the school’s acceptance window closes."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate tax treatment of education expenses",
+      "text": "Coordinate qualified education expense records with Harper Dewspindle of Buttonwood Balloon Tax Advisors before assembling tax-season records. Ensure 529 distributions, scholarships, technology costs, and student loan interest are properly documented, given the prior tax return did not include education credits for Lyra.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The tax coordination review for qualified education expenses was completed on 2026-05-10 after the prior tax return did not include education credits for Lyra and Mira noted that 529 distributions, scholarships, technology costs, and any student loan interest records should be coordinated with Harpe"
+    }
+  ]
+}

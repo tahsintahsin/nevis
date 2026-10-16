@@ -1,0 +1,77 @@
+{
+  "meetingId": "199",
+  "tickets": [
+    {
+      "templateId": "ef69e24e-b352-50b8-81a8-9d4035bd97bf",
+      "title": "Coordinate business sale planning handoff",
+      "text": "Briefly document the expected sale structure, key advisors involved, estimated liquidity timing, tax issues to review, and next advisory handoff steps with the client's CPA and attorney. Coordinate directly with CPA Jonah Wrenpuddle of Paper Otter Tax Group and transaction attorney Celia Nettlewhisk of Silver Marmot Legal on sale structure, liquidity timing, escrow terms, and tax planning for Serena Cloudpuddle's sale of her majority interest in Cloudberry Kite Components (estimated gross proceeds about $3.8 million) before making recommendations on staging proceeds.",
+      "priority": "medium",
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Serena asked for direct coordination with Jonah and Celia on sale structure, liquidity timing, escrow terms, and tax planning before recommendations on staging proceeds; the agreed follow-up is due 2024-08-02."
+    },
+    {
+      "templateId": "d71226e6-275a-5a53-88b4-57b55eccb19c",
+      "title": "Liquidity Reserve Snapshot",
+      "text": "Size a cash reserve for Serena Cloudpuddle covering household spending, estimated taxes, mortgage payments, school costs, and support for Serena's mother. Household recurring spending is about $22,000 per month, the Teacup Comet Bank checking and savings accounts total about $310,000 before sale proceeds, and the mortgage balance is about $740,000.",
+      "priority": null,
+      "dueDate": "2024-08-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The income transition and temporary consulting arrangement led to an agreed 2024-08-09 follow-up to size a cash reserve for spending, estimated taxes, mortgage payments, school costs, and support for Serena’s mother."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estimated tax figures with CPA",
+      "text": "Obtain the near-term post-closing tax estimate from CPA Jonah Wrenpuddle of Paper Otter Tax Group for Serena Cloudpuddle's sale of her majority interest in Cloudberry Kite Components; no amount was available at the meeting.",
+      "priority": null,
+      "dueDate": "2024-08-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Estimated tax coordination remains needed by 2024-08-16 because the CPA expects a near-term post-closing estimate, but no amount was available."
+    },
+    {
+      "templateId": null,
+      "title": "Collect sale documentation from client",
+      "text": "Obtain from Serena Cloudpuddle the executed purchase agreement, escrow schedule, consulting agreement, and wire instruction evidence for the Cloudberry Kite Components sale; only a summary term sheet was available at the meeting.",
+      "priority": null,
+      "dueDate": "2024-07-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Sale documentation remains needed by 2024-07-31 because only a summary term sheet was available, not the executed purchase agreement, escrow schedule, consulting agreement, or wire instruction evidence."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Request the client's current estate planning documents, organize received files, and prepare a concise gap summary for advisor review. Include wills, revocable trust documents, powers of attorney, health care directives, beneficiary designation evidence, trust funding records, and any recent attorney correspondence. Do not provide legal interpretation; identify document dates, named roles, missing pages or signatures, and items that may require attorney confirmation. Serena Cloudpuddle has only older estate-document drafts and no current signed trust documents, powers of attorney, health care directives, or beneficiary records after the business value change from the Cloudberry Kite Components sale.",
+      "priority": "medium",
+      "dueDate": "2024-08-23",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "Evan noted older estate-document drafts and no current signed trust documents, powers of attorney, health care directives, or beneficiary records after the business value change; an estate document review was agreed for 2024-08-23."
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "meetingId": "940",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare adviser comments for attorney review",
+      "text": "Prepare adviser comments for Sela Fablethimble of Moonbadger Legal to review before any legal or custodial changes are made for Liora Velvetreed, covering account titling, beneficiary designations, trustee roles, and insurance ownership affected by the pending dissolution, including the 2016 joint revocable trust and the $1.5 million Silver Marmot Insurance term life policy naming Devin as primary beneficiary.",
+      "priority": null,
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the separation may affect account titling, beneficiary designations, trustee roles, and insurance ownership, the agreed follow-up due March 22, 2024 is to prepare adviser comments for attorney review before any legal or custodial changes are made."
+    },
+    {
+      "templateId": "d0a74fb4-d997-51d3-a171-f40e13c7dd68",
+      "title": "Coordinate Divorce Document Package",
+      "text": "Use this coordination template when a client needs help organizing financial documents related to divorce proceedings. Maintain confidentiality, avoid legal advice, and route documents only to authorized parties. Assemble approved account, income, debt, insurance, estate, and beneficiary records for Liora Velvetreed for Sela Fablethimble at Moonbadger Legal, with sharing limited to the divorce matter.",
+      "priority": "high",
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Intake authorization and document list",
+          "text": "Confirm authorized contacts, communication limits, and requested document categories such as statements, tax records, income records, insurance, liabilities, and estate documents. For Liora Velvetreed, sharing is limited to the divorce matter with Sela Fablethimble at Moonbadger Legal.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "b384ec7e-6251-5024-b063-047ec07f91d8"
+        },
+        {
+          "title": "Compile financial records",
+          "text": "Collect available account statements, cost basis summaries, cash flow records, beneficiary confirmations, and debt summaries from approved sources, including Teacup Comet Bank, Velvet Acorn Custody, and Paper Otter Robotics records for Liora Velvetreed.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "b93ee058-c11a-51d8-8005-81fe1e23bd94"
+        },
+        {
+          "title": "Review planning implications",
+          "text": "Identify investment, retirement, tax, equity compensation, cash flow, and beneficiary issues that may require advisor discussion or outside professional review for Liora Velvetreed's pending dissolution.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        },
+        {
+          "title": "Coordinate secure handoff",
+          "text": "Package approved documents through the secure delivery method and log what was shared, with whom, and under what authorization. Deliver to Sela Fablethimble at Moonbadger Legal, limited to the divorce matter.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "b384ec7e-6251-5024-b063-047ec07f91d8"
+        }
+      ],
+      "evidence": "For the divorce financial document package, Liora asked Apricot Compass Advisory to assemble approved account, income, debt, insurance, estate, and beneficiary records for Sela Fablethimble at Moonbadger Legal, with sharing limited to the divorce matter. The agreed follow-up is due March 8, 2024."
+    },
+    {
+      "templateId": "e968965a-969b-53fe-a5d3-3b7ff9150636",
+      "title": "Review Access Recovery Evidence",
+      "text": "Review the access recovery request using these criteria and evidence points:\n\nCriteria:\n- Confirm the request is tied to an authorized client, household member, trustee, executor, or approved agent.\n- Verify the impacted access type: client portal, custodian login, document vault, e-signature, secure email, or aggregation feed.\n- Determine whether access should be restored, reset, limited, transferred, or revoked.\n- Check for fraud indicators, unusual urgency, changed contact information, or mismatched identity details.\n- Confirm whether any compliance hold, deceased-client process, divorce restriction, or power-of-attorney review applies.\n\nEvidence to collect:\n- Approved identity verification record or call note.\n- Written request or secure message describing the access issue.\n- Current contact information on file and any requested changes.\n- Authorization documents if the requester is not the primary client.\n- Screenshot or description of the error, excluding passwords or authentication codes.\n- Confirmation of resolution and any access changes made.\n\nFor Liora Velvetreed, review access, contact information, and permissions: Devin still appears to have visibility into the joint secure vault folder, and Liora received an e-signature error when attempting to upload the temporary order.",
+      "priority": "high",
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For secure access and document-vault permissions, Liora reported that Devin still appears to have visibility into a joint secure vault folder and that she received an e-signature error when attempting to upload the temporary order. The agreed follow-up due March 5, 2024 is to review access, contact "
+    },
+    {
+      "templateId": null,
+      "title": "Request missing divorce records",
+      "text": "Request the missing divorce records for Liora Velvetreed through the authorized legal channel: current statements for Devin's retirement plan (most recent available was the Marzipan Meadow Textiles plan at $415,000 on September 30, 2023), Buttonwood Balloon Studio distribution history, and the home equity line freeze notice.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For missing divorce records, current statements for Devin’s retirement plan, Buttonwood Balloon Studio distribution history, and the home equity line freeze notice were absent from the materials Liora provided. The agreed follow-up due March 12, 2024 is to request those records through the authorize"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile mortgage balance for marital balance sheet",
+      "text": "Check the source documents and update the marital balance sheet for Liora Velvetreed with the verified mortgage figure, reconciling the $411,000 payoff shown on the legal worksheet against the $424,880 of principal shown in the Coral Badger Lending portal.",
+      "priority": null,
+      "dueDate": "2024-03-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For mortgage balance reconciliation, the legal worksheet shows a $411,000 mortgage payoff while the Coral Badger Lending portal shows $424,880 of principal. The agreed follow-up due March 11, 2024 is to check the source documents and update the marital balance sheet with the verified figure."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare settlement conference planning figures",
+      "text": "Prepare the marital balance sheet and sustainable cash flow view for Liora Velvetreed before the settlement conference, including home-retention scenarios, support payments, legal fees, and tax-sensitive sale assumptions, reflecting the $1.34 million Portland residence, $2,800 monthly interim support, and $9,400 monthly household spending.",
+      "priority": null,
+      "dueDate": "2024-03-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For settlement conference planning figures, the court schedule requires a marital balance sheet and sustainable cash flow view before the settlement conference, including home-retention scenarios, support payments, legal fees, and tax-sensitive sale assumptions. The agreed follow-up is due March 29,"
+    },
+    {
+      "templateId": "b835d25d-d355-5804-8593-94348f4d26b8",
+      "title": "Review Concentrated Position",
+      "text": "Evaluate a concentrated position for portfolio risk, tax exposure, liquidity needs, restrictions, and diversification options. Use placeholders for the client, ticker/security, custodian, cost basis, holding period, and any trading limitations. For Liora Velvetreed, model staged sale, retention, gifting, and reinvestment alternatives for the Paper Otter Robotics holdings at about 28% of investable assets, with attention to liquidity needs and divorce restrictions; vested taxable shares are valued at about $690,000 with an estimated cost basis of $210,000, plus unvested RSUs at an estimated $310,000.",
+      "priority": "high",
+      "dueDate": "2024-03-18",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [
+        {
+          "title": "Assemble Position Facts",
+          "text": "Collect current market value, share count, cost basis, acquisition history, holding period, account registration, and any employer equity plan details for Paper Otter Robotics shares and RSUs for Liora Velvetreed. Confirm whether blackout windows, lockups, Rule 144, or insider restrictions may apply.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "47926d53-db41-532d-99c2-224dc3aaa5ea"
+        },
+        {
+          "title": "Model Portfolio and Tax Impact",
+          "text": "Analyze concentration percentage, sector exposure, volatility, unrealized gain or loss, charitable giving opportunities, tax-loss offsets, and estimated tax impact under phased-sale scenarios for the Paper Otter Robotics position (about 28% of investable assets; vested shares ~$690,000 with ~$210,000 cost basis).",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "96c9c35b-0519-5544-bd5f-e8e441dccdb2"
+        },
+        {
+          "title": "Draft Diversification Recommendation",
+          "text": "Prepare a client-ready summary comparing hold, trim, staged sale, gifting, hedging, and reinvestment options for Liora Velvetreed's Paper Otter Robotics holdings, with attention to liquidity needs and divorce restrictions. Include key assumptions, open questions for the CPA or attorney, and next-step implementation considerations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        }
+      ],
+      "evidence": "For Paper Otter Robotics concentration analysis, the portfolio review showed Paper Otter Robotics holdings at about 28% of investable assets. The agreed follow-up due March 18, 2024 is to model staged sale, retention, gifting, and reinvestment alternatives with attention to liquidity needs and divor"
+    },
+    {
+      "templateId": "bbc351a0-d7f3-59a9-9b6e-c1705881ee7f",
+      "title": "Prepare Cash Distribution Request",
+      "text": "Distribution purpose: Legal retainer and near-term living costs\nRequested gross or net amount: $35,000 net\nSource account type: Joint taxable investment account at Velvet Acorn Custody\nPreferred delivery method: [ACH / check / wire / internal transfer]\nReceiving account or payee placeholder: Liora Velvetreed's separate checking account at Teacup Comet Bank\nTax withholding instruction, if applicable: [Federal / state / none / discuss]\nFrequency: One-time\nLiquidity source to review: [Money market / sale proceeds / scheduled income / other]\nClient authorization method: [Portal / signed form / recorded instruction / other]\nSpecial notes: Remains subject to available cash, tax lot review, and required authorization.\n\nBefore processing, confirm available cash, tax considerations, required forms, and whether the request affects the client’s plan assumptions.",
+      "priority": "medium",
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For cash distribution for legal and living expenses, Liora requested a one-time $35,000 net transfer from the joint taxable account to her separate Teacup Comet Bank checking account for a legal retainer and near-term living costs. The agreed follow-up is due March 6, 2024 and remains subject to ava"
+    }
+  ]
+}

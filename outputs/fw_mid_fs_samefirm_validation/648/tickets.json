@@ -1,0 +1,65 @@
+{
+  "meetingId": "648",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Restore secure online access to Velvet Acorn Custody portal",
+      "text": "Restore Lena Copperwisp's secure online access to the Velvet Acorn Custody portal using a method that does not rely on the old SMS code path, after she was locked out from repeated unexpected multifactor authentication prompts.",
+      "priority": null,
+      "dueDate": "2025-04-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena reported receiving multiple unexpected multifactor authentication prompts overnight before being locked out of her Velvet Acorn Custody portal access."
+    },
+    {
+      "templateId": null,
+      "title": "Review unrecognized external bank link in custodian activity",
+      "text": "Review the pending external bank nickname in the Velvet Acorn Custody activity view that Lena Copperwisp did not recognize, creating a difference between her known instructions and the account record.",
+      "priority": null,
+      "dueDate": "2025-04-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The custodian activity view shown during the call displayed a pending external bank nickname that Lena did not recognize, and no completed transfer from that pending destination was visible."
+    },
+    {
+      "templateId": "37c17d04-e353-50f8-a3c6-359f520559a4",
+      "title": "Update recurring payment instructions",
+      "text": "Update the recurring $2,500 monthly transfer from the joint taxable account at Velvet Acorn Custody to Teacup Comet Bank checking to use only a verified Teacup Comet Bank destination with phone confirmation before money movement, as requested by Lena Copperwisp.",
+      "priority": null,
+      "dueDate": "2025-04-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked for the regular taxable-account transfer to be paused until replacement instructions use only a verified Teacup Comet Bank destination with phone confirmation before money movement; the agreed follow-up is to update the instructions by April 14, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Teacup Comet Bank incident documentation",
+      "text": "Collect the Teacup Comet Bank incident reference, statement pages showing any attempted micro-deposits, and written confirmation of which bank account numbers remain valid for the Copperwisp household.",
+      "priority": null,
+      "dueDate": "2025-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For bank incident documentation, the team did not yet have the Teacup Comet Bank incident reference, statement pages showing any attempted micro-deposits, or written confirmation of which bank account numbers remain valid;"
+    },
+    {
+      "templateId": null,
+      "title": "Refresh custodian alert records and trusted contact verification",
+      "text": "Refresh the Velvet Acorn Custodian alert record to include Noah Copperwisp's current mobile number as a trusted contact verification option, replacing the prior work email on file.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For account safeguards and trusted contact records, Mira’s review found the custodian alert record still used Lena’s prior work email and did not include Noah’s current mobile number as a trusted contact verification option;"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate secure tuition funding for Marzipan Meadow School",
+      "text": "Coordinate secure tuition funding for Poppy Copperwisp's spring tuition installment of $8,600 at Marzipan Meadow School, ensuring funds are not routed through any unverified destination account before the next normal advisory service cycle.",
+      "priority": null,
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For secure tuition funding, Marzipan Meadow School’s payment schedule requires the next tuition installment before the next normal advisory service cycle, and Lena does not want funds routed through any unverified destination account;"
+    }
+  ]
+}

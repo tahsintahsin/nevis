@@ -1,0 +1,35 @@
+{
+  "meetingId": "409",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain Missing Tax Documents for 2022 Federal Return",
+      "text": "Obtain the Velvet Acorn consolidated tax form and charitable giving summary Beren Nettlewhisk requested for Anika Pebblefizz’s 2022 federal return. Deliver the missing records by April 18, 2024.",
+      "priority": null,
+      "dueDate": "2024-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain those records by April 18, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Custodian Income Variance",
+      "text": "Resolve the variance between the IRS correspondence’s $14,860 of ordinary dividends from Anika Pebblefizz’s Velvet Acorn taxable account and the return worksheet’s $7,440 for the same income category. Complete resolution by April 24, 2024.",
+      "priority": null,
+      "dueDate": "2024-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "resolution of the custodian income variance is needed by April 24, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Send Secure Tax Notice Packet",
+      "text": "Send Anika Pebblefizz’s IRS notice, relevant tax forms, and account statements through secure delivery by April 16, 2024. Coordinate with Beren Nettlewhisk and include only the requested materials.",
+      "priority": null,
+      "dueDate": "2024-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "requested that only the notice, relevant tax forms, and account statements be sent through secure delivery by April 16, 2024."
+    }
+  ]
+}

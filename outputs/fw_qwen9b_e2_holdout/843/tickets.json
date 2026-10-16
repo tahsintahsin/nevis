@@ -1,0 +1,44 @@
+{
+  "meetingId": "843",
+  "tickets": [
+    {
+      "templateId": "e399f327-5544-58b2-b9e0-4d6560d263b5",
+      "title": "Update Household Profile and Planning Assumptions",
+      "text": "Refresh the household profile for Liora Pebblefizz. Confirm current household members, contact preferences, employment status, retirement target assumptions, tax filing status, dependent or caregiving changes, key professional contacts, and any new planning priorities. Record evidence sources in the CRM and flag items that affect retirement income planning, IRA rollover guidance, or tax-conscious investment management.\n\nUpdate marital status, shared household address, trusted contact preference, and account mailing records before the next planning update.",
+      "priority": "medium",
+      "dueDate": "2026-04-24",
+      "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90",
+      "subTasks": [
+        {
+          "title": "Confirm Household and Contact Details",
+          "text": "Verify household members, preferred names, addresses, phone numbers, email preferences, trusted contact status, and communication permissions for Liora Pebblefizz. Note any missing confirmations or outdated fields. Update marital status, shared household address, trusted contact preference, and account mailing records before the next planning update.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        },
+        {
+          "title": "Refresh Employment, Income, and Retirement Assumptions",
+          "text": "Update employer status, expected retirement timing, recurring income sources, benefits changes, and IRA or 401(k) rollover considerations. Capture the evidence reviewed, such as client confirmation, pay information, benefit summaries, or account statements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        },
+        {
+          "title": "Review Tax, Estate, and Professional Contact Fields",
+          "text": "Confirm tax filing status, CPA or attorney contact placeholders, estate document status, beneficiary review needs, and any household life event changes. Leave placeholders blank when the client has not provided the information. Follow up on beneficiary and estate coordination needs by 2026-05-01: Rowan Nettlewhisk should be primary beneficiary on the IRA, but the custodian profile still shows Sela Pebblefizz as sole primary beneficiary and no post-marriage estate document copies are in the file.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        },
+        {
+          "title": "Document Changes and Route Follow-Ups",
+          "text": "Summarize completed updates, unresolved questions, and planning impacts. Create follow-up tasks for missing documents, advice updates, or client outreach where needed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        }
+      ],
+      "evidence": "She asked Apricot Compass Advisory to update marital status, shared household address, trusted contact preference, and account mailing records before the next planning update; the agreed follow-up is due 2026-04-24."
+    }
+  ]
+}

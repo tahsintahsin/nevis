@@ -1,0 +1,23 @@
+{
+ "config": "fw_mid_fs_samefirm_k4",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657",
+  "60",
+  "329"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"624\", \"tickets\": []}",
+   "usage": {
+    "input_tokens": 27725,
+    "output_tokens": 17,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

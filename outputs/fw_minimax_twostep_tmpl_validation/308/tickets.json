@@ -1,0 +1,55 @@
+{
+  "meetingId": "308",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare life insurance coverage analysis for Mossbutton household",
+      "text": "Prepare a life insurance coverage analysis for Alina and Derek Mossbutton reflecting Nora's adoption, Derek's reduced household income during his current unpaid leave from Velvet Acorn Pediatrics, the $412,000 remaining mortgage balance, Alina's employer group life insurance equal to one times her $156,000 salary at Tin Sparrow Analytics, and Derek's $250,000 term policy with Moonbadger Life through 2041.",
+      "priority": null,
+      "dueDate": "2026-03-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare life insurance coverage analysis by 2026-03-09 reflecting Nora’s adoption, Derek’s reduced household income during leave, the mortgage balance, and current group and term policies."
+    },
+    {
+      "templateId": "d9317489-4c3f-5a88-801f-76eec7064887",
+      "title": "Care Cost Planning Starter",
+      "text": "Build a single view of childcare and education funding tradeoffs for Alina and Derek Mossbutton covering Nora. Compare the preferred daycare quote of $2,150 per month for infant care against the desired college savings contribution, showing the impact on the household's monthly surplus, reserve levels at Teacup Comet Bank, dependent-care reimbursement options, and possible 529 or other education account funding levels.",
+      "priority": null,
+      "dueDate": "2026-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2026-03-12 to create one view of childcare and education funding tradeoffs because the daycare quote and desired college savings contribution would draw from the same monthly surplus, showing reserve impact, dependent-care reimbursements, and possible education account funding levels."
+    },
+    {
+      "templateId": null,
+      "title": "Update estate documents and beneficiary designations for Nora",
+      "text": "Update the Mossbutton estate documents and account beneficiary designations to add a guardian nomination for Nora Mossbutton, testamentary trust language, and beneficiary provisions for her. The current 2019 documents name Alina and Derek Mossbutton as primary agents for each other with Alina's sister Leona Bramblequill as backup agent, and pre-child account beneficiaries need to be revised.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed because the file has pre-child estate documents and account beneficiaries but no guardian nomination, testamentary trust language, or beneficiary designations with provisions for Nora."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Nora's adoption decree, amended birth certificate, and SSN",
+      "text": "Obtain and file the final adoption decree, amended birth certificate, and Social Security number for Nora Mossbutton, whose adoption was finalized on 2026-02-12 (born 2025-11-18). These documents are needed to verify beneficiary designations and complete education account paperwork in the vault.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is also needed because the vault lacks the final adoption decree, amended birth certificate, or Social Security number needed to verify beneficiary and education account paperwork."
+    },
+    {
+      "templateId": null,
+      "title": "Address dependent-care enrollment timing for Mossbutton household",
+      "text": "Address dependent-care enrollment timing for Alina and Derek Mossbutton before Derek's benefits enrollment window at Velvet Acorn Pediatrics closes. Determine which parent's dependent-care arrangement should be used given the expected daycare start at the $2,150 per month preferred provider and Derek's current unpaid leave transition.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2026-02-27 to address dependent-care enrollment timing because Derek’s employer portal shows a benefits enrollment window closing soon, and Alina was unsure which parent’s dependent-care arrangement should be used given the expected daycare start and leave transition."
+    }
+  ]
+}

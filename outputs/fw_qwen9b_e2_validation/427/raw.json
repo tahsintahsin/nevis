@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e2",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"427\", \"tickets\": [{\"title\": \"Project care-cost runway and cash-reserve withdrawal timing\", \"text\": \"Prepare a care-cost runway projection for Helena and Martin Cloudpuddle comparing the current Pocket Lantern Home Care aide schedule with a higher-coverage scenario. Show when cash reserves would require an increased withdrawal from their joint taxable account at Velvet Acorn Custody.\", \"priority\": null, \"dueDate\": \"2024-01-05\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Helena asked for a care-cost runway projection comparing the current aide schedule with a higher-coverage scenario and showing when cash reserves would require an increased taxable-account withdrawal; the agreed follow-up is due 2024-01-05.\"}, {\"title\": \"Document family caregiver reimbursement approach\", \"text\": \"Prepare a documented family caregiver reimbursement approach for Lila Cloudpuddle’s weekday transportation and medication supervision. Distinguish gifts, wages, and shared household costs.\", \"priority\": null, \"dueDate\": \"2024-01-12\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Helena wants a documented family caregiver reimbursement approach that does not blur gifts, wages, and shared household costs; the agreed follow-up is due 2024-01-12.\"}, {\"title\": \"Obtain missing long-term care claim file materials\", \"text\": \"Obtain the full long-term care policy contract, claim packet, and elimination-period instructions requested by Amber Teapot Life Insurance for Helena and Martin Cloudpuddle. Helena has the premium notice.\", \"priority\": null, \"dueDate\": \"2024-01-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Helena had the premium notice but not the full policy contract, claim packet, or elimination-period instructions requested by Amber Teapot Life Insurance; those materials are needed by 2024-01-10.\"}, {\"title\": \"Reconcile Pocket Lantern Home Care’s billed aide hours\", \"text\": \"Reconcile Pocket Lantern Home Care’s portal-billed aide hours for the first service week with Helena’s calendar and aide sign-in sheet. Resolve the discrepancy before finalizing the invoice amount for planning assumptions.\", \"priority\": null, \"dueDate\": \"2024-01-03\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Pocket Lantern Home Care’s portal shows more billed aide hours for the first service week than Helena’s calendar and aide sign-in sheet, so the home-care invoice amount is not ready for planning assumptions; the agreed follow-up is due 2024-01-03.\"}, {\"title\": \"Prepare financial questions and affordability figures for the care conference\", \"text\": \"Prepare financial questions and affordability figures for the near-term care conference reviewing home therapy authorization and daily supervision for Helena and Martin Cloudpuddle.\", \"priority\": null, \"dueDate\": \"2024-01-08\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Helena wants financial questions and affordability figures ready for that conversation; the agreed follow-up is due 2024-01-08.\"}]}",
+   "usage": {
+    "input_tokens": 3165,
+    "output_tokens": 744,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

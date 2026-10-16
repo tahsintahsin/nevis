@@ -1,0 +1,125 @@
+{
+  "meetingId": "168",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain home safety modification estimates",
+      "text": "Obtain home safety modification estimates for Owen Pebblefizz from contractors, referencing the discharge therapist's recommendations for grab bars, stair rail changes, and shower entry modification.",
+      "priority": null,
+      "dueDate": "2026-09-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain home safety modification estimates by 2026-09-03."
+    },
+    {
+      "templateId": null,
+      "title": "Gather long-term care claim materials",
+      "text": "Gather long-term care claim materials for Owen Pebblefizz, including the full policy, elimination-period ledger, physician certification form, and current claim packet.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to gather long-term care claim materials by 2026-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Medicare home-health denial packet",
+      "text": "Assemble the Medicare home-health denial packet for Nadia Pebblefizz, incorporating the explanation of benefits, therapy notes, and homebound certification.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to assemble the Medicare home-health denial packet by 2026-08-19."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare caregiver compensation framework",
+      "text": "Prepare a caregiver compensation framework for Lila Pebblefizz, addressing documentation, tax reporting, and the distinction between gifts and paid care.",
+      "priority": null,
+      "dueDate": "2026-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a caregiver compensation framework by 2026-09-05."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on care agency authorization contacts",
+      "text": "Follow up on care agency authorization contacts to resolve the conflict where Paper Otter Home Care lists Owen Pebblefizz as the only authorized signer despite Nadia Pebblefizz managing appointments.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up on care agency authorization contacts remains needed."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare care-cost cash-flow projection",
+      "text": "Prepare a twelve-month care-cost cash-flow projection for Nadia and Owen Pebblefizz, comparing home-health hours, adult day care, and respite costs against pension, Social Security, cash, and potential IRA distributions.",
+      "priority": null,
+      "dueDate": "2026-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the care-cost cash-flow projection by 2026-08-29."
+    },
+    {
+      "templateId": null,
+      "title": "Address benefit changes from reduced work",
+      "text": "Address the impact of Nadia Pebblefizz's potential loss of consulting income on household benefits and monthly care budget, including estimated tax payments.",
+      "priority": null,
+      "dueDate": "2026-09-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address benefit changes from reduced work by 2026-09-11."
+    },
+    {
+      "templateId": null,
+      "title": "Address recurring transfer failure",
+      "text": "Address the recurring $5,000 monthly transfer failure from Velvet Acorn Custody to the Teacup Comet Bank checking account for Nadia and Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the recurring transfer failure by 2026-08-21."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile home-care invoice discrepancy",
+      "text": "Reconcile the Paper Otter Home Care invoice discrepancy for Owen Pebblefizz, verifying billed visits against the family care log and clarifying the weekend premium rate shift.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reconcile the home-care invoice by 2026-08-23."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare liquidity plan after portfolio review",
+      "text": "Prepare a liquidity plan for Nadia and Owen Pebblefizz after the portfolio review, ensuring sufficient cash and short-duration holdings to meet preferred care reserve.",
+      "priority": null,
+      "dueDate": "2026-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a liquidity plan after the portfolio review by 2026-08-30."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare respite placement decision support",
+      "text": "Prepare decision support for the respite placement at Thimble Harbor Assisted Living, comparing the $7,850 monthly suite cost with expanded in-home shift options.",
+      "priority": null,
+      "dueDate": "2026-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare respite placement decision support by 2026-08-26."
+    },
+    {
+      "templateId": null,
+      "title": "Provide information for tax estimate",
+      "text": "Provide the CPA with projected home-care, adult day, respite, mileage, and caregiver-payment amounts for Nadia and Owen Pebblefizz to update year-end tax planning assumptions.",
+      "priority": null,
+      "dueDate": "2026-09-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to provide information for the tax estimate for medical and caregiver costs by 2026-09-08."
+    }
+  ]
+}

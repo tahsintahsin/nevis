@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"849\",\n\"tickets\": [\n{\n\"title\": \"Update dependent record and cash flow projections\",\n\"text\": \"Record Lena Pebblefizz as a dependent for the Pebblefizz household and update the childcare and medical cash flow projections to reflect the new family size. Capture Nadia Pebblefizz's revised parental-leave income estimate from Cloudberry Kite Robotics.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-14\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia's revised Cloudberry Kite parental-leave income estimate.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Provide family-attorney checklist for estate update\",\n\"text\": \"Provide a family-attorney checklist to the Pebblefizz household to address the need for updating 2021 estate documents that currently omit minor child Lena Pebblefizz and lack a designated guardian.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-21\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Obtain disability and term policy declarations\",\n\"text\": \"Obtain Owen Pebblefizz's individual term policy declaration page and both spouses' disability insurance details to complete the protection review, as only Nadia's group life benefit summary is currently in the portal.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Needed by 2025-02-18: Owen's individual term policy declaration page and both spouses' disability details; only Nadia's group life benefit summary is in portal, leaving protection review incomplete.\"\n,\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 911,
+    "output_tokens": 508,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

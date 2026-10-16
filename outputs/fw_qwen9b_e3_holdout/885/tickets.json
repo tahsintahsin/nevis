@@ -1,0 +1,114 @@
+{
+  "meetingId": "885",
+  "tickets": [
+    {
+      "templateId": "2bc56a5b-52a3-5787-b2f4-bfb7efb9607b",
+      "title": "Recover client account access",
+      "text": "Use this workflow when a client cannot access an approved account vault, custodian site, or secure document vault. Confirm identity, determine whether the issue is username, password, device, multi-factor authentication, locked account, or outdated contact information, and document the resolution path before closing the request. For Lena Copperwisp, restore individual access to the shared document vault. Authentication codes are still routing to Marcus Copperwisp’s mobile number, preventing Lena from retrieving estate and account records.",
+      "priority": "medium",
+      "dueDate": "2023-10-06",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Verify identity and access scope",
+          "text": "Confirm the requester through approved identity verification steps and identify which portal, custodian, or document vault is affected. Do not reset credentials until the verification notes are complete.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "96a5e08f-ebec-5090-a8b0-ffff56f65f34"
+        },
+        {
+          "title": "Diagnose recovery path",
+          "text": "Determine whether the client needs a username reminder, password reset, MFA troubleshooting, profile contact update, device guidance, or custodian support escalation.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9514199c-963a-5eb7-94d8-13bf168e3780"
+        },
+        {
+          "title": "Coordinate custodian or platform escalation",
+          "text": "If the issue cannot be resolved internally, prepare the escalation summary with verification status, affected access point, error description, and any required client authorization.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "80ec768b-fd80-585b-82ed-4286607c2b1d"
+        },
+        {
+          "title": "Confirm restoration and record outcome",
+          "text": "Confirm the client can sign in successfully, remind the client not to share credentials, and record the final resolution in the client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "96a5e08f-ebec-5090-a8b0-ffff56f65f34"
+        }
+      ],
+      "evidence": "She asked Apricot Compass Advisory to restore her individual access through verified channels, and the agreed follow-up is due 2023-10-06."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain certified death certificates and letters testamentary",
+      "text": "Obtain and place certified death certificates and letters testamentary in the document vault for Lena Copperwisp’s estate and account processing. Velvet Acorn Custody and Moonbadger Insurance require those records before processing beneficiary and claim paperwork.",
+      "priority": null,
+      "dueDate": "2023-10-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "certified death certificates and letters testamentary are not yet available in the document vault, and Velvet Acorn Custody and Moonbadger Insurance require those records before processing beneficiary and claim paperwork. The agreed follow-up to obtain and place the required records for processing i"
+    },
+    {
+      "templateId": null,
+      "title": "Complete the employer life insurance claim packet",
+      "text": "Complete Lena Copperwisp’s Moonbadger Insurance claim packet for Silver Marmot Analytics using the claim notice and benefits correspondence Lena brought. The packet must be complete before the benefits office review cutoff.",
+      "priority": null,
+      "dueDate": "2023-10-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena brought a Moonbadger Insurance claim notice and Silver Marmot Analytics benefits correspondence showing that the employer claim packet must be complete before the benefits office review cutoff. The agreed follow-up on the claim packet is due 2023-10-16."
+    },
+    {
+      "templateId": "af4b356b-2e5d-5b18-b5fc-1f6ac07e4d39",
+      "title": "Coordinate divorce-related document request",
+      "text": "Client name: Lena Copperwisp\nMatter or household reference: Marcus Copperwisp’s estate administration\nAttorney or mediator contact: Selene Nettlewhisk, Coral Badger Law\nRequested document categories: ACCOUNT STATEMENTS / TAX RETURNS / RETIREMENT PLAN DOCUMENTS / INSURANCE / OTHER\nDate range requested: [DATE RANGE]\nDelivery method approved by client: [SECURE PORTAL / DIRECT TO CLIENT / OTHER]\nClient authorization status: [RECEIVED / NEEDED / NOT APPLICABLE]\nItems excluded from request: [EXCLUSIONS]\nInternal reviewer before release: [TEAM MEMBER]\nNotes on special handling, privacy concerns, or deadlines stated by counsel: Coordinate with Selene Nettlewhisk on the retitling sequence for the home records, joint taxable account, and trust administration records so account paperwork is consistent with the estate documents.",
+      "priority": "high",
+      "dueDate": "2023-10-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked that coordination occur with Selene Nettlewhisk regarding the order of retitling the home records, the joint taxable account, and trust administration records so that account paperwork is consistent with the estate documents. The agreed follow-up is due 2023-10-18."
+    },
+    {
+      "templateId": "0a2ce75a-8af4-52ae-8c5b-524f6364e54b",
+      "title": "Review beneficiary update request",
+      "text": "Review criteria:\n- Confirm which accounts, policies, plans, or registration types require beneficiary review.\n- Compare current beneficiary records against the client’s stated intent and estate planning notes.\n- Verify full legal names, relationships, percentage allocations, contingent beneficiaries, and per stirpes or per capita elections where applicable.\n- Confirm allocations total correctly and do not conflict with account or custodian rules.\n- Identify whether spouse consent, trustee information, minor beneficiary handling, or legal review is needed.\n\nEvidence to collect:\n- Current custodian or plan beneficiary record\n- Client authorization or signed beneficiary form\n- Relevant trust name and trustee details, if a trust is named\n- Estate planning summary or attorney instruction, if available\n- Confirmation notice or screenshot after processing\n\nDocument any discrepancy, missing signature, or follow-up required before marking the update complete. For Lena Copperwisp, review Marcus Copperwisp’s beneficiary records on Lena’s IRA and term life policy. Marcus remains listed as primary beneficiary, while the estate summary describes the children and trust provisions as the next intended backstop.",
+      "priority": "high",
+      "dueDate": "2023-10-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the client file review showed Marcus is still listed as primary beneficiary on Lena’s IRA and term life policy records, while the estate summary describes the children and trust provisions as the next intended backstop. The agreed follow-up to review those beneficiary records is due 2023-10-20."
+    },
+    {
+      "templateId": null,
+      "title": "Analyze survivor income and spending sustainability",
+      "text": "Analyze Lena Copperwisp’s survivor income and spending sustainability. Marcus’s salary has ended and Lena is the sole earner. Assess whether current spending, college costs, cash reserves, and future retirement timing remain sustainable.",
+      "priority": null,
+      "dueDate": "2023-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "she wants to understand whether current spending, college costs, cash reserves, and future retirement timing remain sustainable. The agreed follow-up to analyze those topics is due 2023-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Provide tax coordination information for final joint-year planning",
+      "text": "Provide Jonas Maplesprocket of Amber Teapot Tax Advisors with year-to-date income, withholding, realized gain and loss, and estimated tax information for Lena and Marcus Copperwisp’s final joint-year tax projection. Reflect Marcus’s final wages and the portfolio activity already posted.",
+      "priority": null,
+      "dueDate": "2023-10-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked that Jonas Maplesprocket receive year-to-date income, withholding, realized gain and loss, and estimated tax information so the tax projection can reflect Marcus’s final wages and the portfolio activity already posted. The agreed follow-up to provide that information for tax coordination "
+    },
+    {
+      "templateId": "d68c5826-91a8-5cc7-bdef-e7b631551900",
+      "title": "Review concentrated position",
+      "text": "Complete the following checks:\n- Identify the position, account location, cost basis, holding period, and percentage of total investable assets.\n- Confirm whether the holding is employer stock, inherited stock, restricted equity, a legacy position, or a tax-sensitive lot.\n- Review unrealized gain or loss, dividend exposure, liquidity needs, and any trading restrictions or blackout windows.\n- Evaluate tax-aware diversification options, including staged sales, gifting, charitable strategies, exchange funds if appropriate, or hedging considerations.\n- Compare concentration risk against the client’s financial plan, retirement income needs, and risk tolerance.\n- Document recommended next steps, required approvals, and any CPA or legal coordination needed before transactions.\n\nFor Lena Copperwisp, review the Paper Otter Technologies stock position in the joint taxable account at Velvet Acorn Custody, worth about $510,000 with an estimated cost basis of $96,000. The position carries a substantial unrealized gain and represents a large share of investable assets.",
+      "priority": "high",
+      "dueDate": "2023-11-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the portfolio review found that Paper Otter Technologies stock represents a large share of investable assets and carries a substantial unrealized gain, which Lena said feels more uncomfortable now that household income has changed. The agreed follow-up to review the concentrated stock position is du"
+    }
+  ]
+}

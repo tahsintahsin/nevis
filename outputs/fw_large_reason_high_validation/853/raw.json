@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_reason_high",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"853\",\n\"tickets\": [\n{\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\",\n\"title\": \"Update household profile\",\n\"text\": \"Update Leona Thimblefern’s household profile by reviewing the Velvet Acorn Custody unfamiliar-device alert, checking for any profile or distribution-instruction changes, and coordinating the pre-upload custodian security steps.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": null,\n\"subTasks\": [\n{\n\"title\": \"Review alert\",\n\"text\": \"Review the Velvet Acorn Custody unfamiliar-device alert for Leona Thimblefern.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Check profile changes\",\n\"text\": \"Check Leona Thimblefern’s profile and distribution-instruction changes for any updates.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Coordinate security steps\",\n\"text\": \"Coordinate pre-upload custodian security steps with Velvet Acorn Custody for Leona Thimblefern.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n}\n],\n\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3669,
+    "output_tokens": 3645,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 40
+   },
+   "stop": "stop"
+  }
+ ]
+}

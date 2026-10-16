@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e1",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"854\", \"tickets\": [{\"title\": \"Complete remaining household profile sections\", \"text\": \"Complete Alden and Priya Pebblefizz’s remaining household profile sections: contact, authorization, risk tolerance, and communication preference. Finalize the new client record so the planning team can proceed.\", \"priority\": null, \"dueDate\": \"2024-04-26\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is completion of those remaining sections by 2024-04-26.\"}, {\"title\": \"Reset portal access and confirm upload instructions\", \"text\": \"Reset Alden and Priya Pebblefizz’s secure portal access and confirm upload instructions with both household decision-makers. Address Priya’s missing invitation and Alden’s timed-out brokerage statement upload.\", \"priority\": null, \"dueDate\": \"2024-04-23\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to reset portal access and confirm upload instructions with both household decision-makers by 2024-04-23.\"}, {\"title\": \"Address Willow Pudding Components plan evaluation\", \"text\": \"Address Alden Pebblefizz’s request to evaluate his prior employer retirement plan from Willow Pudding Components and possible rollover steps once the plan statement and distribution options are available.\", \"priority\": null, \"dueDate\": \"2024-05-03\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to address that evaluation once those records are available, due 2024-05-03.\"}, {\"title\": \"Include equity award considerations in the first planning meeting\", \"text\": \"Include Alden Pebblefizz’s equity award considerations in the first planning meeting: vesting concentration, tax withholding, and whether to sell shares after vesting.\", \"priority\": null, \"dueDate\": \"2024-05-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to include those equity award considerations in the first planning meeting by 2024-05-10.\"}, {\"title\": \"Collect tax return and CPA authorization materials\", \"text\": \"Collect Alden and Priya Pebblefizz’s most recent federal and Oregon income tax returns and written permission to coordinate with their CPA, Rowan Thimblefern.\", \"priority\": null, \"dueDate\": \"2024-05-01\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"those materials and authorization are needed by 2024-05-01.\"}, {\"title\": \"Update education funding assumptions\", \"text\": \"Update Alden and Priya Pebblefizz’s education funding assumptions for Nora Pebblefizz, accounting for her interest in an out-of-state engineering program and its impact on the household’s education funding target and 529 spending timeline.\", \"priority\": null, \"dueDate\": \"2024-05-15\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"updated education funding assumptions are needed by 2024-05-15.\"}]}",
+   "usage": {
+    "input_tokens": 1661,
+    "output_tokens": 762,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

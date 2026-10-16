@@ -1,0 +1,94 @@
+{
+  "meetingId": "854",
+  "tickets": [
+    {
+      "templateId": "486c718d-7936-5ae9-bfc8-5eea34decf10",
+      "title": "Complete client onboarding workflow",
+      "text": "Guide Alden and Priya Pebblefizz through Copper Firefly Advisory onboarding. Confirm engagement scope, collect required profile and planning information, establish secure document exchange, and prepare the advisory team for the first planning discussion. Complete the remaining contact, authorization, risk tolerance, and communication preference sections in the household profile packet so the new client record can be finalized.",
+      "priority": "medium",
+      "dueDate": "2024-04-26",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm engagement scope and welcome logistics",
+          "text": "Send the welcome message, confirm the primary contacts, preferred communication method, household decision-makers, and the initial planning topics to be covered.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "8423b23a-973f-539d-b62d-62a0ac491015"
+        },
+        {
+          "title": "Set up client records and document portal",
+          "text": "Create or update the internal client record, enable secure portal access, and provide instructions for uploading statements, tax documents, estate documents, insurance pages, and employer benefit materials.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a937bf6e-3ad5-5284-b240-883a5ae3e40a"
+        },
+        {
+          "title": "Review submitted documents for planning readiness",
+          "text": "Check that core documents are legible, current, and sufficient for the initial plan build. Note missing items, unclear ownership, beneficiary gaps, or conflicting household details for advisor review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "f49d12b0-487f-53d2-8030-d959c6b63a5d"
+        },
+        {
+          "title": "Prepare first planning meeting agenda",
+          "text": "Draft an agenda covering goals, cash flow, retirement timing, tax considerations, investment accounts, business ownership issues if applicable, and open questions from the onboarding review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "f49d12b0-487f-53d2-8030-d959c6b63a5d"
+        }
+      ],
+      "evidence": "Mira and Tobin asked him to complete the remaining contact, authorization, risk tolerance, and communication preference sections so the new client record can be finalized, and the agreed follow-up is completion of those remaining sections by 2024-04-26."
+    },
+    {
+      "templateId": null,
+      "title": "Reset household portal access and confirm upload instructions",
+      "text": "Reset portal access for Alden and Priya Pebblefizz and confirm upload instructions with both household decision-makers. Resolve Priya’s missing secure portal invitation and Alden’s timed-out brokerage statement upload.",
+      "priority": null,
+      "dueDate": "2024-04-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reset portal access and confirm upload instructions with both household decision-makers by 2024-04-23."
+    },
+    {
+      "templateId": "6d91b3c5-f350-52b1-949e-0902b766d90a",
+      "title": "Coordinate retirement plan rollover request",
+      "text": "Once the Willow Pudding Components plan statement and distribution options are available, evaluate Alden Pebblefizz’s prior employer retirement plan and possible rollover steps. Coordinate the reusable retirement plan rollover process, including source plan type, destination account readiness, distribution method, tax withholding instructions, transfer restrictions, and documentation needed before the client initiates the rollover. Track receipt of funds and flag any tax, investment, or timing issues for advisor review.",
+      "priority": "medium",
+      "dueDate": "2024-05-03",
+      "assigneeId": "a937bf6e-3ad5-5284-b240-883a5ae3e40a",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that evaluation once those records are available, due 2024-05-03."
+    },
+    {
+      "templateId": null,
+      "title": "Include employer equity award considerations in the first planning meeting",
+      "text": "Include Alden Pebblefizz’s Paper Otter Robotics annual equity award election considerations in the first planning meeting. Address vesting concentration, tax withholding, and whether to sell shares after vesting.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to include those equity award considerations in the first planning meeting by 2024-05-10."
+    },
+    {
+      "templateId": null,
+      "title": "Collect tax documents and CPA authorization",
+      "text": "Collect Alden and Priya Pebblefizz’s most recent federal and Oregon income tax returns and written permission to coordinate with CPA Rowan Thimblefern. Complete the missing tax baseline needed for the first plan build.",
+      "priority": null,
+      "dueDate": "2024-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those materials and authorization are needed by 2024-05-01."
+    },
+    {
+      "templateId": null,
+      "title": "Update education funding assumptions for Nora",
+      "text": "Update the household’s education funding assumptions and Nora Pebblefizz’s 529 spending timeline to reflect her interest in an out-of-state engineering program and its potential impact on funding targets.",
+      "priority": null,
+      "dueDate": "2024-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "updated education funding assumptions are needed by 2024-05-15."
+    }
+  ]
+}

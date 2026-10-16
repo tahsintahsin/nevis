@@ -1,0 +1,25 @@
+{
+  "meetingId": "793",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare destination note for Raina Bramblequill",
+      "text": "Prepare a concise destination note for Raina Bramblequill covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions, incorporating the $4.6 million gross consideration, $350,000 escrow holdback, and $2,765,000 recent deposit.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": "8ad06456-db3e-56c7-9b8a-8a2c90ea1f26",
+      "subTasks": [],
+      "evidence": "Raina asked for a concise destination note covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions; the agreed follow-up is due January 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain executed escrow agreement and working-capital schedule",
+      "text": "Obtain the executed escrow agreement and final working-capital schedule missing from the sale file to reconcile the net proceeds, as the closing binder and bank deposit differed without identifying escrow, advisory fees, legal fees, or working-capital adjustments.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": "8ad06456-db3e-56c7-9b8a-8a2c90ea1f26",
+      "subTasks": [],
+      "evidence": "The agreed January 3, 2025 follow-up is to obtain the executed escrow agreement and final working-capital schedule missing from the sale file."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meetingId": "197",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate the exception by August 25, 2026",
+      "text": "Coordinate the rejected IRA transfer address exception with Paper Otter Retirement Services and Velvet Acorn Custody after the rollover request was rejected because the former plan address differed from her current residential address.",
+      "priority": null,
+      "dueDate": "2026-08-25",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "For the rejected IRA transfer address exception, Selma asked for coordination with Paper Otter Retirement Services and Velvet Acorn Custody after the rollover request was rejected because the former plan address differed from her current residential address. The agreed follow-up is to coordinate the"
+    },
+    {
+      "templateId": null,
+      "title": "Address the registration mismatch by August 22, 2026",
+      "text": "Address the joint account registration mismatch where the transfer paperwork listed Selma and Graham as joint tenants with rights of survivorship, while the Clockwork Clover Brokerage statement shows tenancy by entirety registration.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "For the joint account registration mismatch, the transfer paperwork listed Selma and Graham as joint tenants with rights of survivorship, while the Clockwork Clover Brokerage statement shows tenancy by entirety registration. The agreed follow-up is to address the mismatch by August 22, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve the duplicate shell issue by August 23, 2026",
+      "text": "Resolve the duplicate receiving account shell issue at Velvet Acorn Custody where two temporary taxable account shells were created for Selma and Clockwork Clover Brokerage associated the pending ACATS request with the shell Apricot Compass Advisory did not intend to use.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "For the duplicate receiving account shell at Velvet Acorn Custody, two temporary taxable account shells were created for Selma, and Clockwork Clover Brokerage associated the pending ACATS request with the shell Apricot Compass Advisory did not intend to use. The agreed follow-up is to resolve the du"
+    },
+    {
+      "templateId": null,
+      "title": "Handle the Copper Firefly Semiconductors position by August 28, 2026",
+      "text": "Handle the Copper Firefly Semiconductors position outside the standard ACATS feed during the current processing window at Clockwork Clover Brokerage.",
+      "priority": null,
+      "dueDate": "2026-08-28",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "For the restricted security manual transfer window, Clockwork Clover Brokerage reported that the Copper Firefly Semiconductors position in Selma’s individual brokerage must be handled outside the standard ACATS feed during the current processing window; the agreed follow-up is to handle it by August"
+    },
+    {
+      "templateId": null,
+      "title": "Address the cash holdback by August 21, 2026",
+      "text": "Address the cash holdback issue where the existing ACATS instruction would move all cash from Selma’s individual brokerage even though property tax and estimated tax payments are normally funded from that account.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "For the cash holdback before taxable transfer, Nora’s review found that the existing ACATS instruction would move all cash from Selma’s individual brokerage even though property tax and estimated tax payments are normally funded from that account. The agreed follow-up is to address the cash holdback"
+    }
+  ]
+}

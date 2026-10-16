@@ -1,0 +1,94 @@
+{
+  "meetingId": "602",
+  "tickets": [
+    {
+      "templateId": "b413f724-2319-5621-8e38-9828f9b07b41",
+      "title": "Build retirement income plan",
+      "text": "Create a revised monthly income plan for Evelyn Lanternmoss reflecting the loss of Adrian's $2,840 pension, her $38,000 annual part-time wages, $96,000 cash reserves, the $2,150 mortgage payment, and Social Security timing options, including potential withdrawals from the $612,000 taxable account and $564,000 in retirement accounts.",
+      "priority": "high",
+      "dueDate": "2026-01-23",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [
+        {
+          "title": "Gather retirement income inputs",
+          "text": "Collect current spending targets, anticipated retirement timing, pension or Social Security estimates, account types, cash reserves, recurring liabilities, and known major upcoming expenses for Evelyn Lanternmoss.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Model withdrawal and tax sequencing",
+          "text": "Compare withdrawal order options across taxable, tax-deferred, and tax-free accounts for Evelyn Lanternmoss, noting estimated tax brackets and cash-flow timing tradeoffs given the loss of Adrian's pension.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Stress-test plan assumptions",
+          "text": "Evaluate the plan under lower return, higher inflation, longer longevity, and unexpected expense scenarios for Evelyn Lanternmoss, flagging assumptions that materially change the recommendation.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare advisor summary",
+          "text": "Summarize recommended income sources, annual review triggers, tax-aware implementation steps, and open questions for client discussion regarding Evelyn Lanternmoss's survivor situation.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "For survivor cash-flow and retirement income planning, Evelyn asked for a revised monthly income plan reflecting Adrian’s lost pension payment, her part-time wages, available cash reserves, the mortgage payment, Social Security timing options, and potential withdrawals from taxable and retirement ac"
+    },
+    {
+      "templateId": null,
+      "title": "Compare pension survivor election options",
+      "text": "Compare the Clockwork Clover Railworks pension survivor election response options with the old plan file and cash-flow assumptions for Evelyn Lanternmoss to determine the best path forward before the recorded deadline.",
+      "priority": "high",
+      "dueDate": "2026-01-06",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "For the pension survivor election packet, Evelyn showed a Clockwork Clover Railworks pension packet requesting a survivor election response by the recorded deadline, and comparison with the old plan file and cash-flow assumptions is needed by 2026-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain estate and account transfer docs",
+      "text": "Obtain copies of the death certificate and the attorney's fiduciary authority document for Evelyn Lanternmoss, as these are needed by Velvet Acorn Custody to review retitling or inherited account paperwork for Adrian's IRA and the joint taxable account.",
+      "priority": "high",
+      "dueDate": "2026-01-09",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "For estate and account transfer documentation, death certificate copies and the attorney’s fiduciary authority document were not available during the conversation, and those documents are needed by 2026-01-09 before Velvet Acorn Custody can review retitling or inherited account paperwork for Adrian’"
+    },
+    {
+      "templateId": "3fc9118d-f924-58f9-8e5c-38a330f56058",
+      "title": "Prepare beneficiary update request",
+      "text": "Update the beneficiary records for Evelyn Lanternmoss's traditional IRA and Roth IRA at Velvet Acorn Custody, removing Adrian as primary beneficiary and confirming Lila Lanternmoss as the contingent beneficiary percentage per the 2018 estate documents.",
+      "priority": null,
+      "dueDate": "2026-01-16",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "For beneficiary records after Adrian’s death, Mira’s review of the current planning file showed Adrian still listed as primary beneficiary on Evelyn’s traditional IRA and Roth IRA, with no documented contingent beneficiary percentage confirmation for Lila Lanternmoss; the agreed follow-up is due 202"
+    },
+    {
+      "templateId": null,
+      "title": "Identify life insurance claim requirements",
+      "text": "Identify the specific claim forms and evidence required for Adrian Lanternmoss's $250,000 Buttonwood Balloon Insurance term policy and $75,000 Clockwork Clover Railworks group life benefit to assist Evelyn Lanternmoss in filing claims.",
+      "priority": "high",
+      "dueDate": "2026-01-05",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "For life insurance claim materials, Evelyn requested help identifying the claim forms and evidence required for Adrian’s Buttonwood Balloon Insurance term policy and Clockwork Clover Railworks group life benefit; the agreed follow-up is due 2026-01-05."
+    },
+    {
+      "templateId": null,
+      "title": "Verify mortgage auto-draft source",
+      "text": "Verify the mortgage auto-draft source for the $218,000 balance at Teacup Comet Bank, as Adrian's checking account closure may have stopped the draft while the portal still shows the closed account as the source, and resolve by 2025-12-29.",
+      "priority": "high",
+      "dueDate": "2025-12-29",
+      "assigneeId": "d8fe8317-1b9f-5ed2-aec3-d28071e724c7",
+      "subTasks": [],
+      "evidence": "For mortgage auto-draft after account closure, follow-up is needed by 2025-12-29 because the Teacup Comet Bank survivor services note says Adrian’s checking account closure may stop the mortgage auto-draft, while the mortgage portal still shows the next draft source as Adrian’s closed checking accou"
+    }
+  ]
+}

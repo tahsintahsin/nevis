@@ -1,0 +1,21 @@
+{
+ "config": "fw_large_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"307\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Create calendar of option and RSU vesting, blackout periods, and pre-clearance steps\",\n\"text\": \"Create a consolidated calendar for Tobin Mossbutton’s option and RSU vesting dates, blackout periods, and pre‑clearance steps to replace reliance on memory or portal screenshots.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-12\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps\"\n},\n{\n\"templateId\": null,\n\"title\": \"Illustrate same‑day sale, cash exercise, and partial exercise scenarios\",\n\"text\": \"Illustrate for Tobin Mossbutton the financial impact of same‑day sale, cash exercise, and partial exercise of his options, comparing each against cash reserves and payroll withholding capacity.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-19\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity\"\n},\n{\n\"templateId\": null,\n\"title\": \"Collect equity plan agreement, grant notices, and insider trading policy\",\n\"text\": \"Collect the full equity plan agreement, all grant notices, and the insider trading policy for Tobin Mossbutton to confirm exercise limits and sale restrictions.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-05\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1844,
+    "output_tokens": 1206,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 12203
+   },
+   "stop": "stop"
+  }
+ ]
+}

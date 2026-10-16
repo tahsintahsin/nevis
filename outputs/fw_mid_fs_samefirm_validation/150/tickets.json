@@ -1,0 +1,165 @@
+{
+  "meetingId": "150",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete IRS notice record by obtaining the missing page",
+      "text": "Obtain the missing page from the IRS notice that shows the response voucher and complete contact instructions. Dana uploaded only a partial scan of the federal notice before the call.",
+      "priority": null,
+      "dueDate": "2026-02-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-02-17"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare a response calendar for notice timing",
+      "text": "Create a response calendar for the federal correspondence to avoid last-minute routing delays while records are being assembled. The federal notice has a near-term response window.",
+      "priority": null,
+      "dueDate": "2026-02-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-02-16"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate the notice packet with Selene Maplesprocket",
+      "text": "Send the IRS notice, cost-basis materials, and a concise issue summary to Dana’s CPA Selene Maplesprocket so the CPA can decide how to answer the federal correspondence.",
+      "priority": null,
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-02-20"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile securities sale proceeds and basis",
+      "text": "Reconcile the securities sale proceeds and cost basis for the questioned Moonbadger Robotics share sales. The federal notice cites mismatched proceeds while Dana believes the trades came from vested shares already reported through payroll and brokerage tax forms.",
+      "priority": null,
+      "dueDate": "2026-02-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-02-24"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain brokerage tax forms for the questioned sales",
+      "text": "Obtain the complete brokerage tax package and supplemental lot detail for the Velvet Acorn Custody account that held the questioned Moonbadger Robotics share sales.",
+      "priority": null,
+      "dueDate": "2026-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A remaining need is to obtain brokerage tax forms for the questioned sales, because the planning file does not yet contain the complete brokerage tax package and supplemental lot detail for the account that held the questioned Moonbadger Robotics share sales;"
+    },
+    {
+      "templateId": null,
+      "title": "Review equity compensation withholding records",
+      "text": "Review Dana’s equity compensation withholding records to clarify taxable compensation and withholding for Moonbadger Robotics vesting activity. The supplemental equity statement and pay summary do not clearly match.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-02-27"
+    },
+    {
+      "templateId": null,
+      "title": "Confirm state estimated tax payment crediting",
+      "text": "Confirm how the Oregon Department of Revenue credited the 2024 estimated tax payment. The correspondence showed one payment posted under Hugo’s Social Security number rather than Dana’s.",
+      "priority": null,
+      "dueDate": "2026-02-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-02-25"
+    },
+    {
+      "templateId": null,
+      "title": "Locate the missing federal estimated tax payment confirmation",
+      "text": "Locate the confirmation for the fourth federal estimated tax payment for 2025. Dana’s records show four payments totaling $44,000 but only three confirmations were found.",
+      "priority": null,
+      "dueDate": "2026-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A remaining need is to locate the missing federal estimated payment confirmation;"
+    },
+    {
+      "templateId": null,
+      "title": "Gather the charitable gift acknowledgement for the $25,000 donation to Cloudberry Kite Arts Foundation",
+      "text": "Obtain the formal acknowledgement letter for Dana’s $25,000 2025 charitable gift to Cloudberry Kite Arts Foundation. The letter was not in the household tax folder.",
+      "priority": null,
+      "dueDate": "2026-02-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A remaining need is to gather the charitable gift acknowledgement, because the formal acknowledgement letter was not in the household tax folder when the records were reviewed;"
+    },
+    {
+      "templateId": null,
+      "title": "Request family partnership tax information for the inherited cabin",
+      "text": "Request the final family partnership tax information for the inherited cabin near Bend, Oregon, from Tin Sparrow Family Holdings. Dana received only a preliminary package and final tax information is needed for Selene Maplesprocket’s return preparation.",
+      "priority": null,
+      "dueDate": "2026-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the inherited cabin partnership, a remaining need is to request family partnership tax information, because Dana received only a preliminary package and the final tax information is still needed for Selene Maplesprocket’s return preparation and planning review;"
+    },
+    {
+      "templateId": null,
+      "title": "Clean up the shared tax document folder",
+      "text": "Remove duplicate and unlabeled PDFs from the household shared digital tax folder to make it easier to identify correct notice pages, payment confirmations, and tax forms.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-03-06"
+    },
+    {
+      "templateId": null,
+      "title": "Refresh retirement income assumptions",
+      "text": "Update retirement income assumptions to reflect Dana’s recent inheritance, college funding schedule, concentrated employer stock position, and target retirement age of 60.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-03-20"
+    },
+    {
+      "templateId": null,
+      "title": "Review concentrated employer stock exposure",
+      "text": "Review Dana’s Moonbadger Robotics stock position in the taxable brokerage account, which includes significant unrealized gain, to assess risk without creating an avoidable tax surprise.",
+      "priority": null,
+      "dueDate": "2026-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-03-13"
+    },
+    {
+      "templateId": null,
+      "title": "Check beneficiary designations after family changes",
+      "text": "Review retirement account and life insurance beneficiary designations to ensure they match the household’s current wishes after Dana’s father’s death in 2025. The 2016 estate documents still name her sister Maeve as successor trustee.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-03-18"
+    },
+    {
+      "templateId": null,
+      "title": "Review the insurance coverage file",
+      "text": "Review the insurance coverage file to add current long-term care coverage entry or recent policy review notes. The planning file includes group life, term life, and umbrella coverage but no current long-term care coverage.",
+      "priority": null,
+      "dueDate": "2026-03-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-03-27"
+    },
+    {
+      "templateId": null,
+      "title": "Investigate the custodian login alert",
+      "text": "Investigate the Velvet Acorn Custody login alert that arrived when Dana was not attempting to access the account. Dana saw no unauthorized transfers when she checked before the call.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the date for this follow-up is 2026-02-18"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "meetingId": "307",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare vesting and blackout calendar",
+      "text": "Prepare a calendar of Tobin Mossbutton's option and RSU vesting dates, blackout periods, and pre-clearance steps to replace reliance on memory or portal screenshots. Include the schedule for his 9,600 vested shares at Velvet Acorn Custody and upcoming RSU vesting over the next three years.",
+      "priority": null,
+      "dueDate": "2026-08-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots."
+    },
+    {
+      "templateId": null,
+      "title": "Create illustration of exercise options",
+      "text": "Create an illustration for Tobin Mossbutton comparing same-day sale, cash exercise, and partial exercise of his options against his cash reserves and payroll withholding capacity. Use the known strike prices of his vested options and consider his available cash to determine the most tax-efficient strategy.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison."
+    },
+    {
+      "templateId": "c6d7d1af-e000-5924-a35f-01bc91d50973",
+      "title": "Collect tax documents for planning review",
+      "text": "Check the following before marking the tax document packet complete:\n- Confirm most recent federal tax return is received.\n- Confirm state tax return is received, if applicable.\n- Collect W-2, 1099, K-1, and other income statements expected for the year.\n- Collect IRA, Roth IRA, HSA, and employer plan contribution records.\n- Collect charitable giving documentation and donor-advised fund activity, if applicable.\n- Collect realized gain/loss reports and year-end investment statements.\n- Ask whether any major life event, business income change, home sale, inheritance, or equity compensation event occurred.\n- Confirm whether Tobin Mossbutton's CPA needs a secure copy or summary.\n- Store documents in the approved client file location and note any missing items.\nCollect the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions.",
+      "priority": "medium",
+      "dueDate": "2026-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance."
+    }
+  ]
+}

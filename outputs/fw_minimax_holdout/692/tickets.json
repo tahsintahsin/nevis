@@ -1,0 +1,25 @@
+{
+  "meetingId": "692",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare Teacup Comet refinance quote vs. variable HELOC",
+      "text": "Compare the Teacup Comet Bank fixed-rate refinance quote against keeping the variable home-equity line for Liora and Daren Copperwisp, including payment, closing costs, and cash-flow effect. The current HELOC is $96,000 at 8.75% variable with interest-only payments near $700 monthly.",
+      "priority": null,
+      "dueDate": "2025-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed by 2025-07-25: compare the Teacup Comet fixed-rate refinance quote with keeping the variable home-equity line, including payment, closing costs, cash-flow effect."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare debt-priority schedule for Copperwisp debts",
+      "text": "Prepare a debt-priority schedule for Liora and Daren Copperwisp weighing Daren's business line moving off promotional pricing, the $96,000 Teacup Comet Bank home-equity line at 8.75% variable, and the $18,400 credit-card balance before the higher payment begins.",
+      "priority": null,
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed by 2025-08-08: a debt-priority schedule weighing Daren’s business line moving off promotional pricing, the home-equity line, and the $18,400 credit-card balance before the higher payment begins."
+    }
+  ]
+}

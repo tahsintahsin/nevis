@@ -1,0 +1,21 @@
+{
+ "config": "fw_large_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"626\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Review checking transfer and planning impact\",\n\"text\": \"Review Soren Velvetreed’s requested $85,000 checking transfer from Teacup Comet Bank and the subsequent $9,000 monthly transfer, evaluating available cash, potential municipal‑bond ladder or Copper Firefly Robotics share sales, and any planning impact.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-27\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed August 27, 2026 follow-up is to review Soren’s requested $85,000 Teacup Comet Bank checking transfer and $9,000 monthly transfer after setup, including available cash, possible municipal-bond ladder or Copper Firefly Robotics share sales, and any planning impact.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Confirm correct transfer destination and authorization\",\n\"text\": \"Confirm the correct Teacup Comet Bank checking account destination for Soren Velvetreed, resolving the discrepancy between the account ending in 4418 and the custodian record ending in 4184, and verify the appropriate authorization method before releasing cash.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-22\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By August 22, 2026, the distribution destination needs resolution because Soren read checking account ending 4418 while the custodian record shows authorized Teacup Comet Bank account ending 4184; the correct destination and authorization method must be confirmed before cash release.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain separation agreement and consulting documents\",\n\"text\": \"Obtain Soren Velvetreed’s Copper Firefly Robotics separation agreement, final paystub, and consulting contract, which are not yet uploaded, to update taxable income, benefit, and recurring cash‑flow assumptions.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-30\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed August 30, 2026 follow-up is to obtain Soren’s not-yet-uploaded Copper Firefly Robotics separation agreement, final paystub, and consulting contract to update taxable income, benefits, and recurring cash-flow assumptions.\"\n},\n{\n\"templateId\": \"daf3067e-a97c-53bc-b265-e4d0b6ab86f2\",\n\"title\": \"Follow up on policy renewal details\",\n\"text\": \"Contact Soren Velvetreed to confirm the Paper Otter Life universal life policy renewal status, premium change, coverage options, and beneficiary updates needed, and identify any action required before the renewal window closes. Record received documents and route planning questions to the advisor.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2026-09-04\",\n\"assigneeId\": \"1616b784-b182-570a-93f0-464e57273315\",\n\"subTasks\": [],\n\"evidence\": \"By September 4, 2026, the Paper Otter Life annual premium review needs follow-up because the notice shows a higher outlay than last year and a policy-election window closing soon; the household has not chosen whether to pay from checking, reduce coverage, or request an in-force illustration.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 620,
+    "output_tokens": 2555,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 14091
+   },
+   "stop": "stop"
+  }
+ ]
+}

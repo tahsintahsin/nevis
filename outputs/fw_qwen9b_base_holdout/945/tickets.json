@@ -1,0 +1,105 @@
+{
+  "meetingId": "945",
+  "tickets": [
+    {
+      "templateId": "ea716daf-86c5-5f4a-82a5-1e56ec21dfc5",
+      "title": "Policy Renewal Follow-Up",
+      "text": "Prepare the education savings account structure and ownership comparison for Jessa Willowdoodle and Aaron Willowdoodle regarding their daughter Ivy, incorporating the $10,000 family gift from Jessa's parents and the proposed $500 monthly household contribution, while comparing account ownership, beneficiary naming, investment approach, and state tax considerations.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the education savings account structure and ownership comparison by 2026-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review Initial Education Funding Transfer",
+      "text": "Review the initial education funding transfer from the taxable account money market for Jessa Willowdoodle and Aaron Willowdoodle to determine if $12,000 can be moved after the education account is ready while preserving the household's preferred emergency reserve level.",
+      "priority": null,
+      "dueDate": "2026-04-03",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that initial education funding transfer from taxable cash by 2026-04-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update Household Plan for Adoption",
+      "text": "Update the household plan for Jessa Willowdoodle and Aaron Willowdoodle to reflect Ivy's adoption, parental leave cash flow, added infant care costs, and the longer education funding horizon discussed during the call.",
+      "priority": null,
+      "dueDate": "2026-03-13",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the household plan for those adoption-related assumptions by 2026-03-13."
+    },
+    {
+      "templateId": null,
+      "title": "Review Cash Reserve Target",
+      "text": "Review the cash reserve target for Jessa Willowdoodle and Aaron Willowdoodle after childcare begins, as the current cash balance may fall below the household's six-month reserve preference after infant care and leave-related pay changes are reflected.",
+      "priority": null,
+      "dueDate": "2026-03-31",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the cash reserve target after childcare begins by 2026-03-31."
+    },
+    {
+      "templateId": "fcc97859-b94b-574b-9ef8-66594525339a",
+      "title": "Review Debt Refinance Opportunity",
+      "text": "Compare hold, staged sale, and tax-aware funding alternatives for Jessa Willowdoodle's Amber Teapot Robotics equity (currently 18% of investable assets) to evaluate it as a potential funding and diversification source for child-related goals.",
+      "priority": "medium",
+      "dueDate": "2026-03-27",
+      "assigneeId": "96c9c35b-0519-5544-bd5f-e8e441dccdb2",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare hold, staged sale, and tax-aware funding alternatives by 2026-03-27."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Employer Benefit Enrollment Info",
+      "text": "Obtain the employer benefit enrollment information for Ivy, specifically the exact family-tier premium and election amount, which remains needed for Jessa Willowdoodle and Aaron Willowdoodle by 2026-03-06.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [],
+      "evidence": "Employer benefit enrollment information for Ivy remains needed by 2026-03-06."
+    },
+    {
+      "templateId": "e968965a-969b-53fe-a5d3-3b7ff9150636",
+      "title": "Review Access Recovery Evidence",
+      "text": "Address the secure document upload access issue for Jessa Willowdoodle, as the Apricot Compass Advisory vault rejected her upload of adoption and insurance files, and a working secure delivery route is needed before sensitive records can be reviewed.",
+      "priority": "high",
+      "dueDate": "2026-03-04",
+      "assigneeId": "b93ee058-c11a-51d8-8005-81fe1e23bd94",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address secure document upload access by 2026-03-04."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Guardianship Coordination Summary",
+      "text": "Prepare the guardianship and estate planning coordination summary for Jessa Willowdoodle and Aaron Willowdoodle to provide financial details for attorney Hana Maplesprocket, noting that Simon Nettlewhisk and Alia Nettlewhisk are likely guardians.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the guardianship and estate planning coordination summary by 2026-03-24."
+    },
+    {
+      "templateId": null,
+      "title": "Analyze Life and Disability Coverage Gaps",
+      "text": "Conduct a life and disability insurance coverage gap analysis for Jessa Willowdoodle and Aaron Willowdoodle to determine if their individual policies, employer life coverage, and disability benefits are sufficient for the mortgage, childcare, education funding, and survivor income needs now that Ivy is in the household.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is a life and disability insurance coverage gap analysis by 2026-03-20."
+    },
+    {
+      "templateId": "dd79ce7f-db1e-5b46-b03e-28451a34a1e3",
+      "title": "Follow Up on Tax Notice",
+      "text": "Coordinate with CPA Derek Fablethimble to obtain the payroll detail for Jessa Willowdoodle's Amber Teapot Robotics adoption assistance reimbursement needed to align tax return assumptions, as this remains unresolved.",
+      "priority": "high",
+      "dueDate": "2026-03-12",
+      "assigneeId": "b384ec7e-6251-5024-b063-047ec07f91d8",
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2026-03-12."
+    }
+  ]
+}

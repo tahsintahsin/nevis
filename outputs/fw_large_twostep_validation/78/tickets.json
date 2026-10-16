@@ -1,0 +1,85 @@
+{
+  "meetingId": "78",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Organize estate planning side file",
+      "text": "Organize a planning-side file for Lydia Cloudpuddle that separates probate assets, beneficiary assets, estate professionals, family decision points, and household planning impacts.",
+      "priority": null,
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to organize that file by 2025-08-08."
+    },
+    {
+      "templateId": null,
+      "title": "Gather and submit IRA claim packet",
+      "text": "Gather the certified death certificate, letters of authority, and completed claim form, then submit the inherited IRA beneficiary claim packet to Velvet Acorn Custody for Lydia Cloudpuddle.",
+      "priority": null,
+      "dueDate": "2025-08-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the claim-packet requirements by 2025-08-01."
+    },
+    {
+      "templateId": null,
+      "title": "Determine ownership treatment for brokerage",
+      "text": "Determine and document the proper ownership treatment for the Tin Sparrow Investments account for Lydia Cloudpuddle, resolving the TOD versus probate discrepancy.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The ownership treatment remains unresolved before estate accounting can be finalized, with follow-up needed by 2025-08-15."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare condominium cash‑flow calendar",
+      "text": "Prepare an estate cash‑flow calendar for the condominium expenses of Lydia Cloudpuddle, including recurring costs, sale‑preparation items, estate‑paid expenses, and any personal advances by co‑executors.",
+      "priority": null,
+      "dueDate": "2025-08-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that calendar by 2025-08-06."
+    },
+    {
+      "templateId": null,
+      "title": "Conduct inherited IRA distribution review",
+      "text": "Conduct a planning review of inherited IRA distribution options for Lydia Cloudpuddle, estimating taxable income effects, withholding preferences, and pacing relative to her retirement timeline.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that review by 2025-09-05."
+    },
+    {
+      "templateId": "c0849ab3-1ea7-5ae4-8eb0-302abcb9d836",
+      "title": "Perform recurring beneficiary designation review",
+      "text": "At each annual review cycle, and after any reported major life event, confirm whether Lydia Cloudpuddle’s beneficiary designations should be reviewed for retirement accounts, insurance policies, transfer‑on‑death registrations, and education accounts. Document the date of the last confirmed beneficiary review, evidence available, discrepancies found, and any forms or custodian steps needed. Update Lydia Cloudpuddle’s 401(k) and IRA records so that both Mara Cloudpuddle and Theo Cloudpuddle are listed as equal contingent beneficiaries.",
+      "priority": "medium",
+      "dueDate": "2025-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the beneficiary alignment by 2025-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain written authorization from estate counsel",
+      "text": "Secure written authorization from Sienna Bramblequill of Paper Otter Legal allowing Apricot Compass Advisory and Clockwork Clover Tax to discuss asset values, beneficiary registrations, basis information, and liquidity for Lydia Cloudpuddle’s estate.",
+      "priority": null,
+      "dueDate": "2025-07-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the authorization by 2025-07-30."
+    },
+    {
+      "templateId": null,
+      "title": "Correct inherited account name with custodian",
+      "text": "Coordinate with Velvet Acorn Custody to correct the account name from Lydia Velvetreed to Lydia Cloudpuddle for Lydia Cloudpuddle’s inherited IRA paperwork.",
+      "priority": null,
+      "dueDate": "2025-08-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The mismatch may prevent acceptance of inherited account paperwork unless the custodian corrects the registration workflow, and the agreed follow-up is to address the name correction by 2025-08-04."
+    }
+  ]
+}

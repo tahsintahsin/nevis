@@ -1,0 +1,18 @@
+{
+ "config": "fw_minimax",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"520\", \"tickets\": []}",
+   "usage": {
+    "input_tokens": 3070,
+    "output_tokens": 972,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2205
+   },
+   "stop": "stop"
+  }
+ ]
+}

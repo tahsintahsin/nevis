@@ -1,0 +1,145 @@
+{
+  "meetingId": "981",
+  "tickets": [
+    {
+      "templateId": "7e5df057-b6d6-59e3-b7ef-4b6f7ca3a27c",
+      "title": "Collect Mortgage Document Packet",
+      "text": "Update mortgage automatic payment profile for Elena Mossbutton at Teacup Comet Bank to reflect her credentials instead of Adrian Mossbutton's individual banking credentials. The primary residence mortgage balance is $312,000 at 3.125% fixed rate maturing 2047, and the servicer notice indicates the payment profile is tied to Adrian's credentials.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on the mortgage payment source is due 2025-01-31."
+    },
+    {
+      "templateId": "ddf43168-2732-55bc-b8cc-9d9c9342d023",
+      "title": "Review concentrated investment position",
+      "text": "Evaluate a concentrated position for portfolio risk, tax exposure, liquidity needs, and available transition strategies. Gather cost basis, holding period, unrealized gain or loss, restrictions, charitable intent, and any employer-related trading limitations before recommending next steps. Review Copper Firefly Systems common stock position in Elena Mossbutton's joint taxable brokerage account at Velvet Acorn Custody valued at $286,000 as of 2025-01-21, representing a large portion of the $1.18 million account, affecting survivor liquidity, diversification, and tax planning.",
+      "priority": "high",
+      "dueDate": "2025-02-28",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "the agreed follow-up on the Copper Firefly Systems stock concentration is due 2025-02-28."
+    },
+    {
+      "templateId": null,
+      "title": "Retitle joint brokerage account at Velvet Acorn Custody",
+      "text": "Confirm title, transfer-on-death records, and cost basis handling for Elena Mossbutton's joint taxable brokerage account at Velvet Acorn Custody valued at $1.18 million as of 2025-01-21. Survivor administration requires updating registration after Adrian Mossbutton's death.",
+      "priority": null,
+      "dueDate": "2025-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on joint brokerage account retitling is due 2025-02-18."
+    },
+    {
+      "templateId": "a9d3b8a3-fcdf-5a99-bb86-dc976b2554d7",
+      "title": "Complete beneficiary update checklist",
+      "text": "Use this checklist before submitting or recording beneficiary updates:\n\n- Confirm the account registration and account type requiring a beneficiary review.\n- Verify current primary and contingent beneficiaries on file.\n- Confirm full legal names, relationships, dates of birth if required, and allocation percentages.\n- Check that total primary percentages equal 100% and total contingent percentages equal 100% when applicable.\n- Identify whether spouse consent, trust documentation, or plan administrator approval is required.\n- Confirm whether IRA, retirement plan, transfer-on-death, insurance, or annuity rules apply.\n- Send the correct custodian or carrier form through the approved secure process.\n- Save confirmation of submission and final acceptance in the client record.\n- Note any estate planning follow-up needed with the client's attorney.\n\nUpdate beneficiary designations for Elena Mossbutton's traditional IRA at Velvet Acorn Custody and Paper Otter Analytics group life enrollment, which still list Adrian Mossbutton as primary beneficiary. Clara Mossbutton and Milo Mossbutton are equal contingent beneficiaries on the IRA.",
+      "priority": "high",
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on beneficiary records on Elena’s accounts is due 2025-02-14."
+    },
+    {
+      "templateId": null,
+      "title": "Compare spouse beneficiary options for Adrian's 401(k)",
+      "text": "Compare available spouse beneficiary choices for Adrian Mossbutton's Moonbadger Robotics 401(k) plan balance of $742,000 as of 2024-12-31 before Elena Mossbutton submits paperwork. The survivor plan depends on evaluating distribution options.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on Adrian’s employer retirement plan survivor options is due 2025-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Review surviving spouse titling for Adrian's IRA",
+      "text": "Evaluate surviving-spouse titling choices and distribution planning for Adrian Mossbutton's traditional IRA at Velvet Acorn Custody valued at $518,000 on 2025-01-21. Elena Mossbutton must select an account path before proceeding.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on Adrian’s IRA registration and distribution review is due 2025-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain written equity ledger for Adrian's RSUs",
+      "text": "Reconcile differing restricted stock unit counts from Moonbadger Robotics equity portal screenshot (900 vested, 1,200 unvested) and HR phone summary to produce a written equity ledger for income and estate valuation modeling.",
+      "priority": null,
+      "dueDate": "2025-02-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "this unresolved equity records issue is needed by 2025-02-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Social Security survivor benefit checklist",
+      "text": "Compile checklist of records for Elena Mossbutton's Social Security survivor benefit appointment including marriage evidence, Adrian Mossbutton's work history, and Elena's earnings information. No benefits started before Adrian's death.",
+      "priority": null,
+      "dueDate": "2025-02-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on Social Security survivor benefit preparation is due 2025-02-12."
+    },
+    {
+      "templateId": "9c4e1fdd-76c3-51c5-ae9b-63c028f05e66",
+      "title": "Prepare retirement income plan snapshot",
+      "text": "Summarize expected retirement income sources, near-term cash flow needs, IRA distribution considerations, tax-aware withdrawal order, and key risks to revisit with the client. Create updated income projection for Elena Mossbutton reflecting one salary ($138,000 base), possible Social Security survivor benefits, retirement age alternatives (62-64), cash reserves (12 months core expenses), and IRA withdrawal sequencing. Household spending estimated at $8,200/month survivor spending.",
+      "priority": "medium",
+      "dueDate": "2025-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for the survivor retirement income snapshot is due 2025-03-14."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Silver Marmot life insurance claim package",
+      "text": "Organize claim for Silver Marmot Life Insurance term policy with $750,000 death benefit naming Elena Mossbutton as primary beneficiary. Use policy number, beneficiary evidence, and required claimant statement.",
+      "priority": null,
+      "dueDate": "2025-02-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on the life insurance claim package is due 2025-02-07."
+    },
+    {
+      "templateId": null,
+      "title": "Update Paper Otter Analytics benefit enrollments",
+      "text": "Clean up Paper Otter Analytics benefits records that still show Adrian Mossbutton on spouse-related elections and beneficiary fields. Employer benefits team has a short internal update window.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on employer benefit enrollment cleanup is due 2025-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain certified death certificates for Adrian Mossbutton",
+      "text": "Secure certified copies of Adrian Mossbutton's death certificate for multiple financial institutions and benefit providers. Currently only hospital notice and funeral home receipt are available.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Certified death certificate availability remains an unresolved follow-up needed by 2025-02-03."
+    },
+    {
+      "templateId": "bf1a1f75-3fe2-5cb6-8261-3d4ebbddb335",
+      "title": "Collect tax documents for planning review",
+      "text": "Please collect the following tax materials for the planning file:\n\nTax year: 2023 and 2024\nClient household or entity: Elena Mossbutton and estate of Adrian Mossbutton\nCPA or tax preparer contact: Tobin Pippinwisp, Clockwork Clover Tax\nExpected filing status: Joint for 2023, Single for 2024 (survivor)\nDocuments requested: W-2 (Elena and Adrian), 1099, brokerage tax statements (Velvet Acorn Custody), IRA distribution forms, final pay information, estate-related tax items\nDocuments already received: 2023 joint return completed\nDocuments still outstanding: 2024 wage forms, brokerage tax statements, final pay info, estate-related tax items\nSecure upload location or delivery method: Secure portal messages (Elena prefers secure portal messages)\nSpecial planning questions to review: Estate tax implications, survivor filing status, IRA distribution planning\nPermission to coordinate with tax preparer: Yes\n\nCollect missing 2024 wage forms, brokerage tax statements from Velvet Acorn Custody, final pay information from Moonbadger Robotics and Paper Otter Analytics, and estate-related tax items for coordination with Tobin Pippinwisp at Clockwork Clover Tax. The 2023 joint return is complete; 2024 will be a survivor return.",
+      "priority": "medium",
+      "dueDate": "2025-03-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on prior-year and final-year tax document collection is due 2025-03-07."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate with Pocket Lantern Law on estate provisions",
+      "text": "Engage Hallie Thimblefern at Pocket Lantern Law to review 2018 estate documents (wills, revocable trusts, powers of attorney, health care directives) and identify which provisions now control after Adrian Mossbutton's death. Documents name Adrian in several primary fiduciary roles; Clara Mossbutton and Milo Mossbutton are successor co-agents.",
+      "priority": null,
+      "dueDate": "2025-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on estate attorney coordination is due 2025-02-20."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "meetingId": "612",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update household, planning, address, spouse contact, and outside-institution records",
+      "text": "Update household, planning, address, spouse contact, and outside-institution records for Dana and Ellis Cloudpuddle. The client agreed to this update by 2024-09-06.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-06 to update household, planning, address, spouse contact, and outside-institution records."
+    },
+    {
+      "templateId": null,
+      "title": "Collect benefits evidence for Paper Otter School rate sheet and beneficiary confirmation",
+      "text": "Collect benefits evidence for Ellis Cloudpuddle's Paper Otter School rate sheet and beneficiary confirmation, needed by 2024-09-13 because Ellis had not yet downloaded the rate sheet or confirmation.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Benefits evidence is needed by 2024-09-13 because Ellis had not downloaded the Paper Otter School rate sheet or beneficiary confirmation."
+    },
+    {
+      "templateId": null,
+      "title": "Update IRA beneficiary listing for Dana Cloudpuddle's Velvet Acorn Custody IRA",
+      "text": "Update the beneficiary listing for Dana Cloudpuddle's Velvet Acorn Custody IRA, replacing Blair Nettlewhisk with Ellis Cloudpuddle, as agreed by 2024-09-10.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-10 to address Dana’s Velvet Acorn Custody IRA beneficiary listing Blair Nettlewhisk, after Dana said Ellis should replace Blair."
+    }
+  ]
+}

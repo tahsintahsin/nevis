@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "85",
+  "86"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"81\", \"tickets\": [{\"title\": \"Update address-related advisory and custodian records\", \"text\": \"Update advisory and custodian records with the new Seattle address after the apartment lease begins on 2025-04-01. This includes updating account profiles and any address-sensitive documentation.\", \"priority\": null, \"dueDate\": \"2025-04-04\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Agreed by 2025-04-04 to update address-related advisory and custodian records after the lease begins.\"}, {\"title\": \"Obtain lease and Washington utility confirmation\", \"text\": \"Obtain the Seattle apartment lease and Washington utility confirmation documents to add to the client file.\", \"priority\": null, \"dueDate\": \"2025-04-09\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Agreed by 2025-04-09 to obtain the lease and Washington utility confirmation missing from the file.\"}, {\"title\": \"Review Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs\", \"text\": \"Review the Oregon municipal bond fund in Lila's taxable account, assess Tin Sparrow Robotics restricted stock unit concentration, and evaluate move-related cash needs against the $18,000 reserved for moving and temporary duplicate housing.\", \"priority\": null, \"dueDate\": \"2025-04-25\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Agreed by 2025-04-25 to review the Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs.\"}]}",
+   "usage": {
+    "input_tokens": 15129,
+    "output_tokens": 411,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+  "meetingId": "198",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble tax filing data for married year",
+      "text": "Assemble the tax filing data for Dahlia Mossbutton and Owen Cloudpuddle’s first married year, including year‑to‑date pay statements, equity vesting records, mortgage interest information for both properties, and condominium rental income data.",
+      "priority": null,
+      "dueDate": "2023-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to assemble that tax filing data by 2023-11-21."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing condominium rental documentation",
+      "text": "Obtain the current mortgage escrow statement, insurance declaration page, and property tax bill for Dahlia Mossbutton’s condominium to complete the rental documentation set.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For condominium rental documentation, Dahlia has the lease and monthly rent record for the condominium but did not have the current mortgage escrow statement, insurance declaration page, or property tax bill available during the meeting; those missing records remain needed."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh household profile details",
+      "text": "Refresh Dahlia Mossbutton and Owen Cloudpuddle’s household profile by updating contact information, mailing preferences, and joint visibility settings on advisory‑serviced accounts after the marriage.",
+      "priority": "low",
+      "dueDate": "2023-11-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to begin that review by 2023-11-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update recurring payment instructions",
+      "text": "Redesign the household’s automatic payment funding source by moving selected payments from Dahlia’s individual Teacup Comet Bank account to the new Paper Otter Bank joint checking account.",
+      "priority": "medium",
+      "dueDate": "2023-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that payment funding review by 2023-11-15."
+    },
+    {
+      "templateId": "d71226e6-275a-5a53-88b4-57b55eccb19c",
+      "title": "Liquidity Reserve Snapshot",
+      "text": "Review the joint cash reserve target for Dahlia Mossbutton and Owen Cloudpuddle, considering separate savings accounts, joint checking balance, property equity, and higher combined monthly spending.",
+      "priority": null,
+      "dueDate": "2023-11-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the joint cash reserve target by 2023-11-17."
+    },
+    {
+      "templateId": null,
+      "title": "Clarify townhouse ownership and insurance documentation",
+      "text": "Clarify the ownership and insured‑interest documentation for Owen Cloudpuddle’s townhouse by reconciling the mortgage statement listing Owen as sole borrower with the homeowners policy naming both spouses.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For townhouse ownership and insurance records, the mortgage statement lists Owen as sole borrower, while the homeowners policy declaration page now names both spouses, leaving the intended ownership and insured-interest documentation unclear; the documentation issue remains needed."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Request and log estate planning documents, review completeness and role information, and prepare an advisor gap summary for Dahlia Mossbutton’s marriage review.",
+      "priority": "medium",
+      "dueDate": "2023-11-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow‑up items for the lead advisor before any client‑facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "The agreed follow-up is to collect those estate document copies by 2023-11-10."
+    },
+    {
+      "templateId": null,
+      "title": "Document account authority boundaries for Owen",
+      "text": "Document written authority boundaries for Owen Cloudpuddle to define what household account information Apricot Compass Advisory may share with him.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Owen Cloudpuddle account authority boundaries, Dahlia wants Owen included in household planning conversations, but there is not yet written authorization showing what account-specific information Apricot Compass Advisory may share with him; written authority boundaries remain needed."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain complete 401(k) beneficiary evidence",
+      "text": "Obtain complete beneficiary evidence for Dahlia Mossbutton’s Amber Teapot Analytics 401(k), including primary and contingent beneficiary details, to replace the incomplete plan‑website screen.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For employer beneficiary designation evidence, Dahlia showed a plan website screen indicating that her Amber Teapot Analytics 401(k) beneficiary record may still list Lina Mossbutton, but the screen did not show contingent beneficiary details or a confirmation record; complete beneficiary evidence r"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian beneficiary update rejection",
+      "text": "Resolve Velvet Acorn Custody’s rejection of the online beneficiary change for Dahlia Mossbutton by correcting the account profile name mismatch between Mossbutton and Mossbutton‑Cloudpuddle.",
+      "priority": null,
+      "dueDate": "2023-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that custodian beneficiary update rejection by 2023-11-01."
+    },
+    {
+      "templateId": null,
+      "title": "Compare employer benefit options for new spouse",
+      "text": "Compare health, dental, vision, disability, and life insurance options for Dahlia and Owen’s new spouse coverage enrollment window.",
+      "priority": null,
+      "dueDate": "2023-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare those employer benefit options by 2023-11-06."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer stock position in taxable account",
+      "text": "Review the Amber Teapot Analytics stock position in Dahlia Mossbutton’s taxable account, considering current holdings and future restricted‑stock vesting, and assess concentration risk.",
+      "priority": null,
+      "dueDate": "2023-12-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that employer stock position by 2023-12-01."
+    }
+  ]
+}

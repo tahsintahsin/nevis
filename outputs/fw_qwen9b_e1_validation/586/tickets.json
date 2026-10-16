@@ -1,0 +1,115 @@
+{
+  "meetingId": "586",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Address Mira’s six-month cash reserve and remaining lease impact",
+      "text": "Review Mira’s six-month cash reserve preference and the impact of Mira’s remaining apartment rent. Address the shortfall caused by wedding costs, Mira’s remaining apartment rent, and the combined monthly spending estimate.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-18 is to address the cash reserve and remaining lease impact."
+    },
+    {
+      "templateId": null,
+      "title": "Update Mira’s household profile and address records",
+      "text": "Update Mira’s household profile and address records to reflect the shared household while preserving Mira’s preferred separate ownership notes for premarital accounts.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-06 is to update the household profile and address records."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Mira’s marriage certificate",
+      "text": "Obtain Mira’s marriage certificate for account registration, beneficiary, and name-related records. The custodian and insurance carriers may require a certified or scanned copy. Mossy Meteor Advisory did not have a copy in the client file.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-02-28 to obtain marriage certificate evidence."
+    },
+    {
+      "templateId": null,
+      "title": "Provide Mira’s taxable account registration options",
+      "text": "Provide Mira with paperwork and a plain-language comparison for keeping her Velvet Acorn Custody taxable account individually titled versus opening a new joint account for future household savings.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-01 is to provide the taxable account registration options."
+    },
+    {
+      "templateId": null,
+      "title": "Address Mira’s online access for a spouse and household view",
+      "text": "Address Mira’s request for Arlen’s view-only access to the household dashboard without giving him trading authority over her individual IRA and taxable accounts.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-29 is to address online access for a spouse and household view."
+    },
+    {
+      "templateId": null,
+      "title": "Address Mira’s Velvet Acorn Custody beneficiary update error",
+      "text": "Address Mira’s failed attempt to add Arlen as a contingent beneficiary on Velvet Acorn Custody’s website. The failed session did not produce a confirmation number.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-27 is to address the custodian beneficiary update error."
+    },
+    {
+      "templateId": null,
+      "title": "Review Mira and Arlen’s employer benefit elections",
+      "text": "Review Mira’s Clockwork Clover Robotics newlywed enrollment window and Arlen’s Paper Otter Preparatory benefit-change process for medical, life, and disability coverage choices for the combined household.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-05 is to review employer benefit elections."
+    },
+    {
+      "templateId": null,
+      "title": "Review Mira and Arlen’s life and disability coverage alignment",
+      "text": "Review Mira’s individual term policy, Mira’s group life coverage, Arlen’s term policy, and Arlen’s employer coverage for beneficiary records and replacement-income assumptions for the new household.",
+      "priority": null,
+      "dueDate": "2024-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-03-14 on life and disability coverage alignment."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Mira and Arlen’s estate document copies and amendment pages",
+      "text": "Collect Mira’s and Arlen’s estate document copies and any amendment pages. Mira signed a will and financial power of attorney in 2018 before the marriage. Arlen signed a will in 2016 after Pippa was born. Mossy Meteor Advisory did not have copies of the signed documents or any amendment pages in its planning record.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-12 is to collect estate document copies and any amendment pages."
+    },
+    {
+      "templateId": null,
+      "title": "Review Mira and Arlen’s mortgage and property records",
+      "text": "Review Mira and Arlen’s mortgage and property records. The current mortgage statement, deed vesting page, and homeowner policy declarations were not available.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2024-03-15 for the mortgage and property record review based on those missing property records."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Mira and Arlen’s joint tax withholding projection",
+      "text": "Prepare a coordinated 2024 withholding and estimated-tax projection for Mira and Arlen to share with Celia Fablethimble of Apricot Compass Tax. The marriage combines two salaries, bonuses, investment income, and Mira’s capital loss carryforward.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-04-05 is to prepare the joint tax withholding projection."
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "meetingId": "407",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Verify incoming-wire capacity and receiving instructions",
+      "text": "Verify Teacup Comet Bank's incoming-wire capacity and receiving instructions for expected sale proceeds before funds are sent, given the bank's prior manual review of a large inbound wire.",
+      "priority": null,
+      "dueDate": "2025-01-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian reported that Teacup Comet Bank previously held a large inbound wire for manual review, so the receiving-bank process for expected sale proceeds needs verification before funds are sent. The agreed follow-up is to verify incoming-wire capacity and receiving instructions by 2025-01-02."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare sale-liquidity staging plan",
+      "text": "Prepare a written source-order plan covering checking, money market, Treasury bills, taxable portfolio cash, and credit line usage for incoming business-sale cash, before longer-term reinvestment. Reflect Julian's preference for at least 18 months of household expenses in highly liquid accounts after the transaction.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm short-term cash needs",
+          "text": "Collect placeholders for monthly spending, irregular expenses, planned purchases, tax estimates, and desired reserve comfort level.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Inventory available liquidity sources",
+          "text": "List checking, savings, money market, taxable investment, credit line, and expected cash inflow sources without recording real account numbers.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Evaluate portfolio funding options",
+          "text": "Review potential sale candidates, cash drag, tax sensitivity, and concentration issues for advisor discussion.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Draft recommendation and next actions",
+          "text": "Prepare a concise liquidity recommendation with reserve target, source order, risks, and client approval items.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Julian asked for a plan showing how incoming business-sale cash could be separated among immediate household reserves, estimated tax reserves, renovation funds, debt decisions, and staged investment tranches. The agreed follow-up is to prepare the sale-liquidity staging plan by 2025-01-08."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare preferred-equity rollover review",
+      "text": "Prepare a plain-language financial review of the proposed $1.5 million rollover into Copper Firefly Systems preferred equity, including liquidity limits, dividend terms, redemption rights, and concentration risk.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian also asked for a plain-language financial review of the proposed $1.5 million rollover into Copper Firefly Systems preferred equity, including liquidity limits, dividend terms, redemption rights, and concentration risk; the agreed follow-up is to prepare that preferred-equity rollover review "
+    },
+    {
+      "templateId": null,
+      "title": "Prepare CPA sale-tax projection package",
+      "text": "Prepare a CPA sale-tax projection package covering federal, Oregon, basis, installment-payment assumptions, escrow taxation, and the shareholder note treatment before Julian makes large cash-allocation decisions.",
+      "priority": null,
+      "dueDate": "2025-01-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the CPA sale-tax projection package by 2025-01-07."
+    },
+    {
+      "templateId": null,
+      "title": "Model shareholder note payoff treatment",
+      "text": "Model the $380,000 shareholder note payoff treatment separately from equity proceeds so the advisory team and CPA can distinguish repayment cash from taxable sale consideration assumptions.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian asked for the sale model to show the $380,000 shareholder note separately from equity proceeds so the advisory team and CPA can distinguish repayment cash from taxable sale consideration assumptions; the agreed follow-up is to model the shareholder note payoff treatment by 2025-01-08."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare escrow holdback reserve analysis",
+      "text": "Prepare a separate reserve scenario for the liquidity plan that excludes escrow release proceeds, given the buyer's schedule and board materials show different figures for the employee retention bonus pool and the draft transaction terms may not deliver the full escrowed amount for an extended period.",
+      "priority": null,
+      "dueDate": "2025-01-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Review of the draft transaction terms showed that Julian may not receive the full escrowed amount for an extended period, so the liquidity plan needs a separate reserve scenario that excludes escrow release proceeds; the agreed follow-up is to prepare the escrow holdback reserve analysis by 2025-01-"
+    },
+    {
+      "templateId": null,
+      "title": "Clarify employee retention bonus pool variance",
+      "text": "Clarify the variance in the employee retention bonus pool figures between the buyer's schedule and board materials, which could affect net proceeds and working-capital adjustments. Needed by 2025-01-06.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The buyer’s schedule and board materials show different figures for the employee retention bonus pool, creating an unresolved difference that could affect net proceeds and working-capital adjustments. Clarification of the retention bonus pool variance is needed by 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare post-sale investment policy",
+      "text": "Prepare a written allocation framework reflecting staged deployment, cash comfort, tax exposure, and fossil-fuel screening preferences for the household's post-sale investment portfolio. Address Julian's preference to limit exposure to fossil-fuel producers and Priya's concern about income reliability.",
+      "priority": null,
+      "dueDate": "2025-01-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The business sale will convert much of Julian’s net worth from private-company equity into liquid assets, and the household needs a written allocation framework reflecting staged deployment, cash comfort, tax exposure, and fossil-fuel screening preferences. The agreed follow-up is to prepare the pos"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare renovation and mortgage reserve modeling",
+      "text": "Model the possible Portland renovation ($900,000 to $1.2 million), existing mortgage terms, lake-cabin debt, and desired liquidity floor before deciding how much sale cash can be committed to property spending.",
+      "priority": null,
+      "dueDate": "2025-01-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian and Priya are considering a renovation to the Portland residence with an estimated cost range of $900,000 to $1.2 million. Their possible Portland renovation, existing mortgage terms, lake-cabin debt, and desired liquidity floor need to be modeled before deciding how much sale cash can be com"
+    },
+    {
+      "templateId": null,
+      "title": "Review insurance transition after business sale",
+      "text": "Review the insurance transition after the business sale, including Julian's individual disability policy, Priya's employer group disability coverage, umbrella liability policy, and Buttonwood Balloon Components' key-person policy on Julian, given the expected sale changes Julian's reliance on business income, company-owned insurance, disability coverage assumptions, umbrella exposure, and potential personal-liability concerns.",
+      "priority": null,
+      "dueDate": "2025-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian and Priya carry a $5 million personal umbrella liability policy, and Buttonwood Balloon Components owns a key-person policy on Julian. The expected sale changes Julian’s reliance on business income, company-owned insurance, disability coverage assumptions, umbrella exposure, and potential per"
+    },
+    {
+      "templateId": null,
+      "title": "Complete estate liquidity and fiduciary review",
+      "text": "Complete an estate liquidity and fiduciary review, given the anticipated liquidity increase raises questions about fiduciary roles, trust funding assumptions, privacy, and whether the 2016 estate plan still matches Julian and Priya's current family circumstances. The 2016 plan names Priya as Julian's primary fiduciary and Oren Maplesprocket as successor fiduciary.",
+      "priority": null,
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian and Priya signed estate planning documents in 2016. The 2016 estate plan names Priya as Julian’s primary fiduciary and Oren Maplesprocket as a successor fiduciary, and it was created before the current business sale negotiations. The anticipated liquidity increase raises questions about fiduc"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare residency and sourcing support file for CPA",
+      "text": "Prepare a residency and sourcing support file for Alma Dewspindle's sale-year tax analysis, including Julian's travel calendar, Oregon workdays, and Washington apartment records, by 2025-01-10.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian spent 52 workdays outside Oregon during 2024 because of customer and buyer meetings, and he rented a short-term apartment in Washington for several transaction-related trips during 2024. Julian’s travel calendar, Oregon workdays, and Washington apartment records create a concrete need for a r"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare charitable funding structure comparison",
+      "text": "Prepare a comparison of charitable funding amounts and timing using the family's usual $75,000 per year giving level, possible appreciated securities, and potential business-sale liquidity. Julian has expressed interest in using part of the sale liquidity for a donor-advised structure or similar charitable giving vehicle.",
+      "priority": null,
+      "dueDate": "2025-01-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian and Priya typically give about $75,000 per year to charitable organizations. Julian has expressed interest in using part of the business-sale liquidity for a donor-advised structure or similar charitable giving vehicle. He asked for a comparison of charitable funding amounts and timing using "
+    }
+  ]
+}

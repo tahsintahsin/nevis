@@ -1,0 +1,105 @@
+{
+  "meetingId": "945",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare education savings account structure and ownership comparison",
+      "text": "Compare account ownership, beneficiary naming, investment approach, state tax considerations, the $10,000 family gift from Jessa’s parents, and a possible $500 monthly household contribution for Ivy Willowdoodle’s education savings account.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jessa asked for a comparison of account ownership, beneficiary naming, investment approach, state tax considerations, the $10,000 family gift, and a possible $500 monthly household contribution for Ivy. The agreed follow-up is to prepare the education savings account structure and ownership comparis"
+    },
+    {
+      "templateId": null,
+      "title": "Review initial education funding transfer from taxable cash",
+      "text": "Review the $12,000 initial education funding transfer from the taxable account money market to the new education account, preserving the household’s preferred six-month emergency reserve level.",
+      "priority": null,
+      "dueDate": "2026-04-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jessa also asked whether $12,000 could come from the taxable account money market after an education account is ready while preserving the household’s preferred emergency reserve level. The agreed follow-up is to review that initial education funding transfer from taxable cash by 2026-04-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update household plan for adoption-related assumptions",
+      "text": "Update the household financial plan to reflect Ivy’s adoption, parental leave cash flow, added infant care costs, and the longer education funding horizon.",
+      "priority": null,
+      "dueDate": "2026-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the household plan for those adoption-related assumptions by 2026-03-13."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash reserve target after childcare begins",
+      "text": "Review the household’s six-month cash reserve target after infant care costs of $2,150 per month and leave-related pay changes are reflected in the cash balance.",
+      "priority": null,
+      "dueDate": "2026-03-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The cash flow review indicated that the current cash balance may fall below the household’s six-month reserve preference after infant care and leave-related pay changes are reflected. The agreed follow-up is to review the cash reserve target after childcare begins by 2026-03-31."
+    },
+    {
+      "templateId": null,
+      "title": "Compare hold, staged sale, and tax-aware funding alternatives",
+      "text": "Compare hold, staged sale, and tax-aware funding alternatives for Jessa’s Amber Teapot Robotics equity position, which represents about 18% of investable assets with a sizable unrealized gain.",
+      "priority": null,
+      "dueDate": "2026-03-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Grant’s review showed Amber Teapot Robotics equity at 18% of investable assets with a sizable unrealized gain, and the discussion covered employer equity as a potential funding and diversification source for child-related goals. The agreed follow-up is to compare hold, staged sale, and tax-aware fun"
+    },
+    {
+      "templateId": null,
+      "title": "Address secure document upload access",
+      "text": "Resolve the Apricot Compass Advisory vault rejection of Jessa’s upload of adoption and insurance files and establish a working secure delivery route for sensitive records.",
+      "priority": null,
+      "dueDate": "2026-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jessa reported that the Apricot Compass Advisory vault rejected her upload of adoption and insurance files, and a working secure delivery route is needed before sensitive records can be reviewed. The agreed follow-up is to address secure document upload access by 2026-03-04."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare guardianship and estate planning coordination summary",
+      "text": "Prepare a financial summary for attorney Hana Maplesprocket to use in drafting discussions about guardianship and estate planning for Ivy, including Simon Nettlewhisk and Alia Nettlewhisk as likely guardians.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jessa identified Simon Nettlewhisk and Alia Nettlewhisk as likely guardians while asking for a financial summary that attorney Hana Maplesprocket can use in drafting discussions. The agreed follow-up is to prepare the guardianship and estate planning coordination summary by 2026-03-24."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on retirement account beneficiary record issue",
+      "text": "Resolve the retirement account beneficiary record issue where Jessa’s sister Kara Willowdoodle appears on an older IRA record while the 401(k) lists Aaron, leaving the intended post-adoption beneficiary structure unclear.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A review of available beneficiary confirmations showed Jessa’s sister Kara Willowdoodle on an older IRA record while the 401(k) confirmation lists Aaron, leaving the intended post-adoption beneficiary structure unclear. The retirement account beneficiary record issue remains unresolved, and no follo"
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on employer adoption assistance and tax preparation coordination",
+      "text": "Coordinate with Derek Fablethimble to obtain the payroll detail needed to align tax return assumptions with Jessa’s adoption assistance reimbursement, and confirm whether the planning file shows the needed payroll detail.",
+      "priority": null,
+      "dueDate": "2026-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jessa’s Amber Teapot Robotics paystub shows an adoption assistance reimbursement, but the planning file does not show whether Derek Fablethimble has the payroll detail needed to align the tax return assumptions. Employer adoption assistance and tax preparation coordination remains unresolved because"
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on employer benefit enrollment information for Ivy",
+      "text": "Obtain the exact family-tier premium and election amount for Ivy’s medical coverage and dependent care elections from the Amber Teapot Robotics benefits portal before the limited enrollment window closes.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Amber Teapot Robotics benefits portal shows a limited window to add Ivy to medical coverage and consider dependent care elections, while the exact family-tier premium and election amount are not yet confirmed in the planning file. Employer benefit enrollment information for Ivy remains needed by"
+    }
+  ]
+}

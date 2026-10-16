@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_reason_low",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"16\",\n\"tickets\": []\n}",
+   "usage": {
+    "input_tokens": 2733,
+    "output_tokens": 70,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

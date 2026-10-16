@@ -1,0 +1,35 @@
+{
+  "meetingId": "601",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update Pebblefizz address and residency information",
+      "text": "Update Nolan and Lena Pebblefizz’s profile and route their new Mesa, Arizona address and residency to Velvet Acorn Custody, Paper Otter Insurance, and the CPA. Several statements still show Oregon.",
+      "priority": null,
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-03-10, they agreed to update the profile and route new address/residency to Velvet Acorn Custody, Paper Otter Insurance, and the CPA because several statements still show Oregon."
+    },
+    {
+      "templateId": null,
+      "title": "Complete the Pebblefizz post-closing mortgage and insurance file",
+      "text": "Complete Nolan and Lena Pebblefizz’s post-closing mortgage and insurance file for the Mesa home. The file contains the purchase contract and estimated closing figures but lacks the final closing disclosure, current mortgage statement, and insurance declaration page.",
+      "priority": null,
+      "dueDate": "2025-03-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-03-17, they agreed to complete the post-closing mortgage and insurance file; it contains the purchase contract and estimated closing figures but lacks the final closing disclosure, current mortgage statement, and insurance declaration page."
+    },
+    {
+      "templateId": "609c6669-8b2f-5dd3-8f40-5b8fa9439242",
+      "title": "Follow up on missing signature",
+      "text": "Contact the client to request the missing signature on [document name]. Confirm the correct signing method and note when the completed document is received.",
+      "priority": "medium",
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-03-21, they agreed to address payroll withholding evidence: Nolan’s Moonbadger Analytics paystub showed Oregon withholding while HR portal showed Arizona mailing/work location."
+    }
+  ]
+}

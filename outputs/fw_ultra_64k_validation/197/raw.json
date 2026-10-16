@@ -1,0 +1,18 @@
+{
+ "config": "fw_ultra",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"197\",\n\"tickets\": [\n{\n\"title\": \"Coordinate IRA transfer address exception with Paper Otter and Velvet Acorn\",\n\"text\": \"Coordinate the IRA transfer address exception for Selma Copperwisp with Paper Otter Retirement Services and Velvet Acorn Custody after the rollover request was rejected due to a mismatch between the former plan address and her current residential address.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"The agreed follow-up is to coordinate the exception by August 25, 2026.\"\n},\n{\n\"title\": \"Address joint account registration mismatch with Clockwork Clover Brokerage\",\n\"text\": \"Address the registration mismatch for Selma and Graham Copperwisp's joint taxable account where transfer paperwork lists joint tenants with rights of survivorship but Clockwork Clover Brokerage statement shows tenancy by entirety registration.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-22\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"The agreed follow-up is to address the mismatch by August 22, 2026.\"\n},\n{\n\"title\": \"Resolve duplicate receiving account shell at Velvet Acorn Custody\",\n\"text\": \"Resolve the duplicate taxable account shell issue for Selma Copperwisp at Velvet Acorn Custody where Clockwork Clover Brokerage associated the pending ACATS request with the unintended shell.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026.\"\n},\n{\n\"title\": \"Handle Copper Firefly Semiconductors manual transfer outside ACATS\",\n\"text\": \"Handle the manual transfer of the Copper Firefly Semiconductors position in Selma Copperwisp's individual brokerage account at Clockwork Clover Brokerage outside the standard ACATS feed during the current processing window.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-28\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"the agreed follow-up is to handle it by August 28, 2026.\"\n},\n{\n\"title\": \"Address cash holdback for property tax and estimated tax payments\",\n\"text\": \"Address the cash holdback for Selma Copperwisp's individual brokerage account at Clockwork Clover Brokerage to retain funds for property tax and estimated tax payments normally funded from that account before the taxable transfer.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-21\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"The agreed follow-up is to address the cash holdback by August 21, 2026.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1552,
+    "output_tokens": 2868,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

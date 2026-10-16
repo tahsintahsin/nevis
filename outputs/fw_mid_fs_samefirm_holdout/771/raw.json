@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"771\", \"tickets\": [{\"title\": \"Collect certified marriage certificate\", \"text\": \"Obtain and submit the certified marriage certificate to Velvet Acorn Custody and Teacup Comet Bank so records reflect Lila and Rowan’s married status and can update account registrations and beneficiary designations.\", \"priority\": null, \"dueDate\": \"2024-10-14\", \"assigneeId\": null, \"templateId\": \"129a0b7f-8c53-50bf-9cf0-a61ab4d220da\", \"subTasks\": [], \"evidence\": \"They agreed to collect the certified marriage certificate because custodian and bank records still show Lila’s prior household status, due 2024-10-14.\"}, {\"title\": \"Open joint taxable account at existing custodian\", \"text\": \"Open a joint taxable account at the existing custodian, initially funded from Teacup Comet Bank savings, with online access and electronic statements for both Lila and Rowan Thistlefable.\", \"priority\": \"high\", \"dueDate\": \"2024-10-18\", \"assigneeId\": \"5c5439fe-19f1-52ba-8646-5d8a3755e27e\", \"templateId\": \"7e079875-a636-5be9-84a0-36c6f079b4eb\", \"subTasks\": [], \"evidence\": \"They agreed to open a joint taxable account at the existing custodian, initially funded from Teacup Comet Bank savings, with online access and electronic statements for both spouses, due 2024-10-18.\"}, {\"title\": \"Prepare retirement beneficiary forms\", \"text\": \"Prepare retirement beneficiary forms naming Rowan Thistlefable primary and Camila Copperwisp contingent where allowed, for Lila’s IRA and 401(k) and Rowan’s 403(b).\", \"priority\": null, \"dueDate\": \"2024-10-25\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed to prepare retirement beneficiary forms naming Rowan primary and Camila Copperwisp contingent where allowed, due 2024-10-25.\"}]}",
+   "usage": {
+    "input_tokens": 15185,
+    "output_tokens": 547,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

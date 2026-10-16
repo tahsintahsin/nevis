@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"598\", \"tickets\": [{\"title\": \"Update and route address/residency records\", \"text\": \"Update and route address/residency records for Nolan and Lena Pebblefizz, as statements still show Oregon despite their move to Mesa, Arizona.\", \"priority\": null, \"dueDate\": \"2025-03-10\", \"assigneeId\": null, \"templateId\": \"50eed47b-78dc-5280-a7ff-48a056cfe102\", \"subTasks\": [], \"evidence\": \"Agreed follow-ups are to update and route address/residency records by 2025-03-10 because statements still show Oregon.\"}, {\"title\": \"Complete mortgage and insurance file\", \"text\": \"Complete the mortgage and insurance file for Nolan and Lena Pebblefizz, including final closing disclosure, current mortgage statement, and declaration page.\", \"priority\": null, \"dueDate\": \"2025-03-17\", \"assigneeId\": null, \"templateId\": \"7a01cf30-e455-55f4-92f2-f4ca51e7fee1\", \"subTasks\": [], \"evidence\": \"Agreed follow-ups are to complete the mortgage and insurance file by 2025-03-17 because final closing disclosure, current mortgage statement, and declaration page are missing.\"}, {\"title\": \"Address payroll withholding evidence\", \"text\": \"Address Nolan Pebblefizz’s payroll withholding evidence, reconciling the Oregon withholding shown on his paystub with HR records showing Arizona mailing and work location.\", \"priority\": null, \"dueDate\": \"2025-03-21\", \"assigneeId\": null, \"templateId\": \"50eed47b-78dc-5280-a7ff-48a056cfe102\", \"subTasks\": [], \"evidence\": \"Agreed follow-ups are to address payroll withholding evidence by 2025-03-21 because Nolan’s paystub showed Oregon withholding while HR showed Arizona mailing and work location.\"}]}",
+   "usage": {
+    "input_tokens": 16102,
+    "output_tokens": 505,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

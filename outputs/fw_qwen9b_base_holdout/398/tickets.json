@@ -1,0 +1,65 @@
+{
+  "meetingId": "398",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare charitable funding comparison for Nia and Owen Bramblequill",
+      "text": "Prepare a comparison of donating appreciated Apricot Compass Technologies shares, using a donor-advised account, or making a cash gift to Moonbadger Arts Foundation. The analysis must account for the household's 14% single-company exposure, tuition and renovation spending needs, and the $250,000 fund goal. This work is needed by December 12, 2025.",
+      "priority": null,
+      "dueDate": "2025-12-12",
+      "assigneeId": "9f0cf849-b1a2-52e5-a528-5cc80b74e907",
+      "subTasks": [],
+      "evidence": "They agreed to prepare the comparison by December 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Verify Moonbadger Arts Foundation transfer requirements",
+      "text": "Verify Moonbadger Arts Foundation's process for a large publicly traded securities gift, including delivery instructions, designation language for arts education, and the receipt wording needed for tax records. This verification is needed by December 9, 2025.",
+      "priority": null,
+      "dueDate": "2025-12-09",
+      "assigneeId": "9f0cf849-b1a2-52e5-a528-5cc80b74e907",
+      "subTasks": [],
+      "evidence": "They agreed to verify those requirements by December 9, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Paper Otter Brokerage cost basis export issue",
+      "text": "Obtain complete acquisition lot data for Nia's ESPP and vested RSU shares from Paper Otter Brokerage to resolve the missing cost basis and holding-period evidence required for the charitable donation. This task is needed by December 10, 2025.",
+      "priority": null,
+      "dueDate": "2025-12-10",
+      "assigneeId": "9f0cf849-b1a2-52e5-a528-5cc80b74e907",
+      "subTasks": [],
+      "evidence": "For cost basis and holding-period evidence for employer shares, the Paper Otter Brokerage export showed share quantities and market values, but it did not show complete acquisition lots for the ESPP and vested RSU shares Nia is considering for donation; this remains open for December 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile custodian value difference for proposed gift shares",
+      "text": "Reconcile the discrepancy between Nia's spreadsheet market value and the latest Paper Otter Brokerage quote for the lot earmarked for charity to determine the exact share count meeting her intended gift amount. This task is needed by December 11, 2025.",
+      "priority": null,
+      "dueDate": "2025-12-11",
+      "assigneeId": "9f0cf849-b1a2-52e5-a528-5cc80b74e907",
+      "subTasks": [],
+      "evidence": "For the custodian value difference in proposed gift shares, Nia’s spreadsheet showed a larger market value for the lot earmarked for charity than the latest Paper Otter Brokerage quote, creating uncertainty about how many shares would meet her intended gift amount; this remains open for December 11,"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare charitable deduction capacity projection",
+      "text": "Prepare a tax projection for Nia and Owen Bramblequill regarding their charitable deduction capacity and possible carryforward, considering their compensation, unrealized gains, mortgage interest, and prior giving level. This projection is needed by December 17, 2025.",
+      "priority": null,
+      "dueDate": "2025-12-17",
+      "assigneeId": "9f0cf849-b1a2-52e5-a528-5cc80b74e907",
+      "subTasks": [],
+      "evidence": "They agreed to prepare that projection by December 17, 2025."
+    },
+    {
+      "templateId": "21dfeb72-8e0b-5317-9129-20bcd2aeaba8",
+      "title": "Update household profile information",
+      "text": "Update the household profile and planning contacts to reflect Selene Bramblequill's move to assisted living, adding her as a recurring family support obligation and new emergency contact for Owen. This update is needed by December 19, 2025.",
+      "priority": null,
+      "dueDate": "2025-12-19",
+      "assigneeId": "9f0cf849-b1a2-52e5-a528-5cc80b74e907",
+      "subTasks": [],
+      "evidence": "They agreed to address the household profile and planning contact update by December 19, 2025."
+    }
+  ]
+}

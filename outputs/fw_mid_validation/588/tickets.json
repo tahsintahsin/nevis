@@ -1,0 +1,65 @@
+{
+  "meetingId": "588",
+  "tickets": [
+    {
+      "templateId": "d474d270-8c4c-5f26-ac30-63699b240914",
+      "title": "Screen debt refinance opportunity",
+      "text": "Prepare a side-by-side review of the current adjustable mortgage against fixed-rate and shorter-term refinance quotes, including closing costs, monthly payment impact, and the point at which refinancing would offset upfront costs for Liora Nettlewhisk.",
+      "priority": "low",
+      "dueDate": "2025-06-03",
+      "assigneeId": "73ed661f-44f8-54f7-805a-e1a0790aadcb",
+      "subTasks": [],
+      "evidence": "For the mortgage reset and refinance comparison, Liora asked for a side-by-side review of the current adjustable mortgage against fixed-rate and shorter-term refinance quotes, including closing costs, monthly payment impact, and the point at which refinancing would offset upfront costs; the agreed f"
+    },
+    {
+      "templateId": "d474d270-8c4c-5f26-ac30-63699b240914",
+      "title": "Screen debt refinance opportunity",
+      "text": "Prepare a recommendation on the mortgage reset timing for Liora Nettlewhisk, early enough to decide whether to lock a refinance quote or remain with the current lender, based on the servicer's notice showing an upcoming rate change window.",
+      "priority": "low",
+      "dueDate": "2025-05-30",
+      "assigneeId": "73ed661f-44f8-54f7-805a-e1a0790aadcb",
+      "subTasks": [],
+      "evidence": "For loan reset timing analysis, the mortgage servicer’s notice shows an upcoming rate change window, and the household wants a recommendation early enough to decide whether to lock a refinance quote or remain with the current lender; the agreed follow-up is due 2025-05-30."
+    },
+    {
+      "templateId": "d474d270-8c4c-5f26-ac30-63699b240914",
+      "title": "Screen debt refinance opportunity",
+      "text": "Collect the missing HELOC document pages including margin, draw-period terms, and repayment conversion language needed to model the combined debt picture for Liora Nettlewhisk.",
+      "priority": "low",
+      "dueDate": "2025-05-20",
+      "assigneeId": "73ed661f-44f8-54f7-805a-e1a0790aadcb",
+      "subTasks": [],
+      "evidence": "For HELOC document collection, the portal file contains only a partial HELOC statement, and the missing pages include the margin, draw-period terms, and repayment conversion language needed to model the combined debt picture; the agreed follow-up is due 2025-05-20."
+    },
+    {
+      "templateId": "d474d270-8c4c-5f26-ac30-63699b240914",
+      "title": "Screen debt refinance opportunity",
+      "text": "Review the cash-flow discrepancy between the mortgage servicer's escrow estimate and Liora Nettlewhisk's household budget regarding monthly property tax and insurance amounts, creating uncertainty in projected payment after loan reset.",
+      "priority": "low",
+      "dueDate": "2025-05-27",
+      "assigneeId": "73ed661f-44f8-54f7-805a-e1a0790aadcb",
+      "subTasks": [],
+      "evidence": "For the cash-flow discrepancy review, the mortgage servicer’s escrow estimate and Liora’s household budget show different monthly property tax and insurance amounts, creating uncertainty in the projected payment after the loan reset; the agreed follow-up is due 2025-05-27."
+    },
+    {
+      "templateId": "d474d270-8c4c-5f26-ac30-63699b240914",
+      "title": "Screen debt refinance opportunity",
+      "text": "Resolve the Teacup Comet Bank autopay duplicate draft issue for Liora Nettlewhisk, where the bank drafted the HELOC autopay twice in one cycle, temporarily reducing the checking account cushion and forcing a transfer from savings before payroll posted.",
+      "priority": "low",
+      "dueDate": "2025-05-21",
+      "assigneeId": "73ed661f-44f8-54f7-805a-e1a0790aadcb",
+      "subTasks": [],
+      "evidence": "For the bank autopay issue and reserve protection, Liora reported that Teacup Comet Bank drafted the HELOC autopay twice in one cycle, temporarily reducing the checking account cushion and forcing a transfer from savings before payroll posted; the agreed follow-up is due 2025-05-21."
+    },
+    {
+      "templateId": "d474d270-8c4c-5f26-ac30-63699b240914",
+      "title": "Screen debt refinance opportunity",
+      "text": "Review debt repayment funding options using share sales for Liora Nettlewhisk, assessing whether selling Cloudberry Kite Robotics shares to pay off the credit card balance and part of the auto loan reduces concentration risk given varying tax lots and unrealized gains.",
+      "priority": "low",
+      "dueDate": "2025-06-10",
+      "assigneeId": "73ed661f-44f8-54f7-805a-e1a0790aadcb",
+      "subTasks": [],
+      "evidence": "For the debt repayment funding review, a portfolio review showed that selling enough Cloudberry Kite Robotics shares to pay off the credit card balance and part of the auto loan could reduce concentration risk, but the tax lots vary significantly by holding period and unrealized gain; the agreed fol"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "meetingId": "78",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Organize estate settlement planning file",
+      "text": "Organize a planning-side file for Lydia Cloudpuddle's estate settlement coordination, separating probate assets, beneficiary assets, estate professionals, family decision points, and household planning impacts. Include Nora Velvetreed's estate details, the $25,000 charitable bequest to Moonbadger Community Arts Fund, and coordination with Sienna Bramblequill of Paper Otter Legal.",
+      "priority": null,
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to organize that file by 2025-08-08."
+    },
+    {
+      "templateId": "e8f5e053-ae21-5df8-b21f-3b72945a5371",
+      "title": "Resolve Missing Signature Packet",
+      "text": "Use this workflow when a document packet cannot be submitted or finalized because one or more required signatures, initials, dates, attestations, or delivery acknowledgments are missing. Confirm the specific signature gap, contact the appropriate signer using approved communication channels, document the outreach, and verify the corrected packet before submission. This applies to the inherited IRA beneficiary claim packet from Velvet Acorn Custody for Lydia Cloudpuddle, which requires a certified death certificate (Lydia only has a photocopy), letters of authority, and a signed beneficiary claim form (currently an unsigned draft).",
+      "priority": "medium",
+      "dueDate": "2025-08-01",
+      "assigneeId": "0d61606d-603e-57bf-ab9b-0ca9eccca1b8",
+      "subTasks": [
+        {
+          "title": "Identify the exact signature deficiency",
+          "text": "Review the packet and note each missing item: signer role, document name, page or section, required signature/initial/date, and whether a witness, notary, spouse, trustee, or authorized representative is also required. For the Velvet Acorn Custody inherited IRA claim packet, identify the missing certified death certificate, unsigned beneficiary claim form, and pending letters of authority.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "0d61606d-603e-57bf-ab9b-0ca9eccca1b8"
+        },
+        {
+          "title": "Confirm follow-up approach with advisory team",
+          "text": "Determine whether the item can be corrected electronically, requires wet ink, or needs a new form. If the missing signature affects advice, authorization, ownership, or beneficiary instructions, confirm the next step with the advisor before contacting the signer.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "bc4c93c5-32d9-5b85-8582-1740c5c570dd"
+        },
+        {
+          "title": "Send signer outreach with clear instructions",
+          "text": "Contact the signer using placeholders for [client/signer name], [document name], [signature location], [return method], and [support contact]. Include only the minimum necessary document details and avoid sending sensitive information through unapproved channels. Contact Lydia Cloudpuddle for the signed beneficiary claim form and coordinate with Sienna Bramblequill of Paper Otter Legal for the letters of authority.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "0d61606d-603e-57bf-ab9b-0ca9eccca1b8"
+        },
+        {
+          "title": "Validate corrected packet and record completion",
+          "text": "After the corrected document is received, verify all required signatures and dates are present, save the final version to the appropriate client record, update the task notes with evidence collected, and route the packet for submission or advisor review as needed. Verify the certified death certificate, signed claim form, and letters of authority are all present before submission to Velvet Acorn Custody.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a1a32255-45db-5876-a51d-f94935e71b05"
+        }
+      ],
+      "evidence": "The agreed follow-up is to address the claim-packet requirements by 2025-08-01."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Tin Sparrow account ownership treatment",
+      "text": "Reconcile the ownership treatment of the Tin Sparrow Investments brokerage account (estimated value $275,000) for Nora Velvetreed's estate. The statement shows a transfer-on-death registration naming Lydia Cloudpuddle and Calvin Velvetreed, while Paper Otter Legal's preliminary inventory lists it as a probate asset. Coordinate with Sienna Bramblequill of Paper Otter Legal to resolve the discrepancy before estate accounting can be finalized.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "with follow-up needed by 2025-08-15."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare estate cash-flow calendar for condominium",
+      "text": "Prepare a practical cash-flow calendar for Nora Velvetreed's condominium (county estimate $620,000, no mortgage) showing recurring expenses, likely sale-preparation costs, estate-paid items, and any personal advances by co-executors Lydia Cloudpuddle and Calvin Velvetreed. The calendar will help Lydia coordinate fairly with Calvin.",
+      "priority": null,
+      "dueDate": "2025-08-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that calendar by 2025-08-06."
+    },
+    {
+      "templateId": null,
+      "title": "Complete inherited IRA distribution choice review",
+      "text": "Review available inherited IRA distribution approaches for the $410,000 traditional IRA at Velvet Acorn Custody inherited by Lydia Cloudpuddle from Nora Velvetreed. Include estimated taxable income effects, withholding preferences, and how different withdrawal pacing would interact with Lydia's planned retirement from Copper Firefly Design at age 62. Complete before Lydia signs account setup instructions.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that review by 2025-09-05."
+    },
+    {
+      "templateId": "c0849ab3-1ea7-5ae4-8eb0-302abcb9d836",
+      "title": "Perform recurring beneficiary designation review",
+      "text": "At each annual review cycle, and after any reported major life event, confirm whether beneficiary designations should be reviewed for retirement accounts, insurance policies, transfer-on-death registrations, and education accounts. Document the date of the last confirmed beneficiary review, evidence available, discrepancies found, and any forms or custodian steps needed. For Lydia Cloudpuddle, address the discrepancy where her Copper Firefly Design 401(k) names only Mara Cloudpuddle as contingent beneficiary while her IRA names both Mara and Theo Cloudpuddle; Lydia's current intent is equal treatment of both children across retirement assets.",
+      "priority": "medium",
+      "dueDate": "2025-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the beneficiary alignment by 2025-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain estate professional communication authorization",
+      "text": "Obtain authorization allowing Sienna Bramblequill of Paper Otter Legal to discuss asset values, beneficiary registrations, basis information, and liquidity questions with Apricot Compass Advisory and Arlo Nettlewhisk of Clockwork Clover Tax. The current advisory file does not include an authorization covering estate counsel.",
+      "priority": null,
+      "dueDate": "2025-07-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the authorization by 2025-07-30."
+    },
+    {
+      "templateId": null,
+      "title": "Address Velvet Acorn inherited account name correction",
+      "text": "Address the name mismatch on the Velvet Acorn Custody service record for Lydia Cloudpuddle's inherited account, which was opened under \"Lydia Velvetreed\" despite her identification and advisory records using \"Lydia Cloudpuddle.\" The mismatch may prevent acceptance of inherited account paperwork unless the custodian corrects the registration workflow.",
+      "priority": null,
+      "dueDate": "2025-08-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address the name correction by 2025-08-04."
+    }
+  ]
+}

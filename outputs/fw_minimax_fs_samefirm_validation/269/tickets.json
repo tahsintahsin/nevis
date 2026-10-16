@@ -1,0 +1,55 @@
+{
+  "meetingId": "269",
+  "tickets": [
+    {
+      "templateId": "0196e408-433b-57f1-a890-141454e7e214",
+      "title": "Run recurring self-employed plan setup check",
+      "text": "On a planning cadence for Arlen Nettlewhisk's Pocket Lantern Studio, review retirement plan setup or redesign opportunities. Check business income pattern, employee status (no current employees), desired contribution level, payroll or bookkeeping readiness, plan type fit, funding capacity, and coordination needs with CPA Lila Juniperjingle. Use a relative cadence only; set specific timing when the task is created for a household. Update planning records for Arlen's shift from Silver Marmot Analytics W-2 employment to Pocket Lantern Studio sole-member LLC self-employment, and compare retirement plan choices using forecast net profit and Arlen's preferred contribution range.",
+      "priority": "medium",
+      "dueDate": "2024-06-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arlen asked Apricot Compass Wealth Advisory to update planning records for his shift to Pocket Lantern Studio self-employment and compare retirement plan choices using forecast net profit, no current employees, and his preferred contribution range; the agreed follow-up is due 2024-06-21."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare cash-flow schedule for self-employment estimated taxes",
+      "text": "Prepare a cash-flow schedule for Arlen Nettlewhisk to set aside taxes from irregular Pocket Lantern Studio client retainers, and coordinate with CPA Lila Juniperjingle before the next estimated tax payment.",
+      "priority": null,
+      "dueDate": "2024-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arlen requested a cash-flow schedule for setting aside taxes from irregular client retainers and permission-based coordination with CPA Lila Juniperjingle before his next estimated payment; the agreed follow-up is due 2024-06-10."
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing Pocket Lantern Studio business account opening records",
+      "text": "Obtain the Teacup Comet Bank signature card, first statement, and online balance export for the Pocket Lantern Studio operating account and upload them to the secure portal so the team can complete the business account review.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A follow-up is needed on missing business account opening records because the team could not review the Pocket Lantern Studio operating account without the Teacup Comet Bank signature card, first statement, and online balance export in the secure portal; no date was supplied."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve income forecast discrepancy for Pocket Lantern Studio",
+      "text": "Reconcile the income forecast discrepancy for Pocket Lantern Studio: the call projection showed annual gross revenue of $168,000, while the Marzipan Meadow Bookkeeping worksheet showed $132,000 and excluded one signed retainer.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A follow-up is needed on the income forecast discrepancy because the call projection showed annual gross revenue of $168,000, while the Marzipan Meadow Bookkeeping worksheet showed $132,000 and excluded one signed retainer; no date was supplied."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicated portal transactions after Teacup Comet Bank connection change",
+      "text": "Resolve the duplicated portal transactions that appeared after the Teacup Comet Bank connection changed from personal checking to business checking for Arlen Nettlewhisk's Pocket Lantern Studio.",
+      "priority": null,
+      "dueDate": "2024-06-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arlen reported duplicated portal transactions after the Teacup Comet Bank connection changed from personal checking to business checking; the agreed follow-up is due 2024-06-06."
+    }
+  ]
+}

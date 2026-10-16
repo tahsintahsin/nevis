@@ -1,0 +1,35 @@
+{
+  "meetingId": "81",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update address-related advisory and custodian records",
+      "text": "Update Lila and Rowan Copperwisp’s address-related advisory and custodian records to reflect their Seattle apartment lease beginning 2025-04-01.",
+      "priority": null,
+      "dueDate": "2025-04-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2025-04-04 to update address-related advisory and custodian records after the lease begins"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing lease and Washington utility confirmation",
+      "text": "Obtain the lease and Washington utility confirmation missing from the Copperwisp file.",
+      "priority": null,
+      "dueDate": "2025-04-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2025-04-09 to obtain the lease and Washington utility confirmation missing from the file"
+    },
+    {
+      "templateId": null,
+      "title": "Review Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs",
+      "text": "Review the Oregon municipal bond fund, Tin Sparrow Robotics concentration, and move-related cash needs for Lila and Rowan Copperwisp.",
+      "priority": null,
+      "dueDate": "2025-04-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2025-04-25 to review the Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs."
+    }
+  ]
+}

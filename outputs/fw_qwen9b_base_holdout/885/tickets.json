@@ -1,0 +1,114 @@
+{
+  "meetingId": "885",
+  "tickets": [
+    {
+      "templateId": "2bc56a5b-52a3-5787-b2f4-bfb7efb9607b",
+      "title": "Recover client account access",
+      "text": "Restore Lena Copperwisp's individual access to the shared document vault at Apricot Compass Advisory, resolving the issue where authentication codes are routing to her late spouse Marcus Copperwisp's mobile number.",
+      "priority": "medium",
+      "dueDate": "2023-10-06",
+      "assigneeId": "96a5e08f-ebec-5090-a8b0-ffff56f65f34",
+      "subTasks": [
+        {
+          "title": "Verify identity and access scope",
+          "text": "Confirm Lena Copperwisp's identity and identify the shared document vault at Apricot Compass Advisory as the affected access point.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "96a5e08f-ebec-5090-a8b0-ffff56f65f34"
+        },
+        {
+          "title": "Diagnose recovery path",
+          "text": "Determine the specific steps to reset credentials or update contact information for the vault, noting the codes are routing to Marcus Copperwisp's mobile number.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9514199c-963a-5eb7-94d8-13bf168e3780"
+        },
+        {
+          "title": "Coordinate custodian or platform escalation",
+          "text": "If internal resolution fails, prepare an escalation summary for Apricot Compass Advisory regarding the authentication routing issue.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "80ec768b-fd80-585b-82ed-4286607c2b1d"
+        },
+        {
+          "title": "Confirm restoration and record outcome",
+          "text": "Confirm Lena Copperwisp can successfully retrieve estate and account records from the vault and document the resolution.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "96a5e08f-ebec-5090-a8b0-ffff56f65f34"
+        }
+      ],
+      "evidence": "For secure portal access restoration, Lena reported that authentication codes for the shared document vault are still routing to Marcus’s mobile number, preventing her from retrieving estate and account records. She asked Apricot Compass Advisory to restore her individual access through verified cha"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain death certificates and letters testamentary",
+      "text": "Obtain and place certified death certificates and letters testamentary for Lena Copperwisp and Marcus Copperwisp into the document vault to satisfy requirements from Velvet Acorn Custody and Moonbadger Insurance for processing beneficiary and claim paperwork.",
+      "priority": "high",
+      "dueDate": "2023-10-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For estate document collection for account and insurance processing, certified death certificates and letters testamentary are not yet available in the document vault, and Velvet Acorn Custody and Moonbadger Insurance require those records before processing beneficiary and claim paperwork. The agree"
+    },
+    {
+      "templateId": null,
+      "title": "Complete Moonbadger Insurance claim packet",
+      "text": "Complete the employer life insurance claim packet for Lena Copperwisp using the Moonbadger Insurance claim notice and Silver Marmot Analytics benefits correspondence to meet the benefits office review cutoff.",
+      "priority": "high",
+      "dueDate": "2023-10-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the employer life insurance claim packet, Lena brought a Moonbadger Insurance claim notice and Silver Marmot Analytics benefits correspondence showing that the employer claim packet must be complete before the benefits office review cutoff. The agreed follow-up on the claim packet is due 2023-10"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate retitling sequence with estate attorney",
+      "text": "Coordinate with Selene Nettlewhisk of Coral Badger Law regarding the order of retitling the family home, the joint taxable account at Velvet Acorn Custody, and trust administration records to ensure consistency with estate documents.",
+      "priority": "high",
+      "dueDate": "2023-10-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For coordination with the estate attorney on the retitling sequence, Lena asked that coordination occur with Selene Nettlewhisk regarding the order of retitling the home records, the joint taxable account, and trust administration records so that account paperwork is consistent with the estate docum"
+    },
+    {
+      "templateId": null,
+      "title": "Review beneficiary records for IRA and life policy",
+      "text": "Review beneficiary records for Lena Copperwisp's traditional IRA and term life policy at Moonbadger Insurance, noting Marcus Copperwisp is still listed as primary beneficiary despite estate provisions naming the children and trust.",
+      "priority": "high",
+      "dueDate": "2023-10-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the beneficiary record review after the spouse’s death, the client file review showed Marcus is still listed as primary beneficiary on Lena’s IRA and term life policy records, while the estate summary describes the children and trust provisions as the next intended backstop. The agreed follow-up"
+    },
+    {
+      "templateId": null,
+      "title": "Analyze survivor income and spending sustainability",
+      "text": "Analyze Lena Copperwisp's survivor income and spending sustainability, comparing her current sole earnings ($168,000 base salary plus 20% bonus) against household spending ($10,800/month), college costs for Eva and Finn, cash reserves, and future retirement timing.",
+      "priority": "medium",
+      "dueDate": "2023-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For survivor income and spending analysis, Marcus’s salary has ended, Lena is now the sole earner, and she wants to understand whether current spending, college costs, cash reserves, and future retirement timing remain sustainable. The agreed follow-up to analyze those topics is due 2023-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Provide tax coordination data to Jonas Maplesprocket",
+      "text": "Provide year-to-date income, withholding, realized gain and loss, and estimated tax information to Jonas Maplesprocket of Amber Teapot Tax Advisors to reflect Marcus Copperwisp's final wages and portfolio activity for the 2022 joint tax return.",
+      "priority": "medium",
+      "dueDate": "2023-10-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For tax coordination for final joint-year planning, Lena asked that Jonas Maplesprocket receive year-to-date income, withholding, realized gain and loss, and estimated tax information so the tax projection can reflect Marcus’s final wages and the portfolio activity already posted. The agreed follow-"
+    },
+    {
+      "templateId": null,
+      "title": "Review concentrated Paper Otter Technologies position",
+      "text": "Review the concentrated Paper Otter Technologies stock position (approx. $510,000 value, $96,000 cost basis) in the Velvet Acorn Custody taxable account, evaluating tax-aware diversification options given the change in household income.",
+      "priority": "high",
+      "dueDate": "2023-11-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the concentrated stock risk review, the portfolio review found that Paper Otter Technologies stock represents a large share of investable assets and carries a substantial unrealized gain, which Lena said feels more uncomfortable now that household income has changed. The agreed follow-up to revi"
+    }
+  ]
+}

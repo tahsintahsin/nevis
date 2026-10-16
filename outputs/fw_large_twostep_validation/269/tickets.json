@@ -1,0 +1,57 @@
+{
+  "meetingId": "269",
+  "tickets": [
+    {
+      "templateId": "32d114ba-8f40-54cb-953d-781d5ca26c93",
+      "title": "Complete household profile update",
+      "text": "Refresh Arlen Nettlewhisk's household profile using the latest client-provided information. Confirm household members, employment status, dependents, key contacts, income sources, recurring obligations, benefits, risk preferences, and communication preferences. Note any planning implications that should be routed to the advisory team. Additionally, compare retirement‑plan options based on the forecast net profit, no current employees, and Arlen’s preferred contribution range.",
+      "priority": "medium",
+      "dueDate": "2024-06-21",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect household changes",
+          "text": "Request updates for household members, employment, dependents, contact information, outside advisors, and major life changes since the prior profile review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Record changes to income, savings, spending, insurance coverage, benefits, goals, and risk tolerance in the planning record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4cbe713b-b420-5401-9de5-20d1f947c70e"
+        },
+        {
+          "title": "Advisor review of planning impacts",
+          "text": "Review the updated household profile for retirement income, tax-aware investment, equity compensation, or estate coordination implications that warrant follow-up.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "368cf34f-7766-520c-b44f-afbfa66af4ab"
+        }
+      ],
+      "evidence": "For the business launch profile and retirement plan analysis, Arlen asked Apricot Compass Wealth Advisory to update planning records for his shift to Pocket Lantern Studio self-employment and compare retirement plan choices using forecast net profit, no current employees, and his preferred contribut"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare cash‑flow schedule for tax set‑aside",
+      "text": "Prepare a cash‑flow schedule for Arlen Nettlewhisk to set aside taxes from his irregular client retainers and obtain permission‑based coordination with CPA Lila Juniperjingle before his next estimated payment.",
+      "priority": null,
+      "dueDate": "2024-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For estimated tax coordination for uneven business receipts, Arlen requested a cash-flow schedule for setting aside taxes from irregular client retainers and permission-based coordination with CPA Lila Juniperjingle before his next estimated payment; the agreed follow-up is due 2024-06-10."
+    },
+    {
+      "templateId": null,
+      "title": "Investigate and resolve duplicated portal transactions",
+      "text": "Investigate and resolve the duplicated portal transactions reported by Arlen Nettlewhisk after the Teacup Comet Bank connection changed from personal checking to business checking.",
+      "priority": null,
+      "dueDate": "2024-06-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arlen reported duplicated portal transactions after the Teacup Comet Bank connection changed from personal checking to business checking; the agreed follow-up is due 2024-06-06."
+    }
+  ]
+}

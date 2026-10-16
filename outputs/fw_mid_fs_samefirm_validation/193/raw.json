@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"193\", \"tickets\": [{\"title\": \"Prepare approximately-$25,000 transfer instructions after brokerage-detail verification\", \"text\": \"Prepare approximately $25,000 transfer instructions for the Moonbadger Arts Center youth-workshop fund after verifying brokerage details for the Velvet Acorn Growth Fund shares. Use approximately $25,000 as the target transfer amount.\", \"priority\": null, \"dueDate\": \"2026-01-23\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"by 2026-01-23 prepare approximately-$25,000 transfer instructions after brokerage-detail verification\"}, {\"title\": \"Address missing current pledge/receipt goods-or-services language and prior-year acknowledgment\", \"text\": \"Address the prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language for Sela Mossbutton’s charitable donation to Moonbadger Arts Center.\", \"priority\": null, \"dueDate\": \"2026-02-06\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"by 2026-02-06 address Evan-noted prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language\"}]}",
+   "usage": {
+    "input_tokens": 8457,
+    "output_tokens": 300,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 6366
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+  "meetingId": "626",
+  "tickets": [
+    {
+      "templateId": "4384f30d-b11a-5676-8c1b-4db483725b8e",
+      "title": "Verify cash distribution readiness",
+      "text": "Complete these checks before initiating or approving Soren Velvetreed's cash distribution:\n- Confirm requested gross or net distribution amount: $85,000 initial Teacup Comet Bank checking transfer plus $9,000 monthly transfer after setup\n- Confirm source account and available cash: Velvet Acorn Custody joint taxable account ($1.18M total, $73K cash, $280K municipal-bond ladder, $310K Copper Firefly Robotics stock)\n- Confirm destination instructions are already authorized or identify required authorization steps: Teacup Comet Bank checking (account ending to be confirmed separately)\n- Review tax withholding election or required withholding rules: [WITHHOLDING]\n- Check for potential trading, liquidity, margin, or settlement constraints: possible municipal-bond ladder or Copper Firefly Robotics share sales may be required\n- Confirm whether the distribution affects the financial plan, income strategy, or required minimum distribution tracking: affects cash flow during Soren's transition from Copper Firefly Robotics salary to $9,500/month consulting\n- Document client authorization and method received: [AUTHORIZATION METHOD]\n- Note final processing status and confirmation details: [STATUS]\n\nReview the $85,000 Teacup Comet Bank checking transfer and $9,000 monthly transfer, including available cash, possible municipal-bond ladder or Copper Firefly Robotics share sales, and any planning impact.",
+      "priority": "high",
+      "dueDate": "2026-08-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed August 27, 2026 follow-up is to review Soren’s requested $85,000 Teacup Comet Bank checking transfer and $9,000 monthly transfer after setup, including available cash, possible municipal-bond ladder or Copper Firefly Robotics share sales, and any planning impact."
+    },
+    {
+      "templateId": "4384f30d-b11a-5676-8c1b-4db483725b8e",
+      "title": "Verify cash distribution readiness",
+      "text": "Complete these checks before initiating or approving Soren Velvetreed's cash distribution:\n- Confirm requested gross or net distribution amount: $85,000 initial transfer plus $9,000 monthly transfer after setup\n- Confirm source account and available cash: Velvet Acorn Custody joint taxable account\n- Confirm destination instructions are already authorized or identify required authorization steps: Teacup Comet Bank checking - Soren read account ending 4418 while custodian record shows authorized account ending 4184; correct destination and authorization method must be confirmed before cash release\n- Review tax withholding election or required withholding rules: [WITHHOLDING]\n- Check for potential trading, liquidity, margin, or settlement constraints: [CONSTRAINTS]\n- Confirm whether the distribution affects the financial plan, income strategy, or required minimum distribution tracking: [PLANNING IMPACT]\n- Document client authorization and method received: [AUTHORIZATION METHOD]\n- Note final processing status and confirmation details: [STATUS]\n\nResolve the Teacup Comet Bank destination discrepancy (account ending 4418 vs 4184) and confirm authorization method before cash release.",
+      "priority": "high",
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By August 22, 2026, the distribution destination needs resolution because Soren read checking account ending 4418 while the custodian record shows authorized Teacup Comet Bank account ending 4184; the correct destination and authorization method must be confirmed before cash release."
+    },
+    {
+      "templateId": "b9bbc98a-1f36-58b9-822a-d05a22356a28",
+      "title": "Complete household profile update",
+      "text": "Refresh the household profile for Soren and Alina Velvetreed using client-provided updates and recent planning notes. Confirm household members, contact preferences, employment status (Soren left Copper Firefly Robotics on July 31, 2026; $9,500/month consulting starting September 2026), dependents (daughter Iris at Amber Teapot College), trusted contacts, insurance context (Paper Otter Life universal life policy), estate document status, and any major life changes that may affect planning recommendations. Obtain Soren's not-yet-uploaded Copper Firefly Robotics separation agreement, final paystub, and consulting contract to update taxable income, benefits, and recurring cash-flow assumptions.",
+      "priority": "medium",
+      "dueDate": "2026-08-30",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect profile change information",
+          "text": "Request or compile updates for household members, addresses, contact preferences, employment (Soren's separation from Copper Firefly Robotics on July 31, 2026 and $9,500/month consulting starting September 2026), dependents (daughter Iris at Amber Teapot College), and major recent or expected life events.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "1616b784-b182-570a-93f0-464e57273315"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Revise income, savings, spending, retirement timing, education funding, and family support assumptions in the planning record as applicable, using the Copper Firefly Robotics separation agreement, final paystub, and consulting contract to update taxable income, benefits, and recurring cash-flow assumptions.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4c50b52d-b095-5034-aa4e-727cb24fa800"
+        },
+        {
+          "title": "Identify advice impacts",
+          "text": "Flag changes that may affect tax planning, risk management, estate coordination, cash flow, or investment allocation recommendations, including the impact of Soren's transition from Copper Firefly Robotics salary to consulting income.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "77bba01f-a9ba-5af1-8070-be336e499218"
+        },
+        {
+          "title": "Confirm profile completion",
+          "text": "Review the updated profile for consistency and note any remaining open questions for the next client conversation.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "29e3bddf-1fa1-5d47-a1a5-65045f866fc7"
+        }
+      ],
+      "evidence": "The agreed August 30, 2026 follow-up is to obtain Soren’s not-yet-uploaded Copper Firefly Robotics separation agreement, final paystub, and consulting contract to update taxable income, benefits, and recurring cash-flow assumptions."
+    },
+    {
+      "templateId": "daf3067e-a97c-53bc-b265-e4d0b6ab86f2",
+      "title": "Follow up on policy renewal details",
+      "text": "Contact Soren Velvetreed or the Paper Otter Life insurance professional to confirm renewal status, premium change (notice shows higher outlay than last year), coverage changes, beneficiary updates needed, and any action required before the policy-election window closes. Record received documents and route planning questions to the advisor. The household has not chosen whether to pay the annual premium from Teacup Comet Bank checking, reduce coverage, or request an in-force illustration.",
+      "priority": "medium",
+      "dueDate": "2026-09-04",
+      "assigneeId": "1616b784-b182-570a-93f0-464e57273315",
+      "subTasks": [],
+      "evidence": "By September 4, 2026, the Paper Otter Life annual premium review needs follow-up because the notice shows a higher outlay than last year and a policy-election window closing soon; the household has not chosen whether to pay from checking, reduce coverage, or request an in-force illustration."
+    }
+  ]
+}

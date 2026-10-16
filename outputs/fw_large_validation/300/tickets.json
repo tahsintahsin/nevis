@@ -1,0 +1,45 @@
+{
+  "meetingId": "300",
+  "tickets": [
+    {
+      "templateId": "fa8ebcc2-e3bb-5862-a32e-36b07cd19a82",
+      "title": "Coordinate divorce-related financial document package",
+      "text": "Compile and organize financial planning records requested for divorce-related analysis. Use only authorized documents, confirm permitted communication channels, and separate planning notes from legal advice. Coordinate with Anika Meadowbobbin’s attorney or mediator when written authorization is on file. Compile the authorized investment, bank, retirement, debt, and household cash‑flow records requested by Tobin Mossbutton for the pending property discussion.",
+      "priority": "high",
+      "dueDate": "2025-03-14",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "They agreed to compile by 2025-03-14 the authorized investment, bank, retirement, debt, and household cash-flow records Tobin requested for the pending property discussion."
+    },
+    {
+      "templateId": null,
+      "title": "Compare and label mortgage source documents",
+      "text": "Compare the Teacup Comet Bank portal balance and mediation worksheet figures, label each source document, and ensure correct amounts are used in planning exhibits for Anika Meadowbobbin.",
+      "priority": null,
+      "dueDate": "2025-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed 2025-03-12 follow-up is to compare and label source documents before the figures are used in planning exhibits."
+    },
+    {
+      "templateId": null,
+      "title": "Update beneficiary and ownership records",
+      "text": "Update Reid’s listed beneficiary and ownership information on Anika’s Roth IRA, term life policy, and joint taxable account, and coordinate the changes through authorized legal channels for Anika Meadowbobbin.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "with any changes to be coordinated through authorized legal channels by 2025-03-21."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Complete the access recovery intake form for Anika Meadowbobbin’s Velvet Acorn Custody joint taxable account login, which currently sends verification prompts to Reid Meadowbobbin’s phone, blocking statement downloads needed for the authorized document package.\n\nAccess recovery request\n\nClient name: [________________]\nAffected portal or institution: [________________]\nUser ID or known login email: [________________]\nIssue type: [locked account / forgotten password / MFA reset / outdated email / other: ________]\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [yes / no / location: ________]\nSecurity notes or restrictions: [________________]\nNext action required: [________________]",
+      "priority": "high",
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed access-recovery follow-up is due 2025-03-10."
+    }
+  ]
+}

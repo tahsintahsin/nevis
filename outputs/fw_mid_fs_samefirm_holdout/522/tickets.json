@@ -1,0 +1,115 @@
+{
+  "meetingId": "522",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Open custodian security case tied to failed access pattern",
+      "text": "Open a Velvet Acorn Custody security case tied to the failed access pattern and confirm the escalation path with the custodian fraud group. Resolve the lockout after two unfamiliar access alerts.",
+      "priority": null,
+      "dueDate": "2024-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Serena reported that her Velvet Acorn Custody login was locked after two unfamiliar access alerts. The agreed follow-up is to open a custodian security case tied to the failed access pattern and confirm the escalation path with the custodian fraud group, due 2024-08-23."
+    },
+    {
+      "templateId": null,
+      "title": "Set temporary account safeguards for managed accounts",
+      "text": "Set a verbal password, a high-risk alert note, and added review before any outgoing distribution, journal, or bank-link change on the managed accounts while suspicious activity is reviewed.",
+      "priority": null,
+      "dueDate": "2024-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Serena requested a verbal password, a high-risk alert note, and added review before any outgoing distribution, journal, or bank-link change on the managed accounts while the suspicious activity is reviewed. Those safeguards were agreed for follow-up by 2024-08-23."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain custodian-branded phishing evidence",
+      "text": "Obtain the full message headers, screenshots, sender details, and any links clicked from the custodian-branded email and text message that preceded the access problem. Attach the evidence to the incident file.",
+      "priority": null,
+      "dueDate": "2024-08-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Serena described a custodian-branded email and text message that preceded the access problem. The agreed follow-up is to obtain the full message headers, screenshots, sender details, and any links she clicked so the evidence can be attached to the incident file, due 2024-08-24."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile custodian and advisory contact records",
+      "text": "Reconcile the custodian alert reference to Serena’s former Silver Marmot Analytics email address with the Apricot Compass Advisory profile that lists her current personal email and mobile number.",
+      "priority": null,
+      "dueDate": "2024-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena found that a custodian alert appeared to reference Serena’s former Silver Marmot Analytics email address while the Apricot Compass Advisory profile lists her current personal email and mobile number. The agreed follow-up is to reconcile the custodian and advisory contact records by 2024-08-26."
+    },
+    {
+      "templateId": null,
+      "title": "Compare ACH verification entries against authorized bank relationships",
+      "text": "Compare two unfamiliar small ACH verification entries linked to the taxable account’s bank connection screen against authorized Teacup Comet Bank relationships before resuming routine transfers.",
+      "priority": null,
+      "dueDate": "2024-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Tobin’s initial review showed two unfamiliar small ACH verification entries linked to the taxable account’s bank connection screen. The agreed follow-up is to compare the entries against authorized Teacup Comet Bank relationships before any routine transfers resume, due 2024-08-26."
+    },
+    {
+      "templateId": null,
+      "title": "Identify secure payment path for tuition and estimated tax",
+      "text": "Identify a secure payment path for the household’s upcoming college tuition payment and estimated tax payment that does not rely on unverified account links or newly changed credentials.",
+      "priority": null,
+      "dueDate": "2024-08-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Serena noted that the household has a college tuition payment and an estimated tax payment coming up soon. The agreed follow-up is to identify a secure payment path that does not rely on unverified account links or newly changed credentials, due 2024-08-27."
+    },
+    {
+      "templateId": null,
+      "title": "Update household profile and custodian trusted-contact instructions",
+      "text": "Update the household profile to include Ava’s move to campus and Serena’s request to include Naomi Cloverwhisk as an additional trusted contact. Update custodian trusted-contact instructions accordingly.",
+      "priority": null,
+      "dueDate": "2024-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Ava’s move to campus and Serena’s request to include Naomi Cloverwhisk as an additional trusted contact require an update to the household profile and custodian trusted-contact instructions. The agreed follow-up is due 2024-08-29."
+    },
+    {
+      "templateId": null,
+      "title": "Clean verification of Teacup Comet Bank link",
+      "text": "Verify the existing Teacup Comet Bank link is clean and confirm that no new external bank instructions are active on the advisory-managed accounts.",
+      "priority": null,
+      "dueDate": "2024-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Serena asked for clean verification of the existing Teacup Comet Bank link and confirmation that no new external bank instructions are active on the advisory-managed accounts. That follow-up was agreed for 2024-08-28."
+    },
+    {
+      "templateId": null,
+      "title": "Reset portal authentication method",
+      "text": "Reset the Apricot Compass Advisory portal authentication method after confirming Serena’s identity through the firm’s standard call-back process.",
+      "priority": null,
+      "dueDate": "2024-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Serena said Apricot Compass Advisory portal codes were delayed during the call. The agreed follow-up is to reset the portal authentication method after confirming Serena’s identity through the firm’s standard call-back process, due 2024-08-26."
+    },
+    {
+      "templateId": null,
+      "title": "Remove or refresh dormant outside account connection",
+      "text": "Remove or refresh the dormant outside account connection in the planning dashboard only after Serena confirms whether the account is still in use.",
+      "priority": null,
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Tobin noticed that a dormant outside account connection still displays stale credential status in the planning dashboard. The agreed follow-up is to remove or refresh that connection only after Serena confirms whether the account is still in use, due 2024-08-30."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain insurance policy cyber and identity-theft coverage records",
+      "text": "Obtain the current Amber Teapot Insurance declarations pages and renewal packet to determine whether the homeowners and umbrella package includes cyber fraud or identity-theft reimbursement.",
+      "priority": null,
+      "dueDate": "2024-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Serena asked whether the homeowners and umbrella package includes cyber fraud or identity-theft reimbursement. The current Amber Teapot Insurance declarations pages and renewal packet are not yet in the planning file, and the agreed follow-up is due 2024-09-05."
+    }
+  ]
+}

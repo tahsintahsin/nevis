@@ -1,0 +1,18 @@
+{
+ "config": "fw_deepseek_64k",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"601\", \"tickets\": [{\"templateId\": null, \"title\": \"Update profile and route new address/residency\", \"text\": \"Update Nolan Pebblefizz and Lena Pebblefizz's profile and route their new Mesa, Arizona address and residency to Velvet Acorn Custody, Paper Otter Insurance, and the CPA, since several statements still show Oregon.\", \"priority\": null, \"dueDate\": \"2025-03-10\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"By 2025-03-10, they agreed to update the profile and route new address/residency to Velvet Acorn Custody, Paper Otter Insurance, and the CPA because several statements still show Oregon.\"}, {\"templateId\": \"7a01cf30-e455-55f4-92f2-f4ca51e7fee1\", \"title\": \"Review mortgage document collection needs\", \"text\": \"Review the mortgage file for completeness and planning relevance.\\n\\nEvidence to collect:\\n- Current mortgage statement\\n- Promissory note or loan summary, if available\\n- Closing disclosure or settlement statement, if available\\n- Escrow statement, if applicable\\n- Property tax bill or assessment notice, if available\\n- Homeowners insurance declaration page, if relevant to cash-flow review\\n- Refinance, payoff, or modification correspondence, if applicable\\n\\nReview criteria:\\n- Confirm current balance, interest rate, payment amount, and loan type.\\n- Identify fixed versus adjustable rate features and any reset terms.\\n- Note maturity date, prepayment penalties, balloon features, or special clauses if shown.\\n- Separate principal, interest, taxes, insurance, and other escrow items where possible.\\n- Compare mortgage obligations with the cash-flow plan.\\n- Flag missing documents or conflicting figures for follow-up.\\n\\nComplete the post-closing mortgage and insurance file for Nolan Pebblefizz and Lena Pebblefizz's Mesa home, purchased for $715,000 with a Thimble Harbor Bank mortgage balance of about $532,000 at fixed 6.25%. The file currently holds the purchase contract and estimated closing figures but lacks the final closing disclosure, current mortgage statement, and insurance declaration page.\", \"priority\": \"medium\", \"dueDate\": \"2025-03-17\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"By 2025-03-17, they agreed to complete the post-closing mortgage and insurance file; it contains the purchase contract and estimated closing figures but lacks the final closing disclosure, current mortgage statement, and insurance declaration page.\"}, {\"templateId\": null, \"title\": \"Resolve payroll withholding evidence discrepancy\", \"text\": \"Resolve the payroll withholding evidence for Nolan Pebblefizz, whose Moonbadger Analytics paystub shows Oregon withholding while the HR portal shows an Arizona mailing and work location.\", \"priority\": null, \"dueDate\": \"2025-03-21\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"By 2025-03-21, they agreed to address payroll withholding evidence: Nolan’s Moonbadger Analytics paystub showed Oregon withholding while HR portal showed Arizona mailing/work location.\"}]}",
+   "usage": {
+    "input_tokens": 5204,
+    "output_tokens": 3424,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

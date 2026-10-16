@@ -1,0 +1,125 @@
+{
+  "meetingId": "586",
+  "tickets": [
+    {
+      "templateId": "08361f27-bfef-5da9-85f9-5136b2a38dcc",
+      "title": "Prepare liquidity planning analysis",
+      "text": "Review expected cash needs, emergency reserve targets, recurring income sources, upcoming distributions, and potential funding sources for Mira Willowdoodle and Arlen Copperwisp. Summarize recommended cash cushion, any portfolio trades needed to raise cash, tax considerations, and questions for the lead advisor before client discussion. Address the gap to Mira's six-month cash reserve preference given combined recurring household spending of about $9,600 per month, Mira's remaining $1,850/month apartment lease through 2024-05-31, $24,000 of wedding and travel costs paid from savings, Mira's $31,000 at Teacup Comet Bank, and Arlen's $18,000 at Buttonwood Balloon Bank.",
+      "priority": "medium",
+      "dueDate": "2024-03-18",
+      "assigneeId": "04250424-b280-5443-9318-1c2f184393c9",
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-18 is to address the cash reserve and remaining lease impact."
+    },
+    {
+      "templateId": "5738ede4-fc73-570d-9d4a-a39e4eb4d6c8",
+      "title": "Collect address and residency update details",
+      "text": "Use this form to collect updated household information.\n\nClient name: Mira Willowdoodle and Arlen Copperwisp\nEffective date of change: 2024-02-01\nPrior mailing address: Mira's Denver apartment\nNew mailing address: Arlen's Lakewood townhouse\nNew physical residence address, if different: [PHYSICAL ADDRESS]\nPrimary phone: [PHONE]\nEmail address: [EMAIL]\nState of legal residence before change: Colorado\nState of legal residence after change: Colorado\nResidency change reason: MOVE\nExpected time in each state during the year: [DETAILS]\nAccounts, policies, or plans needing address update: Mira's accounts at Velvet Acorn Custody, Clockwork Clover Robotics 401(k), and Amber Teapot Insurance\nProfessional contacts to notify, if any: [CPA / ATTORNEY / OTHER]\nSupporting documentation received: NEEDED\nNotes or follow-up questions: Preserve Mira's separate-ownership notes for premarital accounts while reflecting the shared household.",
+      "priority": "medium",
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-06 is to update the household profile and address records."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain marriage certificate for client file",
+      "text": "Obtain a certified or scanned copy of the marriage certificate for Mira Willowdoodle and Arlen Copperwisp (married 2024-01-27) to support account registration, beneficiary, and name-related records at Velvet Acorn Custody, Amber Teapot Insurance, and other carriers.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-02-28 to obtain marriage certificate evidence."
+    },
+    {
+      "templateId": null,
+      "title": "Compare Velvet Acorn Custody taxable account registration options",
+      "text": "Provide paperwork and a plain-language comparison for Mira Willowdoodle on keeping her Velvet Acorn Custody taxable account (~$415,000) individually titled versus opening a new joint account with Arlen Copperwisp for future household savings, while preserving her separate-ownership notes for premarital assets.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-01 is to provide the taxable account registration options."
+    },
+    {
+      "templateId": null,
+      "title": "Configure view-only household dashboard access for Arlen",
+      "text": "Configure online access so Arlen Copperwisp has view-only access to the household dashboard for Mira Willowdoodle and Arlen Copperwisp without granting trading authority over Mira's individual IRA (~$286,000 traditional, ~$94,000 Roth) and taxable account (~$415,000) at Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-29 is to address online access for a spouse and household view."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile beneficiary records across household accounts",
+      "text": "Reconcile beneficiary record inconsistencies for Mira Willowdoodle and Arlen Copperwisp: Mira's IRA at Velvet Acorn Custody still names Tobin Willowdoodle and Iris Willowdoodle, and Arlen's Paper Otter Preparatory 403(b) (~$198,000) screen did not display a primary beneficiary.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-03-08 on beneficiary record inconsistencies."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn Custody beneficiary update error",
+      "text": "Resolve the Velvet Acorn Custody beneficiary update error for Mira Willowdoodle, whose attempt to add Arlen Copperwisp as a contingent beneficiary failed without producing a confirmation number, and confirm the update is recorded.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-27 is to address the custodian beneficiary update error."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer benefit elections for newly combined household",
+      "text": "Review employer benefit elections for Mira Willowdoodle (Clockwork Clover Robotics newlywed enrollment window) and Arlen Copperwisp (Paper Otter Preparatory benefit-change process), covering medical, life, and disability coverage for the combined household.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-05 is to review employer benefit elections."
+    },
+    {
+      "templateId": null,
+      "title": "Align life and disability coverage for the new household",
+      "text": "Align life and disability coverage for Mira Willowdoodle and Arlen Copperwisp, addressing differing beneficiary records and replacement-income assumptions across Mira's $750,000 Amber Teapot Insurance term policy, Mira's 2x salary Clockwork Clover Robotics group life, Arlen's $500,000 Pocket Lantern Insurance term policy, and Arlen's Paper Otter Preparatory employer coverage.",
+      "priority": null,
+      "dueDate": "2024-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-03-14 on life and disability coverage alignment."
+    },
+    {
+      "templateId": "8f09a5a6-7496-50a3-906b-2e2d49077496",
+      "title": "Request estate document collection",
+      "text": "Ask Mira Willowdoodle and Arlen Copperwisp to provide current estate documents, including wills, trusts, powers of attorney, health care directives, and any recent amendment pages, so the advisory team can update planning records. Specifically request Mira's 2018 will and financial power of attorney and Arlen's 2016 will, plus any amendment pages.",
+      "priority": "medium",
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-12 is to collect estate document copies and any amendment pages."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Lakewood townhouse mortgage and property records",
+      "text": "Obtain the current mortgage statement, deed vesting page, and homeowner policy declarations for Arlen Copperwisp's Lakewood townhouse (~$710,000 value, ~$378,000 mortgage balance at Silver Marmot Mortgage, 4.125% fixed) to complete the mortgage and property record review for Mira Willowdoodle and Arlen Copperwisp.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2024-03-15 for the mortgage and property record review based on those missing property records."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare 2024 joint tax withholding projection",
+      "text": "Prepare a coordinated 2024 joint withholding and estimated-tax projection for Mira Willowdoodle and Arlen Copperwisp combining both salaries ($186,000 base + 18% bonus target at Clockwork Clover Robotics; $104,000 at Paper Otter Preparatory), investment income, and Mira's $42,000 capital loss carryforward, to share with Celia Fablethimble of Apricot Compass Tax.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-04-05 is to prepare the joint tax withholding projection."
+    }
+  ]
+}

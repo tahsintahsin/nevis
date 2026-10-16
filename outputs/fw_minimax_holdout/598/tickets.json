@@ -1,0 +1,35 @@
+{
+  "meetingId": "598",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update and route address and residency records",
+      "text": "Update and route address and residency records for Nolan Pebblefizz and Lena Pebblefizz so that statements reflect their Mesa, Arizona primary residence rather than the prior Portland, Oregon address.",
+      "priority": null,
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "update and route address/residency records by 2025-03-10 because statements still show Oregon"
+    },
+    {
+      "templateId": "7a01cf30-e455-55f4-92f2-f4ca51e7fee1",
+      "title": "Review mortgage document collection needs",
+      "text": "Review the mortgage and insurance file for completeness and planning relevance for Nolan Pebblefizz and Lena Pebblefizz. The Mesa home cost $715,000 with about $532,000 owed to Thimble Harbor Bank at a fixed 6.25% rate; the final closing disclosure, current mortgage statement, and homeowners insurance declaration page are still missing.\n\nEvidence to collect:\n- Current mortgage statement\n- Promissory note or loan summary, if available\n- Closing disclosure or settlement statement, if available\n- Escrow statement, if applicable\n- Property tax bill or assessment notice, if available\n- Homeowners insurance declaration page, if relevant to cash-flow review\n- Refinance, payoff, or modification correspondence, if applicable\n\nReview criteria:\n- Confirm current balance, interest rate, payment amount, and loan type.\n- Identify fixed versus adjustable rate features and any reset terms.\n- Note maturity date, prepayment penalties, balloon features, or special clauses if shown.\n- Separate principal, interest, taxes, insurance, and other escrow items where possible.\n- Compare mortgage obligations with the cash-flow plan.\n- Flag missing documents or conflicting figures for follow-up.",
+      "priority": "medium",
+      "dueDate": "2025-03-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "complete the mortgage and insurance file by 2025-03-17 because final closing disclosure, current mortgage statement, and declaration page are missing"
+    },
+    {
+      "templateId": null,
+      "title": "Address payroll withholding evidence discrepancy",
+      "text": "Address the payroll withholding evidence discrepancy for Nolan Pebblefizz by reconciling the Oregon withholding shown on his Moonbadger Analytics paystub with the Arizona mailing and work location on file with HR.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "address payroll withholding evidence by 2025-03-21 because Nolan’s paystub showed Oregon withholding while HR showed Arizona mailing and work location"
+    }
+  ]
+}

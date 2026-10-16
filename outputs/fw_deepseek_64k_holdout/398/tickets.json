@@ -1,0 +1,45 @@
+{
+  "meetingId": "398",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare charitable funding comparison for Nia Bramblequill",
+      "text": "Compare a securities gift, donor-advised account, and cash gift for Nia Bramblequill, covering taxable income, portfolio concentration, and cash retained for tuition and renovation spending. Apricot Compass Technologies shares are about 14% of household investable assets, above the 10% single-company guideline, and Moonbadger Arts Foundation requires pre-clearance for gifts above $100,000.",
+      "priority": null,
+      "dueDate": "2025-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare the comparison by December 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Verify Moonbadger Arts Foundation gift requirements",
+      "text": "Verify Moonbadger Arts Foundation's process for a large publicly traded securities gift from Nia Bramblequill, including delivery instructions, designation language for arts education, and the receipt wording needed for tax records.",
+      "priority": null,
+      "dueDate": "2025-12-09",
+      "assigneeId": "9f0cf849-b1a2-52e5-a528-5cc80b74e907",
+      "subTasks": [],
+      "evidence": "They agreed to verify those requirements by December 9, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare charitable deduction tax projection",
+      "text": "Prepare a projection of Nia and Owen Bramblequill's charitable deduction capacity, including the deduction limit and possible carryforward, before any year-end transfer. Reflect their compensation, unrealized gains, mortgage interest, and prior giving level.",
+      "priority": null,
+      "dueDate": "2025-12-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare that projection by December 17, 2025."
+    },
+    {
+      "templateId": "21dfeb72-8e0b-5317-9129-20bcd2aeaba8",
+      "title": "Update household profile information",
+      "text": "Complete or refresh the household profile using the placeholders below.\n\nPrimary contact: Nia Bramblequill and Owen Bramblequill\nPreferred name: [Preferred name]\nPronouns, if shared: [Pronouns]\nEmail: [Email]\nPhone: [Phone]\nMailing address: Portland, Oregon\nTax filing status: Married filing jointly\nEmployment status: Nia is employed full-time; Owen is part-time faculty\nEmployer or business: Apricot Compass Technologies; Buttonwood Balloon School\nSpouse or partner: Nia Bramblequill and Owen Bramblequill\nDependents: Liora Bramblequill, age 15; Benjamin Bramblequill, age 12\nKey family contacts: Selene Bramblequill (Owen's mother); Mira Bramblequill (Nia's sister, successor trustee)\nCPA or tax preparer: Tobin Mossbutton, Polka Fern Tax Services\nAttorney: [Name/firm/contact information]\nInsurance agent: [Name/firm/contact information]\nMajor life changes since last update: Selene Bramblequill's move to assisted living after a stroke, adding a recurring family support obligation and a new emergency contact role for Owen\nCurrent planning priorities: Charitable giving and documentation; building a $250,000 charitable fund within three years\nDocuments to request or refresh: Updated secondary family contact and planning contact information\nOpen questions: [Questions]\n\nUpdate the household profile and planning contacts for Nia and Owen Bramblequill, replacing the outdated secondary family contact and reflecting Selene Bramblequill's move to assisted living and the roughly $2,400 per month family support obligation.",
+      "priority": null,
+      "dueDate": "2025-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to address the household profile and planning contact update by December 19, 2025."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "meetingId": "368",
+  "tickets": [
+    {
+      "templateId": "76c48877-9b1c-5e9f-97ea-e5ea98d722bd",
+      "title": "Review and coordinate cash distribution request",
+      "text": "Confirm the requested distribution amount, source account, destination, timing preference, tax withholding instructions, liquidity source, and any investment or retirement income impact before processing. Document client authorization and retain confirmation after the distribution is completed.\n\nFor Rowan Cloudpuddle, coordinate a $50,000 transfer to Teacup Comet Bank and an increase to the monthly IRA distribution from $4,000 to $5,500, sourced from Velvet Acorn Custody accounts (traditional IRA ~$920,000, joint taxable ~$380,000, Roth IRA ~$120,000). Confirm withholding instructions given the existing 12% federal withholding on the IRA distribution.",
+      "priority": "high",
+      "dueDate": "2026-02-18",
+      "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to confirm the source account, destination account, liquidity source, and withholding instructions before processing, with a date of 2026-02-18."
+    },
+    {
+      "templateId": "76c48877-9b1c-5e9f-97ea-e5ea98d722bd",
+      "title": "Review and coordinate cash distribution request",
+      "text": "Confirm the requested distribution amount, source account, destination, timing preference, tax withholding instructions, liquidity source, and any investment or retirement income impact before processing. Document client authorization and retain confirmation after the distribution is completed.\n\nFor Rowan Cloudpuddle's requested transfer to Teacup Comet Bank, verify the correct destination account: standing instructions show checking ending in 1184, but Rowan verbally identified a newer household checking account ending in 7729. Obtain authorization evidence for the correct destination before processing.",
+      "priority": "high",
+      "dueDate": "2026-02-14",
+      "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2",
+      "subTasks": [],
+      "evidence": "Destination account verification remains needed by 2026-02-14 because the standing transfer instructions show a Teacup Comet Bank checking account ending in 1184, while Rowan verbally identified a newer household checking account ending in 7729 for the requested transfer; the correct destination and"
+    },
+    {
+      "templateId": "fa9245d1-6db9-5b76-9284-aed5a90b9516",
+      "title": "Coordinate account access recovery",
+      "text": "Use this coordination template when Rowan Cloudpuddle cannot access the Velvet Acorn Custody portal after changing mobile carriers. Confirm identity requirements, preserve security, and document all handoffs without collecting passwords. The portal error is preventing Rowan from retrieving recent confirmations and statements needed for distribution authorization.",
+      "priority": "high",
+      "dueDate": "2026-02-13",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm access problem and security boundaries",
+          "text": "Ask Rowan Cloudpuddle which portal is affected, what error message appears, whether multi-factor authentication changed after the mobile carrier switch, and what contact information is on file with Velvet Acorn Custody. Do not request or record passwords, full security answers, or authentication codes.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2"
+        },
+        {
+          "title": "Handoff to custodian or platform recovery channel",
+          "text": "Provide Rowan Cloudpuddle with the correct Velvet Acorn Custody recovery path, required identification steps, and support contact method. If advisor involvement is permitted, confirm what authorization is needed before joining a call or submitting a service request.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Verify restoration and update records",
+          "text": "After Rowan Cloudpuddle reports access is restored, confirm whether contact information, trusted contact, delivery preferences, or document access settings changed. Update internal notes and flag any suspicious activity for further review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2"
+        }
+      ],
+      "evidence": "The agreed follow-up is portal access recovery, with a date of 2026-02-13."
+    },
+    {
+      "templateId": "1fbb3a77-bb3a-5b13-b8fc-4369d149ad2b",
+      "title": "Send care cost planning outreach",
+      "text": "Outreach purpose: Coordinate information needed to estimate care costs and funding options.\n\nSuggested message outline:\n\nHello [CONTACT_NAME],\n\nI'm reaching out on behalf of Elena Mossbutton to help organize the information needed for care cost planning. We are looking to understand the expected level of care, timing, available benefits, and likely monthly costs so the financial plan can reflect realistic assumptions.\n\nCould you please provide or help identify the following?\n- Current or anticipated care setting: ASSISTED_LIVING\n- Estimated monthly care cost or rate sheet: [COST_DETAILS]\n- Expected start timing or decision window: [TIMING]\n- Insurance, long-term care policy, veterans benefits, Medicaid, or other benefits involved: Silver Marmot Insurance long-term care policy with $180 daily benefit, 90-day elimination period, and inflation rider\n- Key decision-makers or required authorizations: [CONTACTS]\n- Documents needed from Apricot Compass Advisory or the client: [DOCUMENTS]\n\nPlease let us know the best way to coordinate next steps and whether any privacy authorization is required before you can discuss details.\n\nThank you,\nMira Quillwhistle\n\nFor Rowan Cloudpuddle and Elena Mossbutton, collect the assisted living facility rate sheet, admission deposit information, and written confirmation of Silver Marmot Insurance claim requirements to estimate the ongoing cash draw for distribution planning.",
+      "priority": "medium",
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That evidence remains needed, with a date of 2026-02-27."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate withholding and estimated tax review with Talia Bramblequill",
+      "text": "Coordinate with Talia Bramblequill of Clockwork Clover Tax on a withholding and estimated tax check for Rowan Cloudpuddle, given the January 2026 $18,500 gross IRA distribution, the proposed $50,000 transfer, the increased monthly IRA distribution from $4,000 to $5,500, and the existing 12% federal withholding.",
+      "priority": null,
+      "dueDate": "2026-02-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan authorized coordination with Talia Bramblequill on a withholding and estimated tax check, and the agreed follow-up has a date of 2026-02-25."
+    },
+    {
+      "templateId": null,
+      "title": "Compare roof deposit funding options",
+      "text": "Compare roof deposit funding options for Rowan Cloudpuddle using the $26,000 roof repair estimate: taxable money market funds (~$72,000 in the joint taxable account at Velvet Acorn Custody), IRA cash, or the Pocket Lantern Bank home equity line (~$38,000 balance at 8.1% variable rate), ensuring the deposit does not reduce emergency reserves below Rowan's stated nine-month minimum.",
+      "priority": null,
+      "dueDate": "2026-02-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to compare using taxable money market funds, IRA cash, or the home equity line so the deposit can be funded without unintentionally reducing emergency reserves below Rowan’s stated minimum, with a date of 2026-02-16."
+    },
+    {
+      "templateId": null,
+      "title": "Update retirement income projection",
+      "text": "Update the retirement income projection for Rowan Cloudpuddle and Elena Mossbutton using Elena's reduced earned income (~$2,100 per month from about 20 hours per week at Paper Otter Museum), the added in-home assistance (~$2,800 per month), and the proposed higher IRA distribution of $5,500 per month from Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2026-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the retirement income projection using lower earned income and higher care expenses, with a date of 2026-03-04."
+    },
+    {
+      "templateId": "38f6f55e-df4b-5f05-add9-9567bda77073",
+      "title": "Run debt refinance review checklist",
+      "text": "Complete these checks before recommending a refinance:\n\n- Confirm current loan type, balance, interest rate, payment, remaining term, and prepayment penalties.\n- Gather proposed refinance rate, term, payment, closing costs, points, and escrow changes.\n- Calculate breakeven period using total refinance costs and monthly payment change.\n- Compare total interest cost under current loan versus proposed loan if held through the expected time horizon.\n- Check whether the refinance extends debt beyond retirement or another planning milestone.\n- Review cash flow impact, emergency reserve impact, and debt-to-income considerations.\n- Identify tax considerations, including mortgage interest deductibility assumptions where relevant.\n- Confirm whether credit score, income documentation, appraisal, or title issues could affect approval.\n- Note non-financial reasons for refinancing, such as payment stability, removing a borrower, or consolidating debt.\n- Document recommendation, assumptions, and unresolved lender questions.\n\nFor Rowan Cloudpuddle, assess the Pocket Lantern Bank home equity line (~$38,000 balance, 8.1% variable rate) alongside the $210,000 mortgage at 3.25% (monthly P&I $1,420). Evaluate whether to pay down the line, refinance, or leave it in place, consistent with the cash reserve target of at least nine months of basic living expenses and the retirement income plan.",
+      "priority": "medium",
+      "dueDate": "2026-03-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to assess whether paying down the line, refinancing, or leaving it in place is most consistent with the cash reserve target and retirement income plan, with a date of 2026-03-11."
+    }
+  ]
+}

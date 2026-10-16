@@ -1,0 +1,65 @@
+{
+  "meetingId": "648",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Restore secure online access",
+      "text": "Restore Lena Copperwisp's Velvet Acorn Custody portal access using a secure method that does not rely on the old SMS code path.",
+      "priority": null,
+      "dueDate": "2025-04-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to restore secure online access by April 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Review external bank link",
+      "text": "Review the unrecognized external bank nickname shown in Lena Copperwisp's Velvet Acorn Custody activity view.",
+      "priority": null,
+      "dueDate": "2025-04-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to review that link by April 11, 2025."
+    },
+    {
+      "templateId": "37c17d04-e353-50f8-a3c6-359f520559a4",
+      "title": "Update recurring payment instructions",
+      "text": "Update the recurring $2,500 transfer from the joint taxable account to Teacup Comet Bank, pausing it until a verified destination with phone confirmation is set.",
+      "priority": null,
+      "dueDate": "2025-04-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to update the instructions by April 14, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Collect bank incident documentation",
+      "text": "Collect Teacup Comet Bank incident reference, statement pages showing any attempted micro‑deposits, and written confirmation of valid account numbers for Lena Copperwisp.",
+      "priority": null,
+      "dueDate": "2025-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to collect those materials by April 15, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh account safeguard records",
+      "text": "Refresh Velvet Acorn Custody alert record to replace Lena Copperwisp's prior work email and add Noah Copperwisp's current mobile number as a trusted contact.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to refresh those records by April 18, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate secure tuition funding",
+      "text": "Coordinate a secure payment for Marzipan Meadow School's $8,600 tuition installment, ensuring funds are not routed through any unverified destination account for Lena Copperwisp.",
+      "priority": null,
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to coordinate secure tuition funding by April 16, 2025."
+    }
+  ]
+}

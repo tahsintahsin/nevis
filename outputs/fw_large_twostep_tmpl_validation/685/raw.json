@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"685\",\n\"followups\": [\n{\n\"evidence\": \"the agreed follow-up is to prepare that comparison by 2026-01-20.\",\n\"action\": \"Prepare side-by-side comparison of in‑home aide coverage, adult day programming, short respite stays, transportation, and out‑of‑pocket costs.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"the agreed follow-up is to build a family caregiver coverage map by 2026-01-16.\",\n\"action\": \"Build a family caregiver coverage map outlining weekend, remote, and weekday support.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"the agreed follow-up is to prepare the intake packet by 2026-01-12.\",\n\"action\": \"Assemble intake packet with physician orders, care notes, aide agency estimates, invoices, and policy questions.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"the agreed follow-up is to resolve the aide shift minimums in the cost estimates by 2026-01-13.\",\n\"action\": \"Resolve inconsistencies in aide shift minimums within the cost estimates.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"the agreed follow-up is to correct secure upload access by 2026-01-09.\",\n\"action\": \"Correct secure upload access to enable a separate upload stream for Lena’s care records.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"the agreed follow-up is to address the policy benefit inflation assumptions by 2026-01-23.\",\n\"action\": \"Address inflation rider assumptions in the Silver Marmot policies for benefit projections.\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2126,
+    "output_tokens": 1735,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1339
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"685\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Prepare Care Options Cost Comparison\",\n\"text\": \"Prepare a side‑by‑side comparison for Harold Velvetreed and Lena Velvetreed that outlines in‑home aide coverage, adult day programming, short respite stays, transportation options, and projected out‑of‑pocket costs, using the care‑hour levels discussed, and deliver it by 2026-01-20.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-20\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to prepare that comparison by 2026-01-20.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Build Family Caregiver Coverage Map\",\n\"text\": \"Build a caregiver coverage map for Harold Velvetreed, Lena Velvetreed, daughter Sofia Copperwisp, and son Martin Velvetreed that details weekend support, remote medication assistance, and weekday evening gaps, reflecting the recent mobility changes, and complete it by 2026-01-16.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-16\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to build a family caregiver coverage map by 2026-01-16.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Assemble Silver Marmot Intake Packet\",\n\"text\": \"Assemble an intake packet for Harold Velvetreed and Lena Velvetreed that includes physician orders, care notes, aide agency estimates, invoices, and policy questions to support the upcoming Silver Marmot Insurance claim appointment, and have it ready by 2026-01-12.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-12\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to prepare the intake packet by 2026-01-12.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Resolve Aide Shift Minimum Inconsistencies\",\n\"text\": \"Resolve the inconsistency in aide shift minimums for the cost estimates for Harold Velvetreed and Lena Velvetreed by confirming agency quote requirements versus Sofia’s notes, and finalize the corrected estimates by 2026-01-13.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to resolve the aide shift minimums in the cost estimates by 2026-01-13.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Correct Secure Upload Access for Lena\",\n\"text\": \"Correct the secure upload access for Lena Velvetreed’s care records by fixing the portal login issue that currently uses Harold’s credentials, enabling a separate upload stream, and complete the fix by 2026-01-09.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-09\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to correct secure upload access by 2026-01-09.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Address Policy Benefit Inflation Assumptions\",\n\"text\": \"Address the differing inflation rider language in Harold Velvetreed’s and Lena Velvetreed’s Silver Marmot Insurance policies to ensure accurate daily benefit maximum projections in the care‑cost analysis, and finalize the adjustments by 2026-01-23.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to address the policy benefit inflation assumptions by 2026-01-23.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2509,
+    "output_tokens": 1761,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1813
+   },
+   "stop": "stop"
+  }
+ ]
+}

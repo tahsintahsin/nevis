@@ -1,0 +1,95 @@
+{
+  "meetingId": "267",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Open operations escalation for missing electronic statements",
+      "text": "Open an operations escalation for the custodian login migration issue causing Ellis Wrenpuddle to stop receiving electronic statement notices, confirm the authorized email on the custodian profile, and report back with the fix or next escalation path for the Wrenpuddle household.",
+      "priority": null,
+      "dueDate": "2025-08-01",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Open operations escalation",
+          "text": "Open an operations escalation for the custodian login migration issue causing Ellis Wrenpuddle to stop receiving electronic statement notices.",
+          "priority": null,
+          "dueDate": "2025-08-08-08T00:00:00.000Z",
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed follow-up for 2025-08-01 is to open an operations escalation, confirm the authorized email on the custodian profile, and report back with the fix or next escalation path."
+    },
+    {
+      "templateId": null,
+      "title": "Request historical transfer file and compare cost basis",
+      "text": "Request the historical transfer file for three transferred tax lots showing acquisition dates but no original cost basis, and compare it with Renata Wrenpuddle's Velvet Acorn Custody statements to reconcile cost basis for the Wrenpuddle household.",
+      "priority": null,
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request historical transfer file",
+          "text": "Request the historical transfer file for three transferred tax lots missing original cost basis.",
+          "priority": null,
+          "dueDate": "2025-08-05T00:00:00.000Z",
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed follow-up for 2025-08-08 is to request the historical transfer file and compare it with Renata’s Velvet Acorn Custody statements."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain full registration record and confirm account title",
+      "text": "Obtain the full registration record for the joint taxable account and confirm the title matches the 2018 revocable trusts before Renata Wrenpuddle forwards any documents for the Wrenpuddle household.",
+      "priority": null,
+      "dueDate": "2025-08-05",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Obtain full registration record",
+          "text": "Obtain the full registration record for the joint taxable account held by Renata and Ellis Wrenpuddle.",
+          "priority": null,
+          "dueDate": "2025-08-12",
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed follow-up for 2025-08-05 is to obtain the full registration record and confirm the title before Renata forwards anything."
+    },
+    {
+      "templateId": null,
+      "title": "Provide Ellis Wrenpuddle separate secure upload access",
+      "text": "Set up separate secure upload access for Ellis Wrenpuddle to submit Willow Pudding Studio tax documents using a business email, as Renata Wrenpuddle does not want to share her login and the signed household authorization page has not been provided.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Set up separate secure upload access for Ellis Wrenpuddle",
+          "text": "Configure separate secure upload access for Ellis Wrenpuddle using a business email for Willow Pudding Studio tax documents.",
+          "priority": null,
+          "dueDate": "2025-08-15",
+          "assigneeId": null
+        }
+      ],
+      "evidence": "By 2025-08-15, Ellis’s separate secure upload access remains needed because Willow Pudding Studio tax documents use a separate business email, Renata does not want to share her login, and the signed household authorization page has not been provided."
+    },
+    {
+      "templateId": null,
+      "title": "Check custodian and firm mailing-address coding for school address",
+      "text": "Check custodian and firm mailing-address coding to ensure the temporary Thimble Harbor Academy address for Lena Wrenpuddle is not added as the household's primary address, keeping tuition-related mail directed to the Portland home for the Wrenpuddle household.",
+      "priority": null,
+      "dueDate": "2025-08-12",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Check custodian and firm mailing-address coding",
+          "text": "Verify custodian and firm mailing-address coding to prevent the temporary school address from becoming the household's primary address.",
+          "priority": null,
+          "dueDate": "2025-08-12",
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed follow-up for 2025-08-12 is to check custodian and firm mailing-address coding so the temporary school address is not added as the household’s primary address."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meetingId": "587",
+  "tickets": [
+    {
+      "templateId": "08361f27-bfef-5da9-85f9-5136b2a38dcc",
+      "title": "Prepare liquidity planning analysis",
+      "text": "Prepare an analysis showing how much of the sale proceeds should remain available for taxes, household reserves, mortgage decisions, charitable gifts, and staged portfolio reinvestment. Account for Mira Thimblefern’s two-year low-volatility spending target and the household’s $15,500 monthly spending needs.",
+      "priority": "medium",
+      "dueDate": "2025-09-05",
+      "assigneeId": "04250424-b280-5443-9318-1c2f184393c9",
+      "subTasks": [],
+      "evidence": "Mira asked for an analysis showing how much sale cash should remain available for taxes, household reserves, mortgage decisions, charitable gifts, and staged portfolio reinvestment; the agreed follow-up is due September 5, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain closing packet for business sale",
+      "text": "Obtain the final closing statement, escrow schedule, and post-closing adjustment worksheet from the business sale to verify net proceeds and escrow treatment. These documents are not yet in Mira’s planning file.",
+      "priority": null,
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the final closing statement, escrow schedule, and post-closing adjustment worksheet were not yet in Mira’s planning file, and those documents are needed to verify net proceeds and escrow treatment by August 29, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Trace net proceeds variance",
+      "text": "Trace the difference between the broker’s estimated net cash amount and the actual incoming bank wire from the business sale. Identify whether the variance is due to fees, debt payoff, escrow holdback, or a separate expected transfer.",
+      "priority": null,
+      "dueDate": "2025-08-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the broker’s proceeds memo showed a higher estimated net cash amount than the actual incoming bank wire, and the difference needs to be traced to fees, debt payoff, escrow, or a separate expected transfer by August 27, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate CPA on estimated tax planning",
+      "text": "Coordinate with Tobin Mossbutton of Apricot Compass Tax to compare Mira Thimblefern’s sale proceeds, consulting income, withholding, and expected deductions before the next estimated tax planning decision.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira wants the advisory team and Tobin Mossbutton to compare sale proceeds, consulting income, withholding, and expected deductions before the next estimated tax planning decision; the agreed follow-up is due September 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain health coverage replacement details",
+      "text": "Obtain premium, deductible, and eligibility details for replacement health coverage after Mira Thimblefern’s former company coverage ends after the transition period. Determine the option to choose before September 20, 2025.",
+      "priority": null,
+      "dueDate": "2025-09-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s former company coverage is expected to end after the transition period, and premium, deductible, and eligibility details for replacement coverage are needed before choosing an option by September 20, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve bank transfer hold on sale proceeds",
+      "text": "Address Teacup Comet Bank’s temporary limitation on outbound online transfers from the account that received the sale wire. Restore efficient movement of excess cash to custody or treasury vehicles.",
+      "priority": null,
+      "dueDate": "2025-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira reported that Teacup Comet Bank temporarily limited outbound online transfers from the account that received the sale wire, preventing efficient movement of excess cash to custody or treasury vehicles; the agreed follow-up is due August 25, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Update estate file after business sale",
+      "text": "Update the estate file to remove references to the operating business interest and add any current signed post-sale amendments or fiduciary updates. The file on record still references the operating business interest.",
+      "priority": null,
+      "dueDate": "2025-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the advisory review found that the estate file on record still references the operating business interest and lacks current signed copies of any post-sale amendments or fiduciary updates; the agreed follow-up is due September 10, 2025."
+    }
+  ]
+}

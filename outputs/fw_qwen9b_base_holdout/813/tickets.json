@@ -1,0 +1,65 @@
+{
+  "meetingId": "813",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare home-care funding projection",
+      "text": "Prepare a side-by-side projection comparing continued weekday home-care aides, expanded evening coverage, and a limited assisted-living trial using current aide invoices, disability income, pension income, Social Security, and portfolio accounts.",
+      "priority": null,
+      "dueDate": "2024-06-07",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The committed follow-up is to prepare that projection for 2024-06-07."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate long-term care claim packet",
+      "text": "Coordinate the financial portions of the long-term care claim packet with Buttonwood Balloon Life and Pocket Lantern Home Care to gather care invoices, a physician certification, and an activities-of-daily-living statement.",
+      "priority": null,
+      "dueDate": "2024-06-03",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The committed follow-up is that coordination for 2024-06-03."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Pocket Lantern Home Care records",
+      "text": "Obtain the signed care plan, weekly caregiver schedule, and rate sheet showing weekday versus weekend charges from Pocket Lantern Home Care to separate recurring care costs from one-time setup charges.",
+      "priority": null,
+      "dueDate": "2024-06-10",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The committed follow-up is to obtain those records for 2024-06-10."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve long-term care benefit mismatch",
+      "text": "Resolve the mismatch between the $180 daily benefit listed on the Buttonwood Balloon Life insurer portal and the $210 daily benefit stated on the policy declaration page in the household planning file.",
+      "priority": null,
+      "dueDate": "2024-06-04",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The committed follow-up is to resolve the mismatch for 2024-06-04."
+    },
+    {
+      "templateId": null,
+      "title": "Address Pocket Lantern invoice delivery",
+      "text": "Address the issue where Pocket Lantern Home Care sends invoices only to Lena's personal email, which has delayed reimbursement tracking and made it difficult for Arun and Priya to confirm billed hours.",
+      "priority": null,
+      "dueDate": "2024-05-31",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The committed follow-up is to address invoice delivery for 2024-05-31."
+    },
+    {
+      "templateId": null,
+      "title": "Develop backup caregiver coverage plan",
+      "text": "Develop a temporary caregiver coverage schedule and an estimated short-term cost range for the period when Arun's knee rehabilitation reduces his ability to drive Lena and cover transfers at home.",
+      "priority": null,
+      "dueDate": "2024-06-12",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The committed follow-up is to develop that schedule and cost range for 2024-06-12."
+    }
+  ]
+}

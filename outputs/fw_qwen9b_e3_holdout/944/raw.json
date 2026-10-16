@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e3",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"944\", \"tickets\": [{\"title\": \"Prepare Tin Sparrow pre-clearance narrative\", \"text\": \"Prepare a pre-clearance narrative for Apricot Compass Advisory covering Selene Velvetreed’s proposed sale size, liquidity purpose, account destination, and confirmation that she has no material nonpublic information.\", \"priority\": null, \"dueDate\": \"2024-09-06\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-06 to prepare pre-clearance narrative covering proposed sale size, liquidity purpose, account destination, and no material nonpublic information to Apricot Compass Advisory.\"}, {\"title\": \"Prepare before-tax exercise cost and cash-needed scenarios\", \"text\": \"Provide Selene Velvetreed’s before-tax exercise cost, estimated withholding, and cash-needed scenarios for her vested Tin Sparrow Robotics options. Reflect the $12.40 exercise price and the fact that the options expire soon after the next blackout window.\", \"priority\": null, \"dueDate\": \"2024-09-11\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-11 to provide before-tax exercise cost, estimated withholding, and cash-needed scenarios because vested options expire soon after the next blackout window.\"}, {\"title\": \"Reconcile employer vested share counts\", \"text\": \"Reconcile Velvet Acorn Custody’s 18,200-share feed with the 19,050 vested shares reported by Tin Sparrow Robotics.\", \"priority\": null, \"dueDate\": \"2024-09-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-10 to reconcile Velvet Acorn Custody’s 18,200-share feed with the 19,050 vested shares in the employer report.\"}]}",
+   "usage": {
+    "input_tokens": 1266,
+    "output_tokens": 454,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 5120
+   },
+   "stop": "stop"
+  }
+ ]
+}

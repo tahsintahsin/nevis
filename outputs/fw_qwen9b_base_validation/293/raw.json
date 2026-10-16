@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"293\",\n\"tickets\": [\n{\n\"title\": \"Increase monthly IRA distribution to $6,200\",\n\"text\": \"Implement the increase of Daria Copperwisp's monthly IRA distribution from $4,500 to $6,200, sent to her Teacup Comet Bank checking account, to reflect her updated cash needs.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-11\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to implement the increase by 2025-07-11.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Review retirement income bridge plan\",\n\"text\": \"Complete the review of Daria Copperwisp's retirement income bridge to reflect her recent retirement from Moonbadger Design Works and Owen Copperwisp's consulting income pattern, determining if withdrawals should come from the IRA, joint taxable account, or cash reserves.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to complete that review by 2025-07-25.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Process one-time taxable distribution for tuition\",\n\"text\": \"Process an $18,000 one-time distribution from the joint taxable account at Velvet Acorn Custody for Nora Copperwisp's tuition, ensuring funds clear before the school orientation.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to process the distribution by 2025-07-18.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Obtain marketplace health insurance premium notice\",\n\"text\": \"Obtain Daria Copperwisp's current marketplace health insurance premium notice to verify the monthly spending estimate used for withdrawal planning.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-09\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to obtain the documentation by 2025-07-09.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Check federal withholding instruction for IRA\",\n\"text\": \"Check Daria Copperwisp's federal withholding instruction for her IRA distributions at Velvet Acorn Custody, as she recalled electing a higher rate than the current record shows.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-15\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to check the withholding instruction by 2025-07-15.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Review distribution processing timetable\",\n\"text\": \"Review the distribution processing timetable at Velvet Acorn Custody regarding the recent IRA payment delay that caused Daria Copperwisp to move cash from savings to avoid an overdraft.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-10\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to review the distribution processing timetable by 2025-07-10.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Prepare funding plan for scheduled withdrawals\",\n\"text\": \"Prepare a funding plan for Daria Copperwisp's scheduled withdrawals that avoids unnecessary realized gains, utilizing the taxable account cash and short-term bond sleeve currently above the household reserve target.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-22\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to prepare that funding plan by 2025-07-22.\"\n,\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2931,
+    "output_tokens": 940,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

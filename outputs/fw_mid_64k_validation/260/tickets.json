@@ -1,0 +1,47 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm incoming wire instructions with Teacup Comet Bank",
+      "text": "Confirm incoming wire instructions with Teacup Comet Bank for Jared Wrenpuddle. Jared reported a pending Teacup Comet Bank link; the household had none there, and associated transfer-instruction/profile-change review was needed.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jared said the household had none there, and associated transfer-instruction/profile-change review was agreed for 2024-03-19."
+    },
+    {
+      "templateId": "32d114ba-8f40-54cb-953d-781d5ca26c93",
+      "title": "Complete household profile update",
+      "text": "Reset portal credentials, confirm MFA methods, and restrict new external money movement pending review for Jared Wrenpuddle. Jared reported repeated lockouts after an uninitiated password-reset email; approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18.",
+      "priority": "medium",
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect household changes",
+          "text": "Request updates for household members, employment, dependents, contact information, outside advisors, and major life changes since the prior profile review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Record changes to income, savings, spending, insurance coverage, benefits, goals, and risk tolerance in the planning record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4cbe713b-b420-5401-9de5-20d1f947c70e"
+        },
+        {
+          "title": "Advisor review of planning impacts",
+          "text": "Review the updated household profile for retirement income, tax-aware investment, equity compensation, or estate coordination implications that warrant follow-up.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "368cf34f-7766-520c-b44f-afbfa66af4ab"
+        }
+      ],
+      "evidence": "Jared reported repeated lockouts after an uninitiated password-reset email; approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18."
+    }
+  ]
+}

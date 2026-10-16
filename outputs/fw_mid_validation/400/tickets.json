@@ -1,0 +1,165 @@
+{
+  "meetingId": "400",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Funding Calendar for Education Payments",
+      "text": "Prepare a side-by-side calendar showing 529 distributions, taxable brokerage withdrawals, expected Calder reimbursements, and Teacup Comet Bank cash for Nico's first university bill and Lila's school payments.",
+      "priority": null,
+      "dueDate": "2026-05-15",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "Selena asked for a side-by-side calendar showing 529 distributions, taxable brokerage withdrawals, expected Calder reimbursements, and Teacup Comet Bank cash for Nico’s first university bill and Lila’s school payments. The committed follow-up is to prepare that funding calendar by 2026-05-15."
+    },
+    {
+      "templateId": null,
+      "title": "Complete University Billing Readiness Check",
+      "text": "Check withdrawal lead times, payee instructions, account settlement timing, and payment method limits before initiating any education payment.",
+      "priority": null,
+      "dueDate": "2026-06-05",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For university billing readiness, the first Tin Sparrow University billing cycle is approaching, and Selena wants withdrawal lead times, payee instructions, account settlement timing, and payment method limits checked before she initiates any education payment. The committed follow-up is to complete"
+    },
+    {
+      "templateId": null,
+      "title": "Collect Tax Packet",
+      "text": "Collect Selena's most recently filed federal and state returns, current wage information, and education-related tax forms referenced by Petra.",
+      "priority": null,
+      "dueDate": "2026-05-12",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For tax packet collection, the Apricot Compass Advisory file did not contain Selena’s most recently filed federal and state returns, current wage information, and education-related tax forms that Petra referenced for planning. The committed follow-up is to collect the tax packet by 2026-05-12."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Grandparent Education Account Setup Information",
+      "text": "Collect the setup information needed for a new grandparent-owned education account that Daphne wants to fund for Nico and Lila.",
+      "priority": null,
+      "dueDate": "2026-05-22",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For grandparent education account intake, Selena asked Apricot Compass Advisory to collect the setup information needed for a new grandparent-owned education account that Daphne wants to fund for Nico and Lila. The committed follow-up is to collect that setup information by 2026-05-22."
+    },
+    {
+      "templateId": null,
+      "title": "Correct 529 Bank Authorization Package",
+      "text": "Correct the Velvet Acorn Custody bank authorization package for 529 distributions to include the required authorization signature page.",
+      "priority": null,
+      "dueDate": "2026-05-09",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For the 529 bank authorization correction, the Velvet Acorn Custody bank authorization package for 529 distributions showed Selena’s printed name and Teacup Comet Bank information but lacked the required authorization signature page. The committed follow-up is to correct the authorization package by"
+    },
+    {
+      "templateId": null,
+      "title": "Restore Portal Access",
+      "text": "Restore portal access for Selena to upload documents after her mobile carrier change caused MFA failure.",
+      "priority": null,
+      "dueDate": "2026-05-08",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For portal access restoration, Selena could not upload the Tin Sparrow University aid letter because the Apricot Compass Advisory portal multi-factor code failed after her mobile carrier change. The committed follow-up is to restore portal access by 2026-05-08."
+    },
+    {
+      "templateId": null,
+      "title": "Address 529 Successor Owner Discrepancy",
+      "text": "Address the discrepancy between Velvet Acorn Custody's listing of Calder as successor owner and Selena's estate binder identifying Amara as the intended financial decision-maker.",
+      "priority": null,
+      "dueDate": "2026-05-16",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For the 529 successor owner discrepancy, the Velvet Acorn Custody 529 profile lists Calder as successor owner, while Selena’s estate binder identifies Amara as the intended financial decision-maker for the children. The committed follow-up is to address the discrepancy by 2026-05-16."
+    },
+    {
+      "templateId": null,
+      "title": "Check Supporting Documents for Financial Aid Parent Contact",
+      "text": "Check the supporting documents regarding the Tin Sparrow University aid portal listing Calder's email as the primary parent contact.",
+      "priority": null,
+      "dueDate": "2026-05-23",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For the financial aid parent contact discrepancy, Tin Sparrow University’s aid portal lists Calder’s email as the primary parent contact even though Nico’s FAFSA submission used Selena’s household information, and Selena wants the supporting documents checked before she contacts the aid office. The "
+    },
+    {
+      "templateId": null,
+      "title": "Monitor UTMA Transfer from Paper Otter Custody to Velvet Acorn Custody",
+      "text": "Monitor the transfer of Nico's UTMA account from Paper Otter Custody to Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2026-05-20",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For UTMA transfer monitoring, Selena requested monitoring of Nico’s Paper Otter Custody UTMA transfer to Velvet Acorn Custody after the delivering custodian showed the request as pending review rather than in process. The committed follow-up is to monitor the transfer by 2026-05-20."
+    },
+    {
+      "templateId": null,
+      "title": "Complete 529 Allocation Risk and Liquidity Review",
+      "text": "Complete a risk and liquidity review of Nico's 529 account allocation before any large distribution.",
+      "priority": null,
+      "dueDate": "2026-05-29",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For the near-term 529 allocation review, the planning review found that Nico’s 529 account remains heavily allocated to equities despite near-term tuition use, and Selena wants a risk and liquidity review before any large distribution. The committed follow-up is to complete that review by 2026-05-29"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Tax-Aware Cloudberry Kite Biotech Stock Sale Range",
+      "text": "Prepare a tax-aware sale range that could help cover education costs without selling the entire Cloudberry Kite Biotech position at once.",
+      "priority": null,
+      "dueDate": "2026-06-12",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For employer stock tuition funding analysis, the review identified a large Cloudberry Kite Biotech stock position with a low estimated cost basis, and Selena asked for a tax-aware sale range that could help cover education costs without selling the entire position at once. The committed follow-up is"
+    },
+    {
+      "templateId": null,
+      "title": "Refresh Retirement Projection",
+      "text": "Refresh the retirement projection accounting for Nico's college enrollment, Lila's private school costs, and expected use of taxable assets.",
+      "priority": null,
+      "dueDate": "2026-06-19",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For the retirement projection refresh, Nico’s college enrollment, Lila’s private school costs, and the expected use of taxable assets changed Selena’s near-term withdrawal assumptions for her preferred retirement timing. The committed follow-up is to refresh the retirement projection by 2026-06-19."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Beneficiary and Education Obligation Comparison",
+      "text": "Compare beneficiary records for retirement accounts, insurance policies, and education accounts against Selena's estate binder.",
+      "priority": null,
+      "dueDate": "2026-05-27",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For the beneficiary and education obligation review, after the divorce and in light of the children’s education funding needs, Selena requested a comparison of beneficiary records for retirement accounts, insurance policies, and education accounts against her estate binder. The committed follow-up i"
+    },
+    {
+      "templateId": null,
+      "title": "Review Cash Reserve Impact",
+      "text": "Review the combined education funding gap and Copper Firefly Contractors roof repair estimate's impact on Teacup Comet Bank cash reserves relative to Selena's stated emergency reserve target.",
+      "priority": null,
+      "dueDate": "2026-06-10",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For the cash reserve impact review, the combined education funding gap and Copper Firefly Contractors roof repair estimate would reduce Selena’s Teacup Comet Bank cash below her stated reserve target if paid entirely from bank savings. The committed follow-up is to review that cash reserve impact by"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Co-Reimbursement Documentation Schedule and Packet",
+      "text": "Prepare a tracking schedule and document packet for Calder's eligible college cost reimbursements and proof of payment.",
+      "priority": null,
+      "dueDate": "2026-05-23",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For co-parent reimbursement documentation, Calder’s reimbursement cap affects how much Selena expects to apply toward Nico’s college bill, and Selena asked for a tracking schedule and document packet for eligible costs and proof of payment. The committed follow-up is to prepare that schedule and pac"
+    },
+    {
+      "templateId": null,
+      "title": "Complete Insurance Coverage Alignment Review",
+      "text": "Review whether Selena's term life coverage amount, policy beneficiary records, and employer coverage still align with the children's needs.",
+      "priority": null,
+      "dueDate": "2026-06-03",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "For insurance coverage alignment, Selena’s divorce, child support terms, and remaining education funding obligations prompted a review request for whether her term life coverage amount, policy beneficiary records, and employer coverage still align with the children’s needs. The committed follow-up i"
+    }
+  ]
+}

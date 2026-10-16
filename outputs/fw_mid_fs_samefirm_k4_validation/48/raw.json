@@ -1,0 +1,23 @@
+{
+ "config": "fw_mid_fs_samefirm_k4",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "41",
+  "44",
+  "45",
+  "46"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"48\", \"tickets\": [{\"title\": \"Recover client portal access\", \"text\": \"Restore Nadia Pebblefizz’s access to the Velvet Acorn Custody portal so she can download current taxable account statements and equity grant documents for the refinancing file.\", \"priority\": null, \"dueDate\": \"2025-03-05\", \"assigneeId\": null, \"templateId\": \"ab602761-3406-545d-946a-f89ed918aa51\", \"subTasks\": [], \"evidence\": \"For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares.\"}, {\"title\": \"Prepare equity vesting and trading-window calendar\", \"text\": \"Create a practical equity vesting and trading-window calendar for Nadia Pebblefizz separating dates she controls from company-administered events. Include quarterly RSU vesting, option-expiration sequencing, blackout periods, and employer preclearance steps after confusion over the current schedule.\", \"priority\": null, \"dueDate\": \"2025-03-07\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\"}, {\"title\": \"Prepare pre-window option exercise and sale analysis\", \"text\": \"Prepare an analysis of the next open trading window following the current blackout. Cover meaningful spread over strike price, AMT exposure, share retention considerations, and stock concentration for Nadia Pebblefizz’s equity holdings.\", \"priority\": null, \"dueDate\": \"2025-03-14\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"For 2025-03-14, agreed pre-window option exercise/sale analysis covers next open trading window following current blackout, meaningful spread over strike, and Nadia weighing AMT exposure, share retention, and stock concentration.\"}, {\"title\": \"Collect equity grant documents\", \"text\": \"Obtain Nadia Pebblefizz’s current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations. Reconcile withheld and deposited shares to complete the file for the equity compensation review.\", \"priority\": null, \"dueDate\": \"2025-03-05\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares.\"}]}",
+   "usage": {
+    "input_tokens": 26181,
+    "output_tokens": 694,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

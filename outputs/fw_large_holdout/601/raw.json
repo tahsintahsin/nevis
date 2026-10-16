@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"601\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Update address with custodians and CPA\",\n\"text\": \"Update Nolan and Lena Pebblefizz's address and residency information with Velvet Acorn Custody, Paper Otter Insurance, and their CPA to reflect the move to Arizona and correct statement details.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-10\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-03-10, they agreed to update the profile and route new address/residency to Velvet Acorn Custody, Paper Otter Insurance, and the CPA because several statements still show Oregon.\"\n},\n{\n\"templateId\": \"7a01cf30-e455-55f4-92f2-f4ca51e7fee1\",\n\"title\": \"Review mortgage document collection needs\",\n\"text\": \"Review Nolan and Lena Pebblefizz's mortgage file for completeness and planning relevance.\\n\\nEvidence to collect:\\n- Current mortgage statement\\n- Promissory note or loan summary, if available\\n- Closing disclosure or settlement statement, if available\\n- Escrow statement, if applicable\\n- Property tax bill or assessment notice, if available\\n- Homeowners insurance declaration page, if relevant to cash-flow review\\n- Refinance, payoff, or modification correspondence, if applicable\\n\\nReview criteria:\\n- Confirm current balance, interest rate, payment amount, and loan type.\\n- Identify fixed versus adjustable rate features and any reset terms.\\n- Note maturity date, prepayment penalties, balloon features, or special clauses if shown.\\n- Separate principal, interest, taxes, insurance, and other escrow items where possible.\\n- Compare mortgage obligations with the cash-flow plan.\\n- Flag missing documents or conflicting figures for follow-up.\\n\\nThey agreed to complete the post‑closing mortgage and insurance file by obtaining the final closing disclosure, the current mortgage statement, and the insurance declaration page.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2025-03-17\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-03-17, they agreed to complete the post-closing mortgage and insurance file; it contains the purchase contract and estimated closing figures but lacks the final closing disclosure, current mortgage statement, and insurance declaration page.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Resolve payroll withholding evidence discrepancy\",\n\"text\": \"Resolve the payroll withholding evidence discrepancy for Nolan Pebblefizz by reconciling the Moonbadger Analytics paystub showing Oregon withholding with the HR portal indicating Arizona work location.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-21\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-03-21, they agreed to address payroll withholding evidence: Nolan’s Moonbadger Analytics paystub showed Oregon withholding while HR portal showed Arizona mailing/work location.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 5077,
+    "output_tokens": 2673,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

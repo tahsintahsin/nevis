@@ -1,0 +1,74 @@
+{
+  "meetingId": "577",
+  "tickets": [
+    {
+      "templateId": "7a767e68-0323-54d8-9ff6-706018dcfde7",
+      "title": "Account security follow-up",
+      "text": "Restore Evan Thimblefern’s access to the client document portal after the one-time code was rejected twice and the account was locked, so he can upload the requested transfer packet and mortgage statement screenshots. Do not change his primary email address.",
+      "priority": null,
+      "dueDate": "2026-08-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to restore access by 2026-08-18."
+    },
+    {
+      "templateId": "7eebca9d-8b5a-5000-ab68-5def4cadea9e",
+      "title": "Track custodian transfer",
+      "text": "Transfer type: direct rollover\nDelivering custodian: Juniper Jellyfish Benefits\nReceiving custodian: Velvet Acorn Custody\nAccount registration: Evan Thimblefern’s former-employer 401(k)\nEstimated transfer value: approximately $438,000\nSubmitted date: [date submitted]\nExpected processing window: [relative processing estimate]\nCurrent status: pending review (cannot move forward due to missing documentation)\nOutstanding requirements: latest Juniper Jellyfish Benefits statement and required signature guarantee page\nMost recent contact: [date and method]\nNext follow-up action: Obtain the latest Juniper Jellyfish Benefits statement and the required signature guarantee page so the rollover request can proceed.\nConfirmation or tracking reference: [reference if available]",
+      "priority": "medium",
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the unresolved documentation need is dated 2026-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve beneficiary record mismatch",
+      "text": "Reconcile the beneficiary record mismatch on Evan Thimblefern’s brokerage account at Velvet Acorn Custody. Planning notes list Lila Thimblefern as primary beneficiary while the custodian profile screenshot shows no primary beneficiary on file.",
+      "priority": null,
+      "dueDate": "2026-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address the mismatch by 2026-08-26."
+    },
+    {
+      "templateId": "7509ead6-3ca2-5c84-bdb4-b75b976cb097",
+      "title": "Coordinate benefits enrollment support",
+      "text": "Use this coordination template when a client requests help reviewing employer benefits enrollment options, such as health coverage, HSA or FSA elections, disability coverage, group life insurance, retirement plan deferrals, or voluntary benefits. Keep recommendations within planning scope and document assumptions. Review Evan Thimblefern’s Clockwork Clover Systems health plan, HSA, disability coverage, group life, and 401(k) deferral choices before he submits elections in the annual election window.",
+      "priority": "medium",
+      "dueDate": "2026-08-31",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather enrollment materials from client",
+          "text": "Ask Evan Thimblefern for the Clockwork Clover Systems benefits guide, plan comparison tables, premium costs, employer match details, enrollment portal screenshots if needed, and any questions he wants addressed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare planning review notes",
+          "text": "Mira Quillwhistle reviews benefit choices for cash-flow impact, retirement contribution opportunities, tax considerations, coverage gaps, and coordination with existing planning assumptions.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "404e3513-579d-5368-b97f-3a7639c794de"
+        },
+        {
+          "title": "Return decision summary to client",
+          "text": "Provide a plain-language summary of key tradeoffs, items the client must decide directly, and questions to take to the employer benefits administrator or insurer.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update planning records after enrollment",
+          "text": "Once the client confirms elections, update planning inputs for premiums, retirement contributions, HSA or FSA amounts, insurance coverage, and employer match assumptions.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed review is due 2026-08-31."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meetingId": "263",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset credentials, review sessions, strengthen MFA",
+      "text": "Reset Jared Wrenpuddle's portal credentials, review active sessions, and implement stronger MFA via approved channels for the Velvet Acorn Custody Roth IRA account.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Reset portal credentials",
+          "text": "Reset Jared Wrenpuddle's portal credentials for Velvet Acorn Custody Roth IRA access.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review active sessions",
+          "text": "Review active sessions for Jared Wrenpuddle's portal access.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Strengthen MFA via approved channels",
+          "text": "Implement stronger MFA via approved channels for Jared Wrenpuddle's portal.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels."
+    },
+    {
+      "templateId": null,
+      "title": "Check Teacup Comet Bank transfer instructions, profile changes",
+      "text": "Check transfer instructions and profile changes for the pending Teacup Comet Bank link on the joint taxable brokerage account for Jared and Ava Wrenpuddle.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Check transfer instructions",
+          "text": "Check transfer instructions for the pending Teacup Comet Bank link on the joint taxable brokerage account.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Check profile changes",
+          "text": "Check profile changes for the pending Teacup Comet Bank link on the joint taxable brokerage account.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "2024-03-19 agreed work: check transfer instructions/profile changes."
+    }
+  ]
+}

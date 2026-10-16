@@ -1,0 +1,97 @@
+{
+  "meetingId": "194",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain carrier information for term policy lapse remediation",
+      "text": "Obtain reinstatement terms, catch-up premium, conversion availability, and any underwriting requirements from Velvet Acorn Life Insurance for Arlo Copperwisp's term policy that entered a grace or lapse status after a failed premium draft from a closed Pocket Lantern Bank account.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Velvet Acorn Life Insurance issued the lapse notice after the failed automatic draft from the closed Pocket Lantern Bank account; reinstatement terms, catch-up premium, conversion availability, and any underwriting requirements are the evidence needed from the carrier. The agreed follow-up is to obt"
+    },
+    {
+      "templateId": null,
+      "title": "Update insurance premium payment source",
+      "text": "Update the authorized recurring insurance premium draft payment source from the closed Pocket Lantern Bank account to Teacup Comet Bank operating account for policies still eligible for automatic payment.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arlo requested that authorized recurring insurance premium drafts use the Teacup Comet Bank operating account instead of the closed Pocket Lantern Bank account for policies still eligible for automatic payment. The agreed follow-up is to update the payment source by February 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Request current property and casualty declarations",
+      "text": "Request current home, auto, umbrella, and rental property declarations pages from Polka Fern Insurance Agency to confirm the latest renewal coverage limits and replace the older portal copies in the advisory file.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For property and casualty declarations, the current home, auto, umbrella, and rental property declarations pages are not available in the advisory file or the client portal, and the latest renewal coverage limits cannot be confirmed from the older portal copies."
+    },
+    {
+      "templateId": null,
+      "title": "Review rental condo protection",
+      "text": "Review the Bend rental condo's landlord, tenant, liability, property loss, and loss-of-rent exposures to ensure adequate coverage, as these were not part of the prior household insurance review.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the rental condo protection review, the Bend rental condo adds landlord, tenant, liability, property loss, and loss-of-rent exposures that were not part of the prior household insurance review."
+    },
+    {
+      "templateId": null,
+      "title": "Compare employer benefits with private coverage",
+      "text": "Compare Moonbadger Robotics supplemental life, disability, and beneficiary settings with Arlo's private coverage before the benefits election portal closes.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Moonbadger Robotics opened a benefits election window tied to Arlo’s promotion, and the supplemental life, disability, and beneficiary settings need comparison with the private coverage before the portal closes. That comparison is needed by March 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current life insurance beneficiary evidence",
+      "text": "Obtain current carrier evidence from Velvet Acorn Life Insurance to resolve the beneficiary arrangement discrepancy between the portal and the Cloudberry Kite Custody planning file before the protection review can be finalized.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the Velvet Acorn Life Insurance portal shows a different beneficiary arrangement than the beneficiary summary retained in the Cloudberry Kite Custody planning file, so current carrier evidence is needed before the protection review can be finalized. That evidence is needed by March 12, 2024."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Collect the estate planning documents for Arlo and Lena Copperwisp, including trust funding evidence and any documents that reflect the current household and insurance beneficiary structure. The advisory binder lacks trust funding evidence and includes fiduciary role information that may not reflect the current household.",
+      "priority": "medium",
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "For estate planning document collection, the advisory review found that the estate binder lacks trust funding evidence and includes fiduciary role information that may not reflect the current household and insurance beneficiary structure."
+    }
+  ]
+}

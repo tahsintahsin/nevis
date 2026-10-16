@@ -1,0 +1,105 @@
+{
+  "meetingId": "672",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare estate attorney coordination package",
+      "text": "Prepare an organized packet for Priya Cloudpuddle at Paper Otter Law showing current household assets, account titling, trustee concerns, and beneficiary records for Nora Thimblefern.",
+      "priority": null,
+      "dueDate": "2025-12-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that estate attorney coordination package by 2025-12-05."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain revocable trust authority records",
+      "text": "Obtain the signed trust certification and full executed trust pages needed to verify trustee powers for Nora Thimblefern's trust-related account administration.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the revocable trust authority records remain needed with no date set."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare successor trustee suitability notes",
+      "text": "Prepare notes evaluating the suitability of Mark Velvetreed, Lena Thimblefern, Renee Lanternmoss, and corporate fiduciary options as successor trustees for Nora Thimblefern.",
+      "priority": null,
+      "dueDate": "2026-01-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare successor trustee suitability notes by 2026-01-12."
+    },
+    {
+      "templateId": null,
+      "title": "Address employer plan beneficiary and election package",
+      "text": "Address the employer benefit election and beneficiary updates for Nora Thimblefern in the Clockwork Clover Analytics portal, correcting outdated addresses.",
+      "priority": null,
+      "dueDate": "2025-11-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the employer plan beneficiary and benefit election package by 2025-11-25."
+    },
+    {
+      "templateId": null,
+      "title": "Review life insurance ownership and beneficiary records",
+      "text": "Review ownership and beneficiary records for Nora Thimblefern's Silver Marmot Life term policy and employer group life coverage to ensure alignment with estate plan.",
+      "priority": null,
+      "dueDate": "2025-12-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review life insurance ownership and beneficiary records by 2025-12-16."
+    },
+    {
+      "templateId": "b98bc51d-5aea-5347-8b91-b046dd45e5a0",
+      "title": "Coordinate charitable transfer request",
+      "text": "Coordinate a charitable transfer from the Pocket Lantern Charitable Fund for Nora Thimblefern, confirming the recipient, amount, delivery method, and required documentation.",
+      "priority": "medium",
+      "dueDate": "2025-12-12",
+      "assigneeId": "e0430e5a-5400-534f-9752-ecaa97d7c1bc",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the current charitable transfer from the donor-advised fund by 2025-12-12."
+    },
+    {
+      "templateId": "82c535f6-f98f-52fc-8453-b16e37794924",
+      "title": "Review inheritance intake information",
+      "text": "Review inheritance intake information for Nora Thimblefern from Ellen Thimblefern’s estate, gathering asset character, distribution timing, and tax reporting details.",
+      "priority": "high",
+      "dueDate": "2025-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete inheritance intake from Ellen Thimblefern’s estate by 2025-12-18."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate CPA materials for estate and tax assumptions",
+      "text": "Coordinate with CPA Daniel Pebblefizz at Amber Teapot Tax to provide materials on unrealized gains, inheritance reporting, charitable bequests, and trust funding steps for Nora Thimblefern.",
+      "priority": null,
+      "dueDate": "2026-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate CPA materials for estate and tax assumptions by 2026-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Review property title and mortgage documents",
+      "text": "Review the title and mortgage documents for Nora Thimblefern's primary residence and lake cabin to assess alignment with the trust plan.",
+      "priority": null,
+      "dueDate": "2025-12-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review property title and mortgage documents by 2025-12-10."
+    },
+    {
+      "templateId": null,
+      "title": "Provide digital asset and household contact inventory format",
+      "text": "Provide a digital asset and household contact inventory format for Nora Thimblefern that Calvin can use if she becomes incapacitated.",
+      "priority": null,
+      "dueDate": "2025-12-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to provide a digital asset and household contact inventory format by 2025-12-22."
+    }
+  ]
+}

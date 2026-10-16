@@ -1,0 +1,25 @@
+{
+  "meetingId": "314",
+  "tickets": [
+    {
+      "templateId": "a5a5fd32-0e81-5137-9be4-206c688fccbb",
+      "title": "Review Financial Plan Snapshot",
+      "text": "Refresh key assumptions, compare current projections to stated goals, note material changes in income, expenses, taxes, assets, liabilities, retirement timing, and education funding needs, then list planning decisions for advisor review. Update the plan for Nora Bramblequill, Ellis Bramblequill, and their daughter Lila Bramblequill to reflect North Carolina residency, Asheville housing costs, revised commuting expenses, cash reserve targets, retirement savings, and Lila’s education funding assumptions, with a target date of 2025-10-10.",
+      "priority": "medium",
+      "dueDate": "2025-10-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to refresh the household plan for North Carolina residency, Asheville housing costs, revised commuting expenses, cash reserve targets, retirement savings, and Lila’s education funding assumptions by 2025-10-10."
+    },
+    {
+      "templateId": "d9b191a2-f79c-5e44-ab92-1a656d96a3be",
+      "title": "Conduct Benefits Enrollment Outreach",
+      "text": "Outreach purpose: benefits enrollment support for Ellis Bramblequill.\n\nMessage outline:\n1. Confirm the enrollment window or relative deadline: 2025-09-30.\n2. Request current benefits materials: benefits guide, rate sheet, and portal summary.\n3. Ask about expected changes: employment.\n4. Identify decisions to review: HSA, disability, supplemental life insurance, retirement contributions.\n5. If contacting a benefits professional, request clarification on: plan rules.\n6. Close with next step: schedule review.\n\nReusable note: Do not provide final election instructions until plan documents and client priorities have been reviewed.\nObtain and review Ellis Bramblequill’s Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary, focusing on HSA options, disability coverage, supplemental life insurance, and retirement contribution choices, and report findings before 2025-09-30.",
+      "priority": "medium",
+      "dueDate": "2025-09-30",
+      "assigneeId": "b438329a-0740-50fe-8982-5db2c9815f8b",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review Ellis’s Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA, disability coverage, supplemental life insurance, and retirement contribution choices by 2025-09-30 before the election window closes."
+    }
+  ]
+}

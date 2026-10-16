@@ -1,0 +1,55 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete inherited account beneficiary package",
+      "text": "Complete the beneficiary claim packets sent by Velvet Acorn Custody for Elian Thimblefern's inherited IRA and taxable account, covering the estimated $270,000 taxable brokerage allocation and $160,000 inherited IRA allocation from Liora Thimblefern's estate. Nessa Cloudpuddle indicated completed paperwork is needed for the estate's next transfer batch.",
+      "priority": null,
+      "dueDate": "2024-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nessa indicated completed paperwork is needed for the estate’s next transfer batch; the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain date-of-death valuation support",
+      "text": "Obtain supporting custodian valuation statements from Velvet Acorn Custody and cabin appraisal materials for Elian Thimblefern to preserve basis records, since the estate memo from Nessa Cloudpuddle lists only estimated values for the $270,000 taxable brokerage allocation, $160,000 inherited IRA allocation, and 35% lake cabin interest.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Date-of-death valuation support is needed because the memo lists estimated inherited asset values, but Elian does not yet have supporting custodian valuation statements or cabin appraisal materials needed to preserve basis records."
+    },
+    {
+      "templateId": null,
+      "title": "Clarify lake cabin ownership percentage",
+      "text": "Reconcile the ownership percentage of the lake cabin valued at $420,000 in total for Elian Thimblefern, since Nessa Cloudpuddle's estate memo lists a 35% interest while the property tax email she shared describes the siblings as equal one-third owners.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lake cabin ownership percentage clarification is needed because the memo lists a 35% cabin interest for Elian, while a property tax email shared by Nessa describes the siblings as equal one-third owners."
+    },
+    {
+      "templateId": "b69561c0-d94b-5366-9da1-17d83160108e",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Review Elian Thimblefern's financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items. Confirm whether new facts require updated recommendations or a follow-up meeting agenda. The expected taxable assets, inherited IRA, and cabin interest would materially change retirement timing assumptions, cash reserve position, tax picture, and investment allocation.",
+      "priority": "medium",
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "Mira’s review noted that expected taxable assets, inherited IRA, and cabin interest would materially change Elian’s retirement timing assumptions, cash reserve position, tax picture, and investment allocation; the agreed post-inheritance plan refresh is due 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate arrangements after family changes",
+      "text": "Review Elian Thimblefern's estate documents signed in 2012, which still name late spouse Corin Mossbutton as primary health-care agent and personal representative. The inherited assets add new property and beneficiary coordination questions requiring updated fiduciary arrangements.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "because those documents still name Corin in primary fiduciary roles and the inherited assets add new property and beneficiary coordination questions, the agreed estate arrangement review after family changes is due 2024-03-08."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"81\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Update address records for Lila Copperwisp\",\n\"text\": \"Update address-related advisory and custodian records for Lila Copperwisp to reflect the Seattle residence effective 2025-04-01, including changes at Teacup Comet Bank, Velvet Acorn Custody, and Silver Marmot Mutual policies.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-04\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"They agreed by 2025-04-04 to update address-related advisory and custodian records after the lease begins\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain lease and utility confirmation\",\n\"text\": \"Obtain the signed Seattle apartment lease and Washington utility confirmation for Lila Copperwisp to complete her file.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-09\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"by 2025-04-09 to obtain the lease and Washington utility confirmation missing from the file\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review Oregon bond fund and cash needs\",\n\"text\": \"Review the Oregon municipal bond fund, the concentration of Tin Sparrow Robotics shares, and the household’s move‑related cash requirements for Lila Copperwisp.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"by 2025-04-25 to review the Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2141,
+    "output_tokens": 1790,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

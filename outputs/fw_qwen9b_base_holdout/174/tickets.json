@@ -1,0 +1,154 @@
+{
+  "meetingId": "174",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Divorce Financial Inventory for Counsel",
+      "text": "Prepare a consolidated financial inventory covering Velvet Acorn Custody accounts, Amber Teapot Retirement Services plan, Teacup Comet Bank balances, residence debt, insurance benefits, and education savings accounts for Hana Lanternmoss at Paper Otter Family Law.",
+      "priority": null,
+      "dueDate": "2025-11-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that inventory by November 4, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Missing Settlement Documents",
+      "text": "Obtain the current Copper Firefly Builders valuation report, the latest home equity line statement, and the most recent Pocket Lantern Education Savings ownership confirmations needed for the settlement review.",
+      "priority": null,
+      "dueDate": "2025-11-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain those records by November 7, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Address Marital Balance Sheet Discrepancy",
+      "text": "Address the discrepancy where the draft marital balance sheet lists Lena's Velvet Acorn Custody taxable account at a higher value than the dashboard reviewed, and determine if pending tax withholding or unsettled trades explain the difference.",
+      "priority": null,
+      "dueDate": "2025-11-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that discrepancy by November 5, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Compare Home Buyout and Renting Scenarios",
+      "text": "Compare the options of keeping the marital residence, selling the home, and renting through Noah's graduation to assess viability for the settlement proposal.",
+      "priority": null,
+      "dueDate": "2025-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare keeping the home, selling the home, and renting through Noah’s graduation by November 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Attorney and CPA Coordination Authorization",
+      "text": "Complete the authorization step to allow Apricot Compass Advisory to coordinate directly with Hana Lanternmoss and Owen Dewspindle regarding settlement cash flow, tax filing assumptions, realized gains, and proposed property transfers.",
+      "priority": null,
+      "dueDate": "2025-10-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the authorization step by October 31, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Current-Year Tax Projection",
+      "text": "Prepare a tax projection for Lena and Clockwork Clover Tax incorporating the realized gains report, temporary support payments, expected bonus income, and potential stock sales for settlement decisions.",
+      "priority": null,
+      "dueDate": "2025-11-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that projection by November 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Review Beneficiary and Estate Designations",
+      "text": "Review beneficiary and estate designations for retirement accounts, group life insurance, taxable transfer-on-death registrations, and estate documents that still reflect Gareth in several roles.",
+      "priority": null,
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review those designations and documents by November 14, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Provide Staged Diversification Plan for Employer Stock",
+      "text": "Provide a staged diversification plan for Silver Marmot Design Group stock that considers taxes, settlement liquidity, and blackout-period constraints.",
+      "priority": null,
+      "dueDate": "2025-11-18",
+      "assigneeId": "ac82dfcd-bd79-558c-8740-1d41b44e5f2f",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to provide that plan by November 18, 2025."
+    },
+    {
+      "templateId": "c7e43e6e-7f72-56f6-9f51-92cf01ed3788",
+      "title": "Restore Client Portal Access",
+      "text": "Resolve the Velvet Acorn Custody login issue where Lena's multi-factor code is not accepted after her phone replacement, preventing statement downloads for counsel.",
+      "priority": "medium",
+      "dueDate": "2025-10-30",
+      "assigneeId": "968d1e89-a266-526b-b1e6-cdc943d4056b",
+      "subTasks": [
+        {
+          "title": "Verify identity and issue scope",
+          "text": "Confirm the requester through approved verification steps. Record the affected platform, username or email on file, error message, device type, and whether account data was exposed or changed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "968d1e89-a266-526b-b1e6-cdc943d4056b"
+        },
+        {
+          "title": "Coordinate reset or escalation",
+          "text": "Initiate the approved password reset, invitation reissue, multi-factor reset, or custodian service request. Avoid sending sensitive credentials by email or text.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "968d1e89-a266-526b-b1e6-cdc943d4056b"
+        },
+        {
+          "title": "Review security implications",
+          "text": "If the access problem involved a suspicious login, changed contact information, or an unknown device, review for possible account security escalation and document the recommended next steps.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "de6801b9-5232-55e8-a20f-6b40f26c2343"
+        },
+        {
+          "title": "Confirm restoration with client",
+          "text": "Ask the client to confirm they can log in, view the expected account, and use required authentication. Record confirmation and any remaining support needs.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "7526fb2c-eb3f-5fd9-bdab-72ee8fc12ff1"
+        }
+      ],
+      "evidence": "The agreed follow-up is to resolve the portal access issue by October 30, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Review Account Security and Contact Information",
+      "text": "Review the account security and contact information to remove the old shared household email address appearing as a recovery contact on a planning portal.",
+      "priority": null,
+      "dueDate": "2025-10-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the account security and contact information by October 31, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Education Savings Ownership Planning Notes",
+      "text": "Prepare planning notes on successor ownership, control of future contributions, and how college funding language should be reflected in the settlement discussion for the Pocket Lantern Education Savings accounts.",
+      "priority": null,
+      "dueDate": "2025-11-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare those planning notes by November 20, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Revised Post-Divorce Retirement Projection",
+      "text": "Prepare a revised retirement projection using single-household expenses, potential residence outcomes, expected support changes, retirement account division assumptions, Social Security timing, and a lower employer-stock exposure target.",
+      "priority": null,
+      "dueDate": "2025-12-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the revised projection by December 5, 2025."
+    }
+  ]
+}

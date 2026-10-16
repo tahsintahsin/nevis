@@ -1,0 +1,107 @@
+{
+  "meetingId": "937",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble approved financial records for divorce document package",
+      "text": "Assemble approved account, income, debt, insurance, estate, and beneficiary records for Sela Fablethimble at Moonbadger Legal, with sharing limited to the divorce matter. Use records from joint checking, separate checking, joint taxable investment account, Paper Otter Robotics 401(k), Portland residence, and term life policy.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Liora asked Apricot Compass Advisory to assemble approved account, income, debt, insurance, estate, and beneficiary records for Sela Fablethimble at Moonbadger Legal, with sharing limited to the divorce matter. The agreed follow-up is due March 8, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review and update secure vault access and document-vault permissions",
+      "text": "Review Devin Velvetreed’s continued visibility into the joint secure vault folder and resolve the e-signature error Liora encountered when uploading the temporary order. Update contact information and permissions as needed.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Liora reported that Devin still appears to have visibility into a joint secure vault folder and that she received an e-signature error when attempting to upload the temporary order. The agreed follow-up, due March 5, 2024, is to review access, contact information, and permissions."
+    },
+    {
+      "templateId": null,
+      "title": "Request missing divorce records through authorized legal channel",
+      "text": "Request current statements for Devin’s retirement plan, Buttonwood Balloon Studio distribution history, and the home equity line freeze notice through the authorized legal channel.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "current statements for Devin’s retirement plan, Buttonwood Balloon Studio distribution history, and the home equity line freeze notice were absent from the materials Liora provided. The agreed follow-up is to request the records through the authorized legal channel by March 12, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile mortgage payoff balance and update marital balance sheet",
+      "text": "Check source documents for the Portland residence mortgage payoff amount. The legal worksheet shows $411,000 while the Coral Badger Lending portal shows $424,880 of principal; update the marital balance sheet with the verified figure.",
+      "priority": null,
+      "dueDate": "2024-03-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the legal worksheet shows a $411,000 mortgage payoff while the Coral Badger Lending portal shows $424,880 of principal. The agreed follow-up, due March 11, 2024, is to check the source documents and update the marital balance sheet with the verified figure."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare marital balance sheet and cash flow view for settlement conference",
+      "text": "Prepare a marital balance sheet and sustainable cash flow view for the settlement conference, including home-retention scenarios, support payments, legal fees, and tax-sensitive sale assumptions. Use regular household spending of $9,400 per month and the nine-month liquid reserve target.",
+      "priority": null,
+      "dueDate": "2024-03-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the court schedule requires a marital balance sheet and sustainable cash flow view before the settlement conference, including home-retention scenarios, support payments, legal fees, and tax-sensitive sale assumptions. The agreed follow-up is due March 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare ownership and beneficiary review for separation",
+      "text": "Prepare adviser comments for attorney review on how the separation may affect account titling, beneficiary designations, trustee roles, and insurance ownership. Focus on the joint taxable account, Paper Otter Robotics 401(k), term life policy, and trust documents.",
+      "priority": null,
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the separation may affect account titling, beneficiary designations, trustee roles, and insurance ownership. The agreed follow-up, due March 22, 2024, is to prepare adviser comments for attorney review before any legal or custodial changes are made."
+    },
+    {
+      "templateId": "b835d25d-d355-5804-8593-94348f4d26b8",
+      "title": "Review Concentrated Position",
+      "text": "Model staged sale, retention, gifting, and reinvestment alternatives for the Paper Otter Robotics concentrated position (about 28% of investable assets), with attention to liquidity needs and divorce restrictions.",
+      "priority": "high",
+      "dueDate": "2024-03-18",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [
+        {
+          "title": "Assemble Position Facts",
+          "text": "Collect current market value, share count, cost basis, acquisition history, holding period, account registration, and any employer equity plan details for Paper Otter Robotics holdings. Confirm whether blackout windows, lockups, Rule 144, or insider restrictions may apply.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "47926d53-db41-532d-99c2-224dc3aaa5ea"
+        },
+        {
+          "title": "Model Portfolio and Tax Impact",
+          "text": "Analyze concentration percentage, sector exposure, volatility, unrealized gain or loss, charitable giving opportunities, tax-loss offsets, and estimated tax impact under phased-sale scenarios.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "96c9c35b-0519-5544-bd5f-e8e441dccdb2"
+        },
+        {
+          "title": "Draft Diversification Recommendation",
+          "text": "Prepare a client-ready summary comparing hold, trim, staged sale, gifting, hedging, and reinvestment options. Include key assumptions, open questions for the CPA or attorney, and next-step implementation considerations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        }
+      ],
+      "evidence": "the portfolio review showed Paper Otter Robotics holdings at about 28% of investable assets. The agreed follow-up, due March 18, 2024, is to model staged sale, retention, gifting, and reinvestment alternatives with attention to liquidity needs and divorce restrictions."
+    },
+    {
+      "templateId": "bbc351a0-d7f3-59a9-9b6e-c1705881ee7f",
+      "title": "Prepare Cash Distribution Request",
+      "text": "Prepare a one-time $35,000 net transfer from the joint taxable account at Velvet Acorn Custody to Liora’s separate Teacup Comet Bank checking account for a legal retainer and near-term living costs. Include available cash review, tax lot selection, and required authorization.",
+      "priority": "medium",
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Liora requested a one-time $35,000 net transfer from the joint taxable account to her separate Teacup Comet Bank checking account for a legal retainer and near-term living costs, subject to available cash, tax lot review, and required authorization. The agreed follow-up is due March 6, 2024."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "meetingId": "854",
+  "tickets": [
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Complete the remaining contact, authorization, risk tolerance, and communication preference sections of the household profile packet for Alden and Priya Pebblefizz so the new client record can be finalized.",
+      "priority": null,
+      "dueDate": "2024-04-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira and Tobin asked him to complete the remaining contact, authorization, risk tolerance, and communication preference sections so the new client record can be finalized, and the agreed follow-up is completion of those remaining sections by 2024-04-26."
+    },
+    {
+      "templateId": null,
+      "title": "Reset portal access and confirm upload instructions",
+      "text": "Reset portal access and confirm upload instructions with both household decision-makers, Alden and Priya Pebblefizz, to resolve the invitation and timeout issues reported.",
+      "priority": null,
+      "dueDate": "2024-04-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reset portal access and confirm upload instructions with both household decision-makers by 2024-04-23."
+    },
+    {
+      "templateId": null,
+      "title": "Evaluate prior employer retirement plan rollover",
+      "text": "Address the evaluation of the Willow Pudding Components retirement plan and possible rollover steps once the plan statement and distribution options are available for Alden Pebblefizz.",
+      "priority": null,
+      "dueDate": "2024-05-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that evaluation once those records are available, due 2024-05-03."
+    },
+    {
+      "templateId": null,
+      "title": "Include equity award considerations in first planning meeting",
+      "text": "Include equity award considerations regarding vesting concentration, tax withholding, and whether to sell shares after vesting in the first planning meeting for Alden and Priya Pebblefizz.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to include those equity award considerations in the first planning meeting by 2024-05-10."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain tax returns and CPA authorization",
+      "text": "Obtain the most recent federal and Oregon tax returns and written permission to coordinate with CPA Rowan Thimblefern for Alden and Priya Pebblefizz to complete the tax baseline.",
+      "priority": null,
+      "dueDate": "2024-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those materials and authorization are needed by 2024-05-01."
+    },
+    {
+      "templateId": null,
+      "title": "Update education funding assumptions for Nora",
+      "text": "Update education funding assumptions for the household's 529 accounts for Nora Pebblefizz to account for her interest in an out-of-state engineering program.",
+      "priority": null,
+      "dueDate": "2024-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "updated education funding assumptions are needed by 2024-05-15."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm beneficiary designations across accounts",
+      "text": "Confirm current beneficiary designations across retirement and insurance accounts for Alden and Priya Pebblefizz, noting discrepancies between the employer benefits screenshot and insurance summary.",
+      "priority": null,
+      "dueDate": "2024-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "confirmation of current beneficiary designations across retirement and insurance accounts is needed by 2024-05-08."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain complete estate planning documents",
+      "text": "Obtain complete copies of wills, powers of attorney, and healthcare directives for Alden and Priya Pebblefizz, as the current uploaded folder only contains signature pages and an unsigned draft trust memo.",
+      "priority": null,
+      "dueDate": "2024-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "complete copies are needed by 2024-05-08 before the planning team can summarize the estate arrangement."
+    }
+  ]
+}

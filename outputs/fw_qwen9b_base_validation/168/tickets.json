@@ -1,0 +1,125 @@
+{
+  "meetingId": "168",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain home safety modification estimates",
+      "text": "Obtain contractor estimates for grab bars, stair rail changes, and shower entry modifications for Owen Pebblefizz's home in Fort Collins, Colorado, to support the family's plan to keep him at home through the winter.",
+      "priority": null,
+      "dueDate": "2026-09-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain home safety modification estimates by 2026-09-03."
+    },
+    {
+      "templateId": null,
+      "title": "Gather long-term care claim materials",
+      "text": "Gather the full policy, elimination-period ledger, physician certification form, and current claim packet for Owen Pebblefizz's Velvet Acorn Life & Care long-term care policy to support his home-care claim.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to gather long-term care claim materials by 2026-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Medicare home-health denial packet",
+      "text": "Assemble the therapy notes and homebound certification to support the appeal for the two denied therapy visits under Nadia Pebblefizz's Silver Marmot Health Medicare Advantage plan.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to assemble the Medicare home-health denial packet by 2026-08-19."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare caregiver compensation framework",
+      "text": "Prepare a framework addressing documentation, tax reporting, and boundaries between gifts and paid care for Lila Pebblefizz's unpaid evening care and potential wage replacement for Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a caregiver compensation framework by 2026-09-05."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on care agency authorization",
+      "text": "Contact Paper Otter Home Care to resolve the conflict where Owen Pebblefizz is listed as the only authorized signer for schedule changes, which conflicts with Nadia Pebblefizz's role managing appointments.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up on care agency authorization contacts remains needed."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare care-cost cash-flow projection",
+      "text": "Prepare a twelve-month projection comparing current home-health hours, adult day care, and the quoted respite setting against pension income, Social Security, taxable-account cash, and possible IRA distribution sources for Nadia and Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the care-cost cash-flow projection by 2026-08-29."
+    },
+    {
+      "templateId": null,
+      "title": "Address benefit changes from reduced work",
+      "text": "Analyze how Nadia Pebblefizz's potential loss of $2,100/month consulting income would affect the monthly care budget and estimated tax payments for the household.",
+      "priority": null,
+      "dueDate": "2026-09-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address benefit changes from reduced work by 2026-09-11."
+    },
+    {
+      "templateId": null,
+      "title": "Address recurring transfer failure",
+      "text": "Resolve the failure of the $5,000 monthly transfer from Velvet Acorn Custody to the Teacup Comet Bank checking account, which caused the Paper Otter Home Care invoice to go past due.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the recurring transfer failure by 2026-08-21."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile home-care invoice",
+      "text": "Reconcile the Paper Otter Home Care invoice showing more billed visits than the family care log, including the unrecognized overnight shift under a weekend premium rate.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reconcile the home-care invoice by 2026-08-23."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare liquidity plan after portfolio review",
+      "text": "Prepare a liquidity plan after the portfolio review to address the finding that cash and short-duration holdings would cover less than the household's preferred care reserve.",
+      "priority": null,
+      "dueDate": "2026-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a liquidity plan after the portfolio review by 2026-08-30."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare respite placement decision support",
+      "text": "Prepare a financial comparison between the Thimble Harbor Assisted Living respite suite and expanded in-home shifts to support the family's decision on Owen Pebblefizz's care placement.",
+      "priority": null,
+      "dueDate": "2026-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare respite placement decision support by 2026-08-26."
+    },
+    {
+      "templateId": null,
+      "title": "Provide information for tax estimate",
+      "text": "Provide projected home-care, adult day, respite, mileage, and caregiver-payment amounts to Jasper Copperwisp of Pocket Lantern Tax Partners for year-end tax planning assumptions regarding medical and caregiver costs.",
+      "priority": null,
+      "dueDate": "2026-09-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to provide information for the tax estimate for medical and caregiver costs by 2026-09-08."
+    }
+  ]
+}

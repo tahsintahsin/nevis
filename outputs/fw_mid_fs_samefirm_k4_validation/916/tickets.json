@@ -1,0 +1,85 @@
+{
+  "meetingId": "916",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review 529 account age-based allocation and withdrawal planning",
+      "text": "Review Lyra Maplesprocket’s Moonbadger 529 Program account at Velvet Acorn Custody against the expected distribution schedule for Marzipan Meadow University enrollment. Address the meaningful equity allocation despite near-term tuition spending and the enrollment-year discrepancy between the Velvet Acorn Custody record and Lyra’s actual start timing.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The 529 beneficiary enrollment-year discrepancy review was completed on 2026-05-10 after the Velvet Acorn Custody record for Lyra’s Moonbadger 529 account displayed an expected enrollment year earlier than Lyra’s actual Marzipan Meadow University start timing, which may affect the account’s age-base"
+    },
+    {
+      "templateId": null,
+      "title": "Complete itemized university bill and aid evidence review",
+      "text": "Obtain the final itemized university bill from Marzipan Meadow University, including the meal plan selection, student health fee, and posted merit grant application, to replace the portal screen that only showed total estimated cost.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the available portal screen showed the total estimated cost but did not show the final itemized charges, meal plan selection, student health fee, or posted merit grant application to the account."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate grandparent tuition gift planning",
+      "text": "Distinguish between a direct school payment, a family reimbursement, and a possible contribution to Lyra’s 529 account from Ruth Willowdoodle’s offer to help with Lyra’s first-year education cost. Coordinate with Harper Dewspindle on tax implications for qualified education expenses.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Ruth Willowdoodle’s offer to help with Lyra’s first-year cost introduced a new funding source, and Selene wanted the planning file to distinguish a direct school payment, a family reimbursement, and a possible contribution to the 529 account."
+    },
+    {
+      "templateId": null,
+      "title": "Review home equity line terms for education bridge funding",
+      "text": "Confirm the Silver Marmot Bank home equity line of credit terms: current rate formula, draw procedure, payment terms, and any inactivity limitations. Use as a potential education bridge funding source before the school’s acceptance window closes.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Selene could confirm that the Silver Marmot Bank line is unused but could not provide the current rate formula, draw procedure, payment terms, or any inactivity limitations during the meeting."
+    },
+    {
+      "templateId": null,
+      "title": "Compare student loan, cash, and taxable account liquidation options",
+      "text": "Provide a comparison of using the offered federal student loan, additional household cash, taxable brokerage account liquidation, or the home equity line before Lyra’s school acceptance window closes. Include tax coordination with Harper Dewspindle on qualified education expenses and student loan interest records.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The discussion was prompted by the aid package’s federal student loan offer and Selene’s request for a comparison of using the offered student loan, additional cash, taxable-account liquidation, or the home equity line before the school’s acceptance window closes."
+    },
+    {
+      "templateId": null,
+      "title": "Update 529 contribution schedule based on first-year funding plan",
+      "text": "Pause or redirect the monthly $600 contribution to Lyra’s 529 account and the $450 contribution to Theo’s 529 account while Lyra’s first-year shortfall is being funded and while Theo’s longer time horizon remains in view.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Selene asked whether the household should pause or redirect the monthly 529 contributions while Lyra’s first-year shortfall is being funded and while Theo’s longer time horizon remains in view."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve 529 beneficiary enrollment-year discrepancy",
+      "text": "Correct the enrollment-year discrepancy in the Velvet Acorn Custody record for Lyra’s Moonbadger 529 account to align with Lyra’s actual Marzipan Meadow University start timing, which may affect the account’s age-based allocation path and withdrawal planning assumptions.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The 529 beneficiary enrollment-year discrepancy review was completed on 2026-05-10 after the Velvet Acorn Custody record for Lyra’s Moonbadger 529 account displayed an expected enrollment year earlier than Lyra’s actual Marzipan Meadow University start timing, which may affect the account’s age-base"
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on secure portal upload access issue",
+      "text": "Resolve the Copper Firefly Advisory secure upload page rejection and lockout for the Marzipan Meadow University aid letter file. Ensure Selene can upload documents to the advisory portal without further access barriers.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Selene reported that the Copper Firefly Advisory secure upload page rejected the Marzipan Meadow University aid letter file twice and then locked her out of the document folder."
+    }
+  ]
+}

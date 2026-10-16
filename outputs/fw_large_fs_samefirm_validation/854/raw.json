@@ -1,0 +1,21 @@
+{
+ "config": "fw_large_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"854\",\n\"tickets\": [\n{\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\",\n\"title\": \"Update household profile\",\n\"text\": \"Complete the remaining contact, authorization, risk tolerance, and communication preference sections of Alden and Priya Pebblefizz’s household profile packet.\",\n\"priority\": null,\n\"dueDate\": \"2024-04-26\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is completion of those remaining sections by 2024-04-26.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Confirm beneficiary designations across accounts\",\n\"text\": \"Confirm current beneficiary designations for all retirement and insurance accounts for Alden and Priya Pebblefizz, ensuring alignment with their estate plan.\",\n\"priority\": null,\n\"dueDate\": \"2024-05-08\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"confirmation of current beneficiary designations across retirement and insurance accounts is needed by 2024-05-08.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain complete estate documents\",\n\"text\": \"Obtain full copies of wills, powers of attorney, and healthcare directives for Alden and Priya Pebblefizz to complete the estate folder.\",\n\"priority\": null,\n\"dueDate\": \"2024-05-08\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"complete copies are needed by 2024-05-08 before the planning team can summarize the estate arrangement.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Reset portal access and confirm uploads\",\n\"text\": \"Reset secure portal access for Priya Pebblefizz and provide upload instructions to Alden and Priya Pebblefizz for attaching brokerage statements.\",\n\"priority\": null,\n\"dueDate\": \"2024-04-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to reset portal access and confirm upload instructions with both household decision-makers by 2024-04-23.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Evaluate prior employer retirement plan\",\n\"text\": \"Evaluate the Willow Pudding Components retirement plan for Alden Pebblefizz once the plan statement and distribution options are received, and outline possible rollover steps.\",\n\"priority\": null,\n\"dueDate\": \"2024-05-03\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to address that evaluation once those records are available, due 2024-05-03.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Include equity award considerations in meeting\",\n\"text\": \"Include Paper Otter Robotics equity award vesting, concentration, tax withholding, and potential sale considerations in the first planning meeting agenda for Alden Pebblefizz.\",\n\"priority\": null,\n\"dueDate\": \"2024-05-10\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to include those equity award considerations in the first planning meeting by 2024-05-10.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Collect tax returns and CPA authorization\",\n\"text\": \"Collect the most recent federal and Oregon tax returns and obtain written authorization to coordinate with CPA Rowan Thimblefern for Alden and Priya Pebblefizz’s tax baseline.\",\n\"priority\": null,\n\"dueDate\": \"2024-05-01\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"those materials and authorization are needed by 2024-05-01.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Update education funding assumptions\",\n\"text\": \"Update Nora Pebblefizz’s college funding assumptions based on her interest in an out-of-state engineering program and revise the 529 spending timeline for Alden and Priya Pebblefizz.\",\n\"priority\": null,\n\"dueDate\": \"2024-05-15\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"updated education funding assumptions are needed by 2024-05-15.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1065,
+    "output_tokens": 2514,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 13319
+   },
+   "stop": "stop"
+  }
+ ]
+}

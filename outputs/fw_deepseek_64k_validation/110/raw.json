@@ -1,0 +1,18 @@
+{
+ "config": "fw_deepseek",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"110\", \"tickets\": [{\"templateId\": \"16995f94-ef6c-5a22-ab66-51b66b8e9006\", \"title\": \"Start retirement plan rollover\", \"text\": \"Prepare to move Nadia Copperwisp's Silver Marmot Laboratories 401(k), valued at about $914,000 with 38% in company stock, after her separation from full-time employment at the end of September 2024. Coordinate the receiving account registration and the company-stock portion of the transfer.\", \"priority\": null, \"dueDate\": \"2024-09-06\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-06 to start preparing the Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and company-stock portion.\"}, {\"templateId\": null, \"title\": \"Obtain formal pension election packet\", \"text\": \"Obtain the formal pension election packet for Nadia Copperwisp, since only portal estimates of the single-life and joint-and-survivor pension options were available. Confirm the packet so the pension election can be made from formal figures.\", \"priority\": null, \"dueDate\": \"2024-08-23\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"By 2024-08-23, the formal pension election packet is needed because only portal estimates were available.\"}, {\"templateId\": null, \"title\": \"Review first-year retirement income and withholding\", \"text\": \"Review Nadia Copperwisp's first-year retirement income and withholding, incorporating the final paycheck, unused vacation payout, and first pension timing that were not yet in the tax projection.\", \"priority\": null, \"dueDate\": \"2024-09-13\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-13 to review first-year retirement income and withholding because Tobin noted final paycheck, unused vacation payout, and first pension timing were not yet in the tax projection.\"}]}",
+   "usage": {
+    "input_tokens": 2874,
+    "output_tokens": 1620,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2438
+   },
+   "stop": "stop"
+  }
+ ]
+}

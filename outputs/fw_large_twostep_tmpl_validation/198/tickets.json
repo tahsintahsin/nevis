@@ -1,0 +1,107 @@
+{
+  "meetingId": "198",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble tax filing data for first married year",
+      "text": "Gather Dahlia Mossbutton’s year‑to‑date pay statements, Amber Teapot Analytics equity vesting records, mortgage interest statements for both the townhouse and condominium, and the condominium rental income details, and compile them for Priya Copperwisp’s preparation of the first married‑year tax return.",
+      "priority": null,
+      "dueDate": "2023-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to assemble that tax filing data by 2023-11-21."
+    },
+    {
+      "templateId": null,
+      "title": "Begin operational review of account contact settings",
+      "text": "Begin reviewing Dahlia Mossbutton and Owen Cloudpuddle’s advisory‑serviced account contact information, mailing preferences, and joint visibility settings, updating records to reflect their married household and the new Paper Otter Bank joint checking account.",
+      "priority": null,
+      "dueDate": "2023-11-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to begin that review by 2023-11-03."
+    },
+    {
+      "templateId": "430e12f8-8d1e-56b8-b622-187c9d3239d4",
+      "title": "Process recurring payment change request",
+      "text": "Complete the recurring payment change intake before submitting any instruction.\n\nClient household: Mossbutton-Cloudpuddle\nRequest type: change funding source\nPayment purpose: household recurring payments\nCurrent payment amount: \nNew payment amount, if applicable: \nCurrent frequency: \nNew frequency, if applicable: \nRequested effective timing: \nFunding account nickname or registration, no full account number: Dahlia's Teacup Comet Bank individual account\nDestination or payee: Paper Otter Bank joint checking\nTax withholding change needed? Not applicable\nClient authorization method received: \nCustodian or provider forms required: \nSpecial handling notes: Move selected payments from Dahlia's individual account to joint checking\nConfirmation sent to client: \n\nAdjust the funding sources for Dahlia Mossbutton’s recurring household payments, moving them from her individual Teacup Comet Bank account to the new joint checking account at Paper Otter Bank.",
+      "priority": "medium",
+      "dueDate": "2023-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that payment funding review by 2023-11-15."
+    },
+    {
+      "templateId": "d71226e6-275a-5a53-88b4-57b55eccb19c",
+      "title": "Liquidity Reserve Snapshot",
+      "text": "Review and update the joint cash reserve target for Dahlia Mossbutton and Owen Cloudpuddle, considering their separate savings accounts ($48,000 and $27,000), joint checking balance of $6,200, and combined monthly spending of $12,600.",
+      "priority": null,
+      "dueDate": "2023-11-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the joint cash reserve target by 2023-11-17."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Collect and organize Dahlia Mossbutton's current estate planning documents so the advisory team can confirm what exists, what is missing, and what needs attorney follow-up. Gather Dahlia Mossbutton’s 2018 will, health care directive, and related documents naming Lina Mossbutton as fiduciary, and prepare a gap summary for advisor review.",
+      "priority": "medium",
+      "dueDate": "2023-11-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "The agreed follow-up is to collect those estate document copies by 2023-11-10."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian beneficiary update rejection",
+      "text": "Resolve the Velvet Acorn Custody beneficiary update rejection for Dahlia Mossbutton by correcting the name mismatch between the account profile (Mossbutton) and the uploaded household document (Mossbutton-Cloudpuddle) and resubmit the change request.",
+      "priority": null,
+      "dueDate": "2023-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that custodian beneficiary update rejection by 2023-11-01."
+    },
+    {
+      "templateId": null,
+      "title": "Compare employer benefit options for new spouse",
+      "text": "Compare the health, dental, vision, disability, and life insurance options offered by Amber Teapot Analytics and Moonbadger Robotics for Dahlia Mossbutton and Owen Cloudpuddle, preparing a side‑by‑side analysis to support their open‑enrollment decisions.",
+      "priority": null,
+      "dueDate": "2023-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare those employer benefit options by 2023-11-06."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer stock position in taxable account",
+      "text": "Review Dahlia Mossbutton’s Amber Teapot Analytics stock position in her $316,000 taxable brokerage account at Velvet Acorn Custody, assessing concentration risk alongside future restricted stock vesting, and provide recommendations by the target review date.",
+      "priority": null,
+      "dueDate": "2023-12-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that employer stock position by 2023-12-01."
+    }
+  ]
+}

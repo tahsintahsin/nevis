@@ -1,0 +1,114 @@
+{
+  "meetingId": "814",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm active status with Amber Teapot Insurance",
+      "text": "Confirm with Amber Teapot Insurance that the Thimblefern homeowner and umbrella policies are active, since a premium draft used a closed card and the grace-period notice reached the prior address, and confirm the mortgagee evidence requirements for the Durham home.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas asked for help confirming active status with Amber Teapot Insurance and the mortgagee evidence requirements, and the agreed follow-up is to confirm those items by June 28, 2024."
+    },
+    {
+      "templateId": "edf2fbce-5c49-5e58-9961-8db31aa328b7",
+      "title": "Change recurring payment instructions",
+      "text": "Confirm the requested recurring payment change for Jonas and Clara Thimblefern with Amber Teapot Insurance: the carrier portal still references the canceled Teacup Comet Bank debit card, and future premiums should be drawn from the joint checking account at Teacup Comet Bank instead of a card. Verify the effective timing with the carrier and document the old and new payment method.",
+      "priority": "medium",
+      "dueDate": "2024-07-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the carrier portal still referenced the Teacup Comet Bank debit card that Jonas canceled after a fraud alert, while Jonas wants future premiums drawn from the joint checking account instead of a card; the agreed follow-up is to address that payment-route change by July 2, 2024."
+    },
+    {
+      "templateId": "24021c5e-be89-5d42-9140-abb9dc028eee",
+      "title": "Complete address and residency update workflow",
+      "text": "Use this workflow when a client reports a new mailing address, tax residency change, seasonal residence, or household relocation. Confirm the effective date, update advisory records, and identify planning consequences for tax-aware investment management, retirement income distributions, and account communications. Align Amber Teapot Insurance records, which still show the former townhouse address, with the Durham, North Carolina primary residence the Thimbleferns moved into on May 18, 2024, so notices and proof-of-coverage routing are corrected.",
+      "priority": "medium",
+      "dueDate": "2024-07-03",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm move details and documentation",
+          "text": "Collect the new mailing address, physical residence, prior address, effective date, seasonal residence notes, and any supporting documentation the client is comfortable providing. New primary residence: Durham, North Carolina, effective May 18, 2024; prior address is the former townhouse still on file with Amber Teapot Insurance.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update internal records and communication preferences",
+          "text": "Update CRM, household profile, statement delivery preferences, meeting location notes, and any compliance-required address fields. The advisory household profile already reflects the Durham home; the Thimbleferns prefer email for document exchange and a phone call for urgent coverage matters.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review planning impacts",
+          "text": "Check whether the move affects state tax assumptions, retirement distribution withholding, municipal bond exposure, estate document jurisdiction, insurance coverage, or advisor registration requirements. The mismatch affected notices and proof-of-coverage routing from Amber Teapot Insurance.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm completion with client",
+          "text": "Send a brief confirmation summarizing the updates made and any follow-up items the client should address with tax, legal, or account providers.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Amber Teapot Insurance records showed the former townhouse address, while the mortgage records, advisory household profile, and deed information reflected the Durham home; the mismatch affected notices and proof-of-coverage routing, and the agreed follow-up is to align the records by July 3, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete household protection review",
+      "text": "Complete a household protection review for Jonas and Clara Thimblefern reflecting Clara's transition to self-employment (about $3,500 per month gross receipts from her private design practice), the $590,000 Durham mortgage, two children ages 8 and 3, Jonas's $1,200,000 Coral Badger Life term policy, and his employer group life and disability coverage, since Clara's former group life and disability coverage no longer applies.",
+      "priority": null,
+      "dueDate": "2024-07-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas asked for a household protection review that reflects the new income pattern, mortgage, dependents, and existing term coverage. The agreed follow-up is to complete that review by July 15, 2024."
+    },
+    {
+      "templateId": "da720489-410c-59d0-8576-575d24b0e59c",
+      "title": "Prepare liquidity planning form",
+      "text": "Complete liquidity planning fields:\n\nClient/household: Jonas and Clara Thimblefern\nPlanning purpose: NEAR-TERM PURCHASE\nTarget cash need: [$_____]\nTarget reserve months: 6 MONTHS\nExpected use timeframe: [$_____]\nCurrent checking/savings balance: $52,000\nCurrent money market or short-term reserves: [$_____]\nUpcoming known inflows: [SOURCE, AMOUNT, TIMING]\nUpcoming known outflows: [PURPOSE, AMOUNT, TIMING]\nIncome stability notes: [$_____]\nPortfolio withdrawal needs: [$_____]\nTax-sensitive constraints: [$_____]\nAccounts to avoid using if possible: [$_____]\nRecommended liquidity bucket: [$_____]\nAction items approved by client: [$_____]\nFollow-up needed: [$_____]. Prepare a near-term plan for paying the annual homeowner ($4,920), umbrella ($780), auto, and term life premiums without reducing the household's cash reserve below its six-month comfort level, with core spending averaging about $11,800 per month.",
+      "priority": "medium",
+      "dueDate": "2024-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas requested a near-term plan for paying the annual homeowner, umbrella, auto, and term premiums without reducing the household’s cash reserve below its six-month comfort level. The agreed follow-up is to prepare that plan by July 10, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Collect current policy declarations pages",
+      "text": "Obtain current declarations pages for the Thimblefern homeowner, umbrella, auto, flood-related evidence, and Coral Badger Life term policies from Jonas Thimblefern, since the advisory file contains only premium screenshots and limits, riders, exclusions, and beneficiary details could not be verified.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the advisory file contained premium screenshots but not current declarations pages for the homeowner, umbrella, auto, flood-related evidence, or term life policies; limits, riders, exclusions, and beneficiary details could not be verified from the file. This remains a needed follow-up, with no date "
+    },
+    {
+      "templateId": null,
+      "title": "Resolve homeowner renewal underwriting conditions",
+      "text": "Coordinate with Jonas Thimblefern and Amber Teapot Insurance to satisfy the open underwriting conditions for the homeowner renewal: roof age verification and monitored alarm documentation, required before the renewal can be finalized.",
+      "priority": null,
+      "dueDate": "2024-07-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Amber Teapot Insurance noted an open underwriting condition for roof age verification and monitored alarm documentation before finalizing the homeowner renewal. This remains a needed follow-up by July 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm Coral Badger Life beneficiary record",
+      "text": "Confirm the beneficiary record on Jonas Thimblefern's $1,200,000 Coral Badger Life 20-year term policy with the carrier, since firm records tie the policy to an older estate plan while Jonas believes Clara is primary beneficiary and the children are contingent beneficiaries.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s records showed the Coral Badger Life policy tied to an older estate plan, while Jonas stated that he believes Clara is the primary beneficiary and the children are contingent beneficiaries. This remains a needed follow-up, with no date set."
+    }
+  ]
+}

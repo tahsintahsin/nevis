@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"853\", \"followups\": [{\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\", \"action\": \"Review the Velvet Acorn Custody unfamiliar-device alert, check for profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 134,
+    "output_tokens": 952,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2396
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"853\", \"tickets\": [{\"title\": \"Review Velvet Acorn Custody unfamiliar-device alert\", \"text\": \"Review the Velvet Acorn Custody unfamiliar-device alert for Leona Thimblefern, check for profile or distribution-instruction changes, and coordinate pre-upload custodian security steps. The failure blocks phone, email, and trusted-contact review, and the question of service access versus an outdated household profile remains unresolved.\", \"priority\": null, \"dueDate\": \"2026-02-06\", \"assigneeId\": null, \"subTasks\": [], \"templateId\": null, \"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"}]}",
+   "usage": {
+    "input_tokens": 1358,
+    "output_tokens": 823,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1557
+   },
+   "stop": "stop"
+  }
+ ]
+}

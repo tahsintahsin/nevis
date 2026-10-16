@@ -1,0 +1,85 @@
+{
+  "meetingId": "885",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Restore Lena Copperwisp’s secure portal access",
+      "text": "Restore Lena Copperwisp’s individual access to the shared document vault through verified channels. Authentication codes are still routing to Marcus Copperwisp’s mobile number, preventing Lena from retrieving estate and account records.",
+      "priority": null,
+      "dueDate": "2023-10-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "She asked Apricot Compass Advisory to restore her individual access through verified channels, and the agreed follow-up is due 2023-10-06."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain certified death certificates and letters testamentary",
+      "text": "Obtain and place certified death certificates and letters testamentary in the document vault for Lena and Marcus Copperwisp. Velvet Acorn Custody and Moonbadger Insurance require those records before processing beneficiary and claim paperwork.",
+      "priority": null,
+      "dueDate": "2023-10-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to obtain and place the required records for processing is due 2023-10-11."
+    },
+    {
+      "templateId": null,
+      "title": "Complete the employer life insurance claim packet",
+      "text": "Complete Lena Copperwisp’s employer life insurance claim packet for Moonbadger Insurance and Silver Marmot Analytics. The packet must be complete before the benefits office review cutoff.",
+      "priority": null,
+      "dueDate": "2023-10-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up on the claim packet is due 2023-10-16."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate attorney on the retitling sequence",
+      "text": "Coordinate with Selene Nettlewhisk of Coral Badger Law on the order of retitling the family home records, the joint taxable account, and trust administration records. The sequence should be consistent with the estate documents.",
+      "priority": null,
+      "dueDate": "2023-10-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked that coordination occur with Selene Nettlewhisk regarding the order of retitling the home records, the joint taxable account, and trust administration records so that account paperwork is consistent with the estate documents. The agreed follow-up is due 2023-10-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review beneficiary records after Marcus Copperwisp’s death",
+      "text": "Review Marcus Copperwisp’s beneficiary records on Lena’s IRA and term life policy. Marcus is still listed as primary beneficiary, while the estate summary describes the children and trust provisions as the next intended backstop.",
+      "priority": null,
+      "dueDate": "2023-10-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to review those beneficiary records is due 2023-10-20."
+    },
+    {
+      "templateId": null,
+      "title": "Analyze survivor income and spending",
+      "text": "Analyze Lena Copperwisp’s survivor income and spending. Marcus’s salary has ended, and Lena is now the sole earner. Evaluate whether current spending, college costs, cash reserves, and future retirement timing remain sustainable.",
+      "priority": null,
+      "dueDate": "2023-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to analyze those topics is due 2023-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Provide tax information for final joint-year planning",
+      "text": "Provide Jonas Maplesprocket of Amber Teapot Tax Advisors with year-to-date income, withholding, realized gain and loss, and estimated tax information for Lena and Marcus Copperwisp’s final joint-year planning. The projection should reflect Marcus’s final wages and the portfolio activity already posted.",
+      "priority": null,
+      "dueDate": "2023-10-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to provide that information for tax coordination is due 2023-10-27."
+    },
+    {
+      "templateId": "d68c5826-91a8-5cc7-bdef-e7b631551900",
+      "title": "Review concentrated position",
+      "text": "Complete the following checks:\n- Identify the position, account location, cost basis, holding period, and percentage of total investable assets.\n- Confirm whether the holding is employer stock, inherited stock, restricted equity, a legacy position, or a tax-sensitive lot.\n- Review unrealized gain or loss, dividend exposure, liquidity needs, and any trading restrictions or blackout windows.\n- Evaluate tax-aware diversification options, including staged sales, gifting, charitable strategies, exchange funds if appropriate, or hedging considerations.\n- Compare concentration risk against the client’s financial plan, retirement income needs, and risk tolerance.\n- Document recommended next steps, required approvals, and any CPA or legal coordination needed before transactions.\n\nReview the Paper Otter Technologies stock position in Lena Copperwisp’s joint taxable account at Velvet Acorn Custody. The position is worth about $510,000 with an estimated cost basis of $96,000 and carries a substantial unrealized gain. Consider the household’s changed income situation.",
+      "priority": "high",
+      "dueDate": "2023-11-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up to review the concentrated stock position is due 2023-11-03."
+    }
+  ]
+}

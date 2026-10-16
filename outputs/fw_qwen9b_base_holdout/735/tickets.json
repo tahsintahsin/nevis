@@ -1,0 +1,45 @@
+{
+  "meetingId": "735",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare forward-looking business cash runway and owner draw framework",
+      "text": "Prepare a forward-looking view separating signed retainer revenue, possible project revenue, recurring software subscriptions, contractor costs, tax set-asides, and planned owner draws for Cloudberry Kite Studio to determine operational runway without drawing from the taxable portfolio. This analysis must account for the $9,500 monthly retainers through June 2025 and the household's preference to avoid selling taxable investments unless reserves fall below six months of core spending.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": "cfc8c470-000e-5808-ad38-50472832b086",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is due 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile bookkeeping dashboard balance with Teacup Comet Bank business checking account",
+      "text": "Reconcile the bookkeeping dashboard balance with the Teacup Comet Bank business checking account for Cloudberry Kite Studio, specifically addressing the discrepancy where two client deposits were marked as received in the dashboard but had not yet settled in the bank account.",
+      "priority": null,
+      "dueDate": "2024-12-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed reconciliation work is due 2024-12-31."
+    },
+    {
+      "templateId": null,
+      "title": "Separate Teacup Comet Bank business card feed from household spending tracker",
+      "text": "Separate the Teacup Comet Bank business card feed from the household spending tracker for Cloudberry Kite Studio to ensure contractor platform fees and design software charges are categorized correctly and not appearing in personal spending categories.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": "8d46d358-bd42-549d-8331-be1908722513",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is due 2025-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate quarterly tax reserve data with CPA Harper Nettlewhisk",
+      "text": "Coordinate with CPA Harper Nettlewhisk of Paper Otter Tax to provide projected gross receipts, expected deductible categories, Janelle's planned owner draws, and Omar's withholding information so the first self-employment tax reserve target can be estimated before the initial payment cycle for the new year.",
+      "priority": null,
+      "dueDate": "2025-01-17",
+      "assigneeId": "cfc8c470-000e-5808-ad38-50472832b086",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is due 2025-01-17."
+    }
+  ]
+}

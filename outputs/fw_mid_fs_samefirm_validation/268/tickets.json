@@ -1,0 +1,75 @@
+{
+  "meetingId": "268",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Identify specific tax lots of Moonbadger Systems shares for charitable donation",
+      "text": "Identify the specific shares of Moonbadger Systems to be donated, considering the position includes several high-gain lots and a few recent reinvestment lots. Resolve which lots to transfer before preparing any transfer request.",
+      "priority": null,
+      "dueDate": "2026-08-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review found that the Moonbadger Systems position includes several high-gain lots and a few recent reinvestment lots, so the agreed tax-lot follow-up due 2026-08-09 is to identify the specific shares selected for donation before any transfer request is prepared."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm current delivery instructions and notification steps for charitable gifts",
+      "text": "Confirm current delivery instructions and notification steps before initiating another securities gift to Pocket Lantern Youth Lab, learning from the prior experience that took nearly three weeks and initially could not identify the donor.",
+      "priority": null,
+      "dueDate": "2026-08-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jasper reported that a prior securities gift through Velvet Acorn Custody took nearly three weeks and the charity initially could not identify the donor, so the agreed follow-up due 2026-08-16 is to confirm current delivery instructions and notification steps before initiating another gift."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve account registration mismatch for securities delivery",
+      "text": "Resolve the account registration mismatch between the draft donor-advised fund paperwork listing Jasper individually and the Velvet Acorn Custody taxable account titled jointly with Lena, so required authorization and acknowledgement naming is clear.",
+      "priority": null,
+      "dueDate": "2026-08-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the draft donor-advised fund paperwork lists Jasper individually while the Velvet Acorn Custody taxable account is titled jointly with Lena, creating uncertainty about required authorization and acknowledgement naming; follow-up is needed for 2026-08-12."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain full delivery instructions for Pocket Lantern Youth Lab securities transfer",
+      "text": "Obtain the full delivery instructions, legal name, tax identification confirmation, and gift-acceptance contact from Pocket Lantern Youth Lab to move securities cleanly for the charitable gift.",
+      "priority": null,
+      "dueDate": "2026-08-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the nonprofit provided only a general development-office email and a brokerage name, and Jasper has not received the full delivery instructions, legal name, tax identification confirmation, or gift-acceptance contact needed to move securities cleanly; follow-up is needed for 2026-08-13."
+    },
+    {
+      "templateId": null,
+      "title": "Identify specific shares selected for donation before preparing transfer request",
+      "text": "Identify the specific shares of Moonbadger Systems to be donated, considering the position includes several high-gain lots and a few recent reinvestment lots. Resolve which lots to transfer before preparing any transfer request.",
+      "priority": null,
+      "dueDate": "2026-08-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the charitable funding source comparison, Jasper asked about donating appreciated Moonbadger Systems shares, donating cash from the taxable account, and using a donor-advised fund, including effects on portfolio concentration and estimated taxable gains avoided; the agreed follow-up is due 2026-"
+    },
+    {
+      "templateId": null,
+      "title": "Confirm grant timing and flexibility for future charitable commitments",
+      "text": "Confirm the grant timing for the initial $150,000 charitable commitment, with $25,000 per year previously directed to environmental, food security, and arts organizations, and future grants held for the family’s campaign update and later grants to food security and arts organizations.",
+      "priority": null,
+      "dueDate": "2026-08-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The colleague memorial appeal changed Jasper’s preferred timing because he wants an initial gift to Pocket Lantern Youth Lab before the family’s campaign update, while leaving flexibility for later grants to the food security and arts organizations; the agreed grant-timing follow-up is due 2026-08-2"
+    },
+    {
+      "templateId": null,
+      "title": "Assemble nonprofit receipt requirements and account transfer confirmations for tax documentation",
+      "text": "Assemble the nonprofit receipt requirements, account transfer confirmations, and year-end reporting file for tax preparation, as requested by Rowan Copperwisp, CPA, for any noncash charitable gift.",
+      "priority": null,
+      "dueDate": "2026-12-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jasper said Rowan wants contemporaneous acknowledgements and valuation support for any noncash charitable gift, and the household has not yet assembled the nonprofit receipt requirements, account transfer confirmations, and year-end reporting file; follow-up on the documentation packet is needed for"
+    }
+  ]
+}

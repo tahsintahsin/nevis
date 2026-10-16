@@ -1,0 +1,35 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": "a31b8d29-0d06-5e04-b8da-6efad0beee42",
+      "title": "Coverage Compass Check",
+      "text": "Complete the inherited account beneficiary package for Elian Thimblefern, using the beneficiary claim packets from Velvet Acorn Custody, by 2024-02-09.",
+      "priority": null,
+      "dueDate": "2024-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09."
+    },
+    {
+      "templateId": "b69561c0-d94b-5366-9da1-17d83160108e",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Review Elian Thimblefern's financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items. Confirm whether new facts require updated recommendations or a follow-up meeting agenda. The post-inheritance plan refresh is due 2024-02-23.",
+      "priority": "medium",
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "the agreed post-inheritance plan refresh is due 2024-02-23."
+    },
+    {
+      "templateId": "a31b8d29-0d06-5e04-b8da-6efad0beee42",
+      "title": "Coverage Compass Check",
+      "text": "Review the estate arrangement for Elian Thimblefern after family changes, including updating the health-care agent and personal representative designations, with Apricot Compass Advisory, by 2024-03-08.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed estate arrangement review after family changes is due 2024-03-08."
+    }
+  ]
+}

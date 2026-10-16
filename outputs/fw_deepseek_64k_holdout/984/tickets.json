@@ -1,0 +1,75 @@
+{
+  "meetingId": "984",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare owner draw and tax set-aside worksheet",
+      "text": "Prepare a planning worksheet for Darian Nettlewhisk that separates household draws, tax set-asides, and business operating reserves for Copper Firefly Studio LLC, because retainer income and workshop payments will not arrive evenly.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to provide that worksheet by 2024-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Set up bookkeeping and CPA coordination",
+      "text": "Set up a chart of accounts, recurring bookkeeping schedule, and coordination format for Copper Firefly Studio LLC so Linnea Thimblefern of Paper Otter Tax can review estimated tax cash needs.",
+      "priority": null,
+      "dueDate": "2024-10-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those bookkeeping and coordination items by 2024-10-30."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain LLC entity and business account documents",
+      "text": "Obtain Copper Firefly Studio LLC's articles, EIN confirmation, operating agreement, and first business bank statement from Darian Nettlewhisk so the business balance sheet can be verified.",
+      "priority": null,
+      "dueDate": "2024-10-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to obtain those documents by 2024-10-18."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve business bank payment route",
+      "text": "Resolve a reliable payment route for Copper Firefly Studio LLC's recurring software and contractor invoices after Teacup Comet Bank blocked an initial vendor payment from the business checking account under a new-account transfer limit.",
+      "priority": null,
+      "dueDate": "2024-10-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the payment route by 2024-10-16."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile workshop deposits for Copper Firefly Studio",
+      "text": "Reconcile the two Mossy Meteor Payments workshop deposits against Copper Firefly Studio LLC's business checking activity, where only one matching deposit appears and the missing deposit may have gone to Darian Nettlewhisk's personal account.",
+      "priority": null,
+      "dueDate": "2024-10-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to reconcile the workshop deposits by 2024-10-22."
+    },
+    {
+      "templateId": null,
+      "title": "Compare self-employed retirement plan options",
+      "text": "Prepare a comparison of retirement plan structures for Copper Firefly Studio LLC that fit alongside Liora Nettlewhisk's ongoing salary deferrals and the household cash reserve target, ahead of Darian Nettlewhisk's planning review with Paper Otter Tax.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2024-11-15."
+    },
+    {
+      "templateId": "f4c9cebf-44bc-53c4-8301-3d3ac2e2e7cf",
+      "title": "Review insurance policies on a recurring cadence",
+      "text": "Every year, review each relevant insurance policy for coverage amount, premium status, ownership, beneficiary designations, cash value or loan activity if applicable, policy performance, and continued fit with Darian Nettlewhisk and Liora Nettlewhisk's financial plan. Note any changes in family status, retirement income needs, estate planning goals, or tax considerations that may require carrier or attorney coordination. Address the coverage gaps found in the pre-meeting review: Copper Firefly Studio LLC has no professional liability policy on file, and Darian Nettlewhisk's disability coverage was tied to his prior employer benefits at Pocket Lantern Analytics.",
+      "priority": "medium",
+      "dueDate": "2024-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those coverage items by 2024-11-01."
+    }
+  ]
+}

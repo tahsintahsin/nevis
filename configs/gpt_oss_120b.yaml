@@ -1,0 +1,13 @@
+# gpt-oss-120b (117B MoE, 5B active), default reasoning. Cheapest good option: hold-out 0.869 at $0.0028/meeting.
+# Settings exactly as run on validation and hold-out (see FRONTIER.md).
+provider: fireworks
+model: accounts/fireworks/models/gpt-oss-120b
+deployment: serverless
+prompt: main
+pipeline: single
+few_shot: none
+structured_output: json_schema
+temperature: 0.0
+max_tokens: 32000
+concurrency: 8
+notes: "gpt-oss-120b (117B MoE, 5B active), default reasoning. Cheapest good option: hold-out 0.869 at $0.0028/meeting."

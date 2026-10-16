@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"904\", \"followups\": [{\"evidence\": \"the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09.\", \"action\": \"Complete the inherited account beneficiary package (inherited IRA and taxable account claim paperwork) by 2024-02-09.\", \"templateId\": null}, {\"evidence\": \"the agreed post-inheritance plan refresh is due 2024-02-23.\", \"action\": \"Refresh the post-inheritance financial plan (retirement timing, cash reserve, tax, and allocation) by 2024-02-23.\", \"templateId\": \"b69561c0-d94b-5366-9da1-17d83160108e\"}, {\"evidence\": \"the agreed estate arrangement review after family changes is due 2024-03-08.\", \"action\": \"Review estate arrangement after family changes (2012 documents still naming Corin in primary fiduciary roles) by 2024-03-08.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 1426,
+    "output_tokens": 1353,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1279
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"904\", \"tickets\": [{\"title\": \"Complete inherited account beneficiary package\", \"text\": \"Complete the inherited account beneficiary package for Elian Thimblefern with Velvet Acorn Custody, covering the inherited IRA and taxable account claim paperwork, so the estate's next transfer batch can proceed by 2024-02-09.\", \"priority\": null, \"dueDate\": \"2024-02-09\", \"assigneeId\": null, \"subTasks\": [], \"templateId\": null, \"evidence\": \"the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09.\"}, {\"title\": \"Review financial plan assumptions and recommendations\", \"text\": \"Review Elian Thimblefern's financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items. Confirm whether new facts require updated recommendations or a follow-up meeting agenda. The post-inheritance refresh should incorporate the estimated $270,000 taxable brokerage allocation, $160,000 inherited IRA allocation, and 35% lake cabin interest, which materially change retirement timing, cash reserve position, tax picture, and investment allocation.\", \"priority\": \"medium\", \"dueDate\": \"2024-02-23\", \"assigneeId\": \"2ca7893e-43b2-59f5-aea6-48ca520deb27\", \"subTasks\": [], \"templateId\": \"b69561c0-d94b-5366-9da1-17d83160108e\", \"evidence\": \"the agreed post-inheritance plan refresh is due 2024-02-23.\"}, {\"title\": \"Review estate arrangement after family changes\", \"text\": \"Review Elian Thimblefern's estate arrangement after family changes, addressing the 2012 documents that still name late spouse Corin Mossbutton as primary health-care agent and personal representative, and incorporating the new inherited property and beneficiary coordination questions raised by the estate distribution.\", \"priority\": null, \"dueDate\": \"2024-03-08\", \"assigneeId\": null, \"subTasks\": [], \"templateId\": null, \"evidence\": \"the agreed estate arrangement review after family changes is due 2024-03-08.\"}]}",
+   "usage": {
+    "input_tokens": 1673,
+    "output_tokens": 1815,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1557
+   },
+   "stop": "stop"
+  }
+ ]
+}

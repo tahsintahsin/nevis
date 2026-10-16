@@ -1,0 +1,65 @@
+{
+  "meetingId": "735",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare forward-looking business cash runway and owner draw framework",
+      "text": "Prepare a forward-looking view that separates signed retainer revenue, possible project revenue, recurring software subscriptions, contractor costs, tax set-asides, and planned owner draws for Cloudberry Kite Studio. Help Janelle understand how long the business can operate without drawing from the taxable portfolio. Use the secure portal for any financial document sharing.",
+      "priority": "high",
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Janelle asked for a forward-looking view that separates signed retainer revenue, possible project revenue, recurring software subscriptions, contractor costs, tax set-asides, and planned owner draws so she can see how long the business can operate without drawing from the taxable portfolio. The agre"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile bookkeeping balance discrepancy",
+      "text": "Reconcile the bookkeeping dashboard balance with the Teacup Comet Bank business checking account balance. Two client deposits were marked as received in the dashboard but have not settled in the bank account. Resolve the discrepancy before the next payment batch.",
+      "priority": "medium",
+      "dueDate": "2024-12-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For bookkeeping balance reconciliation, the bookkeeping dashboard showed a higher available business balance than the Teacup Comet Bank business checking account because two client deposits were marked as received even though they had not settled in the bank account."
+    },
+    {
+      "templateId": null,
+      "title": "Separate business card feed from household spending tracker",
+      "text": "Separate the Teacup Comet Bank business card feed from the household spending tracker to prevent contractor platform fees and design software charges from appearing in personal spending categories. Reconfigure the feed to assign business transactions to the business tracker.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For business card feed separation, the Teacup Comet Bank business card feed is importing into the household spending tracker, causing contractor platform fees and design software charges to appear in personal spending categories."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate quarterly tax reserve with CPA",
+      "text": "Coordinate quarterly tax reserve planning with Harper Nettlewhisk of Paper Otter Tax. Provide projected gross receipts, expected deductible categories, Janelle’s planned owner draws, and Omar’s withholding information so the first self-employment tax reserve target can be estimated before the initial payment cycle for the new year. Use the secure portal for any financial document sharing.",
+      "priority": "high",
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Harper requested projected gross receipts, expected deductible categories, Janelle’s planned owner draws, and Omar’s withholding information so the first self-employment tax reserve target can be estimated before the initial payment cycle for the new year. The agreed follow-up is due 2025-01-17."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain signed W-9 forms and written scopes of work for subcontractors",
+      "text": "Obtain signed W-9 forms and written scopes of work for the two design subcontractor invoices in the business folder. Ensure vendor records are complete before the next payment batch due 2025-01-08.",
+      "priority": "medium",
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For subcontractor payment records, two design subcontractor invoices in the business folder did not include signed W-9 forms or written scopes of work, and the next payment batch depends on having complete vendor records for the files;"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve owner reimbursement method for home office and shared expenses",
+      "text": "Resolve the treatment of home internet, mobile phone, mileage, and shared workspace costs for Cloudberry Kite Studio records. Establish the owner reimbursement method for home office and shared expenses as Janelle transitions from employee reimbursement at Clockwork Clover Analytics to self-employment. Use the secure portal for any financial document sharing.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Janelle’s move from employee reimbursement at Clockwork Clover Analytics to self-employment leaves the treatment of home internet, mobile phone, mileage, and shared workspace costs unresolved for Cloudberry Kite Studio records."
+    }
+  ]
+}

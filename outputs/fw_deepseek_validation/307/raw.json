@@ -1,0 +1,18 @@
+{
+ "config": "fw_deepseek",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"307\", \"tickets\": [{\"templateId\": null, \"title\": \"Prepare equity vesting and pre-clearance calendar\", \"text\": \"Prepare a single calendar for Tobin Mossbutton covering Copper Firefly Systems option and RSU vesting dates, quarterly trading windows and blackout periods, and pre-clearance steps, since planning has relied on memory and portal screenshots.\", \"priority\": null, \"dueDate\": \"2026-08-12\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots.\"}, {\"templateId\": null, \"title\": \"Compare option exercise and sale scenarios\", \"text\": \"Prepare an illustration for Tobin Mossbutton comparing same-day sale, cash exercise, and partial exercise of his Copper Firefly Systems options against household cash reserves and payroll withholding capacity.\", \"priority\": null, \"dueDate\": \"2026-08-19\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison.\"}, {\"templateId\": null, \"title\": \"Collect equity plan and insider trading documents\", \"text\": \"Collect from Tobin Mossbutton the full Copper Firefly Systems equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions, as only the current portal balance has been provided.\", \"priority\": null, \"dueDate\": \"2026-08-05\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance.\"}]}",
+   "usage": {
+    "input_tokens": 1999,
+    "output_tokens": 3159,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2438
+   },
+   "stop": "stop"
+  }
+ ]
+}

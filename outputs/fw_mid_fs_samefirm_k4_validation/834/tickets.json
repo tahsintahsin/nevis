@@ -1,0 +1,75 @@
+{
+  "meetingId": "834",
+  "tickets": [
+    {
+      "templateId": "eeaa9b5d-78e4-55ba-98d9-0f6ae221111e",
+      "title": "Follow up on account security concern",
+      "text": "Follow up on the unrecognized Velvet Acorn Custody login alert for Paige Lanternmoss. Cover custodian escalation, evidence documentation, credential reset coordination, and a phone update to Paige. Evidence includes Paige’s forwarded login alert for a session she did not recognize and her statement that she could not verify whether recent account activity was legitimate.",
+      "priority": "high",
+      "dueDate": "2025-11-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the unrecognized Velvet Acorn Custody login alert, evidence included Paige’s forwarded login alert for a session she did not recognize and her statement that she could not verify whether recent account activity was legitimate."
+    },
+    {
+      "templateId": "d59658c9-3bcc-573c-a34e-479818bc4c60",
+      "title": "Follow up on missing signature",
+      "text": "Contact Darin Lanternmoss through the approved communication channel to explain the required signature location on the household authorization package and confirm secure return of the signed page. The portal upload contains Paige’s signed pages but not Darin’s signature page.",
+      "priority": "medium",
+      "dueDate": "2025-11-10",
+      "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9",
+      "subTasks": [],
+      "evidence": "For the household authorization package, the portal upload contains Paige’s signed pages but not Darin’s signature page. They agreed on follow-up by 2025-11-10 to contact Darin through the approved channel, explain the required signature location, and confirm secure return of the signed page."
+    },
+    {
+      "templateId": "340a01fd-6530-54e3-8336-c6224508592f",
+      "title": "Track custodian transfer status",
+      "text": "Check the Velvet Acorn Custody transfer tracker for the taxable account move from Teacup Comet Brokerage. Document whether remaining assets or cost basis details are still pending, noting that securities were received but the cost basis file and a small residual cash sweep do not match the sending statement.",
+      "priority": "medium",
+      "dueDate": "2025-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the taxable account move, the Velvet Acorn Custody transfer tracker shows securities received from Teacup Comet Brokerage, but the cost basis file and a small residual cash sweep do not match the sending statement Paige uploaded. They agreed on follow-up by 2025-11-12 to check the receiving cust"
+    },
+    {
+      "templateId": null,
+      "title": "Review IRA beneficiary records and custodian process",
+      "text": "Confirm the requested IRA beneficiary designations for Paige Lanternmoss, including revised primary and contingent percentages for Darin Lanternmoss, Liora Lanternmoss, and the Willow Pudding Family Trust. Identify the correct custodian process and flag any trust wording that may require estate attorney review.",
+      "priority": null,
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Paige also requested changes to the IRA beneficiary records, including revised primary and contingent percentages for Darin, Liora, and the Willow Pudding Family Trust. They agreed on follow-up by 2025-11-14 to confirm the requested designations, identify the correct custodian process, and flag any "
+    },
+    {
+      "templateId": "ff5229e6-e93f-5a25-852e-f97d59d919cf",
+      "title": "Review insurance policy details",
+      "text": "Obtain current premium schedule, conversion language, and recent policy statements for the Silver Marmot Life term policies held by Paige and Darin Lanternmoss. Current policy evidence is needed to assess coverage timing, premium changes, and beneficiary alignment.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "During file review, the client file contained declarations pages for the Silver Marmot Life term policies but not the current premium schedule, conversion language, or recent policy statements. Current policy evidence is needed before Apricot Compass can assess coverage timing, premium changes, and "
+    },
+    {
+      "templateId": "b91c5012-f119-507f-91de-d78d8599cb42",
+      "title": "Review charitable transfer readiness",
+      "text": "Review the proposed gift of appreciated Copper Firefly Systems shares to Marzipan Meadow Arts Fund during Paige Lanternmoss’s year-end giving window. Cover the proposed asset, charity delivery instructions, tax coordination questions, and confirmation evidence needed for Paige’s records.",
+      "priority": "medium",
+      "dueDate": "2025-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Paige raised a possible gift of appreciated Copper Firefly Systems shares to Marzipan Meadow Arts Fund during her year-end giving window. They agreed on follow-up by 2025-11-21 covering the proposed asset, charity delivery instructions, tax coordination questions, and confirmation evidence needed fo"
+    },
+    {
+      "templateId": null,
+      "title": "Update retirement income scenario with Copper Firefly Systems voluntary separation offer",
+      "text": "Update the retirement income scenario using the Copper Firefly Systems voluntary separation offer terms, Paige Lanternmoss’s household spending, cash reserves, and Darin Lanternmoss’s variable income assumptions. The offer could move her full-time retirement earlier than the prior planning assumption.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Paige also reported that Copper Firefly Systems presented a voluntary separation offer that could move her full-time retirement earlier than the prior planning assumption. An updated retirement income scenario is needed using the offer terms, household spending, cash reserves, and Darin’s variable i"
+    }
+  ]
+}

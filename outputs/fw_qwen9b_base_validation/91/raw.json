@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"91\",\n\"tickets\": [\n{\n\"title\": \"Evaluate Paper Otter Life lapse and reinstatement options\",\n\"text\": \"Evaluate the lapse and reinstatement options for Soren Cloudpuddle's $750,000 Paper Otter Life term policy following the draft failure notice caused by the Teacup Comet Bank account replacement, aiming to preserve existing underwriting terms.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2024-12-13\",\n\"assigneeId\": \"95cc9ceb-528c-5374-99cd-2d91aa58985d\",\n\"templateId\": \"6bd8c5cf-3bfc-532d-8ba8-fe8f4bc92166\",\n\"evidence\": \"2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms.\"\n,\n\"subTasks\": []\n},\n{\n\"title\": \"Review term coverage and disability protection needs\",\n\"text\": \"Review the term coverage and disability protection needs for Soren Cloudpuddle given Lila Cloudpuddle's reduction to part-time work, which increases household dependence on his salary amidst mortgage, childcare, and education funding exposure.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2024-12-20\",\n\"assigneeId\": \"95cc9ceb-528c-5374-99cd-2d91aa58985d\",\n\"templateId\": null,\n\"evidence\": \"2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure.\"\n,\n\"subTasks\": []\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2234,
+    "output_tokens": 441,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

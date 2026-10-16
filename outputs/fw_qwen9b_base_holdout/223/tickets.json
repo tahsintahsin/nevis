@@ -1,0 +1,125 @@
+{
+  "meetingId": "223",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm disability policy grace status and funding needs",
+      "text": "Help Rowan Copperwisp confirm the amount needed to keep his Coral Badger Assurance disability income policy active and outline the carrier's processing steps. This addresses the policy's current grace status following the closure of the previous draft bank account.",
+      "priority": "high",
+      "dueDate": "2025-03-14",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For the disability policy grace status, Coral Badger Assurance displayed Rowan’s disability income policy in grace status after drafts stopped from the closed bank account, and Rowan asked Apricot Compass Advisory to help confirm the amount needed to keep the policy active and the carrier’s processi"
+    },
+    {
+      "templateId": "fbbdddd5-865b-51c3-a01a-013cd6ced637",
+      "title": "Verify recurring payment change",
+      "text": "Move the Coral Badger Assurance premium draft for Rowan Copperwisp from the closed bank account to the active Teacup Comet Bank account and retain payment confirmation in the client file.",
+      "priority": "high",
+      "dueDate": "2025-03-17",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For the recurring premium draft update, Rowan requested that the Coral Badger premium draft be moved from the closed bank account to the household’s active Teacup Comet Bank account and that payment confirmation be retained in the client file. The agreed follow-up is due March 17, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Compare umbrella renewal terms to household profile",
+      "text": "Compare the Pocket Lantern Insurance Agency umbrella renewal terms against Rowan and Nadia Copperwisp's current property, vehicle, and liability profile, noting the higher premium and renewal action window.",
+      "priority": "medium",
+      "dueDate": "2025-03-21",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For the umbrella renewal review, the Pocket Lantern Insurance Agency renewal packet showed a higher umbrella premium and a renewal action window, and Rowan asked for a comparison of the renewal terms against the household’s current property, vehicle, and liability profile. The agreed follow-up is du"
+    },
+    {
+      "templateId": null,
+      "title": "Add cottage coverage to property schedule",
+      "text": "Address the unresolved coverage question for the lakeside cottage by adding it to the Pocket Lantern Insurance Agency property schedule, as the current packet only lists the primary residence.",
+      "priority": "medium",
+      "dueDate": "2025-03-20",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For cottage scheduling on property coverage, the Pocket Lantern renewal packet scheduled only the primary residence even though the family owns an unmortgaged lakeside cottage, creating an unresolved coverage question for the cottage and related liability exposure. The agreed follow-up is due March "
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing insurance declarations and packets",
+      "text": "Collect the current homeowners declarations page, cottage property declarations page, auto policy declarations, and the full umbrella renewal packet from Rowan and Nadia Copperwisp, which may be split between the Pocket Lantern portal and Nadia's email.",
+      "priority": "medium",
+      "dueDate": "2025-03-18",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For renewal document collection, the file did not include the current homeowners declarations page, cottage property declarations page, auto policy declarations, or the full umbrella renewal packet, and Rowan said the documents may be split between the Pocket Lantern portal and Nadia’s email. The ag"
+    },
+    {
+      "templateId": null,
+      "title": "Review life insurance needs and coverage adequacy",
+      "text": "Review whether Rowan Copperwisp's term life policy and Nadia Copperwisp's employer-only coverage still match the household's mortgage, education, and survivor-income goals given Rowan's variable self-employment income and Nadia's larger share of predictable cash flow.",
+      "priority": "medium",
+      "dueDate": "2025-04-04",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For life insurance needs after income change, Rowan’s self-employment income is variable and Nadia’s compensation now represents a larger share of predictable household cash flow, prompting a review of whether Rowan’s term coverage and Nadia’s employer-only coverage still match the mortgage, educati"
+    },
+    {
+      "templateId": null,
+      "title": "Confirm beneficiary designations for protection policies",
+      "text": "Confirm and update beneficiary designations for Rowan Copperwisp's term life policy, Nadia Copperwisp's employer life coverage, and related retirement accounts used in the survivor plan, as these were not in the advisory file.",
+      "priority": "medium",
+      "dueDate": "2025-03-28",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For beneficiary designations for protection policies, Apricot Compass Advisory noted during the insurance review that current beneficiary confirmations were not in the advisory file for Rowan’s term life policy, Nadia’s employer life coverage, or related retirement accounts used in the survivor plan"
+    },
+    {
+      "templateId": "b823f1eb-7d40-54c3-9ff9-2000a502ca09",
+      "title": "Request estate document copies",
+      "text": "Update the advisory file with current wills, powers of attorney, health care directives, and attorney correspondence for Rowan and Nadia Copperwisp to coordinate the insurance review with guardian and survivor-liquidity planning.",
+      "priority": "medium",
+      "dueDate": "2025-04-11",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For the estate document refresh for guardianship and insurance coordination, Rowan asked for the advisory file to be updated with the current wills, powers of attorney, health care directives, and any attorney correspondence so the insurance review can be coordinated with the household’s guardian an"
+    },
+    {
+      "templateId": "34cf1a46-663b-5e6d-9669-0389ee316496",
+      "title": "Prepare liquidity planning review",
+      "text": "Prepare a reserve view for Rowan and Nadia Copperwisp showing how to pay insurance premiums and cover $32,000 in cottage roof and dock repairs without selling investments at an inconvenient time, considering their $94,000 in checking/savings and earmarked funds.",
+      "priority": "medium",
+      "dueDate": "2025-03-26",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For the liquidity plan for insurance premiums and cottage repairs, the household has cash earmarked for taxes and tuition while also facing irregular insurance premiums and cottage repair spending, and Rowan requested a reserve view showing how to pay premiums without selling investments at an incon"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate tax review of insurance premiums",
+      "text": "Coordinate with Rowan Copperwisp's CPA, Iris Thimblefern of Plum Zeppelin Tax Partners, to verify if disability, business overhead, or property coverage premiums are tracked correctly for Rowan's self-employed records and household tax planning.",
+      "priority": "medium",
+      "dueDate": "2025-04-02",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For tax coordination for insurance and self-employment planning, Rowan asked Apricot Compass Advisory to coordinate with Iris Thimblefern on whether any disability, business overhead, or property coverage premiums are tracked correctly for Rowan’s self-employed records and household tax planning. Th"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare benefit-election questions for Nadia",
+      "text": "Prepare benefit-election questions for Nadia Copperwisp regarding supplemental life, disability, legal coverage, and beneficiary records to be addressed when her employer's open-enrollment window arrives later in 2025.",
+      "priority": "medium",
+      "dueDate": "2025-08-15",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For Nadia’s employer benefits review, her employer benefits are expected to come up for election later in the year, and the meeting identified a need to prepare benefit-election questions about supplemental life, disability, legal coverage, and beneficiary records before the enrollment materials arr"
+    },
+    {
+      "templateId": null,
+      "title": "Analyze investment concentration impact on insurance reserves",
+      "text": "Analyze how the $118,000 concentrated holding in Copper Firefly Robotics stock in the joint taxable account affects Rowan and Nadia Copperwisp's ability to raise cash for insurance premiums, repairs, or deductibles without creating tax consequences.",
+      "priority": "medium",
+      "dueDate": "2025-04-09",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "For investment concentration and insurance reserve interaction, Apricot Compass Advisory’s account review noted that the taxable account contains a sizable appreciated position in Copper Firefly Robotics, which affects how readily the household can raise cash for premiums, repairs, or deductibles wi"
+    }
+  ]
+}

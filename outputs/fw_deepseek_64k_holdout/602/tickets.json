@@ -1,0 +1,94 @@
+{
+  "meetingId": "602",
+  "tickets": [
+    {
+      "templateId": "b413f724-2319-5621-8e38-9828f9b07b41",
+      "title": "Build retirement income plan",
+      "text": "Create a retirement income plan that converts Evelyn Lanternmoss's goals, available resources, expected income sources, tax considerations, and portfolio constraints into a sustainable withdrawal and cash-flow strategy. Document assumptions, identify planning gaps, and prepare recommendations for advisor review. Revise the monthly income plan to reflect Adrian Lanternmoss's lost $2,840 monthly Clockwork Clover Railworks pension, Evelyn's $38,000 part-time wages at Moonbadger Museum, the $2,150 monthly mortgage payment, available cash reserves, Social Security timing options, and potential withdrawals from the Velvet Acorn Custody taxable and retirement accounts.",
+      "priority": "high",
+      "dueDate": "2026-01-23",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather retirement income inputs",
+          "text": "Collect current spending targets, anticipated retirement timing, pension or Social Security estimates, account types, cash reserves, recurring liabilities, and known major upcoming expenses.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Model withdrawal and tax sequencing",
+          "text": "Compare withdrawal order options across taxable, tax-deferred, and tax-free accounts. Note estimated tax brackets, required minimum distribution considerations, and cash-flow timing tradeoffs.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Stress-test plan assumptions",
+          "text": "Evaluate the plan under lower return, higher inflation, longer longevity, and unexpected expense scenarios. Flag assumptions that materially change the recommendation.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare advisor summary",
+          "text": "Summarize recommended income sources, annual review triggers, tax-aware implementation steps, and open questions for client discussion.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Evelyn asked for a revised monthly income plan reflecting Adrian’s lost pension payment, her part-time wages, available cash reserves, the mortgage payment, Social Security timing options, and potential withdrawals from taxable and retirement accounts; the agreed follow-up is due 2026-01-23."
+    },
+    {
+      "templateId": null,
+      "title": "Compare pension survivor election against plan file",
+      "text": "Compare the Clockwork Clover Railworks pension survivor election packet with the old plan file and Evelyn Lanternmoss's cash-flow assumptions, and prepare the survivor election response by the recorded deadline.",
+      "priority": null,
+      "dueDate": "2026-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "comparison with the old plan file and cash-flow assumptions is needed by 2026-01-06"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain death certificate and fiduciary authority documents",
+      "text": "Obtain death certificate copies and the attorney's fiduciary authority document for Evelyn Lanternmoss so Velvet Acorn Custody can review retitling and inherited account paperwork for Adrian Lanternmoss's traditional IRA and the joint taxable account.",
+      "priority": null,
+      "dueDate": "2026-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those documents are needed by 2026-01-09 before Velvet Acorn Custody can review retitling or inherited account paperwork for Adrian’s IRA and the joint taxable account"
+    },
+    {
+      "templateId": "3fc9118d-f924-58f9-8e5c-38a330f56058",
+      "title": "Prepare beneficiary update request",
+      "text": "Use this template to request beneficiary update details without entering client data.\n\nClient name: Evelyn Lanternmoss\nAccount or policy type: Traditional IRA and Roth IRA\nCustodian, insurer, or plan provider: Velvet Acorn Custody\nPrimary beneficiary name(s): Adrian Lanternmoss (deceased)\nPrimary beneficiary relationship(s): spouse\nPrimary beneficiary percentage(s): [__________]\nContingent beneficiary name(s): Lila Lanternmoss\nContingent beneficiary relationship(s): daughter\nContingent beneficiary percentage(s): [__________]\nPer stirpes or per capita preference, if applicable: [__________]\nTrust or entity beneficiary details, if applicable: [__________]\nRequired forms requested: [__________]\nClient authorization method: [__________]\nNotes or special instructions: Adrian Lanternmoss remains listed as primary beneficiary; no documented contingent beneficiary percentage confirmation for Lila Lanternmoss.\n\nUpdate Evelyn Lanternmoss's beneficiary designations on her traditional IRA and Roth IRA at Velvet Acorn Custody and confirm contingent beneficiary percentages for Lila Lanternmoss.",
+      "priority": null,
+      "dueDate": "2026-01-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Adrian still listed as primary beneficiary on Evelyn’s traditional IRA and Roth IRA, with no documented contingent beneficiary percentage confirmation for Lila Lanternmoss; the agreed follow-up is due 2026-01-16."
+    },
+    {
+      "templateId": null,
+      "title": "Identify life insurance claim forms and evidence",
+      "text": "Identify the claim forms and evidence required for Adrian Lanternmoss's $250,000 term life policy with Buttonwood Balloon Insurance and the $75,000 group life benefit through Clockwork Clover Railworks, and share them with Evelyn Lanternmoss.",
+      "priority": null,
+      "dueDate": "2026-01-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Evelyn requested help identifying the claim forms and evidence required for Adrian’s Buttonwood Balloon Insurance term policy and Clockwork Clover Railworks group life benefit; the agreed follow-up is due 2026-01-05."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve mortgage auto-draft after checking account closure",
+      "text": "Resolve the mortgage auto-draft for Evelyn Lanternmoss's home, since the Teacup Comet Bank survivor services note says closing Adrian Lanternmoss's checking account may stop the draft while the mortgage portal still shows the next draft source as that closed account.",
+      "priority": null,
+      "dueDate": "2025-12-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2025-12-29 because the Teacup Comet Bank survivor services note says Adrian’s checking account closure may stop the mortgage auto-draft, while the mortgage portal still shows the next draft source as Adrian’s closed checking account."
+    }
+  ]
+}

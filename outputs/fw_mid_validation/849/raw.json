@@ -1,0 +1,18 @@
+{
+ "config": "fw_mid",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"849\", \"tickets\": [{\"title\": \"Update household profile\", \"text\": \"Update the household profile to record Lena as dependent and capture Nadia's revised Cloudberry Kite parental-leave income estimate. Also update childcare/medical cash flow based on the agreed changes.\", \"priority\": \"medium\", \"dueDate\": \"2025-02-14\", \"assigneeId\": \"8423b23a-973f-539d-b62d-62a0ac491015\", \"subTasks\": [], \"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate.\",\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\"}, {\"title\": \"Coordinate retirement plan rollover request\", \"text\": \"Coordinate the retirement plan rollover request for Owen Pebblefizz's 401(k) and Nadia's group life benefit review, including obtaining both spouses' disability details and Owen's individual term policy declaration page.\", \"priority\": \"medium\", \"dueDate\": \"2025-02-18\", \"assigneeId\": \"a937bf6e-3ad5-5284-b240-883a5ae3e40a\", \"subTasks\": [{\"title\": \"Obtain Owen's individual term policy declaration page\", \"text\": \"Obtain Owen's individual term policy declaration page\", \"priority\": \"medium\", \"assigneeId\": \"a937bf6e-3ad5-5284-b240-883a5ae3e40a\", \"dueDate\": null}, {\"title\": \"Obtain both spouses' disability details\", \"text\": \"Obtain both spouses' disability details\", \"priority\": \"medium\", \"assigneeId\": \"a937bf6e-3ad5-5284-b240-883a5ae3e40a\", \"dueDate\": null}], \"evidence\": \"Needed by 2025-02-18: Owen's individual term policy declaration page and both spouses' disability details; only Nadia's group life benefit summary is in portal, leaving protection review incomplete.\", \"templateId\": \"6d91b3c5-f350-52b1-949e-0902b766d90a\"}, {\"title\": \"Provide family-attorney checklist\", \"text\": \"Provide a family-attorney checklist because the 2021 will and healthcare documents predate Lena and lack a minor-child guardian.\", \"priority\": \"medium\", \"dueDate\": \"2025-02-21\", \"assigneeId\": \"8423b23a-973f-539d-b62d-62a0ac491015\", \"subTasks\": [], \"evidence\": \"By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian.\", \"templateId\": \"486c718d-7936-5ae9-bfc8-5eea34decf10\"}]}",
+   "usage": {
+    "input_tokens": 3925,
+    "output_tokens": 799,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

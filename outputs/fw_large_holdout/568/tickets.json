@@ -1,0 +1,157 @@
+{
+  "meetingId": "568",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare benefits enrollment cash‑flow tradeoffs",
+      "text": "Compare the Cloudberry Kite benefits enrollment options for Daniel Pebblefizz, evaluating cash‑flow and risk trade‑offs before the October 15 enrollment deadline, with the analysis due by 2024‑10‑09.",
+      "priority": null,
+      "dueDate": "2024-10-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare those choices by 2024-10-09."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain dependent verification documents",
+      "text": "Obtain the required verification files for Sofia Pebblefizz, Noah Pebblefizz, and Ella Pebblefizz to finalize family health coverage in the Cloudberry Kite benefits portal, needed by 2024‑10‑11.",
+      "priority": null,
+      "dueDate": "2024-10-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The verification remains needed by 2024-10-11."
+    },
+    {
+      "templateId": null,
+      "title": "Address new retirement contribution election",
+      "text": "Address Daniel Pebblefizz’s new employer 401(k) contribution election, determining pretax versus Roth allocations and coordinating with Sofia’s payroll savings, to be completed by 2024‑10‑10.",
+      "priority": null,
+      "dueDate": "2024-10-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the new employer retirement contribution election by 2024-10-10."
+    },
+    {
+      "templateId": null,
+      "title": "Evaluate Moonbadger Robotics retirement options",
+      "text": "Evaluate options for Daniel Pebblefizz’s Moonbadger Robotics 401(k) assets—including leaving in‑plan, rolling to his IRA, or transferring to another eligible account—considering fees, investment menu, creditor protection, and company stock exposure, due 2024‑10‑18.",
+      "priority": null,
+      "dueDate": "2024-10-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up on the Moonbadger Robotics retirement plan options is due 2024-10-18."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Cloudberry Kite equity compensation records",
+      "text": "Collect the restricted stock unit grant agreement, vesting schedule exhibit, and stock plan portal access for Daniel Pebblefizz to model tax withholding and concentration exposure, needed by 2024‑10‑21.",
+      "priority": null,
+      "dueDate": "2024-10-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Those records remain needed by 2024-10-21."
+    },
+    {
+      "templateId": null,
+      "title": "Review payroll withholding adjustments",
+      "text": "Review Daniel Pebblefizz’s payroll withholding calculations in light of his higher base salary, bonus target, sign‑on bonus, and expected equity compensation to ensure adequate tax withholding, due 2024‑10‑25.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review payroll withholding by 2024-10-25."
+    },
+    {
+      "templateId": "06ce3b8f-97db-50d6-b568-9379f45c3196",
+      "title": "Resolve account access recovery issue",
+      "text": "Help Daniel Pebblefizz regain access to the Velvet Acorn Custody portal, confirm identity requirements, document the resolution path, and note any follow‑up security steps. The issue must be resolved by 2024‑10‑04.",
+      "priority": "high",
+      "dueDate": "2024-10-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve the Velvet Acorn Custody portal access issue by 2024-10-04."
+    },
+    {
+      "templateId": null,
+      "title": "Investigate 401(k) value discrepancy",
+      "text": "Investigate the discrepancy in Daniel Pebblefizz’s Moonbadger Robotics 401(k) balance, which appears tied to a pending final payroll contribution and stock price movement, needed by 2024‑10‑11.",
+      "priority": null,
+      "dueDate": "2024-10-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Moonbadger Robotics 401(k) value discrepancy remains needed by 2024-10-11."
+    },
+    {
+      "templateId": null,
+      "title": "Gather beneficiary designation evidence",
+      "text": "Gather and review beneficiary designation evidence for Daniel Pebblefizz’s retirement accounts and employer benefit plans, including the new Cloudberry Kite plans, the former Moonbadger Robotics 401(k), and the Velvet Acorn IRA, by 2024‑10‑15.",
+      "priority": null,
+      "dueDate": "2024-10-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to gather or review beneficiary designation evidence across retirement and employer benefit accounts by 2024-10-15."
+    },
+    {
+      "templateId": "8b975178-4377-5a72-9498-ef5109688811",
+      "title": "Review debt refinance opportunity",
+      "text": "Run a structured refinance review for Daniel Pebblefizz’s home equity line of credit with a $48,000 balance and 8.4% variable rate. Confirm current loan terms, proposed terms, transaction costs, cash‑flow impact, break‑even period, tax considerations, and any collateral or credit implications before preparing a recommendation. The analysis is due by 2024‑10‑22.",
+      "priority": "medium",
+      "dueDate": "2024-10-22",
+      "assigneeId": "ea2ae5af-1784-5dd7-bcd9-4499cc18d130",
+      "subTasks": [
+        {
+          "title": "Gather current and proposed loan details",
+          "text": "Collect current balance, rate type, interest rate, payment, remaining term, prepayment penalties, collateral details, and proposed refinance terms from the client or lender.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "78c72d9a-42b1-5f04-988f-6d410a5f1f57"
+        },
+        {
+          "title": "Model cash-flow and break-even impact",
+          "text": "Compare monthly payment change, total interest cost, closing costs, break-even period, and liquidity impact under the current and proposed debt structures.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "06b7e934-9ce9-5a0b-957c-7634f18d4e13"
+        },
+        {
+          "title": "Prepare advisor recommendation summary",
+          "text": "Summarize pros, cons, planning tradeoffs, open questions, and whether the refinance appears aligned with the client's goals and risk profile.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ea2ae5af-1784-5dd7-bcd9-4499cc18d130"
+        }
+      ],
+      "evidence": "The agreed follow-up is to analyze the home equity line refinance or payoff question by 2024-10-22."
+    },
+    {
+      "templateId": null,
+      "title": "Review disability insurance coverage gap",
+      "text": "Review the gap in disability insurance coverage for Daniel Pebblefizz, comparing Cloudberry Kite group disability options against household mortgage, dependent expenses, and Sofia’s income, to be completed by 2024‑10‑17.",
+      "priority": null,
+      "dueDate": "2024-10-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the disability insurance gap by 2024-10-17."
+    },
+    {
+      "templateId": null,
+      "title": "Collect prior employer final pay evidence",
+      "text": "Collect the final paycheck, unused vacation payout, and retirement plan contribution posting evidence for Daniel Pebblefizz’s prior employer Moonbadger Robotics, needed by 2024‑11‑01.",
+      "priority": null,
+      "dueDate": "2024-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The prior employer final pay and tax evidence remains needed by 2024-11-01."
+    },
+    {
+      "templateId": null,
+      "title": "Review education savings contribution pace",
+      "text": "Review whether to adjust the recurring education savings deposits for Noah and Ella Pebblefizz without reducing emergency reserves below the household comfort range for Daniel Pebblefizz, due by 2024‑10‑29.",
+      "priority": null,
+      "dueDate": "2024-10-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the education savings contribution pace by 2024-10-29."
+    }
+  ]
+}

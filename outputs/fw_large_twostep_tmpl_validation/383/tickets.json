@@ -1,0 +1,114 @@
+{
+  "meetingId": "383",
+  "tickets": [
+    {
+      "templateId": "7fb8b0a0-5b5e-5c6d-b065-57aa5bb6a365",
+      "title": "Open new client account",
+      "text": "Open a joint taxable brokerage account for Rowan Bramblequill and Lila Nettlewhisk at Velvet Acorn Custody to receive monthly surplus from the new household checking arrangement, with the account to be established by July 12, 2024.",
+      "priority": null,
+      "dueDate": "2024-07-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to set up the joint taxable account, with follow-up due July 12, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain marriage certificate and ID for account records",
+      "text": "Obtain and upload the marriage certificate and Lila Nettlewhisk’s identification to Velvet Acorn Custody’s account records for Rowan Bramblequill and Lila Nettlewhisk by June 28, 2024.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the marriage documentation for account records by June 28, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete marriage-based beneficiary review",
+      "text": "Complete a marriage-based beneficiary review for Rowan Bramblequill’s traditional IRA, Roth IRA, Copper Firefly Design Studio 401(k), term life policy issued by Silver Marmot Insurance, and group life coverage, as well as Lila Nettlewhisk’s workplace retirement plan, updating all designations by July 17, 2024.",
+      "priority": null,
+      "dueDate": "2024-07-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete that marriage-based beneficiary review by July 17, 2024."
+    },
+    {
+      "templateId": "ea72a089-c993-5e8f-841d-f6200220eb97",
+      "title": "Guide benefits enrollment decision and submission",
+      "text": "Use this workflow when Rowan Bramblequill and Lila Nettlewhisk need support reviewing available benefits, selecting appropriate coverage, and confirming enrollment completion. Keep recommendations coordinated with Rowan and Lila’s broader financial plan, tax considerations, and liquidity needs. Review the health, dental, vision, HSA, disability, life insurance, and payroll deduction options available to Rowan at Copper Firefly Design Studio and Lila at Moonbadger Animal Clinic, compare them, and prepare recommendation for elections by July 10, 2024.",
+      "priority": "medium",
+      "dueDate": "2024-07-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect benefits materials and key enrollment constraints",
+          "text": "Request the current benefits guide, plan comparison sheets, premium schedule, employer contribution details, enrollment window, and any life event documentation needed for eligibility.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b8e2c7b7-c2eb-5c77-bd00-b52a6274fbbe"
+        },
+        {
+          "title": "Review plan fit and planning tradeoffs",
+          "text": "Compare health, disability, life insurance, HSA/FSA, retirement plan, deferred compensation, and equity-related elections as applicable. Note cash flow impact, tax implications, beneficiary needs, and coordination with existing coverage.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "023f23f9-31e8-5017-b1bd-fb41f9bd99f0"
+        },
+        {
+          "title": "Prepare enrollment recommendations for client discussion",
+          "text": "Summarize proposed elections, open questions, documents needed, and any items requiring confirmation from the employer benefits team or outside tax professional.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b8e2c7b7-c2eb-5c77-bd00-b52a6274fbbe"
+        },
+        {
+          "title": "Confirm submission and retain evidence",
+          "text": "After the client submits elections, request confirmation pages or benefit summaries and save them to the client record for future planning reference.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "b3a630c1-61a9-5cb8-80b2-77d67083ab27"
+        }
+      ],
+      "evidence": "They agreed to the employer benefits election review, with follow-up due July 10, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile equity vesting records",
+      "text": "Reconcile Rowan Bramblequill’s restricted stock unit vesting schedule and nonqualified stock option data between his personal spreadsheet and the Copper Firefly Design Studio equity portal, ensuring accurate cash flow and tax withholding projections by July 22, 2024.",
+      "priority": null,
+      "dueDate": "2024-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the equity vesting records by July 22, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian address and portal issue",
+      "text": "Resolve the address discrepancy on Rowan Bramblequill’s and Lila Nettlewhisk’s records with Teacup Comet Bank and restore Lila’s portal access, correcting the mailing address and ensuring both spouses can view account information by July 3, 2024.",
+      "priority": null,
+      "dueDate": "2024-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to address the custodian address and portal access issue by July 3, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate document updates",
+      "text": "Coordinate updates to Rowan Bramblequill’s estate documents prepared by Paper Otter Legal Group to incorporate Lila Nettlewhisk as a spouse, reflect joint ownership of the Portland townhouse and Salem condo, and designate appropriate decision‑makers for financial and health care matters by August 2, 2024.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to estate document coordination by August 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate Oregon‑Washington residency and tax",
+      "text": "Coordinate Oregon‑Washington residency and tax matters for Rowan Bramblequill and Lila Nettlewhisk, including updating mailing address, legal residence, payroll withholding, and reflecting the Portland townhouse and Salem condo in planning records, in collaboration with CPA Sasha Cloudpuddle, by July 26, 2024.",
+      "priority": null,
+      "dueDate": "2024-07-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to residency and tax coordination, with follow-up due July 26, 2024."
+    }
+  ]
+}

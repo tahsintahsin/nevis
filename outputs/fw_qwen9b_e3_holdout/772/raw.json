@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e3",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"772\", \"tickets\": [{\"title\": \"Evaluate appreciated shares for Nadia’s charitable gift\", \"text\": \"Evaluate appreciated shares in Nadia Willowdoodle’s Velvet Acorn Custody joint taxable account for her planned $18,000 gift to the Moonbadger Literacy Foundation. Assess the shares’ suitability before holiday travel.\", \"priority\": null, \"dueDate\": \"2023-11-15\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by November 15, 2023 to evaluate appreciated shares for Nadia’s planned $18,000 Moonbadger Literacy Foundation gift before holiday travel.\"}, {\"title\": \"Obtain latest restricted stock vesting or withholding detail\", \"text\": \"Obtain the latest restricted stock vesting confirmation or payroll withholding detail from Cloudberry Kite Robotics by October 20, 2023 to estimate Nadia Willowdoodle’s 2023 tax exposure.\", \"priority\": null, \"dueDate\": \"2023-10-20\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"By October 20, 2023, the latest restricted stock vesting confirmation or payroll withholding detail from Cloudberry Kite Robotics is needed to estimate 2023 tax exposure.\"}, {\"title\": \"Compare cash, bonus, college savings, taxable investment, and mortgage principal\", \"text\": \"Review cash above the household’s stated six-month reserve target and Nadia’s expected December bonus for college savings, taxable investment, and mortgage principal comparisons.\", \"priority\": null, \"dueDate\": \"2023-12-08\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by December 8, 2023 to review cash above the stated six-month reserve target and the expected bonus for college savings, taxable investment, and mortgage principal comparisons.\"}]}",
+   "usage": {
+    "input_tokens": 1137,
+    "output_tokens": 455,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

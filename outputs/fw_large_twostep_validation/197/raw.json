@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\":\"197\",\n\"followups\":[\n{\n\"evidence\":\"The agreed follow-up is to coordinate the exception by August 25, 2026.\",\n\"action\":\"Coordinate the IRA transfer address exception with Paper Otter Retirement Services and Velvet Acorn Custody.\"\n},\n{\n\"evidence\":\"The agreed follow-up is to address the mismatch by August 22, 2026.\",\n\"action\":\"Correct the joint account registration mismatch to align tenancy type.\"\n},\n{\n\"evidence\":\"The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026.\",\n\"action\":\"Resolve the duplicate temporary taxable account shell at Velvet Acorn Custody.\"\n},\n{\n\"evidence\":\"The agreed follow-up is to handle it by August 28, 2026.\",\n\"action\":\"Process the restricted security manual transfer for the Copper Firefly Semiconductors position outside the standard ACATS window.\"\n},\n{\n\"evidence\":\"The agreed follow-up is to address the cash holdback by August 21, 2026.\",\n\"action\":\"Address the cash holdback to preserve funds for property tax and estimated tax payments.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3040,
+    "output_tokens": 931,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"197\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Coordinate IRA transfer address exception\",\n\"text\": \"Coordinate the IRA transfer address exception with Paper Otter Retirement Services and Velvet Acorn Custody for Selma Copperwisp, ensuring the address discrepancy is resolved by the August 25, 2026 deadline.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to coordinate the exception by August 25, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Correct joint account registration mismatch\",\n\"text\": \"Correct the joint account registration mismatch for Selma and Graham Copperwisp, aligning the tenancy type from tenancy by entirety to joint tenants with rights of survivorship at Clockwork Clover Brokerage by August 22, 2026.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-22\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to address the mismatch by August 22, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Resolve duplicate temporary taxable shell at Velvet Acorn\",\n\"text\": \"Resolve the duplicate temporary taxable account shell created at Velvet Acorn Custody for Selma Copperwisp, consolidating the unintended shell and ensuring the correct ACATS request is linked by August 23, 2026.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Process restricted security manual transfer\",\n\"text\": \"Process the restricted security manual transfer of Selma Copperwisp’s Copper Firefly Semiconductors position outside the standard ACATS window, coordinating with Clockwork Clover Brokerage to complete the transfer by August 28, 2026.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-28\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to handle it by August 28, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Address cash holdback for tax payments\",\n\"text\": \"Address the cash holdback in Selma Copperwisp’s individual brokerage account to preserve funds for property tax and estimated tax payments, adjusting the ACATS instruction accordingly by August 21, 2026.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-21\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to address the cash holdback by August 21, 2026.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4122,
+    "output_tokens": 2398,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  }
+ ]
+}

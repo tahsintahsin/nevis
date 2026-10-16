@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e3",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"648\", \"tickets\": [{\"title\": \"Restore Lena Copperwisp's secure Velvet Acorn Custody portal access\", \"text\": \"Restore Lena Copperwisp's secure online access to her Velvet Acorn Custody portal after repeated unexpected multifactor authentication prompts and lockout. Use a secure method that does not rely on the old SMS code path.\", \"priority\": null, \"dueDate\": \"2025-04-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to restore secure online access by April 10, 2025.\"}, {\"title\": \"Review the unrecognized external bank link in Lena Copperwisp's Velvet Acorn Custody account\", \"text\": \"Review the unrecognized external bank nickname in Lena Copperwisp's Velvet Acorn Custody account activity view. Compare the link with Lena's known instructions and assess the discrepancy.\", \"priority\": null, \"dueDate\": \"2025-04-11\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to review that link by April 11, 2025.\"}, {\"title\": \"Update recurring payment instructions\", \"text\": \"Pause the regular $2,500 monthly transfer from Lena and Noah Copperwisp's joint taxable account at Velvet Acorn Custody to Teacup Comet Bank checking. Update the instructions to use only a verified Teacup Comet Bank destination with phone confirmation before money movement.\", \"priority\": null, \"dueDate\": \"2025-04-14\", \"assigneeId\": null, \"templateId\": \"37c17d04-e353-50f8-a3c6-359f520559a4\", \"subTasks\": [], \"evidence\": \"the agreed follow-up is to update the instructions by April 14, 2025.\"}, {\"title\": \"Collect bank incident documentation for the Copperwisp household\", \"text\": \"Collect the Teacup Comet Bank incident reference, statement pages showing any attempted micro-deposits, and written confirmation of which bank account numbers remain valid.\", \"priority\": null, \"dueDate\": \"2025-04-15\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to collect those materials by April 15, 2025.\"}, {\"title\": \"Refresh household profile details\", \"text\": \"Update Lena Copperwisp's custodian alert record to replace her prior work email and add Noah Copperwisp's current mobile number as a trusted contact verification option.\", \"priority\": \"low\", \"dueDate\": \"2025-04-18\", \"assigneeId\": null, \"templateId\": \"6bd34209-a23b-5a1f-9dec-3ad30064074f\", \"subTasks\": [], \"evidence\": \"the agreed follow-up is to refresh those records by April 18, 2025.\"}, {\"title\": \"Coordinate secure tuition funding for Marzipan Meadow School\", \"text\": \"Coordinate secure funding for Poppy Copperwisp's next $8,600 spring tuition installment at Marzipan Meadow School before the next normal advisory service cycle. Ensure funds are not routed through any unverified destination account.\", \"priority\": null, \"dueDate\": \"2025-04-16\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to coordinate secure tuition funding by April 16, 2025.\"}]}",
+   "usage": {
+    "input_tokens": 4242,
+    "output_tokens": 836,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

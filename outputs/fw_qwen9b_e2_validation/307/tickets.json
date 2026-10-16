@@ -1,0 +1,25 @@
+{
+  "meetingId": "307",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Tobin Mossbutton's equity vesting and trading calendar",
+      "text": "Prepare a single calendar of Tobin Mossbutton's Copper Firefly option and RSU vesting, blackout periods, and pre-clearance steps. The planning relied on memory or portal screenshots.",
+      "priority": null,
+      "dueDate": "2026-08-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots."
+    },
+    {
+      "templateId": null,
+      "title": "Illustrate Tobin Mossbutton's equity exercise and sale options",
+      "text": "Prepare an illustration comparing same-day sale, cash exercise, or partial exercise of Tobin Mossbutton's Copper Firefly vested options against household cash reserves and payroll withholding capacity. The review found several vested option strike prices and no household comparison.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison."
+    }
+  ]
+}

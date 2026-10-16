@@ -1,0 +1,115 @@
+{
+  "meetingId": "168",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain home safety modification estimates",
+      "text": "Obtain contractor estimates for the grab bars, stair rail changes, and shower entry modification recommended by Owen Pebblefizz's discharge therapist, for the Fort Collins home he shares with Nadia Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-09-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The discharge therapist recommended grab bars, stair rail changes, and a shower entry modification, but no contractor estimates have been collected for the cash-flow plan; the agreed follow-up is to obtain home safety modification estimates by 2026-09-03."
+    },
+    {
+      "templateId": null,
+      "title": "Gather long-term care claim materials",
+      "text": "Gather the full Velvet Acorn Life & Care long-term care policy, elimination-period ledger, physician certification form, and current claim packet for Owen Pebblefizz's home-care claim, which provides a $165 daily benefit and has a 90 service-day elimination period, to support Nadia Pebblefizz's planning.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The household has the benefit brochure but not the full policy, elimination-period ledger, physician certification form, or current claim packet for Owen’s home-care claim; the agreed follow-up is to gather long-term care claim materials by 2026-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Medicare home-health denial packet",
+      "text": "Assemble the therapy notes and homebound certification for Owen Pebblefizz's appeal of two denied therapy visits under his Silver Marmot Health Medicare Advantage plan, to meet the short appeal window for Nadia Pebblefizz and Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia brought an explanation of benefits showing two denied therapy visits and said the appeal window is short, while the therapy notes and homebound certification are not yet assembled; the agreed follow-up is to assemble the Medicare home-health denial packet by 2026-08-19."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare caregiver compensation framework",
+      "text": "Prepare a caregiver compensation framework for Nadia Pebblefizz and Owen Pebblefizz covering Lila Pebblefizz's unpaid evening care, including documentation, tax reporting, and boundaries between gifts and paid care if her hours increase.",
+      "priority": null,
+      "dueDate": "2026-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a caregiver compensation framework by 2026-09-05."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare care-cost cash-flow projection",
+      "text": "Prepare a twelve-month projection for Nadia Pebblefizz and Owen Pebblefizz comparing current home-health hours, adult day care, and the quoted Thimble Harbor Assisted Living respite setting against pension income, Social Security, taxable-account cash, and possible IRA distribution sources.",
+      "priority": null,
+      "dueDate": "2026-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the care-cost cash-flow projection by 2026-08-29."
+    },
+    {
+      "templateId": null,
+      "title": "Address benefit changes from reduced work",
+      "text": "Address how Nadia Pebblefizz's potential loss of about $2,100 per month in part-time telehealth consulting income from Cloudberry Kite Rehabilitation would affect the monthly care budget and estimated tax payments for Nadia Pebblefizz and Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-09-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia’s consulting income may stop if caregiving demands continue, and she asked how losing that income would affect the monthly care budget and estimated tax payments; the agreed follow-up is to address benefit changes from reduced work by 2026-09-11."
+    },
+    {
+      "templateId": null,
+      "title": "Address recurring transfer failure",
+      "text": "Address the missed $5,000 monthly transfer from Nadia Pebblefizz and Owen Pebblefizz's Velvet Acorn Custody taxable account to their Teacup Comet Bank checking account, which left the latest Paper Otter Home Care invoice past due.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Teacup Comet Bank checking account did not receive the scheduled transfer from Velvet Acorn Custody, and Paper Otter Home Care marked the latest invoice as past due. The agreed follow-up is to address the recurring transfer failure by 2026-08-21."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile home-care invoice",
+      "text": "Reconcile the Paper Otter Home Care invoice for Nadia Pebblefizz and Owen Pebblefizz against the family care log, resolving the extra billed visits and the unrecognized weekend premium rate on one overnight shift.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Paper Otter Home Care invoice shows more billed visits than the family care log, and one overnight shift appears under a weekend premium rate that Nadia did not recognize; the agreed follow-up is to reconcile the home-care invoice by 2026-08-23."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare liquidity plan after portfolio review",
+      "text": "Prepare a liquidity plan for Nadia Pebblefizz and Owen Pebblefizz after the portfolio review, addressing the shortfall in cash and short-duration holdings relative to their preferred care reserve given the current Paper Otter Home Care schedule.",
+      "priority": null,
+      "dueDate": "2026-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review showed cash and short-duration holdings would cover less than the household’s preferred care reserve after adding the current agency schedule. The agreed follow-up is to prepare a liquidity plan after the portfolio review by 2026-08-30."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare respite placement decision support",
+      "text": "Prepare financial decision support for Nadia Pebblefizz and Owen Pebblefizz comparing the Thimble Harbor Assisted Living respite suite at $7,850 per month plus a $1,200 assessment fee with expanded in-home shifts before responding to the brief hold.",
+      "priority": null,
+      "dueDate": "2026-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Thimble Harbor Assisted Living is holding a respite suite only briefly, and the family wants a financial comparison with expanded in-home shifts before responding; the agreed follow-up is to prepare respite placement decision support by 2026-08-26."
+    },
+    {
+      "templateId": null,
+      "title": "Provide information for tax estimate",
+      "text": "Provide Jasper Copperwisp of Pocket Lantern Tax Partners with projected home-care, adult day, respite, mileage, and caregiver-payment amounts for Nadia Pebblefizz and Owen Pebblefizz before year-end tax planning assumptions are updated.",
+      "priority": null,
+      "dueDate": "2026-09-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The family wants the CPA to see projected home-care, adult day, respite, mileage, and caregiver-payment amounts before year-end tax planning assumptions are updated; the agreed follow-up is to provide information for the tax estimate for medical and caregiver costs by 2026-09-08."
+    }
+  ]
+}

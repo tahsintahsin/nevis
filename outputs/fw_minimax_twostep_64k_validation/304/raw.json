@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"304\", \"followups\": [{\"evidence\": \"the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives\", \"action\": \"Compare the projected HELOC reset payment against refinance, fixed home equity loan, and accelerated payoff alternatives\"}, {\"evidence\": \"Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms.\", \"action\": \"Collect the HELOC reset notice and full loan agreement to verify margin, draw-period language, and prepayment terms\"}, {\"evidence\": \"Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal's about $86,400.\", \"action\": \"Reconcile the $92,100 credit-monitoring balance with the portal's ~$86,400 figure\"}, {\"evidence\": \"The agreed cash-flow scenario due 2024-09-13 is to show debt-repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment.\", \"action\": \"Prepare cash-flow scenario showing debt-repayment tradeoffs, reflecting Lena's two-month Paper Otter Studio contract pause by 2024-09-04\"}]}",
+   "usage": {
+    "input_tokens": 2077,
+    "output_tokens": 2829,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 961
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"304\", \"tickets\": [{\"title\": \"Compare HELOC reset payment against refinance and payoff alternatives\", \"text\": \"Compare the projected Silver Marmot Credit Union home equity line reset payment for Evan and Lena Cloudpuddle against three alternatives: a full mortgage refinance, a fixed home equity loan, and an accelerated payoff. Use the lender terms Evan brought to the meeting, the existing $86,400 outstanding balance, the $498,000 first mortgage at Teacup Comet Bank, and the $715,000 county home valuation.\", \"priority\": null, \"dueDate\": \"2024-09-06\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives\", \"templateId\": null}, {\"title\": \"Collect HELOC reset notice and full loan agreement\", \"text\": \"Obtain the Silver Marmot Credit Union home equity line reset notice and the full loan agreement from Evan Cloudpuddle to verify the margin, draw-period language, and prepayment terms. Screenshots from the meeting did not confirm these details, and the documents are needed before the alternatives comparison can be completed.\", \"priority\": null, \"dueDate\": \"2024-08-26\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms.\", \"templateId\": null}, {\"title\": \"Reconcile $92,100 credit-monitoring balance with portal figure\", \"text\": \"Reconcile the $92,100 credit-monitoring balance against the Silver Marmot Credit Union portal's reported ~$86,400 outstanding balance for Evan and Lena Cloudpuddle. Identify the source of the discrepancy and confirm the correct figure before the alternatives comparison.\", \"priority\": null, \"dueDate\": \"2024-08-30\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal's about $86,400.\", \"templateId\": null}, {\"title\": \"Prepare cash-flow scenario for debt-repayment tradeoffs\", \"text\": \"Build a cash-flow scenario for Evan and Lena Cloudpuddle showing debt-repayment tradeoffs after the Silver Marmot Credit Union home equity line reset, reflecting regular monthly spending of about $10,900 and Lena's expected two-month Paper Otter Studio contract pause by 2024-09-04. Include the $498,000 Teacup Comet Bank first mortgage, the $86,400 HELOC, and the $25,000 minimum emergency reserve from their $38,500 combined cash.\", \"priority\": null, \"dueDate\": \"2024-09-13\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The agreed cash-flow scenario due 2024-09-13 is to show debt-repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 2388,
+    "output_tokens": 1745,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1554
+   },
+   "stop": "stop"
+  }
+ ]
+}

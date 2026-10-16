@@ -1,0 +1,18 @@
+{
+ "config": "fw_ultra",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"307\",\n\"tickets\": [\n{\n\"title\": \"Prepare single calendar of option and RSU vesting, blackout periods, and pre-clearance steps\",\n\"text\": \"Prepare a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps for Tobin Mossbutton at Copper Firefly Systems to replace reliance on memory and portal screenshots. Include quarterly trading windows and pre-clearance rules for the 9,600 vested shares at Velvet Acorn Custody and upcoming RSU vesting over three years.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-12\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots.\"\n},\n{\n\"title\": \"Prepare illustration comparing same-day sale, cash exercise, and partial exercise strategies\",\n\"text\": \"Prepare an illustration comparing same-day sale, cash exercise, and partial exercise against cash reserves and payroll withholding capacity for Tobin Mossbutton's Copper Firefly Systems equity. Address several vested option strike prices and lack of household comparison to support reduction of employer-stock reliance before home renovation and Lena Mossbutton reducing hours at Paper Otter Design Studio.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-19\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison.\"\n},\n{\n\"title\": \"Collect full equity plan agreement, grant notices, and insider trading policy\",\n\"text\": \"Collect the full equity plan agreement, grant notices, and insider trading policy from Tobin Mossbutton at Copper Firefly Systems to confirm exercise limits and sale restrictions. Tobin has only provided the current portal balance for 9,600 vested shares at Velvet Acorn Custody.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-05\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4294,
+    "output_tokens": 2369,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

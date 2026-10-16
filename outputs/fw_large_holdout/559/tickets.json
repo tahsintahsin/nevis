@@ -1,0 +1,35 @@
+{
+  "meetingId": "559",
+  "tickets": [
+    {
+      "templateId": "13da0c8e-66fc-5a77-a481-4fcfe337d3ff",
+      "title": "Coordinate divorce-related financial documents",
+      "text": "Use this checklist to coordinate divorce document requests:\n\n- Confirm the client's attorney or mediator contact information and communication permissions.\n- Identify required financial statements, tax returns, pay stubs, benefit statements, insurance policies, estate documents, and debt records.\n- Check that requested documents cover the relevant lookback period without using fixed calendar deadlines in the template.\n- Separate joint, individual, business, retirement, and trust-related documents.\n- Verify whether any restricted stock, options, deferred compensation, or pension benefits need special documentation.\n- Track missing items and responsible party for each document.\n- Confirm secure delivery method before transmitting any sensitive materials.\n- Save copies and notes to the appropriate client file location.\nAssemble the requested account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports for Dana Wrenpuddle.",
+      "priority": "high",
+      "dueDate": "2024-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira asked for Dana’s requested account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports to be assembled because several items were not yet in the secure folder; the agreed follow-up is due 2024-12-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare detailed account inventory for divorce",
+      "text": "Prepare a detailed inventory distinguishing Mira Quillwhistle's individual accounts, Simon Quillwhistle's separate accounts, joint property, joint liabilities, beneficiary designations, and recurring household payments for review with counsel.",
+      "priority": null,
+      "dueDate": "2024-12-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira requested an inventory distinguishing her individual accounts, Simon’s known separate accounts, joint property, joint liabilities, beneficiary designations, and recurring household payments so ownership changes can be discussed with counsel before transfers occur; the agreed follow-up is due 20"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile equity compensation details for legal review",
+      "text": "Reconcile grants, vested shares, unvested shares, withholding, and sale history for Mira Quillwhistle's Cloudberry Kite Systems equity compensation and prepare the summary for legal review.",
+      "priority": null,
+      "dueDate": "2024-12-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena identified differing Cloudberry Kite Systems vesting totals between the equity portal and counsel’s spreadsheet; the agreed follow-up is to reconcile grants, vested shares, unvested shares, withholding, and sale history for legal review, due 2024-12-10."
+    }
+  ]
+}

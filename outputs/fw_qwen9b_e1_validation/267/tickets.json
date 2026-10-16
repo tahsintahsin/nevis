@@ -1,0 +1,45 @@
+{
+  "meetingId": "267",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Open operations escalation for Ellis’s missing electronic statements",
+      "text": "Open an operations escalation for Ellis Wrenpuddle’s missing electronic statement notices after the custodian login migration. Confirm the authorized email on the custodian profile and report back with the fix or next escalation path.",
+      "priority": null,
+      "dueDate": "2025-08-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2025-08-01 is to open an operations escalation, confirm the authorized email on the custodian profile, and report back with the fix or next escalation path."
+    },
+    {
+      "templateId": null,
+      "title": "Request historical transfer file and compare tax lots",
+      "text": "Request the historical transfer file for the three transferred tax lots and compare it with Renata Wrenpuddle’s Velvet Acorn Custody statements. Resolve the missing original cost basis in the current portal.",
+      "priority": null,
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2025-08-08 is to request the historical transfer file and compare it with Renata’s Velvet Acorn Custody statements."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain full taxable account registration record",
+      "text": "Obtain the full registration record for the joint taxable account and confirm the title before Renata forwards anything. The portal shows Renata and Ellis as joint tenants.",
+      "priority": null,
+      "dueDate": "2025-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2025-08-05 is to obtain the full registration record and confirm the title before Renata forwards anything."
+    },
+    {
+      "templateId": null,
+      "title": "Check custodian and firm mailing-address coding",
+      "text": "Check custodian and firm mailing-address coding so Lena Wrenpuddle’s temporary school address is not added as the household’s primary address. Tuition-related mail should continue to the Portland home.",
+      "priority": null,
+      "dueDate": "2025-08-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2025-08-12 is to check custodian and firm mailing-address coding so the temporary school address is not added as the household’s primary address."
+    }
+  ]
+}

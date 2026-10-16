@@ -1,0 +1,84 @@
+{
+  "meetingId": "863",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare first-year college funding options",
+      "text": "Prepare a comparison of using Nia Dewspindle’s 529 balance, taxable brokerage assets, expected bonus cash, and a limited sale of Cloudberry Kite Robotics shares to cover the first-year college funding gap while preserving the household’s $80,000 cash reserve floor.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2026-03-20 a comparison will be prepared of using Nia’s 529 balance, taxable brokerage assets, expected bonus cash, and a limited sale of Cloudberry Kite Robotics shares to cover the first-year college funding gap while preserving Liora’s stated cash reserve floor."
+    },
+    {
+      "templateId": null,
+      "title": "Select tuition payment method",
+      "text": "Select the tuition payment method for Marzipan Meadow University: semester lump-sum payment or monthly payment plan. The family has not chosen the method needed before the first bill can be processed.",
+      "priority": null,
+      "dueDate": "2026-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A tuition payment method selection is needed by 2026-04-15 because the Marzipan Meadow University portal offers a semester lump-sum payment or monthly payment plan, and the family has not chosen the method needed before the first bill can be processed."
+    },
+    {
+      "templateId": "3517166d-77bc-57c0-9de4-dde59b3046e8",
+      "title": "Collect tax document packet",
+      "text": "Use this workflow to gather the client's annual tax materials, identify missing items, and package the documents for planning review and tax coordination. Confirm whether the client expects documents from employers, custodians, banks, charitable organizations, mortgage servicers, business entities, or equity compensation platforms.\n\nCollect current statements for Nia Dewspindle’s 529 account, Owen Dewspindle’s 529 account, and the grandparent-owned education account Dorian Dewspindle mentioned. The planning file lacks these statements, and account ownership, balances, and available distribution options cannot be confirmed.",
+      "priority": "medium",
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request core tax documents",
+          "text": "Send the client a document request covering W-2s, 1099s, K-1s, charitable receipts, mortgage interest statements, estimated tax vouchers, business income summaries, and any notices from IRS or state tax agencies.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "400fa546-a3f9-5ec6-9536-5717e90c5210"
+        },
+        {
+          "title": "Track received and missing items",
+          "text": "Update the document tracker with received items, expected sources, and open gaps. Note whether any documents appear preliminary, corrected, or incomplete.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4640b6c0-ba65-5578-af9d-609eb3f224fe"
+        },
+        {
+          "title": "Prepare advisor summary",
+          "text": "Summarize planning observations, including large income changes, capital gains, charitable activity, retirement contributions, and any items requiring tax specialist review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "36d5f34f-a9c8-52c3-84b1-0d311a189474"
+        },
+        {
+          "title": "Coordinate tax planning review",
+          "text": "Route the organized packet and summary to the tax planning specialist for review before sharing follow-up questions with the client or CPA.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "86e75509-698d-5858-9540-0787ae49a013"
+        }
+      ],
+      "evidence": "Current statements for Nia’s 529 account, Owen’s 529 account, and a grandparent-owned education account Dorian mentioned are needed by 2026-03-18 because the planning file lacks them and account ownership, balances, and available distribution options cannot be confirmed."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Nia’s 529 balance",
+      "text": "Reconcile Nia Dewspindle’s 529 balance at Velvet Acorn Custody. The tuition spreadsheet lists about $82,000, while the portal statement shows about $74,600 after a prior distribution. Identify the source of the difference.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the 529 balance by 2026-03-18 because Liora’s tuition spreadsheet lists Nia’s 529 balance at about $82,000, while the portal statement shows about $74,600 after a prior distribution, and the source of the difference was not identified during the call."
+    },
+    {
+      "templateId": null,
+      "title": "Review college cost worksheet",
+      "text": "Review the college cost worksheet to clarify which amounts should be matched to education account distributions and which records should be retained for tax reporting. Address Elena Thimblefern’s finding that scholarship aid, required technology costs, housing charges, and tuition are grouped together.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed that by 2026-03-24 the college cost worksheet will be reviewed because Elena’s review found scholarship aid, required technology costs, housing charges, and tuition grouped together, making it unclear which amounts should be matched to education account distributions and which recor"
+    }
+  ]
+}

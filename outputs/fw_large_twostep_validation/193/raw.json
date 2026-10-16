@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"193\",\n\"followups\": [\n{\n\"evidence\": \"by 2026-01-23 prepare approximately-$25,000 transfer instructions after brokerage-detail verification\",\n\"action\": \"Prepare approximately $25,000 transfer instructions after verifying brokerage details\"\n},\n{\n\"evidence\": \"by 2026-02-06 address Evan-noted prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language\",\n\"action\": \"Address the prior-year-only acknowledgment and add missing current pledge/receipt goods-or-services language\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2310,
+    "output_tokens": 586,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"193\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Prepare $25,000 Transfer Instructions\",\n\"text\": \"Prepare transfer instructions for approximately $25,000 of Velvet Acorn Growth Fund shares held by Sela Mossbutton and spouse Jonah Mossbutton, after verifying the brokerage details, to donate to Moonbadger Arts Center’s youth‑workshop fund.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"by 2026-01-23 prepare approximately-$25,000 transfer instructions after brokerage-detail verification\"\n},\n{\n\"templateId\": null,\n\"title\": \"Address Acknowledgment Language Gaps\",\n\"text\": \"Address the prior‑year‑only acknowledgment and incorporate the required current pledge and receipt goods‑or‑services language for Sela Mossbutton’s donation to Moonbadger Arts Center, ensuring compliance with charitable documentation standards.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"by 2026-02-06 address Evan-noted prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1517,
+    "output_tokens": 1011,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1810
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete inherited account beneficiary package",
+      "text": "Complete the inherited account beneficiary package for Elian Thimblefern, working with Velvet Acorn Custody, and ensure all required beneficiary forms are filled and returned by 2024-02-09.",
+      "priority": null,
+      "dueDate": "2024-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09."
+    },
+    {
+      "templateId": "b69561c0-d94b-5366-9da1-17d83160108e",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Review Elian Thimblefern’s financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items. Confirm whether new facts require updated recommendations or a follow‑up meeting agenda. Refresh Elian Thimblefern’s post‑inheritance financial plan by 2024-02-23, incorporating the newly inherited taxable brokerage, IRA, and lake cabin interest held at Velvet Acorn Custody, which affect retirement timing, cash reserves, tax outlook, and investment allocation.",
+      "priority": "medium",
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "the agreed post-inheritance plan refresh is due 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Conduct estate arrangement review",
+      "text": "Conduct an estate arrangement review for Elian Thimblefern, examining the 2012 estate documents that name the late spouse Corin Mossbutton as primary health‑care agent and personal representative, and address the new beneficiary and property considerations before 2024-03-08.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed estate arrangement review after family changes is due 2024-03-08."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meetingId": "863",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare comparison of Nia's first-year college funding sources",
+      "text": "Prepare a funding source comparison for Liora Dewspindle using Nia’s 529 balance, the joint taxable brokerage assets, anticipated bonus cash, and a limited sale of Cloudberry Kite Robotics shares, ensuring the $80,000 cash reserve floor is maintained.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2026-03-20 a comparison will be prepared of using Nia’s 529 balance, taxable brokerage assets, expected bonus cash, and a limited sale of Cloudberry Kite Robotics shares to cover the first-year college funding gap while preserving Liora’s stated cash reserve floor."
+    },
+    {
+      "templateId": null,
+      "title": "Select tuition payment method for Nia",
+      "text": "Select the tuition payment method for Liora Dewspindle, choosing either the semester lump‑sum or monthly plan by the April 15, 2026 deadline to enable the first bill processing.",
+      "priority": null,
+      "dueDate": "2026-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A tuition payment method selection is needed by 2026-04-15 because the Marzipan Meadow University portal offers a semester lump-sum payment or monthly payment plan, and the family has not chosen the method needed before the first bill can be processed."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current statements for education accounts",
+      "text": "Obtain the latest statements for Liora Dewspindle’s Nia 529 account, Owen 529 account, and the grandparent‑owned education account mentioned by Dorian Dewspindle by March 18, 2026 to confirm ownership, balances, and distribution options.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Current statements for Nia’s 529 account, Owen’s 529 account, and a grandparent-owned education account Dorian mentioned are needed by 2026-03-18 because the planning file lacks them and account ownership, balances, and available distribution options cannot be confirmed."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile discrepancy in Nia's 529 balance",
+      "text": "Reconcile the difference between the $82,000 balance shown in Liora Dewspindle’s tuition spreadsheet and the $74,600 balance on the portal statement for Nia’s 529 account by March 18, 2026, identifying the source of the variance.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the 529 balance by 2026-03-18 because Liora’s tuition spreadsheet lists Nia’s 529 balance at about $82,000, while the portal statement shows about $74,600 after a prior distribution, and the source of the difference was not identified during the call."
+    },
+    {
+      "templateId": null,
+      "title": "Review college cost worksheet for Dewspindle",
+      "text": "Review the college cost worksheet prepared for Liora Dewspindle by March 24, 2026, clarifying which scholarship, technology, housing, and tuition amounts should be matched to education account distributions and retained for tax reporting.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed that by 2026-03-24 the college cost worksheet will be reviewed because Elena’s review found scholarship aid, required technology costs, housing charges, and tuition grouped together, making it unclear which amounts should be matched to education account distributions and which recor"
+    }
+  ]
+}

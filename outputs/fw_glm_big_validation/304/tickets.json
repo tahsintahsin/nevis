@@ -1,0 +1,55 @@
+{
+  "meetingId": "304",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare HELOC reset payment with refinance alternatives",
+      "text": "Compare the projected Silver Marmot Credit Union home equity line reset payment for Evan and Lena Cloudpuddle against refinance, fixed home equity loan, and accelerated payoff alternatives, using the lender terms Evan brought. The line has about $86,400 outstanding and moves from interest-only to principal-and-interest payments later this year.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives"
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing home equity line loan documents",
+      "text": "Obtain the Silver Marmot Credit Union home equity line reset notice and full loan agreement from Evan Cloudpuddle, since screenshots did not verify the margin, draw-period language, or prepayment terms. About $86,400 is outstanding on the line.",
+      "priority": null,
+      "dueDate": "2024-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve credit-monitoring balance discrepancy",
+      "text": "Reconcile the $92,100 credit-monitoring balance for Evan and Lena Cloudpuddle against the Silver Marmot Credit Union portal's reported balance of about $86,400 on the home equity line. Confirm the correct outstanding amount with the credit union.",
+      "priority": null,
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal’s about $86,400"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare cash-flow debt-repayment scenario",
+      "text": "Prepare a cash-flow scenario for Evan and Lena Cloudpuddle showing debt-repayment tradeoffs, reflecting regular monthly spending of about $10,900 plus the estimated Silver Marmot Credit Union home equity line reset payment. Include the Teacup Comet Bank first mortgage of about $498,000 and the $86,400 home equity line.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed cash-flow scenario due 2024-09-13 is to show debt-repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment"
+    },
+    {
+      "templateId": null,
+      "title": "Update debt plan for contract pause",
+      "text": "Update the debt repayment plan for Evan and Lena Cloudpuddle to reflect Lena's expected two-month Paper Otter Studio contract pause, which reduces her roughly $2,200 monthly net income from the design practice during that period.",
+      "priority": null,
+      "dueDate": "2024-09-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The debt plan needs to reflect Lena’s expected two-month Paper Otter Studio contract pause by 2024-09-04"
+    }
+  ]
+}

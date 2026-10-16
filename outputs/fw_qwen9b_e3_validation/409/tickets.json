@@ -1,0 +1,25 @@
+{
+  "meetingId": "409",
+  "tickets": [
+    {
+      "templateId": "ca0beb64-4823-5deb-8d28-1f7a5f7d128e",
+      "title": "Collect Client Tax Documents",
+      "text": "Request and organize current tax documents for planning review, including prior-year federal and state returns, W-2s, 1099s, K-1s, estimated tax payment records, charitable giving summaries, and any tax notices. Obtain the missing Velvet Acorn consolidated tax form and charitable giving summary requested by Beren Nettlewhisk of Paper Otter Tax Services for Anika Pebblefizz’s 2022 federal return review. Track missing items and route the complete packet to the planning team.",
+      "priority": "medium",
+      "dueDate": "2024-04-18",
+      "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb",
+      "subTasks": [],
+      "evidence": "the notice packet available to Apricot Compass lacked the Velvet Acorn consolidated tax form and charitable giving summary Beren requested; the agreed follow-up is to obtain those records by April 18, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian income variance",
+      "text": "Reconcile the $14,860 of ordinary dividends reported in the IRS correspondence with the $7,440 shown in the 2022 return worksheet for Anika Pebblefizz’s Velvet Acorn taxable account. Resolve the variance by April 24, 2024.",
+      "priority": null,
+      "dueDate": "2024-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the IRS correspondence lists $14,860 of ordinary dividends from the Velvet Acorn taxable account, while the return worksheet reviewed during the call shows $7,440 for the same income category; resolution of the custodian income variance is needed by April 24, 2024."
+    }
+  ]
+}

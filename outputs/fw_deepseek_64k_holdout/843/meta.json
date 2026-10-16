@@ -1,0 +1,26 @@
+{
+ "model": "accounts/fireworks/models/deepseek-v4p1-flash",
+ "latency_s": 192.040553,
+ "input_tokens": 5964,
+ "output_tokens": 29615,
+ "cache_write_tokens": 0,
+ "cache_read_tokens": 0,
+ "cost_usd": 0.0373272,
+ "cost_basis": "tokens",
+ "token_cost_usd": 0.0373272,
+ "config": "fw_deepseek_64k",
+ "provider": "fireworks",
+ "deployment": "serverless",
+ "api_model": "accounts/fireworks/models/deepseek-v4p1-flash",
+ "fine_tuned": false,
+ "prompt_version": "main-e2d185a2",
+ "pipeline": "single",
+ "few_shot": "none",
+ "few_shot_examples": [],
+ "structured_output": "json_schema",
+ "calls": 1,
+ "stop_reasons": [
+  "stop"
+ ],
+ "effort": null
+}

@@ -1,0 +1,75 @@
+{
+  "meetingId": "197",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate address exception with Paper Otter",
+      "text": "Coordinate the address exception for Selma Copperwisp with Paper Otter Retirement Services and Velvet Acorn Custody to resolve the rejected IRA transfer address mismatch.",
+      "priority": null,
+      "dueDate": "2026-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate the exception by August 25, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain source record confirmation from Paper Otter",
+      "text": "Obtain confirmation from Paper Otter Retirement Services that pre‑tax, Roth, and employer‑match source records will transmit with Selma Copperwisp’s rollover file.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Paper Otter Retirement Services has not confirmed whether pre-tax, Roth, and employer-match source records will transmit with the rollover file; no due date was supplied, and the unresolved issue is obtaining that confirmation."
+    },
+    {
+      "templateId": null,
+      "title": "Complete trust account certification package",
+      "text": "Complete the Buttonwood Balloon Family Trust opening package for Selma Copperwisp by obtaining the first page, trustee authority page, and signed certification page missing from her upload.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the Buttonwood Balloon Family Trust account certification opening package, the trust brokerage application requires the first page, trustee authority page, and signed certification page, while Selma’s upload contained only an unsigned schedule;"
+    },
+    {
+      "templateId": null,
+      "title": "Address joint account registration mismatch",
+      "text": "Address the registration mismatch for Selma and Graham Copperwisp’s joint account, correcting the tenancy by entirety record to reflect joint tenants with rights of survivorship.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the mismatch by August 22, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate temporary account shell",
+      "text": "Resolve the duplicate temporary taxable account shell created at Velvet Acorn Custody for Selma Copperwisp and ensure the correct ACATS request is linked.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Handle restricted security manual transfer",
+      "text": "Handle the manual transfer of Selma Copperwisp’s Copper Firefly Semiconductors position outside the standard ACATS feed during the current processing window.",
+      "priority": null,
+      "dueDate": "2026-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to handle it by August 28, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Address cash holdback before transfer",
+      "text": "Address the cash holdback issue in Selma Copperwisp’s individual brokerage to preserve funds needed for property tax and estimated tax payments before the ACATS transfer.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the cash holdback by August 21, 2026."
+    }
+  ]
+}

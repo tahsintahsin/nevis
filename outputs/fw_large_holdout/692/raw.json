@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"692\",\n\"tickets\": [\n{\n\"templateId\": \"8f7c01a6-f019-5a79-8daf-3368d1e4675c\",\n\"title\": \"Collect debt refinance review details\",\n\"text\": \"Complete the refinance review fields before analysis:\\n\\nBorrower or household: Liora and Daren Copperwisp\\nDebt type: home-equity line\\nCurrent lender or servicer: Teacup Comet Bank\\nCurrent balance: $96,000\\nCurrent interest rate and type: 8.75% variable\\nRemaining term: [Years or months]\\nCurrent monthly payment: $700\\nProposed lender or offer source: Teacup Comet Bank\\nProposed rate and type: [Fixed or variable]\\nProposed term: [Years or months]\\nEstimated closing costs or fees: [Amount]\\nPrepayment penalty or exit fees: [Yes / No / Unknown]\\nReason for refinance: lower rate / cash flow\\nCredit or underwriting considerations: [Notes]\\nTax considerations to review: [Deductibility, business use, points, or other]\\nDocuments requested: [Statements, refinance quote, amortization schedule, payoff quote]\\nKey questions for advisor: [Open items]\",\n\"priority\": \"medium\",\n\"dueDate\": \"2025-07-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Agreed by 2025-07-25: compare the Teacup Comet fixed-rate refinance quote with keeping the variable home-equity line, including payment, closing costs, cash-flow effect.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Prepare debt priority schedule for Copperwisp household\",\n\"text\": \"Prepare a debt‑priority schedule for Liora and Daren Copperwisp that weighs Daren’s business line moving off promotional pricing, the home‑equity line with Teacup Comet Bank, and the $18,400 credit‑card balance before the higher payment begins.\",\n\"priority\": null,\n\"dueDate\": \"2025-08-08\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Agreed by 2025-08-08: a debt-priority schedule weighing Daren’s business line moving off promotional pricing, the home-equity line, and the $18,400 credit-card balance before the higher payment begins.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1668,
+    "output_tokens": 2995,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

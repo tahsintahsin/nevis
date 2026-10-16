@@ -1,0 +1,18 @@
+{
+ "config": "fw_deepseek_64k",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"598\", \"tickets\": [{\"templateId\": null, \"title\": \"Update and route address and residency records\", \"text\": \"Update and route address and residency records for Nolan and Lena Pebblefizz across Velvet Acorn Custody, Teacup Comet Bank, and Thimble Harbor Bank so statements reflect their new Mesa, Arizona residence instead of the former Portland, Oregon address.\", \"priority\": null, \"dueDate\": \"2025-03-10\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"update and route address/residency records by 2025-03-10 because statements still show Oregon\"}, {\"templateId\": \"7a01cf30-e455-55f4-92f2-f4ca51e7fee1\", \"title\": \"Review mortgage document collection needs\", \"text\": \"Review the mortgage file for completeness and planning relevance.\\n\\nEvidence to collect:\\n- Current mortgage statement\\n- Promissory note or loan summary, if available\\n- Closing disclosure or settlement statement, if available\\n- Escrow statement, if applicable\\n- Property tax bill or assessment notice, if available\\n- Homeowners insurance declaration page, if relevant to cash-flow review\\n- Refinance, payoff, or modification correspondence, if applicable\\n\\nReview criteria:\\n- Confirm current balance, interest rate, payment amount, and loan type.\\n- Identify fixed versus adjustable rate features and any reset terms.\\n- Note maturity date, prepayment penalties, balloon features, or special clauses if shown.\\n- Separate principal, interest, taxes, insurance, and other escrow items where possible.\\n- Compare mortgage obligations with the cash-flow plan.\\n- Flag missing documents or conflicting figures for follow-up.\\n\\nComplete the mortgage and insurance file for Nolan and Lena Pebblefizz, whose Mesa home cost $715,000 with about $532,000 owed to Thimble Harbor Bank at a fixed 6.25%; the final closing disclosure, current mortgage statement, and declaration page are still missing.\", \"priority\": \"medium\", \"dueDate\": \"2025-03-17\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"complete the mortgage and insurance file by 2025-03-17 because final closing disclosure, current mortgage statement, and declaration page are missing\"}, {\"templateId\": null, \"title\": \"Address payroll withholding evidence discrepancy\", \"text\": \"Address payroll withholding evidence for Nolan Pebblefizz, whose paystub showed Oregon withholding while Moonbadger Analytics HR showed an Arizona mailing address and work location.\", \"priority\": null, \"dueDate\": \"2025-03-21\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"address payroll withholding evidence by 2025-03-21 because Nolan's paystub showed Oregon withholding while HR showed Arizona mailing and work location\"}]}",
+   "usage": {
+    "input_tokens": 5150,
+    "output_tokens": 4452,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+  "meetingId": "264",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Check funding and release requirements",
+      "text": "Check funding and release requirements for the $75,000 transfer from the joint taxable account at Velvet Acorn Custody to the Teacup Comet Bank checking account for the kitchen renovation draw.",
+      "priority": null,
+      "dueDate": "2024-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to check funding and release requirements by 2024-05-08."
+    },
+    {
+      "templateId": null,
+      "title": "Establish recurring monthly transfer",
+      "text": "Establish a $12,000 monthly transfer from the joint taxable account at Velvet Acorn Custody to the household checking account at Teacup Comet Bank for ordinary spending.",
+      "priority": null,
+      "dueDate": "2024-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to establish the recurring transfer by 2024-05-15."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain correct destination evidence",
+      "text": "Obtain correct destination evidence for the Teacup Comet Bank checking account, reconciling the custodian record ending 4482 with the client‑provided number ending 4824.",
+      "priority": null,
+      "dueDate": "2024-05-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "correct destination evidence is needed by 2024-05-03."
+    },
+    {
+      "templateId": null,
+      "title": "Conduct operations review of prior distribution",
+      "text": "Conduct an operations review to determine whether a hold, coding issue, or bank processing issue caused the four‑business‑day delay on the prior distribution to Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2024-05-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is an operations review by 2024-05-07 to determine whether a hold, coding issue, or bank processing issue was involved."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare sale estimate and coordinate with CPA",
+      "text": "Prepare a sale estimate for the taxable positions needed to fund the cash movements and coordinate with CPA Simon Maplesprocket before final lot selection.",
+      "priority": null,
+      "dueDate": "2024-05-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare a sale estimate and coordinate with the CPA before final lot selection by 2024-05-13."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare concentration snapshot of equity exposure",
+      "text": "Prepare a concentration snapshot of Moonbadger Systems exposure across salary, RSUs, options, and 401(k) holdings for the Copperwisps.",
+      "priority": null,
+      "dueDate": "2024-05-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare a concentration snapshot by 2024-05-22 before deciding which taxable lots or company shares to sell."
+    },
+    {
+      "templateId": "5d3934d9-cdd2-568e-b71d-880bf3b37545",
+      "title": "Review debt refinance opportunity",
+      "text": "Review debt refinance opportunity to compare the home equity line of credit and a new refinance quote as potential renovation funding sources for Adrian Copperwisp.",
+      "priority": "medium",
+      "dueDate": "2024-05-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare the home equity and refinance options by 2024-05-20."
+    },
+    {
+      "templateId": null,
+      "title": "Create month‑by‑month cash schedule",
+      "text": "Create a month‑by‑month cash schedule covering tuition installment, property‑tax bill, and renovation draw to avoid reliance on emergency reserves.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "a month-by-month cash schedule is needed by 2024-05-10 to avoid relying on emergency reserves."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain contractor draw schedule",
+      "text": "Obtain the draw schedule from Buttonwood Balloon Builders for the remaining kitchen renovation payments.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the draw schedule is needed by 2024-05-10."
+    },
+    {
+      "templateId": null,
+      "title": "Gather caregiver support cost details",
+      "text": "Gather monthly range, timing, and whether gifts or loans are intended for Orla Dewspindle’s caregiver reimbursement and apartment deposit support.",
+      "priority": null,
+      "dueDate": "2024-05-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain monthly range, timing, and whether gifts or loans are intended by 2024-05-24."
+    },
+    {
+      "templateId": "7f5ae3b3-7c06-5e34-9cae-e3e2c6236189",
+      "title": "Follow up on policy renewal materials",
+      "text": "Contact Adrian Copperwisp to request the homeowner and umbrella insurance renewal packet and current coverage limits from Silver Marmot Assurance.",
+      "priority": "medium",
+      "dueDate": "2024-05-17",
+      "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f",
+      "subTasks": [],
+      "evidence": "the insurance renewal packet is needed by 2024-05-17."
+    },
+    {
+      "templateId": "6defa4b0-70a0-57a3-90d3-91c02e86d1ba",
+      "title": "Coordinate tax notice follow-up",
+      "text": "Reach out to Adrian Copperwisp to obtain the full state tax notice pages and instructions referenced for the estimated‑payment mismatch.",
+      "priority": "high",
+      "dueDate": "2024-05-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the state tax notice materials are needed by 2024-05-06."
+    }
+  ]
+}

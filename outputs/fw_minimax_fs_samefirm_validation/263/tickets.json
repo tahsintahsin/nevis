@@ -1,0 +1,25 @@
+{
+  "meetingId": "263",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset portal credentials and strengthen MFA",
+      "text": "Reset Jared Wrenpuddle's portal credentials, review active sessions, and strengthen MFA through approved channels on the Velvet Acorn Custody portal after repeated lockouts and an uninitiated password-reset email.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "repeated lockouts followed an uninitiated password-reset email; 2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels."
+    },
+    {
+      "templateId": null,
+      "title": "Review pending bank link and transfer instructions",
+      "text": "Review the pending Teacup Comet Bank link on Jared and Ava Wrenpuddle's portal profile, check transfer instructions, and confirm no unauthorized profile changes were made, since Jared stated no household account is held there.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "activity showed a pending Teacup Comet Bank link; Jared said no household account; 2024-03-19 agreed work: check transfer instructions/profile changes."
+    }
+  ]
+}

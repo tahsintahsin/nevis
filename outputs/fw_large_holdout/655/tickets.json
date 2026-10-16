@@ -1,0 +1,125 @@
+{
+  "meetingId": "655",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain federal tax payment confirmation",
+      "text": "Obtain the federal tax payment confirmation for Serena Willowdoodle, referencing the IRS payment records to verify the missing confirmation for the 2024 filing.",
+      "priority": null,
+      "dueDate": "2024-12-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to obtain the corresponding federal payment confirmation, dated 2024-12-24."
+    },
+    {
+      "templateId": null,
+      "title": "Provide consolidated operational status log",
+      "text": "Provide a written consolidated log for Serena Willowdoodle summarizing each unresolved operational issue, the responsible party, and the next status checkpoint, as requested for email delivery.",
+      "priority": null,
+      "dueDate": "2024-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to provide the consolidated written log, dated 2024-12-18."
+    },
+    {
+      "templateId": null,
+      "title": "Restore read-only Teacup Comet dashboard access",
+      "text": "Restore read-only access for Serena Willowdoodle to the Teacup Comet Bank cash dashboard, ensuring the portal permission is re‑enabled after the prior authorization lapse.",
+      "priority": null,
+      "dueDate": "2024-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to restore read-only dashboard access, dated 2024-12-19."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate temporary mailing and delivery setup",
+      "text": "Coordinate the temporary mailing and delivery address setup for Serena Willowdoodle’s accounts during the home renovation, updating all relevant custodial and bank records.",
+      "priority": null,
+      "dueDate": "2024-12-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to coordinate the temporary mailing and delivery setup, dated 2024-12-27."
+    },
+    {
+      "templateId": null,
+      "title": "Correct custodian login security routing",
+      "text": "Correct the custodian login security routing for Jasper Willowdoodle’s IRA, ensuring authentication texts are sent to the appropriate device separate from Serena’s login.",
+      "priority": null,
+      "dueDate": "2024-12-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to correct the custodian login security routing, dated 2024-12-17."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate Jasper profile for e‑signature",
+      "text": "Resolve the duplicate Jasper Willowdoodle profile in the portal that blocks his electronic signature packet, consolidating the records so the signature can be completed.",
+      "priority": null,
+      "dueDate": "2024-12-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to resolve the duplicate Jasper profile issue affecting the electronic signature packet, dated 2024-12-20."
+    },
+    {
+      "templateId": null,
+      "title": "Address taxable account cost basis discrepancy",
+      "text": "Address the cost basis feed discrepancy for three positions in the joint taxable account at Velvet Acorn Custody, reconciling the lot‑level basis with the custodian statement.",
+      "priority": null,
+      "dueDate": "2024-12-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to address the taxable account cost basis feed discrepancy, dated 2024-12-23."
+    },
+    {
+      "templateId": null,
+      "title": "Address trusted contact field inconsistency",
+      "text": "Address the trusted contact field inconsistency between the joint taxable account at Velvet Acorn Custody and Serena Willowdoodle’s IRA profile, ensuring both records list the same trusted contact.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to address the trusted contact field inconsistency, dated 2025-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Revise renovation reserve reporting classification",
+      "text": "Revise the renovation reserve reporting classification in the household performance report, moving the cash reserve from long‑term assets to the appropriate category.",
+      "priority": null,
+      "dueDate": "2024-12-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to revise the renovation reserve reporting classification, dated 2024-12-31."
+    },
+    {
+      "templateId": null,
+      "title": "Fix billing account group mismatch",
+      "text": "Fix the billing account group mismatch for the Willowdoodle household by removing the closed zero‑balance account from the billing view.",
+      "priority": null,
+      "dueDate": "2024-12-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to address the billing account group mismatch, dated 2024-12-30."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain employer disability certificate",
+      "text": "Obtain the employer disability certificate for Serena Willowdoodle from Pocket Lantern Robotics, including the formal certificate detailing the monthly cap and exclusions.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the employer disability certificate remains a concrete unresolved issue for follow-up, dated 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain trust certification page for trustee powers",
+      "text": "Obtain the missing trust certification page describing trustee powers for the Willowdoodle revocable trust, to support account registration with the custodian.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "trust certification support for account registration remains a concrete unresolved issue for follow-up, dated 2025-01-06."
+    }
+  ]
+}

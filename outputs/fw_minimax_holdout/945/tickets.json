@@ -1,0 +1,127 @@
+{
+  "meetingId": "945",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare education savings account structure and ownership comparison",
+      "text": "Prepare a comparison of education savings account structures and ownership options for Ivy Willowdoodle, covering beneficiary naming, investment approach, Oregon state tax considerations, the $10,000 family gift from Jessa's parents, and a possible $500 monthly household contribution.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the education savings account structure and ownership comparison by 2026-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review initial education funding transfer from taxable cash",
+      "text": "Review the proposed $12,000 initial education funding transfer from the Velvet Acorn Custody taxable account money market, ensuring the Willowdoodle household's preferred six-month emergency reserve level is preserved after the transfer.",
+      "priority": null,
+      "dueDate": "2026-04-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that initial education funding transfer from taxable cash by 2026-04-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update household plan for adoption-related assumptions",
+      "text": "Update the Willowdoodle household financial plan to reflect Ivy Willowdoodle's adoption, parental leave cash flow changes, added infant care costs, and the longer education funding horizon discussed during the call.",
+      "priority": null,
+      "dueDate": "2026-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the household plan for those adoption-related assumptions by 2026-03-13."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash reserve target after childcare begins",
+      "text": "Review the Willowdoodle household's cash reserve target after Polka Fern Early Learning infant care at $2,150 per month begins and parental leave pay changes are reflected, ensuring the six-month core expense preference is maintained given the current $68,000 at Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2026-03-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the cash reserve target after childcare begins by 2026-03-31."
+    },
+    {
+      "templateId": "b835d25d-d355-5804-8593-94348f4d26b8",
+      "title": "Review Concentrated Position",
+      "text": "Evaluate the Willowdoodle household's concentrated Amber Teapot Robotics position at Velvet Acorn Custody for portfolio risk, tax exposure, liquidity needs, restrictions, and diversification options. The position represents about 18% of investable assets with an estimated $74,000 unrealized gain, and the review should compare hold, staged sale, and tax-aware funding alternatives for child-related goals.",
+      "priority": "high",
+      "dueDate": "2026-03-27",
+      "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465",
+      "subTasks": [
+        {
+          "title": "Assemble Position Facts",
+          "text": "Collect current market value, share count, cost basis, acquisition history, holding period, account registration, and any employer equity plan details for Amber Teapot Robotics. Confirm whether blackout windows, lockups, Rule 144, or insider restrictions may apply.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "47926d53-db41-532d-99c2-224dc3aaa5ea"
+        },
+        {
+          "title": "Model Portfolio and Tax Impact",
+          "text": "Analyze concentration percentage, sector exposure, volatility, unrealized gain or loss, charitable giving opportunities, tax-loss offsets, and estimated tax impact under phased-sale scenarios for the Willowdoodle household's Amber Teapot Robotics position at about 18% of investable assets.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "96c9c35b-0519-5544-bd5f-e8e441dccdb2"
+        },
+        {
+          "title": "Draft Diversification Recommendation",
+          "text": "Prepare a client-ready summary comparing hold, trim, staged sale, gifting, hedging, and reinvestment options for the Willowdoodle household. Include key assumptions, open questions for the CPA or attorney, and next-step implementation considerations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4667bc56-66a8-50b5-9e6c-5140770cc465"
+        }
+      ],
+      "evidence": "The agreed follow-up is to compare hold, staged sale, and tax-aware funding alternatives by 2026-03-27."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain employer benefit enrollment information for Ivy",
+      "text": "Obtain the family-tier premium and dependent care election details from Jessa Willowdoodle's Amber Teapot Robotics benefits portal for adding Ivy Willowdoodle to medical coverage and dependent care elections before the limited enrollment window closes.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Employer benefit enrollment information for Ivy remains needed by 2026-03-06."
+    },
+    {
+      "templateId": "e968965a-969b-53fe-a5d3-3b7ff9150636",
+      "title": "Review Access Recovery Evidence",
+      "text": "Review the access recovery request from Jessa Willowdoodle using these criteria and evidence points:\n\nCriteria:\n- Confirm the request is tied to an authorized client, household member, trustee, executor, or approved agent.\n- Verify the impacted access type: client portal, custodian login, document vault, e-signature, secure email, or aggregation feed.\n- Determine whether access should be restored, reset, limited, transferred, or revoked.\n- Check for fraud indicators, unusual urgency, changed contact information, or mismatched identity details.\n- Confirm whether any compliance hold, deceased-client process, divorce restriction, or power-of-attorney review applies.\n\nEvidence to collect:\n- Approved identity verification record or call note.\n- Written request or secure message describing the access issue.\n- Current contact information on file and any requested changes.\n- Authorization documents if the requester is not the primary client.\n- Screenshot or description of the error, excluding passwords or authentication codes.\n- Confirmation of resolution and any access changes made.\n\nThe Apricot Compass Advisory vault rejected Jessa's upload of adoption and insurance files, and a working secure delivery route is needed before sensitive records can be reviewed.",
+      "priority": "high",
+      "dueDate": "2026-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address secure document upload access by 2026-03-04."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare guardianship and estate planning coordination summary",
+      "text": "Prepare a financial summary for attorney Hana Maplesprocket to support guardianship and estate planning discussions for the Willowdoodle household, reflecting Simon Nettlewhisk and Alia Nettlewhisk as likely guardians and the need to update wills signed in 2021 to include Ivy Willowdoodle.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the guardianship and estate planning coordination summary by 2026-03-24."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare life and disability insurance coverage gap analysis",
+      "text": "Analyze whether Jessa Willowdoodle's group life at Amber Teapot Robotics (2x base) and $750,000 Pocket Lantern Mutual term policy, plus Aaron Willowdoodle's $500,000 Silver Marmot Life term policy and employer disability coverage, are sufficient for the $512,000 Portland home mortgage, Polka Fern Early Learning childcare, education funding, and survivor income needs now that Ivy Willowdoodle is in the household.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is a life and disability insurance coverage gap analysis by 2026-03-20."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate employer adoption assistance and tax preparation",
+      "text": "Coordinate with Derek Fablethimble to confirm whether the Amber Teapot Robotics adoption assistance reimbursement on Jessa Willowdoodle's paystub has been received and whether the payroll detail needed to align the household's tax return assumptions is available.",
+      "priority": null,
+      "dueDate": "2026-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Employer adoption assistance and tax preparation coordination remains unresolved because the planning file does not yet show whether Derek has the needed payroll detail, and follow-up is needed by 2026-03-12."
+    }
+  ]
+}

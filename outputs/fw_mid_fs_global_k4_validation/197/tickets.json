@@ -1,0 +1,97 @@
+{
+  "meetingId": "197",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate rejected IRA transfer address exception",
+      "text": "Coordinate with Paper Otter Retirement Services and Velvet Acorn Custody to resolve the IRA transfer rejection caused by Selma Copperwisp's former plan address differing from her current residential address.",
+      "priority": null,
+      "dueDate": "2026-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Selma asked for coordination with Paper Otter Retirement Services and Velvet Acorn Custody after the rollover request was rejected because the former plan address differed from her current residential address. The agreed follow-up is to coordinate the exception by August 25, 2026."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Request and organize Selma Copperwisp's current estate planning documents, including wills, revocable trust documents, powers of attorney, health care directives, beneficiary designation evidence, trust funding records, and any recent attorney correspondence. Prepare a concise gap summary for advisor review. The Buttonwood Balloon Family Trust was signed in 2021; the trust brokerage application requires the first page, trustee authority page, and signed certification page, while Selma's upload contained only an unsigned schedule.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "For the Buttonwood Balloon Family Trust account certification opening package, the trust brokerage application requires the first page, trustee authority page, and signed certification page, while Selma’s upload contained only an unsigned schedule; no due date was supplied, and the opening package r"
+    },
+    {
+      "templateId": null,
+      "title": "Address joint account registration mismatch",
+      "text": "Address the mismatch between the transfer paperwork listing Selma and Graham Copperwisp as joint tenants with rights of survivorship and the Clockwork Clover Brokerage statement showing tenancy by entirety registration.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the mismatch by August 22, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate receiving account shell at Velvet Acorn Custody",
+      "text": "Resolve the duplicate temporary taxable account shells created for Selma at Velvet Acorn Custody. Clockwork Clover Brokerage associated the pending ACATS request with the shell Apricot Compass Advisory did not intend to use. Identify the correct shell and close the unintended one.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the duplicate receiving account shell at Velvet Acorn Custody, two temporary taxable account shells were created for Selma, and Clockwork Clover Brokerage associated the pending ACATS request with the shell Apricot Compass Advisory did not intend to use."
+    },
+    {
+      "templateId": null,
+      "title": "Handle restricted security manual transfer window",
+      "text": "Handle the Copper Firefly Semiconductors position in Selma's individual brokerage account outside the standard ACATS feed during the current processing window, as reported by Clockwork Clover Brokerage.",
+      "priority": null,
+      "dueDate": "2026-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the restricted security manual transfer window, Clockwork Clover Brokerage reported that the Copper Firefly Semiconductors position in Selma’s individual brokerage must be handled outside the standard ACATS feed during the current processing window;"
+    },
+    {
+      "templateId": null,
+      "title": "Address cash holdback before taxable transfer",
+      "text": "Address the cash holdback before the taxable transfer so that the ACATS instruction does not move all cash from Selma's individual brokerage when property tax and estimated tax payments are normally funded from that account.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora’s review found that the existing ACATS instruction would move all cash from Selma’s individual brokerage even though property tax and estimated tax payments are normally funded from that account. The agreed follow-up is to address the cash holdback by August 21, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Collect former employer plan source records",
+      "text": "Obtain confirmation from Paper Otter Retirement Services whether pre-tax, Roth, and employer-match source records will transmit with the 401(k) rollover file for Selma's former Silver Marmot Robotics plan.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Paper Otter Retirement Services has not confirmed whether pre-tax, Roth, and employer-match source records will transmit with the rollover file; no due date was supplied, and the unresolved issue is obtaining that confirmation."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_ultra",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"48\",\n\"tickets\": [\n{\n\"title\": \"Create equity vesting and trading window calendar\",\n\"text\": \"Create a practical equity vesting and trading-window calendar for Nadia Pebblefizz that separates Nadia-controlled dates from Moonbadger Dataworks company-administered dates, addressing confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-07\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\"\n},\n{\n\"title\": \"Prepare pre-window option exercise and sale analysis\",\n\"text\": \"Prepare a pre-window option exercise and sale analysis for Nadia Pebblefizz covering the next open trading window following the current blackout at Moonbadger Dataworks, evaluating the meaningful spread over strike, AMT exposure, share retention, and stock concentration considerations.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-14\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"For 2025-03-14, agreed pre-window option exercise/sale analysis covers next open trading window following current blackout, meaningful spread over strike, and Nadia weighing AMT exposure, share retention, and stock concentration.\"\n},\n{\n\"title\": \"Collect missing equity grant documents\",\n\"text\": \"Collect the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations for Nadia Pebblefizz from Moonbadger Dataworks to reconcile withheld and deposited shares.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-05\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"templateId\": null,\n\"evidence\": \"For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 5481,
+    "output_tokens": 2933,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

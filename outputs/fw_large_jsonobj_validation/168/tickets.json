@@ -1,0 +1,126 @@
+{
+  "type": "object",
+  "meetingId": "168",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain home safety modification estimates",
+      "text": "Obtain estimates for grab bar, stair rail, and shower entry modifications from contractors for Nadia Pebblefizz, referencing the discharge therapist’s recommendations.",
+      "priority": null,
+      "dueDate": "2026-09-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain home safety modification estimates by 2026-09-03."
+    },
+    {
+      "templateId": null,
+      "title": "Gather long-term care claim materials",
+      "text": "Gather the long-term care policy brochure, elimination-period ledger, physician certification form, and current claim packet for Owen Pebblefizz’s Velvet Acorn Life & Care policy.",
+      "priority": null,
+      "dueDate": "2026-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to gather long-term care claim materials by 2026-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Medicare home‑health denial packet",
+      "text": "Assemble the denial packet for Owen Pebblefizz’s Silver Marmot Health Medicare Advantage home‑health claim, including the explanation of benefits, therapy notes, and homebound certification.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to assemble the Medicare home-health denial packet by 2026-08-19."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare caregiver compensation framework",
+      "text": "Prepare a compensation framework for Lila Pebblefizz’s evening care, addressing documentation, tax reporting, and the distinction between gifts and paid care for Nadia and Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a caregiver compensation framework by 2026-09-05."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on care agency authorization contacts",
+      "text": "Contact Paper Otter Home Care to update the authorized signers for schedule changes, adding Nadia Pebblefizz alongside Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up on care agency authorization contacts remains needed."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare care‑cost cash‑flow projection",
+      "text": "Prepare a twelve‑month cash‑flow projection comparing home‑health hours, adult day care, and the respite suite costs against pension income, Social Security, taxable‑account cash, and potential IRA distributions for Nadia and Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the care-cost cash-flow projection by 2026-08-29."
+    },
+    {
+      "templateId": null,
+      "title": "Address benefit changes from reduced work",
+      "text": "Analyze the impact of Nadia Pebblefizz’s potential loss of consulting income on the household’s monthly care budget and estimated tax payments, and recommend adjustments.",
+      "priority": null,
+      "dueDate": "2026-09-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address benefit changes from reduced work by 2026-09-11."
+    },
+    {
+      "templateId": null,
+      "title": "Address recurring transfer failure",
+      "text": "Investigate and resolve the missed $5,000 monthly transfer from the Velvet Acorn Custody taxable account to the Teacup Comet Bank checking account for Nadia and Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-08-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the recurring transfer failure by 2026-08-21."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile home‑care invoice",
+      "text": "Reconcile the Paper Otter Home Care invoice with the family care log, verifying billed visits and the weekend premium rate for Owen Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reconcile the home-care invoice by 2026-08-23."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare liquidity plan after portfolio review",
+      "text": "Develop a liquidity plan for Nadia and Owen Pebblefizz to ensure sufficient low‑volatility assets covering at least 18 months of core household spending after the portfolio review.",
+      "priority": null,
+      "dueDate": "2026-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a liquidity plan after the portfolio review by 2026-08-30."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare respite placement decision support",
+      "text": "Prepare a financial comparison of the Thimble Harbor Assisted Living respite suite versus expanded in‑home shifts for Owen Pebblefizz, including costs and assessment fees.",
+      "priority": null,
+      "dueDate": "2026-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare respite placement decision support by 2026-08-26."
+    },
+    {
+      "templateId": null,
+      "title": "Provide information for tax estimate",
+      "text": "Provide the CPA with projected home‑care, adult day, respite, mileage, and caregiver‑payment amounts for Nadia and Owen Pebblefizz to inform the 2025 tax estimate for medical and caregiver costs.",
+      "priority": null,
+      "dueDate": "2026-09-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to provide information for the tax estimate for medical and caregiver costs by 2026-09-08."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "meetingId": "129",
+  "tickets": [
+    {
+      "templateId": "f893c20e-c44a-568a-9217-439053a4b55d",
+      "title": "Request estate document package",
+      "text": "Subject: Estate planning document request\n\nHello Nolan Wrenpuddle,\n\nTo help keep the financial plan and account records aligned with the current estate plan, please send copies of any available documents listed below:\n\n- Will\n- Revocable trust or other trust agreements\n- Trust amendments or restatements\n- Durable power of attorney\n- Health care directive or medical power of attorney\n- Beneficiary designation confirmations\n- Letters of instruction or executor/trustee contact details\n- Any recent attorney summary letter\n\nIf another professional should provide these directly, please share the professional's name, firm, email, and phone number: Celia Thimblefern.\n\nPreferred secure delivery method: [secure portal / encrypted email / mail / other: ________]\nDocuments already on file: 2014 revocable trust and will\nDocuments still needed: later trust restatement, trustee acceptance language, durable power of attorney, health care directive, attorney summary letter\n\nThank you,\nApricot Compass Advisory\n\nObtain the current estate document package from Nolan Wrenpuddle, whose advisory file holds the 2014 revocable trust and will but no later restatement, trustee acceptance language, durable power of attorney, health care directive, or attorney summary letter. Attorney Celia Thimblefern may have prepared a binder after Carla Wrenpuddle's death.",
+      "priority": "medium",
+      "dueDate": "2026-02-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the current estate document package by 2026-02-19."
+    },
+    {
+      "templateId": null,
+      "title": "Review IRA beneficiary designation inconsistency",
+      "text": "Review the IRA beneficiary inconsistency for Nolan Wrenpuddle, whose traditional IRA confirmation lists Lena Wrenpuddle and Oscar Wrenpuddle equally while the Roth IRA still names the 2014 revocable trust as sole beneficiary. Nolan expected both retirement accounts to pass directly to his children unless there was a specific reason to keep the trust on one account.",
+      "priority": null,
+      "dueDate": "2026-02-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Further follow-up is needed by 2026-02-26 on the IRA beneficiary inconsistency, because Nolan expected both retirement accounts to pass directly to his children unless there was a specific reason to keep the trust on one account."
+    },
+    {
+      "templateId": null,
+      "title": "Review successor trustee sequence and authority evidence",
+      "text": "Review the successor trustee sequence and authority evidence for Nolan Wrenpuddle's 2014 revocable trust, which still names his late spouse Carla Wrenpuddle ahead of his sister Priya Nettlewhisk. Confirm whether Priya Nettlewhisk signed any trustee acceptance and whether another child should be added later, as this affects the estate review and possible future trust account administration.",
+      "priority": null,
+      "dueDate": "2026-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Further follow-up is also needed by 2026-03-05 on the successor trustee sequence and authority evidence, because Carla remains ahead of Priya and Nolan is unsure whether Priya signed any acceptance or whether another child should be added later"
+    }
+  ]
+}

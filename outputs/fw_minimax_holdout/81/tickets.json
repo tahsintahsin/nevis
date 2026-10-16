@@ -1,0 +1,35 @@
+{
+  "meetingId": "81",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update address records after Seattle move",
+      "text": "Update advisory and custodian records for Lila Copperwisp and Rowan Copperwisp to reflect the new Seattle, Washington address after their apartment lease begins on 2025-04-01. The Portland condo sale closes 2025-04-11, and the change affects the Teacup Comet Bank account and the Velvet Acorn Custody taxable account.",
+      "priority": null,
+      "dueDate": "2025-04-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2025-04-04 to update address-related advisory and custodian records after the lease begins"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain lease and Washington utility confirmation",
+      "text": "Obtain the Seattle apartment lease beginning 2025-04-01 and a Washington utility confirmation for Lila Copperwisp and Rowan Copperwisp, both currently missing from the file. Save the documents to the approved client folder once received.",
+      "priority": null,
+      "dueDate": "2025-04-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2025-04-09 to obtain the lease and Washington utility confirmation missing from the file"
+    },
+    {
+      "templateId": null,
+      "title": "Review Oregon bond fund, Tin Sparrow concentration, and cash needs",
+      "text": "Review the Oregon municipal bond fund position, the Tin Sparrow Robotics concentration (about $86,000 of shares held in the Velvet Acorn Custody taxable account), and move-related cash needs for Lila Copperwisp. The household has $74,000 at Teacup Comet Bank with $18,000 reserved for moving and temporary duplicate housing.",
+      "priority": null,
+      "dueDate": "2025-04-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2025-04-25 to review the Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs"
+    }
+  ]
+}

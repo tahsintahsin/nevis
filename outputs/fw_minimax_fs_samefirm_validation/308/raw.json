@@ -1,0 +1,21 @@
+{
+ "config": "fw_minimax_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"308\", \"tickets\": [{\"title\": \"Prepare life insurance coverage analysis\", \"text\": \"Prepare a life insurance coverage analysis for Alina and Derek Mossbutton reflecting Nora's adoption, Derek's reduced household income during his unpaid leave from Velvet Acorn Pediatrics, the $412,000 mortgage balance, and current group and term policies (Alina's employer group life equal to one times salary and Derek's $250,000 term policy with Moonbadger Life through 2041).\", \"priority\": null, \"dueDate\": \"2026-03-09\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed to prepare life insurance coverage analysis by 2026-03-09 reflecting Nora's adoption, Derek's reduced household income during leave, the mortgage balance, and current group and term policies.\"}, {\"title\": \"Care Cost Planning Starter\", \"text\": \"Create one view of childcare and education funding tradeoffs for Alina and Derek Mossbutton. The preferred daycare quote of $2,150 per month for infant care and the desired college savings contribution would draw from the same monthly surplus. Show reserve impact, dependent-care reimbursements, and possible education account funding levels.\", \"priority\": null, \"dueDate\": \"2026-03-12\", \"assigneeId\": null, \"templateId\": \"d9317489-4c3f-5a88-801f-76eec7064887\", \"subTasks\": [], \"evidence\": \"They agreed by 2026-03-12 to create one view of childcare and education funding tradeoffs because the daycare quote and desired college savings contribution would draw from the same monthly surplus, showing reserve impact, dependent-care reimbursements, and possible education account funding levels.\"}, {\"title\": \"Update estate documents for new child\", \"text\": \"Update the Mossbutton estate plan to include guardian nomination, testamentary trust language, and beneficiary designations with provisions for Nora Mossbutton. The current 2019 documents name each other as primary agents and Alina's sister Leona Bramblequill as backup agent but predate Nora's adoption.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the file has pre-child estate documents and account beneficiaries but no guardian nomination, testamentary trust language, or beneficiary designations with provisions for Nora.\"}, {\"title\": \"Collect adoption documentation\", \"text\": \"Obtain the final adoption decree, amended birth certificate, and Social Security number for Nora Mossbutton (born 2025-11-18, adoption finalized 2026-02-12) to verify beneficiary and education account paperwork.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the vault lacks the final adoption decree, amended birth certificate, or Social Security number needed to verify beneficiary and education account paperwork.\"}, {\"title\": \"Address dependent-care enrollment timing\", \"text\": \"Address dependent-care enrollment timing for Alina and Derek Mossbutton. Derek's employer portal shows a benefits enrollment window closing soon, and Alina was unsure which parent's dependent-care arrangement should be used given the expected daycare start and leave transition.\", \"priority\": null, \"dueDate\": \"2026-02-27\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2026-02-27 to address dependent-care enrollment timing because Derek's employer portal shows a benefits enrollment window closing soon, and Alina was unsure which parent's dependent-care arrangement should be used given the expected daycare start and leave transition.\"}]}",
+   "usage": {
+    "input_tokens": 532,
+    "output_tokens": 3382,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 13480
+   },
+   "stop": "stop"
+  }
+ ]
+}

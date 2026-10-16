@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_reason_low",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"91\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Evaluate policy lapse and reinstatement\",\n\"text\": \"Evaluate Soren Cloudpuddle's Paper Otter Life term policy lapse and possible reinstatement after a draft failure was detected when the Teacup Comet Bank checking account was replaced, ensuring existing underwriting terms are preserved.\",\n\"priority\": null,\n\"dueDate\": \"2024-12-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-12-13 agreed: evaluate lapse/reinstatement after notice showed draft failure when checking was replaced, before losing existing underwriting terms.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review term coverage and disability protection\",\n\"text\": \"Review Soren and Lila Cloudpuddle's term life coverage and disability protection now that Lila has shifted to part‑time work, considering the increased reliance on Soren's salary for mortgage, childcare and education expenses.\",\n\"priority\": null,\n\"dueDate\": \"2024-12-20\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-12-20 agreed: review term-coverage/disability-protection after Lila reduced paid-work to part-time, increasing household dependence on his salary, with mortgage/childcare/education-funding exposure.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4255,
+    "output_tokens": 517,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 65
+   },
+   "stop": "stop"
+  }
+ ]
+}

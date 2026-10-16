@@ -1,0 +1,21 @@
+{
+ "config": "fw_minimax_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"268\", \"tickets\": [{\"title\": \"Compare charitable funding source options\", \"text\": \"Compare donating appreciated Moonbadger Systems shares, donating cash from the Velvet Acorn Custody taxable account, and using a donor-advised fund for Jasper Lanternmoss's planned ~$150,000 charitable commitment. Include effects on portfolio concentration and estimated taxable gains avoided.\", \"priority\": null, \"dueDate\": \"2026-08-06\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2026-08-06.\"}, {\"title\": \"Obtain Pocket Lantern Youth Lab gift delivery instructions\", \"text\": \"Obtain the full delivery instructions, legal name, tax identification confirmation, and gift-acceptance contact for Pocket Lantern Youth Lab so Jasper Lanternmoss can complete the planned securities gift.\", \"priority\": null, \"dueDate\": \"2026-08-13\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"follow-up is needed for 2026-08-13.\"}, {\"title\": \"Resolve account registration mismatch for securities delivery\", \"text\": \"Resolve the registration mismatch between the draft donor-advised fund paperwork listing Jasper Lanternmoss individually and the Velvet Acorn Custody taxable account titled jointly with Lena Lanternmoss. Confirm required authorization and acknowledgement naming.\", \"priority\": null, \"dueDate\": \"2026-08-12\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"follow-up is needed for 2026-08-12.\"}, {\"title\": \"Confirm current delivery instructions and notification steps\", \"text\": \"Confirm current delivery instructions and notification steps with Velvet Acorn Custody before initiating another gift, given Jasper Lanternmoss's prior experience where a securities gift took nearly three weeks and the charity initially could not identify the donor.\", \"priority\": null, \"dueDate\": \"2026-08-16\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up due 2026-08-16 is to confirm current delivery instructions and notification steps before initiating another gift.\"}, {\"title\": \"Identify specific Moonbadger Systems shares for donation\", \"text\": \"Identify the specific Moonbadger Systems shares selected for donation from the high-gain and recent reinvestment lots before any transfer request is prepared for Jasper Lanternmoss's charitable gift.\", \"priority\": null, \"dueDate\": \"2026-08-09\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed tax-lot follow-up due 2026-08-09 is to identify the specific shares selected for donation before any transfer request is prepared.\"}, {\"title\": \"Confirm charitable grant timing\", \"text\": \"Confirm the timing for Jasper Lanternmoss's initial gift to Pocket Lantern Youth Lab before the family's campaign update, while leaving flexibility for later grants to the food security and arts organizations.\", \"priority\": null, \"dueDate\": \"2026-08-20\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed grant-timing follow-up is due 2026-08-20.\"}, {\"title\": \"Assemble charitable gift documentation packet\", \"text\": \"Assemble the nonprofit receipt requirements, account transfer confirmations, and year-end reporting file for Jasper and Lena Lanternmoss's 2026 charitable gifts. Include contemporaneous acknowledgements and valuation support for noncash gifts as requested by Rowan Copperwisp, CPA.\", \"priority\": null, \"dueDate\": \"2026-12-15\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"follow-up on the documentation packet is needed for 2026-12-15.\"}]}",
+   "usage": {
+    "input_tokens": 846,
+    "output_tokens": 2496,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 14544
+   },
+   "stop": "stop"
+  }
+ ]
+}

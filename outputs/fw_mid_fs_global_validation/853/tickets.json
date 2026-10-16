@@ -1,0 +1,25 @@
+{
+  "meetingId": "853",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review unfamiliar-device alert and check profile/distribution-instruction changes",
+      "text": "Review the Velvet Acorn Custody unfamiliar-device alert, check for any unauthorized profile or distribution-instruction changes, and coordinate pre-upload custodian security steps. Failure blocks phone/email/trusted-contact review.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate pre-upload custodian security steps",
+      "text": "Coordinate custodian security steps before portal upload to resolve the authentication failure that blocks phone/email/trusted-contact review.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps."
+    }
+  ]
+}

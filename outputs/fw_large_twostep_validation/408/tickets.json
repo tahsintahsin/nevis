@@ -1,0 +1,85 @@
+{
+  "meetingId": "408",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Refinance vs Adjustable Comparison Including HELOC Options",
+      "text": "Prepare a side‑by‑side comparison of the adjustable‑rate mortgage after reset versus the fixed‑rate refinance option, including HELOC integration, for Liora Nettlewhisk and Jonah Nettlewhisk. Incorporate payment estimates, closing costs, and cash reserve impact as discussed.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2025-01-24."
+    },
+    {
+      "templateId": null,
+      "title": "Gather Missing Lender Documents for Refinance",
+      "text": "Collect the required lender documents—current pay stub for Liora Nettlewhisk, Jonah Nettlewhisk’s year‑to‑date profit‑and‑loss statement, the most recent business bank statement, and the complete prior‑year tax return packet—and finalize the refinance packet. Ensure all items are uploaded for Silver Marmot Mortgage review.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That document packet remains an unresolved issue needing follow-up by 2025-01-28."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Mortgage Payoff Balance Discrepancy",
+      "text": "Investigate and reconcile the mortgage payoff balance discrepancy where Liora Nettlewhisk’s portal shows $642,000 versus the loan officer worksheet’s $655,800, and provide the correct figure for the refinance analysis.",
+      "priority": null,
+      "dueDate": "2025-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2025-01-23."
+    },
+    {
+      "templateId": "432e4a09-cd76-510d-b173-4fe70356ef9a",
+      "title": "Recover Client Portal Access",
+      "text": "Recover client portal access for Liora Nettlewhisk with Teacup Comet Bank by updating two‑factor authentication to retrieve recent HELOC and checking statements.",
+      "priority": null,
+      "dueDate": "2025-01-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That access issue remains unresolved and needs follow-up by 2025-01-27."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Cash‑Flow Stress Test Modeling",
+      "text": "Build a cash‑flow stress‑test model for Liora and Jonah Nettlewhisk that incorporates the mortgage reset payment, HELOC interest, credit‑card payoff target, Eleni’s upcoming college costs, and potential support for Hazel Willowdoodle, and compare against monthly income and spending.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that modeling by 2025-01-31."
+    },
+    {
+      "templateId": "9e10aee4-f276-52cb-be0c-39f25dd71780",
+      "title": "Review Concentrated Position",
+      "text": "Assess position size, tax basis, liquidity needs, risk tolerance, trading restrictions, and diversification options before recommending any action. Apply this review to Liora Nettlewhisk’s Clockwork Clover Systems stock held in the joint taxable brokerage account (approximately $156,000 with a $42,000 cost basis) and compare partial sale, staged sale, pledged‑asset, and no‑sale scenarios for debt reduction.",
+      "priority": "medium",
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction by 2025-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Address Appraisal and Rate‑Lock Readiness Items",
+      "text": "Gather and submit the appraisal and rate‑lock readiness items for Liora Nettlewhisk’s refinance—including the insurance declarations, property tax bill, and HOA confirmation—by the required deadline to keep the loan officer’s rate‑lock window open.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those readiness items by 2025-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Produce Non‑Retirement Funding Options Analysis",
+      "text": "Prepare an analysis for Liora and Jonah Nettlewhisk that outlines non‑retirement funding options for debt restructuring, ensuring retirement account withdrawals are only considered as a last‑resort scenario, and deliver the report by the target date.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed planning analysis is to show non-retirement funding options before any retirement-account cash-flow scenario by 2025-02-03."
+    }
+  ]
+}

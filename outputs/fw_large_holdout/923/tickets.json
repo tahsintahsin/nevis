@@ -1,0 +1,169 @@
+{
+  "meetingId": "923",
+  "tickets": [
+    {
+      "templateId": "754a9d70-aa34-5a38-973d-b82743cfae93",
+      "title": "Resolve Missing Signature Packet",
+      "text": "Use this workflow when a form, agreement, authorization, or disclosure is otherwise complete but cannot proceed because one or more required signatures, initials, dates, or attestations are missing. Confirm the exact deficiency, contact the signer with clear instructions, and verify the corrected packet before filing or submission. Helena Thimblefern and Gabriel Thimblefern need the missing signatures on the spouse consent page and one donor acknowledgment page of the Silver Marmot Giving Fund charitable transfer packet.",
+      "priority": "medium",
+      "dueDate": "2025-07-01",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Identify the signature gap",
+          "text": "Review the document packet and note each missing signature, initial, date, witness line, notary block, or required checkbox. Confirm whether electronic signature, wet signature, or custodian-specific signing is required.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Send signer instructions",
+          "text": "Contact the client or authorized signer with the specific pages and fields needing completion. Include return instructions, acceptable delivery method, and any identity or witness requirements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Verify corrected packet",
+          "text": "After receipt, confirm the corrected pages are legible, complete, and consistent with the rest of the packet before updating the task status or forwarding for processing.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "The agreed follow-up is to obtain the missing signatures by 2025-07-01."
+    },
+    {
+      "templateId": "69200860-58a0-5ea4-beb1-03406f61c2f5",
+      "title": "Coordinate Benefits Enrollment Support",
+      "text": "Use this coordination template when a client needs help reviewing employer benefit choices, organizing enrollment materials, or confirming elections. Keep recommendations within advisory scope and document assumptions clearly. Helena wants a review of the available health plan, HSA, disability, life insurance, and 401(k) election choices before the Moonbadger Instruments benefits portal closes.",
+      "priority": "medium",
+      "dueDate": "2025-07-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather enrollment materials",
+          "text": "Request the benefits guide, enrollment portal summary, plan options, employer contribution details, deadlines stated by the employer, and current elections. Store documents in the planning file.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review planning implications",
+          "text": "Analyze available retirement plan, health plan, HSA/FSA, disability, life insurance, and equity or deferred compensation options for planning relevance. Summarize tradeoffs and questions for the client discussion.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d5f4d664-f103-5774-9e44-6776b889980a"
+        },
+        {
+          "title": "Confirm client elections and documentation",
+          "text": "After the client makes selections, request confirmation of submitted elections or a benefits summary. Note any follow-up items for payroll, beneficiaries, or future plan updates.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "The agreed follow-up is to complete that benefits enrollment review by 2025-07-10."
+    },
+    {
+      "templateId": "17950cbe-9ee9-58bc-b99e-e6117b79ef90",
+      "title": "Collect Mortgage Documents",
+      "text": "Request the current mortgage statement, note or loan summary, escrow details if applicable, interest rate, term, payment amount, and any refinance or payoff information needed for the planning file. Helena and Gabriel need the current mortgage statement showing escrow, payment allocation, and payoff information for their primary residence.",
+      "priority": "low",
+      "dueDate": "2025-07-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the current mortgage statement by 2025-07-12."
+    },
+    {
+      "templateId": "7373d127-9653-5d08-a0fb-ae04c0aa22bb",
+      "title": "Review Insurance Policy Details",
+      "text": "Review the client’s insurance policy information, including policy type, owner, insured, beneficiary structure, premium pattern, coverage amount, riders, surrender value if applicable, and known planning purpose. Note gaps, upcoming decisions, tax considerations, and coordination needed with the insurance professional or estate attorney. The term life coverage may no longer align with the $690,000 mortgage balance, retirement timing, and Rowan’s education period.",
+      "priority": "medium",
+      "dueDate": "2025-08-22",
+      "assigneeId": "d5f4d664-f103-5774-9e44-6776b889980a",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the insurance coverage by 2025-08-22."
+    },
+    {
+      "templateId": "612d8c3c-5afd-582a-9883-b43e913298db",
+      "title": "Perform Recurring Inheritance Intake Check",
+      "text": "At inheritance intake and then on a recurring relative cadence, such as every two weeks until the intake file is complete, check for new information about estate contacts, expected assets, tax documents, probate status, beneficiary forms, trust documents, cost basis information, and client questions. Update the planning notes after each check and pause the cadence once all required intake evidence has been received or the matter is referred to the appropriate attorney or tax professional. Update the advisory file with Gabriel’s expected estate distribution values, tax character, and beneficiary paperwork.",
+      "priority": "medium",
+      "dueDate": "2025-08-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the file with those inheritance materials by 2025-08-01."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Roth Conversion Projection",
+      "text": "Prepare a coordinated projection for a partial Roth conversion that incorporates Helena’s estimated bonus, vested RSU shares, Gabriel’s business income range, and the household’s charitable giving plans, to assess feasibility in a high‑income year.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that coordinated projection by 2025-08-15."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate Estimated Tax Assumptions",
+      "text": "Coordinate projected tax payments and withholding assumptions with CPA Lina Maplesprocket, incorporating the unusually high income year, Helena’s bonus estimate, vested shares, and Gabriel’s variable business income, before the next cash‑flow update.",
+      "priority": null,
+      "dueDate": "2025-09-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate those assumptions by 2025-09-01."
+    },
+    {
+      "templateId": null,
+      "title": "Review Compensation Withholding Discrepancy",
+      "text": "Review the discrepancy between Helena’s year‑to‑date paystub and the bonus and withholding amounts used in the preliminary tax estimate, to determine impact on quarterly tax planning.",
+      "priority": null,
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the discrepancy by 2025-07-18."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Year‑End Giving Schedule",
+      "text": "Prepare a charitable giving schedule that coordinates the Silver Marmot Giving Fund balance, potential appreciated securities gifts, anonymous grant preferences, and tax projection assumptions for the year‑end plan.",
+      "priority": null,
+      "dueDate": "2025-10-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that giving schedule by 2025-10-03."
+    },
+    {
+      "templateId": null,
+      "title": "Provide Planning Summary for Oren",
+      "text": "Provide a planning summary for Oren Dewspindle at Clockwork Clover Legal covering account titling, beneficiaries, charitable intent, and family caregiving concerns, to support the upcoming estate document refresh.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to provide that planning summary by 2025-09-05."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Beneficiary Update Status",
+      "text": "Resolve the pending beneficiary update status for the Velvet Acorn Custody retirement and taxable accounts, confirming whether the updates have been accepted in the custodian’s portal.",
+      "priority": null,
+      "dueDate": "2025-07-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve the beneficiary update status by 2025-07-05."
+    },
+    {
+      "templateId": null,
+      "title": "Develop Concentrated Stock Plan",
+      "text": "Develop a plan to address the concentration of Moonbadger Instruments shares and vested RSU shares in the taxable brokerage account, reducing exposure for the next planning year.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to develop a plan for the concentrated Moonbadger position by 2025-09-12."
+    }
+  ]
+}

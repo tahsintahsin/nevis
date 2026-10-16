@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"197\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Coordinate IRA transfer address exception\",\n\"text\": \"Coordinate the IRA transfer address exception for Selma Copperwisp with Paper Otter Retirement Services and Velvet Acorn Custody to resolve the mismatched residential address.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to coordinate the exception by August 25, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Address joint account registration mismatch\",\n\"text\": \"Address the registration mismatch for the joint taxable account of Selma and Graham Copperwisp at Clockwork Clover Brokerage, correcting the tenancy by entirety record to reflect joint tenants with rights of survivorship.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-22\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to address the mismatch by August 22, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Resolve duplicate account shell issue\",\n\"text\": \"Resolve the duplicate temporary taxable account shell created for Selma Copperwisp at Velvet Acorn Custody and ensure the correct ACATS request is linked to the intended account.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Handle restricted security manual transfer\",\n\"text\": \"Handle the manual transfer of Selma Copperwisp’s Copper Firefly Semiconductors position from Clockwork Clover Brokerage outside the standard ACATS feed during the current processing window.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-28\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to handle it by August 28, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Address cash holdback before transfer\",\n\"text\": \"Address the cash holdback issue for Selma Copperwisp’s individual brokerage account to ensure property tax and estimated tax payments remain funded while the ACATS instruction moves remaining cash.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-21\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to address the cash holdback by August 21, 2026.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4532,
+    "output_tokens": 1593,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 40
+   },
+   "stop": "stop"
+  }
+ ]
+}

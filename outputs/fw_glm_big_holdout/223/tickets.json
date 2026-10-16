@@ -1,0 +1,154 @@
+{
+  "meetingId": "223",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm disability policy grace status with Coral Badger Assurance",
+      "text": "Contact Coral Badger Assurance to confirm the amount needed to bring Rowan Copperwisp's disability income policy out of grace status and the carrier's processing steps. The policy has a $6,500 monthly benefit and drafts stopped after the former bank account was closed when the household consolidated cash at Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2025-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan asked Apricot Compass Advisory to help confirm the amount needed to keep the policy active and the carrier’s processing steps. The agreed follow-up is due March 14, 2025."
+    },
+    {
+      "templateId": "fbbdddd5-865b-51c3-a01a-013cd6ced637",
+      "title": "Verify recurring payment change",
+      "text": "Complete these checks before confirming the recurring payment change:\n- Identify the payment being changed, including payee, funding account, frequency, and approximate amount.\n- Confirm whether the request is to add, stop, pause, resume, or modify the payment.\n- Verify client authorization using the firm's required authentication process.\n- Confirm the effective processing window and whether any payment is already pending.\n- Check for linked services, loan obligations, insurance premiums, charitable pledges, or household bills that could be affected.\n- Document the new instructions and retain confirmation from the custodian, biller, or payment platform.\n- Notify the client when the change is submitted and again when confirmation is received.\n\nRowan Copperwisp requested that the Coral Badger Assurance disability premium draft be moved from the closed bank account to the household's active Teacup Comet Bank account, with payment confirmation retained in the client file.",
+      "priority": "high",
+      "dueDate": "2025-03-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan requested that the Coral Badger premium draft be moved from the closed bank account to the household’s active Teacup Comet Bank account and that payment confirmation be retained in the client file. The agreed follow-up is due March 17, 2025."
+    },
+    {
+      "templateId": "b4b28e1a-9a89-5911-87af-edffbf515fb3",
+      "title": "Complete policy renewal follow-up",
+      "text": "Use this workflow when a client receives a renewal notice or upcoming renewal reminder for an insurance, benefits, or protection policy. Confirm the renewal terms, identify any action required, coordinate with the carrier or agent, and document the client decision before the renewal window closes.\n\nRowan Copperwisp asked for a comparison of the Pocket Lantern Insurance Agency umbrella renewal terms against the household's current property, vehicle, and liability profile. The renewal packet showed a higher umbrella premium and a renewal action window; current umbrella coverage is $2 million.",
+      "priority": "medium",
+      "dueDate": "2025-03-21",
+      "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742",
+      "subTasks": [
+        {
+          "title": "Collect renewal notice and current policy details",
+          "text": "Request or locate the renewal notice, current declarations page, premium summary, coverage limits, named insured details, beneficiary or owner information if applicable, and any stated renewal action requirements. Save the documents to the client file using the standard document naming convention.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        },
+        {
+          "title": "Review renewal changes and planning implications",
+          "text": "Compare the renewal terms with the current policy. Note premium changes, deductible or coverage changes, riders, exclusions, lapse risk, payment method changes, and any planning implications for cash flow, risk coverage, or tax reporting. Escalate material concerns to the lead advisor.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a8da8f8f-1814-56bc-93a4-f7ec3a48a450"
+        },
+        {
+          "title": "Contact carrier or agent for missing information",
+          "text": "If details are incomplete, contact [carrier or agent name] to confirm renewal status, required forms, accepted payment methods, processing timeframe, and whether any underwriting or client signature is required. Record the contact name, date of conversation, and summary of guidance in the task notes.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "6c042427-5f72-5342-b648-35e8432ac742"
+        },
+        {
+          "title": "Confirm recommendation and client instructions",
+          "text": "Prepare a concise client follow-up summarizing the renewal options, advisor recommendation, required next steps, and any deadline stated in the renewal notice. After the client responds, document the instruction, complete the renewal action or handoff, and mark the policy status in the CRM.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4"
+        }
+      ],
+      "evidence": "the Pocket Lantern Insurance Agency renewal packet showed a higher umbrella premium and a renewal action window, and Rowan asked for a comparison of the renewal terms against the household’s current property, vehicle, and liability profile. The agreed follow-up is due March 21, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve cottage scheduling on property coverage",
+      "text": "Resolve the coverage question for the Copperwisp household's unmortgaged lakeside cottage (valued at approximately $410,000) and related liability exposure, since the Pocket Lantern Insurance Agency renewal packet's scheduled property page lists only the primary residence. Confirm with Pocket Lantern Insurance Agency how the cottage should be scheduled.",
+      "priority": null,
+      "dueDate": "2025-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the Pocket Lantern renewal packet scheduled only the primary residence even though the family owns an unmortgaged lakeside cottage, creating an unresolved coverage question for the cottage and related liability exposure. The agreed follow-up is due March 20, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Collect renewal documents from Pocket Lantern portal",
+      "text": "Collect the current homeowners declarations page, cottage property declarations page, auto policy declarations, and the full umbrella renewal packet for Rowan and Nadia Copperwisp. Rowan said the documents may be split between the Pocket Lantern Insurance Agency portal and Nadia's email.",
+      "priority": null,
+      "dueDate": "2025-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the file did not include the current homeowners declarations page, cottage property declarations page, auto policy declarations, or the full umbrella renewal packet, and Rowan said the documents may be split between the Pocket Lantern portal and Nadia’s email. The agreed follow-up is due March 18, 2"
+    },
+    {
+      "templateId": null,
+      "title": "Review life insurance needs after income change",
+      "text": "Review whether Rowan Copperwisp's $1.2 million 20-year term policy through Amber Teapot Life and Nadia Copperwisp's $750,000 employer-paid group life coverage through Cloudberry Kite Software still match the household's mortgage, education, and survivor-income goals. Rowan's self-employment income is variable while Nadia's $168,000 salary plus 18% bonus target now represents a larger share of predictable household cash flow.",
+      "priority": null,
+      "dueDate": "2025-04-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "prompting a review of whether Rowan’s term coverage and Nadia’s employer-only coverage still match the mortgage, education, and survivor-income goals. The agreed follow-up is due April 4, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain beneficiary confirmations for protection policies",
+      "text": "Obtain current beneficiary confirmations for Rowan Copperwisp's term life policy through Amber Teapot Life, Nadia Copperwisp's employer life coverage through Cloudberry Kite Software, and related retirement accounts used in the survivor plan, since none were in the advisory file.",
+      "priority": null,
+      "dueDate": "2025-03-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "current beneficiary confirmations were not in the advisory file for Rowan’s term life policy, Nadia’s employer life coverage, or related retirement accounts used in the survivor plan. The agreed follow-up is due March 28, 2025."
+    },
+    {
+      "templateId": "b823f1eb-7d40-54c3-9ff9-2000a502ca09",
+      "title": "Request estate document copies",
+      "text": "Ask the client to provide current copies of wills, trusts, powers of attorney, health care directives, beneficiary designations, and any recent attorney correspondence for secure file review.\n\nRowan Copperwisp asked for the advisory file to be updated with the household's current wills, powers of attorney, health care directives, and any attorney correspondence so the insurance review can be coordinated with guardian and survivor-liquidity planning. The 2017 estate documents name Ellis Copperwisp as first guardian and Priya Willowdoodle as successor guardian.",
+      "priority": "medium",
+      "dueDate": "2025-04-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan asked for the advisory file to be updated with the current wills, powers of attorney, health care directives, and any attorney correspondence so the insurance review can be coordinated with the household’s guardian and survivor-liquidity planning. The agreed follow-up is due April 11, 2025."
+    },
+    {
+      "templateId": "34cf1a46-663b-5e6d-9669-0389ee316496",
+      "title": "Prepare liquidity planning review",
+      "text": "Assess current cash reserves, anticipated withdrawals, upcoming large expenses, income timing, available credit sources, and investment accounts that may be used for liquidity. Identify recommended reserve targets, replenishment steps, tax considerations, and any trades or transfers requiring approval.\n\nRowan Copperwisp requested a reserve view showing how to pay irregular insurance premiums without selling investments at an inconvenient time. The household has $94,000 at Teacup Comet Bank with about $40,000 earmarked for quarterly estimated taxes and tuition deposits, roughly $13,800 per month of regular spending, and about $32,000 of cottage roof and dock repairs expected in spring and summer 2025.",
+      "priority": "medium",
+      "dueDate": "2025-03-26",
+      "assigneeId": "109ee96c-98ac-5220-bb77-70a307c8c2c4",
+      "subTasks": [],
+      "evidence": "Rowan requested a reserve view showing how to pay premiums without selling investments at an inconvenient time. The agreed follow-up is due March 26, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate insurance premium tax tracking with CPA",
+      "text": "Coordinate with Iris Thimblefern of Plum Zeppelin Tax Partners on whether any disability, business overhead, or property coverage premiums are tracked correctly for Rowan Copperwisp's self-employed records and household tax planning. Rowan's 2024 Schedule C net income was approximately $142,000 from Paper Otter Studio.",
+      "priority": null,
+      "dueDate": "2025-04-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan asked Apricot Compass Advisory to coordinate with Iris Thimblefern on whether any disability, business overhead, or property coverage premiums are tracked correctly for Rowan’s self-employed records and household tax planning. The agreed follow-up is due April 2, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Nadia's employer benefit-election questions",
+      "text": "Prepare benefit-election questions for Nadia Copperwisp covering supplemental life, disability, legal coverage, and beneficiary records before Cloudberry Kite Software's open-enrollment materials arrive. Her enrollment window is expected later in 2025 and normally includes life, disability, health, and legal-benefit elections.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the meeting identified a need to prepare benefit-election questions about supplemental life, disability, legal coverage, and beneficiary records before the enrollment materials arrive. The agreed follow-up is due August 15, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Review concentration impact on insurance reserve capacity",
+      "text": "Review how the Copperwisp household's taxable account concentration in Copper Firefly Robotics stock, worth approximately $118,000 of the roughly $612,000 joint account at Velvet Acorn Custody, affects the ability to raise cash for premiums, repairs, or deductibles without creating tax consequences after long-term appreciation.",
+      "priority": null,
+      "dueDate": "2025-04-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the taxable account contains a sizable appreciated position in Copper Firefly Robotics, which affects how readily the household can raise cash for premiums, repairs, or deductibles without creating tax consequences. The agreed follow-up is due April 9, 2025."
+    }
+  ]
+}

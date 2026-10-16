@@ -1,0 +1,115 @@
+{
+  "meetingId": "605",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Cloudberry Kite Analytics launch cash-flow map",
+      "text": "Prepare a month-by-month cash-flow map for Cloudberry Kite Analytics LLC covering household draws, expected retainer receipts, software costs, estimated tax reserves, and minimum cash thresholds. Reflect the consulting income pattern rather than a salary.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that cash-flow map for March 18, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Develop owner-draw and tax set-aside method",
+      "text": "Develop a repeatable owner-draw and tax set-aside method for Cloudberry Kite Analytics LLC that accounts for the timing changes from payroll employee to self-employed consultant. Address household paychecks and draws during low-receipt months.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to develop that method for March 20, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Correct Cloudberry Kite Analytics LLC banking application",
+      "text": "Correct the Teacup Comet Bank application for Cloudberry Kite Analytics LLC, which currently shows the shortened business name instead of the full LLC name used in the state filing and IRS record. Resolve the online portal’s rejection of the EIN confirmation upload.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to correct the application issue for March 6, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Silver Marmot Market Lab invoice and payment-routing setup",
+      "text": "Complete the invoice and ACH payment-routing setup for Cloudberry Kite Analytics LLC’s Silver Marmot Market Lab retainer before the first billing cycle. Set up routing for business receipts separate from household cash.",
+      "priority": null,
+      "dueDate": "2026-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the invoice and payment-routing setup for March 5, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Cloudberry Kite Analytics LLC entity formation document packet",
+      "text": "Obtain the Oregon articles, EIN letter, operating agreement, and initial resolution for Cloudberry Kite Analytics LLC for the planning file. These documents are required by the bank and bookkeeping provider.",
+      "priority": null,
+      "dueDate": "2026-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved follow-up need is to obtain that document packet for March 8, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Silver Marmot Market Lab retainer revenue forecast",
+      "text": "Reconcile the $15,000 monthly contracted revenue in Elena’s planning worksheet with the signed Silver Marmot Market Lab statement of work showing $12,000 per month and no other signed client contract.",
+      "priority": null,
+      "dueDate": "2026-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved follow-up need is to reconcile that forecast for March 15, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Create business bookkeeping and receipt workflow",
+      "text": "Create a bookkeeping and receipt workflow for Cloudberry Kite Analytics LLC addressing the current mix of business charges across the household credit card, personal checking, and new business debit card. Cover software, laptop, and professional dues purchases.",
+      "priority": null,
+      "dueDate": "2026-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to create a bookkeeping and receipt workflow for March 22, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Address business and household cash reserve segmentation",
+      "text": "Address the current single high-yield savings account holding both the household reserve and proposed business tax reserve. Improve the distinction between emergency funds and amounts held for taxes and near-term business expenses.",
+      "priority": null,
+      "dueDate": "2026-03-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address cash reserve segmentation for March 28, 2026."
+    },
+    {
+      "templateId": "819d3ed0-4637-548d-8beb-d843bb432b91",
+      "title": "Request insurance policy review materials",
+      "text": "Outreach recipient: Elena Pebblefizz / insurance professional / other\nPolicy type: professional liability and cyber liability\n\nMessage outline:\nHello [recipient name],\n\nWe are reviewing Elena Pebblefizz’s professional liability and cyber coverage for client data work as part of her broader financial planning work. Please provide the following items if available:\n- Current policy declaration page or policy summary\n- Premium amount and payment frequency\n- Coverage amount, riders, exclusions, and ownership details\n- Beneficiary information, if applicable\n- Cash value, loan balance, or surrender value, if applicable\n- In-force illustration or current projection, if applicable\n- Any pending changes, lapses, or underwriting updates\n\nPlease let us know if a specific authorization form is needed before releasing information.\n\nThank you,\n[advisor or team name]",
+      "priority": "medium",
+      "dueDate": "2026-03-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain that estimate for March 25, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Collect final payroll and benefits documents",
+      "text": "Collect Elena Pebblefizz’s final paystub, unused vacation payout details, and COBRA notice from Paper Otter Health Systems for the planning file. These documents are needed to estimate current-year wages and benefit costs.",
+      "priority": null,
+      "dueDate": "2026-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved follow-up need is to collect those documents for March 12, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Create estimated tax payment calendar",
+      "text": "Create an estimated tax payment calendar for Cloudberry Kite Analytics LLC with payment reminders tied to the new consulting income pattern. Coordinate with Victor Thimblefern on calculating the first business estimate after final payroll figures and first invoices are available.",
+      "priority": null,
+      "dueDate": "2026-03-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to create that calendar for March 31, 2026."
+    }
+  ]
+}

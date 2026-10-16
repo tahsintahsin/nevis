@@ -1,0 +1,65 @@
+{
+  "meetingId": "606",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare first-year education funding source schedule",
+      "text": "Create a side-by-side schedule showing how Lena Pebblefizz's 529 account, the education savings CD at Teacup Comet Bank, taxable account sales, and household cash could cover the first academic year at Thimble Harbor University while preserving the $50,000 cash reserve floor. Include the $74,000 cost estimate and $18,000 merit award.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the first-year education funding source comparison, Nora asked for a side-by-side schedule showing how Lena’s 529 account, the education savings CD, taxable account sales, and household cash could cover the first academic year while preserving the stated cash reserve floor; the agreed follow-up "
+    },
+    {
+      "templateId": null,
+      "title": "Collect itemized school cost documentation",
+      "text": "Obtain itemized school cost documentation from Thimble Harbor University that separates tuition, mandatory fees, housing, meal plan, books, travel, and personal expenses for planning and 529 distribution purposes, as the current portal screenshot only shows gross cost and merit award.",
+      "priority": null,
+      "dueDate": "2025-01-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Itemized school cost documentation remains needed by 2025-01-21 because the available school portal screenshot shows the gross cost estimate and merit award but does not separate tuition, mandatory fees, housing, meal plan, books, travel, and personal expenses for planning and 529 distribution purpo"
+    },
+    {
+      "templateId": null,
+      "title": "Review merit award treatment in four-year projection",
+      "text": "Reconcile the merit award treatment in the four-year projection because the university aid letter describes the award as renewable, while the household spreadsheet treated it as a single-year reduction, creating different projected shortfall amounts for later years.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The merit award treatment in the four-year projection remains needed by 2025-02-03 because the university aid letter describes the award as renewable, while the household spreadsheet treated it as a single-year reduction, creating different projected shortfall amounts for later years."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn 529 distribution access issue",
+      "text": "Investigate why the Velvet Acorn Custody distribution page rejected the saved Teacup Comet Bank link twice and did not provide a confirmation number, leaving the preferred payment path uncertain for Lena Pebblefizz's account.",
+      "priority": null,
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the Velvet Acorn 529 distribution access issue, Nora reported that the distribution page rejected the saved Teacup Comet Bank link twice and did not provide a confirmation number, leaving the preferred payment path uncertain; the agreed follow-up is due 2025-01-17."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash-flow stress regarding Evan's job change",
+      "text": "Analyze the cash-flow impact of Evan Pebblefizz's possible shift from salaried employee to remote contractor at Moonbadger Robotics, considering effects on monthly income timing, benefits, and stock compensation while tuition payments are beginning.",
+      "priority": null,
+      "dueDate": "2025-02-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the cash-flow stress review tied to Evan’s job change, Evan’s possible shift from salaried employee to remote contractor could affect monthly income timing, benefits, and stock compensation while tuition payments are beginning; the agreed follow-up is due 2025-02-07."
+    },
+    {
+      "templateId": null,
+      "title": "Identify internal decision point for fall registration protection",
+      "text": "Determine the latest practical date for choosing among funding options to secure fall registration protection at Thimble Harbor University, as the student account notice links course registration protection to either a payment plan election or confirmed funding source.",
+      "priority": null,
+      "dueDate": "2025-06-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "An internal decision point before fall registration protection remains needed by 2025-06-20 because the student account notice links course registration protection to either a payment plan election or confirmed funding source, and the household has not identified the latest practical date for choosi"
+    }
+  ]
+}

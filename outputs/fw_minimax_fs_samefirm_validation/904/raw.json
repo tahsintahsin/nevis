@@ -1,0 +1,21 @@
+{
+ "config": "fw_minimax_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "895",
+  "898"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"904\", \"tickets\": [{\"title\": \"Complete inherited account beneficiary package\", \"text\": \"Complete the inherited account beneficiary package from Velvet Acorn Custody for the inherited IRA and taxable account, coordinating with estate coordinator Nessa Cloudpuddle so the estate’s next transfer batch can proceed.\", \"priority\": null, \"dueDate\": \"2024-02-09\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09.\"}, {\"title\": \"Review financial plan assumptions and recommendations\", \"text\": \"Review Elian Thimblefern’s financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items. Confirm whether new facts require updated recommendations or a follow-up meeting agenda. Refresh the plan to incorporate the expected $270,000 taxable brokerage allocation, $160,000 inherited IRA allocation, and 35% lake cabin interest, and reassess retirement timing, cash reserve position, tax picture, and the prior 72% equity allocation.\", \"priority\": \"medium\", \"dueDate\": \"2024-02-23\", \"assigneeId\": \"2ca7893e-43b2-59f5-aea6-48ca520deb27\", \"templateId\": \"b69561c0-d94b-5366-9da1-17d83160108e\", \"subTasks\": [], \"evidence\": \"the agreed post-inheritance plan refresh is due 2024-02-23.\"}, {\"title\": \"Review estate arrangement after family changes\", \"text\": \"Review Elian Thimblefern’s 2012 estate documents, which still name late spouse Corin Mossbutton as primary health-care agent and personal representative, and address the new property and beneficiary coordination questions raised by the inherited assets.\", \"priority\": null, \"dueDate\": \"2024-03-08\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed estate arrangement review after family changes is due 2024-03-08.\"}]}",
+   "usage": {
+    "input_tokens": 13363,
+    "output_tokens": 1825,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2205
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+  "meetingId": "194",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain Velvet Acorn Life Insurance carrier information",
+      "text": "Obtain the reinstatement terms, catch-up premium, conversion availability, and any underwriting requirements from Velvet Acorn Life Insurance for Arlo's term policy.",
+      "priority": "medium",
+      "dueDate": "2024-03-01",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain that carrier information by March 1, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Update recurring insurance premium payment source",
+      "text": "Update authorized recurring insurance premium drafts to use the Teacup Comet Bank operating account instead of the closed Pocket Lantern Bank account for policies still eligible for automatic payment.",
+      "priority": "medium",
+      "dueDate": "2024-02-29",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "Arlo requested that authorized recurring insurance premium drafts use the Teacup Comet Bank operating account instead of the closed Pocket Lantern Bank account for policies still eligible for automatic payment. The agreed follow-up is to update the payment source by February 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review property and casualty declarations",
+      "text": "Obtain current home, auto, umbrella, and rental property declarations pages to confirm the latest renewal coverage limits.",
+      "priority": "medium",
+      "dueDate": "2024-03-08",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "Current declarations are needed by March 8, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review rental condo protection",
+      "text": "Review the Bend rental condo protection for landlord, tenant, liability, property loss, and loss-of-rent exposures.",
+      "priority": "medium",
+      "dueDate": "2024-03-15",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that protection by March 15, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare employer benefits with private coverage",
+      "text": "Compare Moonbadger Robotics supplemental life, disability, and beneficiary settings with the private coverage before the portal closes.",
+      "priority": "medium",
+      "dueDate": "2024-03-05",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "That comparison is needed by March 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current Velvet Acorn Life Insurance beneficiary evidence",
+      "text": "Obtain current carrier evidence to resolve the beneficiary arrangement discrepancy between the Velvet Acorn Life Insurance portal and the Cloudberry Kite Custody planning file.",
+      "priority": "medium",
+      "dueDate": "2024-03-12",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [],
+      "evidence": "That evidence is needed by March 12, 2024."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Collect estate planning documents to review trust funding evidence and fiduciary role information against the current household and insurance beneficiary structure.",
+      "priority": "medium",
+      "dueDate": "2024-03-22",
+      "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3",
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "The agreed follow-up is to collect the estate planning documents by March 22, 2024."
+    }
+  ]
+}

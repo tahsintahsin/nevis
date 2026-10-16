@@ -1,0 +1,107 @@
+{
+  "meetingId": "198",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble tax filing data for Dahlia Mossbutton and Owen Cloudpuddle",
+      "text": "Assemble the tax filing data requested by Priya Copperwisp, including year-to-date pay statements, equity vesting records, mortgage interest information for both properties, and condominium rental income data for the first married year.",
+      "priority": null,
+      "dueDate": "2023-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to assemble that tax filing data by 2023-11-21."
+    },
+    {
+      "templateId": null,
+      "title": "Begin operational review of household contact and visibility settings",
+      "text": "Begin the operational review to change selected contact information, household mailing preferences, and joint visibility settings on advisory‑serviced accounts after the marriage.",
+      "priority": null,
+      "dueDate": "2023-11-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to begin that review by 2023-11-03."
+    },
+    {
+      "templateId": null,
+      "title": "Address payment funding source review for household payments",
+      "text": "Address the review of moving selected household payments currently drafted from Dahlia's individual Teacup Comet Bank account to the new Paper Otter Bank joint checking account.",
+      "priority": null,
+      "dueDate": "2023-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that payment funding review by 2023-11-15."
+    },
+    {
+      "templateId": null,
+      "title": "Review joint cash reserve target for Mossbutton-Cloudpuddle household",
+      "text": "Review the joint cash reserve target considering the separate savings accounts, new joint checking account, two properties, and higher combined monthly spending.",
+      "priority": null,
+      "dueDate": "2023-11-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the joint cash reserve target by 2023-11-17."
+    },
+    {
+      "templateId": "14e5989f-674d-5715-91ad-e38bb23e715b",
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Collect the estate planning documents Dahlia described, organize them, and prepare a concise gap summary for advisor review. Include the older will and health care directive prepared by Cassian Willowdoodle in 2018 and any other relevant documents. The collection must be completed by 2023-11-10.",
+      "priority": "medium",
+      "dueDate": "2023-11-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles, successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow‑up items for the lead advisor before any client‑facing recommendations are discussed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "The agreed follow-up is to collect those estate document copies by 2023-11-10."
+    },
+    {
+      "templateId": null,
+      "title": "Address custodian beneficiary update rejection for Velvet Acorn",
+      "text": "Address the Velvet Acorn Custody beneficiary update rejection caused by mismatched name usage between Mossbutton and Mossbutton-Cloudpuddle.",
+      "priority": null,
+      "dueDate": "2023-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that custodian beneficiary update rejection by 2023-11-01."
+    },
+    {
+      "templateId": null,
+      "title": "Compare employer benefit options for Dahlia Mossbutton and Owen Cloudpuddle",
+      "text": "Compare the health, dental, vision, disability, and life insurance options available through Dahlia's and Owen's employers for the upcoming open enrollment window.",
+      "priority": null,
+      "dueDate": "2023-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare those employer benefit options by 2023-11-06."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer stock position in Dahlia Mossbutton taxable account",
+      "text": "Review the concentration of Amber Teapot Analytics stock in Dahlia's taxable brokerage account, including vested equity and future restricted stock vesting, to assess exposure risk.",
+      "priority": null,
+      "dueDate": "2023-12-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that employer stock position by 2023-12-01."
+    }
+  ]
+}

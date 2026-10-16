@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"263\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Reset portal credentials and enhance MFA\",\n\"text\": \"Reset the portal credentials for Jared and Ava Wrenpuddle, review recent session activity, and implement stronger multi‑factor authentication through approved channels for their Roth IRA portal at Velvet Acorn Custody.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Check transfer instructions and profile changes\",\n\"text\": \"Check the pending transfer instructions and profile changes for the joint taxable brokerage account of Jared and Ava Wrenpuddle, confirming the Teacup Comet Bank link is not a household account.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-19\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2741,
+    "output_tokens": 1085,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

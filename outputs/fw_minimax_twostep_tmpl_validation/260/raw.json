@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"260\", \"followups\": [{\"evidence\": \"approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18.\", \"action\": \"Perform approved-channel clean credential reset, session review, and stronger MFA setup for Jared's portal access.\", \"templateId\": null}, {\"evidence\": \"associated transfer-instruction/profile-change review was agreed for 2024-03-19.\", \"action\": \"Review the pending Teacup Comet Bank link, associated transfer instructions, and profile changes for the household.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 2744,
+    "output_tokens": 401,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1279
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"260\", \"tickets\": [{\"title\": \"Reset portal credentials and strengthen MFA for Jared Wrenpuddle\", \"text\": \"Perform an approved-channel clean credential reset, session review, and stronger MFA setup for Jared Wrenpuddle's portal access on his Velvet Acorn Custody Roth IRA. Address the repeated lockouts following the uninitiated password-reset email and confirm secure access before 2024-03-18.\", \"priority\": null, \"dueDate\": \"2024-03-18\", \"assigneeId\": null, \"subTasks\": [{\"title\": \"Reset portal credentials\", \"text\": \"Perform an approved-channel clean credential reset for Jared Wrenpuddle's portal access on his Velvet Acorn Custody Roth IRA to address the uninitiated password-reset email.\", \"priority\": null, \"assigneeId\": null, \"dueDate\": null}, {\"title\": \"Review active sessions\", \"text\": \"Review active sessions on Jared Wrenpuddle's portal account and terminate any unrecognized sessions.\", \"priority\": null, \"assigneeId\": null, \"dueDate\": null}, {\"title\": \"Strengthen MFA setup\", \"text\": \"Configure stronger MFA methods for Jared Wrenpuddle's portal access to prevent future lockouts.\", \"priority\": null, \"assigneeId\": null, \"dueDate\": null}], \"evidence\": \"approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18.\" , \"templateId\": null}, {\"title\": \"Review pending Teacup Comet Bank link and profile changes\", \"text\": \"Review the pending Teacup Comet Bank link, associated transfer instructions, and profile changes for Jared and Ava Wrenpuddle's household. Jared reported no relationship with Teacup Comet Bank, so confirm whether the link is unauthorized and take protective action before 2024-03-19.\", \"priority\": null, \"dueDate\": \"2024-03-19\", \"assigneeId\": null, \"subTasks\": [{\"title\": \"Review Teacup Comet Bank link\", \"text\": \"Investigate the pending Teacup Comet Bank link on Jared and Ava Wrenpuddle's household accounts and confirm whether it is authorized.\", \"priority\": null, \"assigneeId\": null, \"dueDate\": null}, {\"title\": \"Review transfer instructions and profile changes\", \"text\": \"Review any associated transfer instructions and profile changes linked to the Teacup Comet Bank reference for the Wrenpuddle household.\", \"priority\": null, \"assigneeId\": null, \"dueDate\": null}], \"evidence\": \"associated transfer-instruction/profile-change review was agreed for 2024-03-19.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 2895,
+    "output_tokens": 1727,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1557
+   },
+   "stop": "stop"
+  }
+ ]
+}

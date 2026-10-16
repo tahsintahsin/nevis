@@ -1,0 +1,75 @@
+{
+  "meetingId": "527",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare charitable funding comparison for Paper Otter Literacy Fund",
+      "text": "Prepare a side-by-side comparison of three funding approaches for the Pebblefizz household's $300,000 multi-year commitment to Paper Otter Literacy Fund: cash, appreciated securities from the Velvet Acorn Custody account (including the concentrated Marzipan Meadow Robotics holding with ~$410,000 market value and ~$110,000 cost basis), and a grant from the existing Amber Teapot Charitable Trust donor-advised fund (~$28,000 balance).",
+      "priority": null,
+      "dueDate": "2026-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that the comparison is to be prepared by 2026-04-24."
+    },
+    {
+      "templateId": null,
+      "title": "Complete taxable lot review for in-kind charitable giving",
+      "text": "Complete the taxable lot review of Jonas Pebblefizz's Velvet Acorn Custody account positions with unrealized gains, including the concentrated Marzipan Meadow Robotics holding, to support an in-kind charitable transfer analysis for the Paper Otter Literacy Fund commitment.",
+      "priority": null,
+      "dueDate": "2026-04-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that the taxable lot review is to be completed by 2026-04-28."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain business-sale documents for charitable gift timing",
+      "text": "Obtain the draft indication of interest from Silver Marmot Holdings, the ownership schedule, and any transfer restrictions connected to the possible Copper Firefly Designworks minority-interest transaction. These documents are needed to complete the charitable analysis and determine gift timing for the Paper Otter Literacy Fund commitment.",
+      "priority": null,
+      "dueDate": "2026-04-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2026-04-17."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve donor identity for Paper Otter pledge and receipt records",
+      "text": "Resolve the discrepancy between the Paper Otter Literacy Fund draft pledge listing Jonas Pebblefizz individually and the household plan describing joint giving by Jonas and Nadia Pebblefizz with a possible donor-advised fund grant path. Confirm the correct donor identity for pledge and receipt records.",
+      "priority": null,
+      "dueDate": "2026-04-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2026-04-21."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Amber Teapot portal login and account registration",
+      "text": "Resolve the Amber Teapot Charitable Trust donor-advised fund portal login issue for Jonas Pebblefizz, including the verification code sent to an old phone number, and verify whether the account profile carries the former mailing address. The prior grant request to Moonbadger Animal Rescue stalled due to this issue.",
+      "priority": null,
+      "dueDate": "2026-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2026-04-18."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate Paper Otter pledge package logistics",
+      "text": "Coordinate the Paper Otter Literacy Fund pledge package and initial transfer instructions for the Pebblefizz household, accounting for whether the $300,000 multi-year commitment will be funded through cash, appreciated securities from the Velvet Acorn Custody account, or a grant from the Amber Teapot Charitable Trust donor-advised fund. Batch wet-signature transfer paperwork given Jonas's travel schedule.",
+      "priority": null,
+      "dueDate": "2026-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that the pledge package logistics are to be handled by 2026-05-01."
+    },
+    {
+      "templateId": null,
+      "title": "Distinguish philanthropy plan before and after Copper Firefly transaction",
+      "text": "Update the Pebblefizz household's philanthropic plan to distinguish funding the Paper Otter Literacy Fund $300,000 commitment before transaction certainty from funding after transaction certainty, given the possible Silver Marmot Holdings minority-interest purchase of Copper Firefly Designworks and its impact on household liquidity and concentrated business exposure.",
+      "priority": null,
+      "dueDate": "2026-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2026-05-08."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_minimax",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"771\", \"tickets\": [{\"templateId\": \"7e079875-a636-5be9-84a0-36c6f079b4eb\", \"title\": \"Open new client account\", \"text\": \"Open the approved joint taxable account for Lila Copperwisp and Rowan Thistlefable using the existing custodian (Velvet Acorn Custody) workflow. Confirm account type, joint registration, ownership details, funding source (Teacup Comet Bank savings), beneficiary or authorized party requirements when applicable, advisory fee setup, document status, and online access with electronic statements for both spouses before submitting the application package. The account is to be opened at the existing custodian and initially funded from the approximately $58,000 in Teacup Comet Bank savings.\", \"priority\": \"high\", \"dueDate\": \"2024-10-18\", \"assigneeId\": \"5c5439fe-19f1-52ba-8646-5d8a3755e27e\", \"subTasks\": [], \"evidence\": \"They agreed to open a joint taxable account at the existing custodian, initially funded from Teacup Comet Bank savings, with online access and electronic statements for both spouses, due 2024-10-18.\"}, {\"templateId\": null, \"title\": \"Prepare retirement beneficiary forms for household\", \"text\": \"Prepare retirement beneficiary forms for Lila Copperwisp and Rowan Thistlefable naming Rowan primary and Camila Copperwisp contingent where allowed, covering the $410,000 IRA at Velvet Acorn Custody, the $126,000 401(k), and Rowan's $48,000 403(b).\", \"priority\": null, \"dueDate\": \"2024-10-25\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed to prepare retirement beneficiary forms naming Rowan primary and Camila Copperwisp contingent where allowed, due 2024-10-25.\"}, {\"templateId\": null, \"title\": \"Collect certified marriage certificate from Lila Copperwisp\", \"text\": \"Collect the certified marriage certificate from Lila Copperwisp so Velvet Acorn Custody and Teacup Comet Bank records can be updated from her prior household status to reflect the September 2024 marriage to Rowan Thistlefable.\", \"priority\": null, \"dueDate\": \"2024-10-14\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed to collect the certified marriage certificate because custodian and bank records still show Lila's prior household status, due 2024-10-14.\"}]}",
+   "usage": {
+    "input_tokens": 1654,
+    "output_tokens": 3133,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2205
+   },
+   "stop": "stop"
+  }
+ ]
+}

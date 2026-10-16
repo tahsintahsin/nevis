@@ -1,0 +1,87 @@
+{
+  "meetingId": "368",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm $50,000 transfer and increased IRA distribution details",
+      "text": "Confirm the source account, destination account, liquidity source, and withholding instructions for Rowan Cloudpuddle’s $50,000 transfer to Teacup Comet Bank and the proposed increase in the monthly IRA distribution from $4,000 to $5,500 before processing.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to confirm the source account, destination account, liquidity source, and withholding instructions before processing, with a date of 2026-02-18."
+    },
+    {
+      "templateId": "fa9245d1-6db9-5b76-9284-aed5a90b9516",
+      "title": "Coordinate account access recovery",
+      "text": "Use this coordination template when a client cannot access an account portal, custodian login, document vault, or authentication method. Confirm identity requirements, preserve security, and document all handoffs without collecting passwords.\n\nRowan Cloudpuddle cannot access the Velvet Acorn Custody portal after changing mobile carriers. The portal error prevents Rowan from retrieving recent confirmations and statements needed for distribution authorization.",
+      "priority": "high",
+      "dueDate": "2026-02-13",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm access problem and security boundaries",
+          "text": "Ask the client which portal is affected, what error message appears, whether multi-factor authentication changed, and what contact information is on file. Do not request or record passwords, full security answers, or authentication codes.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2"
+        },
+        {
+          "title": "Handoff to custodian or platform recovery channel",
+          "text": "Provide the client with the correct custodian or platform recovery path, required identification steps, and support contact method. If advisor involvement is permitted, confirm what authorization is needed before joining a call or submitting a service request.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Verify restoration and update records",
+          "text": "After the client reports access is restored, confirm whether contact information, trusted contact, delivery preferences, or document access settings changed. Update internal notes and flag any suspicious activity for further review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2"
+        }
+      ],
+      "evidence": "The agreed follow-up is portal access recovery, with a date of 2026-02-13."
+    },
+    {
+      "templateId": "50c1cee8-d13f-5d71-be44-7049d8e75407",
+      "title": "Follow up on client tax notice",
+      "text": "Request a copy of the notice, confirm the response deadline shown on the notice, identify whether the client’s CPA should respond, and document the next action.\n\nCoordinate with Talia Bramblequill of Clockwork Clover Tax on a withholding and estimated tax check for Rowan Cloudpuddle’s recent IRA distribution, the proposed larger withdrawal, and the existing 12% federal withholding.",
+      "priority": "high",
+      "dueDate": "2026-02-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan authorized coordination with Talia Bramblequill on a withholding and estimated tax check, and the agreed follow-up has a date of 2026-02-25."
+    },
+    {
+      "templateId": null,
+      "title": "Compare roof deposit funding options",
+      "text": "Compare using taxable money market funds, IRA cash, or the home equity line to fund the roof contractor’s deposit for Rowan Cloudpuddle. Assess the options so the deposit can be funded without unintentionally reducing emergency reserves below Rowan’s stated minimum.",
+      "priority": null,
+      "dueDate": "2026-02-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to compare using taxable money market funds, IRA cash, or the home equity line so the deposit can be funded without unintentionally reducing emergency reserves below Rowan’s stated minimum, with a date of 2026-02-16."
+    },
+    {
+      "templateId": null,
+      "title": "Update retirement income projection",
+      "text": "Update Rowan and Elena Cloudpuddle’s retirement income projection using lower earned income and higher care expenses. Reflect Elena’s reduced work capacity and the added in-home assistance alongside the proposed higher IRA distribution.",
+      "priority": null,
+      "dueDate": "2026-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the retirement income projection using lower earned income and higher care expenses, with a date of 2026-03-04."
+    },
+    {
+      "templateId": null,
+      "title": "Assess home equity line and mortgage options",
+      "text": "Assess whether paying down the home equity line, refinancing, or leaving it in place is most consistent with Rowan and Elena Cloudpuddle’s cash reserve target and retirement income plan. Compare the 8.1% variable-rate home equity balance with the lower fixed mortgage rate.",
+      "priority": null,
+      "dueDate": "2026-03-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to assess whether paying down the line, refinancing, or leaving it in place is most consistent with the cash reserve target and retirement income plan, with a date of 2026-03-11."
+    }
+  ]
+}

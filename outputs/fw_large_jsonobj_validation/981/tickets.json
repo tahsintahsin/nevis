@@ -1,0 +1,146 @@
+{
+  "id": "981",
+  "meetingId": "981",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update mortgage payment source to Elena",
+      "text": "Change the automatic mortgage payment from Adrian’s banking credentials to Elena Mossbutton’s Teacup Comet Bank account as of 2025-01-31.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on the mortgage payment source is due 2025-01-31."
+    },
+    {
+      "templateId": null,
+      "title": "Retitle joint brokerage account for survivor",
+      "text": "Confirm and update the title of the Velvet Acorn Custody taxable brokerage account to reflect Elena Mossbutton as surviving owner, adjust transfer‑on‑death records, and verify cost basis handling by 2025-02-18.",
+      "priority": null,
+      "dueDate": "2025-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up on joint brokerage account retitling is due 2025-02-18."
+    },
+    {
+      "templateId": null,
+      "title": "Compare survivor options for Adrian’s 401(k)",
+      "text": "Analyze the survivor benefit choices available in Adrian’s Moonbadger Robotics 401(k) plan and prepare a comparison for Elena Mossbutton before 2025-02-21.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up on Adrian’s employer retirement plan survivor options is due 2025-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Review Adrian’s IRA registration and distribution",
+      "text": "Examine the surviving‑spouse titling options and distribution strategies for Adrian’s Velvet Acorn Custody IRA and present recommendations to Elena Mossbutton by 2025-02-21.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up on Adrian’s IRA registration and distribution review is due 2025-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare written equity ledger for Adrian",
+      "text": "Compile a written ledger of Adrian’s restricted stock units, reconciling the 900 vested and 1,200 unvested counts from the portal screenshot and HR summary, needed by 2025-02-10.",
+      "priority": null,
+      "dueDate": "2025-02-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "this unresolved equity records issue is needed by 2025-02-10."
+    },
+    {
+      "templateId": null,
+      "title": "Provide Social Security survivor benefit checklist",
+      "text": "Create a checklist of records Elena Mossbutton should bring to the survivor benefit appointment, including marriage evidence, Adrian’s work history, and her earnings information, due 2025-02-12.",
+      "priority": null,
+      "dueDate": "2025-02-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up on Social Security survivor benefit preparation is due 2025-02-12."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Silver Marmot life insurance claim",
+      "text": "Gather the policy number, beneficiary evidence, and required claimant statement to form a claim package for Elena Mossbutton’s Silver Marmot term policy, due 2025-02-07.",
+      "priority": null,
+      "dueDate": "2025-02-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up on the life insurance claim package is due 2025-02-07."
+    },
+    {
+      "templateId": null,
+      "title": "Clean up employer benefit enrollment records",
+      "text": "Update the Paper Otter Analytics benefits records to remove Adrian from spouse‑related elections and correct beneficiary fields for Elena Mossbutton, due 2025-02-05.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up on employer benefit enrollment cleanup is due 2025-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain certified copies of death certificate",
+      "text": "Secure certified copies of Adrian Mossbutton’s death certificate to satisfy financial institutions and benefit providers, needed by 2025-02-03.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Certified death certificate availability remains an unresolved follow-up needed by 2025-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate with estate attorney on document provisions",
+      "text": "Contact Hallie Thimblefern of Pocket Lantern Law to identify which provisions of the 2018 estate documents now control after Adrian’s death, due 2025-02-20.",
+      "priority": null,
+      "dueDate": "2025-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up on estate attorney coordination is due 2025-02-20."
+    },
+    {
+      "templateId": "ddf43168-2732-55bc-b8cc-9d9c9342d023",
+      "title": "Review concentrated investment position",
+      "text": "Evaluate a concentrated position for portfolio risk, tax exposure, liquidity needs, and available transition strategies. Gather cost basis, holding period, unrealized gain or loss, restrictions, charitable intent, and any employer-related trading limitations before recommending next steps. The position is Copper Firefly Systems common stock valued at $286,000 in the Velvet Acorn Custody taxable account as of 2025-01-21.",
+      "priority": "high",
+      "dueDate": "2025-02-28",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "agreed follow-up on the Copper Firefly Systems stock concentration is due 2025-02-28."
+    },
+    {
+      "templateId": "a9d3b8a3-fcdf-5a99-bb86-dc976b2554d7",
+      "title": "Complete beneficiary update checklist",
+      "text": "Use this checklist before submitting or recording beneficiary updates:\n\n- Confirm the account registration and account type requiring a beneficiary review.\n- Verify current primary and contingent beneficiaries on file.\n- Confirm full legal names, relationships, dates of birth if required, and allocation percentages.\n- Check that total primary percentages equal 100% and total contingent percentages equal 100% when applicable.\n- Identify whether spouse consent, trust documentation, or plan administrator approval is required.\n- Confirm whether IRA, retirement plan, transfer-on-death, insurance, or annuity rules apply.\n- Send the correct custodian or carrier form through the approved secure process.\n- Save confirmation of submission and final acceptance in the client record.\n- Note any estate planning follow-up needed with the client’s attorney.\n\nElena Mossbutton’s IRA and employer group life enrollment currently list Adrian Mossbutton as primary beneficiary and need updating to reflect her as sole beneficiary.",
+      "priority": "high",
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up on beneficiary records on Elena’s accounts is due 2025-02-14."
+    },
+    {
+      "templateId": "9c4e1fdd-76c3-51c5-ae9b-63c028f05e66",
+      "title": "Prepare retirement income plan snapshot",
+      "text": "Summarize expected retirement income sources, near-term cash flow needs, IRA distribution considerations, tax-aware withdrawal order, and key risks to revisit with the client. Elena Mossbutton wants an updated projection reflecting her $138,000 salary, survivor benefits, and cash reserves, with retirement age alternatives 62‑64.",
+      "priority": "medium",
+      "dueDate": "2025-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up for the survivor retirement income snapshot is due 2025-03-14."
+    },
+    {
+      "templateId": "bf1a1f75-3fe2-5cb6-8261-3d4ebbddb335",
+      "title": "Collect tax documents for planning review",
+      "text": "Please collect the following tax materials for the planning file:\n\nTax year: [Tax Year]\nClient household or entity: [Client/Entity Name]\nCPA or tax preparer contact: [CPA Name and Contact]\nExpected filing status: [Filing Status]\nDocuments requested: [W-2 / 1099 / K-1 / brokerage tax statement / IRA distribution form / estimated tax record / other]\nDocuments already received: [Received Items]\nDocuments still outstanding: [Outstanding Items]\nSecure upload location or delivery method: [Secure Upload Method]\nSpecial planning questions to review: [Questions]\nPermission to coordinate with tax preparer: [Yes/No/Notes]\n\nElena Mossbutton needs the 2023 joint return and 2024 individual returns, wage forms, brokerage statements, and final-year tax items for coordination with Tobin Pippinwisp of Clockwork Clover Tax.",
+      "priority": "medium",
+      "dueDate": "2025-03-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "agreed follow-up on prior-year and final-year tax document collection is due 2025-03-07."
+    }
+  ]
+}

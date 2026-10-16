@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e2",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"853\", \"tickets\": [{\"title\": \"Review Velvet Acorn Custody security alert and profile changes\", \"text\": \"Review Leona Thimblefern’s Velvet Acorn Custody unfamiliar-device alert, check her household profile and distribution-instruction changes, and coordinate the custodian’s pre-upload security steps.\", \"priority\": null, \"dueDate\": \"2026-02-06\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"}]}",
+   "usage": {
+    "input_tokens": 619,
+    "output_tokens": 153,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

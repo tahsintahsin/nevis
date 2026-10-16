@@ -1,0 +1,75 @@
+{
+  "meetingId": "51",
+  "tickets": [
+    {
+      "templateId": "c766054b-9ba3-5b7f-9eda-856fc662f516",
+      "title": "Contact Professional About Trust Account Administration",
+      "text": "Outreach purpose: Coordinate trust account administration for Leah Nettlewhisk / [Trust Name].\n\nSuggested message outline:\nHello Galen Copperwisp,\nWe are assisting Leah Nettlewhisk with administration items for [Trust Name]. With appropriate authorization, we would like to confirm the next steps for [account opening / trustee change / distribution request / investment authority / documentation update].\n\nItems to confirm:\n- Your role and preferred contact method: [Role/Contact]\n- Current trust documentation needed: [Documents]\n- Authorized trustee or fiduciary names: [Trustee Names]\n- Tax identification or certification requirements: [Requirements]\n- Custodian paperwork or medallion/signature requirements: [Paperwork]\n- Distribution, contribution, or investment restrictions: [Restrictions]\n- Expected review sequence and any professional approvals needed: [Process]\n\nPlease let us know what documentation is required and whether there are any constraints we should reflect before proceeding.\n\nReview the older trust, will, durable power, and health directive package against the household’s current assets, dependents, and legacy preferences.",
+      "priority": "medium",
+      "dueDate": "2024-06-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the estate document refresh with outside counsel, Leah requested coordination with Galen Copperwisp at Paper Otter Law so the older trust, will, durable power, and health directive package can be reviewed against the household’s current assets, dependents, and legacy preferences; the agreed foll"
+    },
+    {
+      "templateId": null,
+      "title": "Provide successor trustee alternatives for review",
+      "text": "Provide Leah and Marcus Nettlewhisk with information on naming Velvet Acorn Trust Company or another fiduciary as successor trustee, reflecting the recent loss of Edmund Nettlewhisk and Callie Nettlewhisk’s relocation.",
+      "priority": null,
+      "dueDate": "2024-06-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Leah and Marcus want information on naming Velvet Acorn Trust Company or another fiduciary as successor trustee; the agreed follow-up is due 2024-06-14."
+    },
+    {
+      "templateId": "62f7b171-b8de-5b2d-afd2-fa0f20025993",
+      "title": "Review Benefits Enrollment Choices",
+      "text": "Review Leah Nettlewhisk's open enrollment packet for benefit elections, HSA/FSA options, life and disability coverage, beneficiary designations, and retirement plan contribution changes before the enrollment window closes.\n\nCheck the life insurance and retirement plan beneficiary screens in the Moonbadger Robotics benefits portal before Leah finalizes her employer benefit elections.",
+      "priority": "medium",
+      "dueDate": "2024-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the employer benefit beneficiary review, Leah’s Moonbadger Robotics benefits portal is in its current election window, and the life insurance and retirement plan beneficiary screens need to be checked before she finalizes employer benefit elections;"
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing estate and beneficiary records",
+      "text": "Collect signed copies of the health care directives for Leah and Marcus Nettlewhisk, Marcus’s SEP IRA beneficiary confirmation, and Leah’s employer life insurance beneficiary page, as identified in the estate binder review.",
+      "priority": null,
+      "dueDate": "2024-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-06-10."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile beneficiary designations across Nettlewhisk accounts",
+      "text": "Reconcile Leah and Marcus Nettlewhisk’s beneficiary designations across the IRA, employer life insurance, SEP IRA, and estate plan to align with current trustee and guardianship preferences.",
+      "priority": null,
+      "dueDate": "2024-06-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-06-12."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian portal estate record issue",
+      "text": "Resolve the Velvet Acorn Custody portal issue where an obsolete trust certification is still displayed and the previously uploaded updated contact information has not appeared in the shared document vault for Leah Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2024-05-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-05-30."
+    },
+    {
+      "templateId": null,
+      "title": "Summarize account titling for estate alignment",
+      "text": "Summarize the titling discrepancies of the joint taxable account, cash reserve accounts, and the older individual account relative to the revocable trust structure for attorney review, as identified by Priya Tumblegrove for Leah and Marcus Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2024-06-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is due 2024-06-18."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meetingId": "865",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain carrier reinstatement requirements",
+      "text": "Obtain the reinstatement requirements from Plum Zeppelin Life Insurance and determine any interim underwriting or replacement quote information needed if reinstatement is unavailable for Serena and Jonah Willowdoodle's term policy.",
+      "priority": null,
+      "dueDate": "2025-04-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-08 the follow-up is to obtain the carrier’s reinstatement requirements and identify any interim underwriting or replacement quote information needed if reinstatement is unavailable."
+    },
+    {
+      "templateId": "652157be-e8e6-5f89-b001-6e15103f7c88",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Employee or participant name: Serena Willowdoodle\nEmployer or plan sponsor: Amber Teapot Robotics\nEnrollment event type: NEW HIRE\nCoverage effective period: [RELATIVE OR PLAN YEAR PERIOD]\nAvailable medical options: [PLAN OPTIONS]\nAvailable dental and vision options: [PLAN OPTIONS]\nHealth savings or flexible spending account eligibility: [HSA / FSA DETAILS]\nEmployer retirement plan election status: [401(k), 403(b), OR OTHER PLAN DETAILS]\nCurrent contribution percentage or amount: [CURRENT ELECTION]\nProposed contribution percentage or amount: [PROPOSED ELECTION]\nEmployer match formula: [MATCH DETAILS]\nBeneficiary update needed: [YES / NO / UNKNOWN]\nDocuments to request: Benefits guide, rate sheet, beneficiary form, long‑term disability certificate\nQuestions for advisor review: [OPEN QUESTIONS]\nCollect the full benefits guide, rate sheet, beneficiary form, and long‑term disability certificate for Amber Teapot Robotics so the Willowdoodles can review group life, disability, HSA, and beneficiary choices together.",
+      "priority": "medium",
+      "dueDate": "2025-04-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-07 the follow-up is to collect those documents so the group life, disability, HSA, and beneficiary choices can be reviewed together."
+    },
+    {
+      "templateId": null,
+      "title": "Update life and disability coverage analysis",
+      "text": "Update the life and disability coverage analysis for Serena and Jonah Willowdoodle using current income, debt, savings, and college funding assumptions reflecting Serena’s new compensation mix, Jonah’s variable self‑employment income, and the coast cottage mortgage.",
+      "priority": null,
+      "dueDate": "2025-04-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-25 the follow-up is to update the life and disability coverage analysis using current income, debt, savings, and college funding assumptions."
+    },
+    {
+      "templateId": null,
+      "title": "Compare bundled insurance coverage with alternate quote",
+      "text": "Compare the current bundled coverage from Cloudberry Kite Insurance with at least one alternate quote, ensuring liability limits appropriate for the primary residence, coast cottage, and teenage‑driver planning horizon are preserved for the Willowdoodle family.",
+      "priority": null,
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-16 the follow-up is to compare current bundled coverage with at least one alternate quote while preserving liability limits appropriate for the primary residence, cottage, and teenage-driver planning horizon."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile carrier beneficiary records with trust documents",
+      "text": "Reconcile the carrier beneficiary records from Plum Zeppelin Life Insurance with the Willowdoodle trusts to align contingent beneficiaries for the children before signing any new policy or renewal beneficiary forms.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-18 the follow-up is to reconcile the carrier records with the trust documents before any new policy or renewal beneficiary forms are signed."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh retirement and cash‑flow projection",
+      "text": "Refresh the retirement and cash‑flow projection for Serena and Jonah Willowdoodle after incorporating the updated premium estimates for the primary residence and coast cottage.",
+      "priority": null,
+      "dueDate": "2025-05-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-05-09 the follow-up is to refresh the projection after updated premium estimates are available."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare concise insurance inventory for email",
+      "text": "Prepare a concise insurance inventory for the Willowdoodle family that omits full account and policy numbers, ready for email circulation to tax preparer Tobin Mossbutton and attorney Mira Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2025-05-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-05-16 the follow-up is to prepare a version without full account or policy numbers for email circulation."
+    }
+  ]
+}

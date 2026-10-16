@@ -1,0 +1,55 @@
+{
+  "meetingId": "300",
+  "tickets": [
+    {
+      "templateId": "fa8ebcc2-e3bb-5862-a32e-36b07cd19a82",
+      "title": "Coordinate divorce-related financial document package",
+      "text": "Compile and organize financial planning records requested for divorce-related analysis. Use only authorized documents, confirm permitted communication channels, and separate planning notes from legal advice. Coordinate with the client's attorney or mediator when written authorization is on file. Compile the authorized investment, bank, retirement, debt, and household cash‑flow records requested by Tobin Mossbutton for the pending property discussion.",
+      "priority": "high",
+      "dueDate": "2025-03-14",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "They agreed to compile by 2025-03-14 the authorized investment, bank, retirement, debt, and household cash-flow records Tobin requested for the pending property discussion."
+    },
+    {
+      "templateId": "fa8ebcc2-e3bb-5862-a32e-36b07cd19a82",
+      "title": "Coordinate divorce-related financial document package",
+      "text": "Compile and organize financial planning records requested for divorce-related analysis. Use only authorized documents, confirm permitted communication channels, and separate planning notes from legal advice. Coordinate with the client's attorney or mediator when written authorization is on file. Gather the Paper Otter Fabrication ownership valuation exhibit, the recent K‑1 support, and the buy‑sell agreement pages needed by Silver Marmot Legal for the property division analysis.",
+      "priority": "high",
+      "dueDate": "2025-03-18",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "Because the shared portal lacked the Paper Otter Fabrication ownership valuation exhibit, recent K-1 support, and buy-sell agreement pages Silver Marmot Legal needs to understand Reid’s business interest, the agreed follow-up is due 2025-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Compare and label source documents",
+      "text": "Compare the mortgage balance shown in the mediation worksheet with the Teacup Comet Bank portal balance and label the source documents for each figure before using them in planning exhibits.",
+      "priority": null,
+      "dueDate": "2025-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed 2025-03-12 follow-up is to compare and label source documents before the figures are used in planning exhibits."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate beneficiary and ownership record changes",
+      "text": "Coordinate updates to beneficiary designations and ownership records, including Anika’s Roth IRA, term life policy, and joint taxable account, through authorized legal channels as directed by Tobin Mossbutton.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s planning inventory review found Reid listed on legacy beneficiary and ownership records, including Anika’s Roth IRA, term life policy, and joint taxable account, with any changes to be coordinated through authorized legal channels by 2025-03-21."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Access recovery request\n\nClient name: Anika Meadowbobbin\nAffected portal or institution: Velvet Acorn Custody joint taxable account\nUser ID or known login email: [________________]\nIssue type: locked account / forgotten password / MFA reset / outdated email / other: ________\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [yes / no / location: ________]\nSecurity notes or restrictions: [________________]\nNext action required: [________________]",
+      "priority": "high",
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Anika reported that the Velvet Acorn Custody login for the joint taxable account sends verification prompts to Reid’s phone, preventing statement downloads needed for the authorized document package; the agreed access-recovery follow-up is due 2025-03-10."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset portal credentials and strengthen MFA for Jared Wrenpuddle",
+      "text": "Perform clean credential reset and session review for Jared Wrenpuddle's Velvet Acorn Custody Roth IRA portal access. Implement stronger MFA setup to resolve repeated lockouts after uninitiated password-reset emails.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Perform clean credential reset",
+          "text": "Execute approved-channel clean credential reset for Jared Wrenpuddle's portal access.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Conduct session review",
+          "text": "Review active sessions and access logs for Jared Wrenpuddle's Velvet Acorn Custody Roth IRA account.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Implement stronger MFA setup",
+          "text": "Configure enhanced multi-factor authentication for Jared Wrenpuddle's portal login.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review Teacup Comet Bank transfer instructions and profile changes",
+      "text": "Review pending Teacup Comet Bank link and associated transfer instructions for Jared and Ava Wrenpuddle's joint taxable brokerage account. Confirm profile changes as household reports no relationship with Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Review pending Teacup Comet Bank link",
+          "text": "Investigate the pending Teacup Comet Bank link on the joint taxable brokerage account.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Verify transfer instructions",
+          "text": "Check for any unauthorized transfer instructions associated with the Teacup Comet Bank link.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm profile changes",
+          "text": "Validate profile change requests linked to the suspicious bank connection.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "associated transfer-instruction/profile-change review was agreed for 2024-03-19."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meetingId": "293",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Increase IRA distribution to $6,200",
+      "text": "Increase Daria Copperwisp’s net monthly IRA distribution to $6,200 and route the funds to her existing Teacup Comet Bank checking account.",
+      "priority": null,
+      "dueDate": "2025-07-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to implement the increase by 2025-07-11."
+    },
+    {
+      "templateId": null,
+      "title": "Complete retirement income bridge review",
+      "text": "Complete a retirement income bridge review for Daria Copperwisp and Owen Copperwisp, incorporating Daria’s recent retirement from Moonbadger Design Works and Owen’s $3,800 monthly consulting income to determine appropriate withdrawal sources.",
+      "priority": null,
+      "dueDate": "2025-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that review by 2025-07-25."
+    },
+    {
+      "templateId": null,
+      "title": "Process $18,000 tuition distribution",
+      "text": "Process an $18,000 one-time distribution from the joint taxable account at Velvet Acorn Custody to fund Nora Copperwisp’s tuition, ensuring the funds clear before her school orientation.",
+      "priority": null,
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to process the distribution by 2025-07-18."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain health insurance premium notice",
+      "text": "Obtain Daria Copperwisp’s current marketplace health insurance premium notice to verify the monthly spending estimate used in withdrawal planning.",
+      "priority": null,
+      "dueDate": "2025-07-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the documentation by 2025-07-09."
+    },
+    {
+      "templateId": null,
+      "title": "Check federal withholding instruction",
+      "text": "Check the federal withholding instruction for Daria Copperwisp’s IRA distributions to confirm the elected rate matches her intent before revising the payment.",
+      "priority": null,
+      "dueDate": "2025-07-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to check the withholding instruction by 2025-07-15."
+    },
+    {
+      "templateId": null,
+      "title": "Review IRA distribution timetable",
+      "text": "Review the IRA distribution processing timetable after the recent posting delay to ensure future payments align with the household bill cycle.",
+      "priority": null,
+      "dueDate": "2025-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the distribution processing timetable by 2025-07-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare funding plan for withdrawals",
+      "text": "Prepare a funding plan for scheduled withdrawals that utilizes the cash and short‑term bond sleeve in the joint taxable account, avoiding unnecessary realized gains while meeting the household reserve target.",
+      "priority": null,
+      "dueDate": "2025-07-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that funding plan by 2025-07-22."
+    }
+  ]
+}

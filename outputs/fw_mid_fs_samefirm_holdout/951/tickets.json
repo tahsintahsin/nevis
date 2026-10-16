@@ -1,0 +1,55 @@
+{
+  "meetingId": "951",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update mailing address across Apricot Compass Advisory records",
+      "text": "Update Nora Cloudpuddle's mailing address across Apricot Compass Advisory records, Velvet Acorn Custody accounts, and statement-delivery preferences. The address-change packet still needs Nora's e-signature on the receiving account authorization page by 2026-05-17.",
+      "priority": null,
+      "dueDate": "2026-05-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora asked for her new mailing address to be updated across Apricot Compass Advisory records, Velvet Acorn Custody accounts, and statement-delivery preferences; that work was agreed for 2026-05-22."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Velvet Acorn address-change packet e-signature",
+      "text": "Complete Nora Cloudpuddle's e-signature on the Velvet Acorn address-change packet receiving account authorization page.",
+      "priority": null,
+      "dueDate": "2026-05-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Velvet Acorn address-change packet still needs Nora’s e-signature on the receiving account authorization page by 2026-05-17."
+    },
+    {
+      "templateId": null,
+      "title": "Update Paper Otter payroll profile withholding",
+      "text": "Update Nora Cloudpuddle's Paper Otter payroll profile withholding to reflect her North Carolina residence, consistent with her employee record. Her profile currently shows Illinois withholding.",
+      "priority": null,
+      "dueDate": "2026-05-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Her Paper Otter payroll profile still shows Illinois withholding although her employee record lists the North Carolina residence; follow-up is needed by 2026-05-24."
+    },
+    {
+      "templateId": "6445004d-4738-5b54-8a7d-a7b278501b6c",
+      "title": "Request beneficiary update details",
+      "text": "Request beneficiary change materials for Nora Cloudpuddle's Velvet Acorn IRA, Roth IRA, and taxable transfer-on-death registration to reflect Lila Cloudpuddle and Owen Cloudpuddle as beneficiaries.",
+      "priority": null,
+      "dueDate": "2026-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora requested beneficiary change materials for the Velvet Acorn IRA, Roth IRA, and taxable transfer-on-death registration to reflect Lila Cloudpuddle and Owen Cloudpuddle rather than prior designations; this was agreed for 2026-06-03."
+    },
+    {
+      "templateId": "5221b3ba-6797-5273-8a7b-f0091cceb59a",
+      "title": "Concentrated Holding Snapshot",
+      "text": "Prepare a current snapshot of Nora Cloudpuddle's Pocket Lantern Systems stock exposure, unrealized gain, vesting schedule, and liquidity implications. Paper Otter Technologies stock is about 31% of her taxable account.",
+      "priority": null,
+      "dueDate": "2026-06-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review showed the employer stock position is a large share of Nora’s taxable account while she is starting compensation from Paper Otter; follow-up on the concentrated holding was agreed for 2026-06-07."
+    }
+  ]
+}

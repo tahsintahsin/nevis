@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"304\",\n\"followups\": [\n{\n\"evidence\": \"Using lender terms Evan brought, the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives.\",\n\"action\": \"Prepare a comparison of the home equity line reset payment versus refinance, a fixed home equity loan, and accelerated payoff options.\"\n},\n{\n\"evidence\": \"Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms.\",\n\"action\": \"Collect the required loan documents by the 2024-08-26 deadline.\"\n},\n{\n\"evidence\": \"Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal’s about $86,400.\",\n\"action\": \"Reconcile the $92,100 credit‑monitoring balance discrepancy with the portal’s $86,400 figure.\"\n},\n{\n\"evidence\": \"The agreed cash-flow scenario due 2024-09-13 is to show debt-repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment.\",\n\"action\": \"Create a cash‑flow scenario showing debt‑repayment trade‑offs, due 2024‑09‑13.\"\n},\n{\n\"evidence\": \"The debt plan needs to reflect Lena’s expected two-month Paper Otter Studio contract pause by 2024-09-04.\",\n\"action\": \"Update the debt plan to incorporate Lena’s two‑month contract pause, effective by 2024‑09‑04.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3016,
+    "output_tokens": 1322,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"304\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Prepare home equity reset comparison\",\n\"text\": \"Prepare a comparison for Evan Cloudpuddle of the projected home equity line reset payment versus refinance, a fixed home equity loan, and accelerated payoff alternatives, using the lender terms provided.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Using lender terms Evan brought, the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Collect loan documents for HE line\",\n\"text\": \"Collect the required loan documents for Evan Cloudpuddle’s Silver Marmot Credit Union home equity line, including the reset notice and full agreement, by the 2024-08-26 deadline.\",\n\"priority\": null,\n\"dueDate\": \"2024-08-26\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Reconcile credit‑monitoring balance discrepancy\",\n\"text\": \"Reconcile the $92,100 credit‑monitoring balance with the portal’s reported $86,400 figure for Evan Cloudpuddle, resolving the discrepancy by 2024-08-30.\",\n\"priority\": null,\n\"dueDate\": \"2024-08-30\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal’s about $86,400.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Create cash‑flow scenario for debt repayment\",\n\"text\": \"Create a cash‑flow scenario for Evan and Lena Cloudpuddle that shows debt‑repayment trade‑offs, incorporating regular spending and the projected home equity line reset payment, due 2024-09-13.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed cash-flow scenario due 2024-09-13 is to show debt-repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Update debt plan for contract pause\",\n\"text\": \"Update the debt plan for Evan and Lena Cloudpuddle to reflect Lena’s two‑month Paper Otter Studio contract pause effective by 2024-09-04.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-04\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The debt plan needs to reflect Lena’s expected two-month Paper Otter Studio contract pause by 2024-09-04.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2466,
+    "output_tokens": 2133,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1810
+   },
+   "stop": "stop"
+  }
+ ]
+}

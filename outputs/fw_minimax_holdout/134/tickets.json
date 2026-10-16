@@ -1,0 +1,62 @@
+{
+  "meetingId": "134",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Restore portal access and activate MFA for Adrian Lanternmoss",
+      "text": "Restore failed-reset access and activate app-based MFA for Adrian Lanternmoss's Apricot Compass Advisory and Velvet Acorn Custody logins, using the error screenshot and the correct primary email on file.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Restore failed-reset access",
+          "text": "Restore failed-reset access for Adrian Lanternmoss's Apricot Compass Advisory and Velvet Acorn Custody logins using the error screenshot and the correct primary email on file.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Activate app-MFA for Apricot/Velvet logins",
+          "text": "Activate app-based MFA for Adrian Lanternmoss's Apricot Compass Advisory and Velvet Acorn Custody logins.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Agreed: by 2024-11-08, restore failed-reset access and activate app-MFA for Apricot/Velvet logins, using error-screenshot/correct-primary email;"
+    },
+    {
+      "templateId": null,
+      "title": "Verify Moonbadger Credit Union activity and restrict money movement",
+      "text": "Verify unfamiliar Moonbadger Credit Union ACH micro-deposits and external links for Adrian Lanternmoss, restrict new money movement, and confirm withdrawal settings; Adrian stated he has no account there.",
+      "priority": null,
+      "dueDate": "2024-11-07",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Verify Moonbadger Credit Union ACH micro-deposits and external links",
+          "text": "Verify unfamiliar Moonbadger Credit Union ACH micro-deposits and external links for Adrian Lanternmoss; he stated he has no account there.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Restrict new money movement",
+          "text": "Restrict new money movement on Adrian Lanternmoss's accounts pending review.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm withdrawal settings",
+          "text": "Confirm withdrawal settings on Adrian Lanternmoss's accounts.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "by 2024-11-07, verify unfamiliar Moonbadger Credit Union ACH micro-deposits/external links, restrict new-money movement, confirm withdrawal settings;"
+    }
+  ]
+}

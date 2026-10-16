@@ -1,0 +1,35 @@
+{
+  "meetingId": "307",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Build single equity vesting and blackout calendar",
+      "text": "Create a single calendar for Tobin Mossbutton covering Copper Firefly Systems option and RSU vesting dates, blackout periods, and pre-clearance steps, replacing reliance on memory or portal screenshots. He holds 9,600 vested shares at Velvet Acorn Custody with RSUs vesting over the next three years and quarterly trading windows.",
+      "priority": null,
+      "dueDate": "2026-08-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare exercise strategy comparison illustration",
+      "text": "Prepare an illustration for Tobin Mossbutton comparing same-day sale, cash exercise, or partial exercise of his Copper Firefly Systems vested options against cash reserves and payroll withholding capacity. The review found several vested option strike prices and no existing household comparison.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison."
+    },
+    {
+      "templateId": null,
+      "title": "Collect equity plan and insider policy documents",
+      "text": "Obtain from Tobin Mossbutton the full Copper Firefly Systems equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions. He showed only the current portal balance at Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2026-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "meetingId": "810",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Resolve donor-advised fund portal access problem",
+      "text": "Investigate and resolve the Moonbadger Charitable Fund portal login failure that prevents displaying Buttonwood Balloon School in the charity search. Confirm portal access so grant recommendations can proceed.",
+      "priority": null,
+      "dueDate": "2025-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Galen reported that the Moonbadger Charitable Fund portal rejected his login and did not display Buttonwood Balloon School in the charity search during two recent attempts to enter a grant recommendation; follow-up is needed on the donor-advised fund portal access problem, dated 2025-11-21."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile donor-advised fund balance mismatch",
+      "text": "Reconcile the Moonbadger Charitable Fund portal balance with the advisory ledger after pending grants and investment activity. Resolve the difference to determine how much can be comfortably recommended for near-term grants.",
+      "priority": null,
+      "dueDate": "2025-11-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Moonbadger Charitable Fund portal balance did not match the advisory ledger after pending grants and investment activity, and the difference affects how much Galen and Lina can comfortably recommend for near-term grants; follow-up is needed on the donor-advised fund balance mismatch, dated 2025-"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing direct-gift acknowledgment receipts",
+      "text": "Obtain and file acknowledgment letters for direct gifts to Cloudberry Kite Food Pantry and the Buttonwood Balloon School scholarship program to complete the household’s documentation packet.",
+      "priority": null,
+      "dueDate": "2025-12-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The current charitable file lacks acknowledgment letters for direct gifts to Cloudberry Kite Food Pantry and the Buttonwood Balloon School scholarship program, and the missing receipts affect the household’s documentation packet; follow-up is needed on the direct-gift receipt file, dated 2025-12-05."
+    },
+    {
+      "templateId": null,
+      "title": "Update income assumptions for charitable capacity",
+      "text": "Update household income projections for charitable capacity, estimated taxes, and donor-advised fund contribution size to reflect Lina Thimblefern’s upcoming three-day weekly schedule in January 2026.",
+      "priority": null,
+      "dueDate": "2025-11-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lina’s upcoming work-schedule change affects household income projections used for charitable capacity, estimated taxes, and the size of a comfortable donor-advised fund contribution; the agreed income assumption update for giving capacity is dated 2025-11-28."
+    },
+    {
+      "templateId": "098a99bb-56c3-5bae-8a8a-0daaeba9311f",
+      "title": "Year-End Deadline Sweep",
+      "text": "Map remaining grants, donor-advised fund contributions, and cash gifts before the household’s planned cutoff for charitable activity, targeting the end-of-year giving range of $125,000 to $150,000.",
+      "priority": null,
+      "dueDate": "2025-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The family’s travel schedule and desired current-year giving range created a need to map remaining grants, donor-advised fund contributions, and cash gifts before the household’s planned cutoff for charitable activity; the agreed year-end charitable giving sweep is dated 2025-12-12."
+    },
+    {
+      "templateId": null,
+      "title": "Review charitable concentration and tax estimates",
+      "text": "Coordinate lot selection for appreciated-share donations to Moonbadger Charitable Fund, review charitable bunching assumptions, and confirm tax estimates with Nadia Copperwisp at Amber Teapot Tax.",
+      "priority": null,
+      "dueDate": "2025-12-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The portfolio review showed a large Paper Otter Systems position in the taxable account, and the discussion covered coordinating lot selection, charitable bunching assumptions, and tax estimates with Nadia Copperwisp at Amber Teapot Tax; the agreed charitable concentration and tax review is dated 20"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve donor-advised fund balance mismatch",
+      "text": "Reconcile the Moonbadger Charitable Fund portal balance with the advisory ledger after pending grants and investment activity. Resolve the difference to determine how much can be comfortably recommended for near-term grants.",
+      "priority": null,
+      "dueDate": "2025-11-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Moonbadger Charitable Fund portal balance did not match the advisory ledger after pending grants and investment activity, and the difference affects how much Galen and Lina can comfortably recommend for near-term grants; follow-up is needed on the donor-advised fund balance mismatch, dated 2025-"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing estate and charitable-beneficiary documents",
+      "text": "Obtain signed trust pages, charitable bequest language, and donor-advised fund successor-advisor designation to complete the estate and charitable-beneficiary documentation file.",
+      "priority": null,
+      "dueDate": "2025-12-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The advisory record contains only an estate summary and does not include signed trust pages, charitable bequest language, or the donor-advised fund successor-advisor designation that Galen referenced; the agreed estate and charitable-beneficiary documents follow-up is dated 2025-12-10."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm charitable concentration and tax review",
+      "text": "Review charitable concentration and tax estimates with Nadia Copperwisp at Amber Teapot Tax, covering lot selection for appreciated-share donations and charitable bunching assumptions.",
+      "priority": null,
+      "dueDate": "2025-12-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The portfolio review showed a large Paper Otter Systems position in the taxable account, and the discussion covered coordinating lot selection, charitable bunching assumptions, and tax estimates with Nadia Copperwisp at Amber Teapot Tax; the agreed charitable concentration and tax review is dated 20"
+    }
+  ]
+}

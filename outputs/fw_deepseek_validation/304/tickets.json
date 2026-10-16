@@ -1,0 +1,55 @@
+{
+  "meetingId": "304",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare home equity line reset payment options",
+      "text": "Compare the projected Silver Marmot Credit Union home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives for Evan Cloudpuddle, using the lender terms he brought to the meeting.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Using lender terms Evan brought, the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives."
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing home equity line loan documents",
+      "text": "Collect the missing Silver Marmot Credit Union reset notice and full loan agreement for Evan Cloudpuddle, and obtain documentation verifying the margin, draw-period language, and prepayment terms that screenshots did not confirm.",
+      "priority": null,
+      "dueDate": "2024-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve credit-monitoring balance discrepancy",
+      "text": "Resolve the $92,100 credit-monitoring balance against the Silver Marmot Credit Union portal figure of about $86,400 for Evan Cloudpuddle's home equity line.",
+      "priority": null,
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal’s about $86,400."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare debt-repayment cash-flow scenario",
+      "text": "Prepare a cash-flow scenario for Evan Cloudpuddle showing debt-repayment tradeoffs, reflecting pressure from about $10,900 in regular monthly spending plus the estimated Silver Marmot Credit Union reset payment.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed cash-flow scenario due 2024-09-13 is to show debt-repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment."
+    },
+    {
+      "templateId": null,
+      "title": "Update debt plan for Paper Otter Studio pause",
+      "text": "Update Evan Cloudpuddle's debt plan to reflect Lena Cloudpuddle's expected two-month Paper Otter Studio contract pause and its effect on household cash flow.",
+      "priority": null,
+      "dueDate": "2024-09-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The debt plan needs to reflect Lena’s expected two-month Paper Otter Studio contract pause by 2024-09-04."
+    }
+  ]
+}

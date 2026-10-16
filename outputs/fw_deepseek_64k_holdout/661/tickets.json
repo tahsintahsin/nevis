@@ -1,0 +1,85 @@
+{
+  "meetingId": "661",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare spring tuition funding schedule",
+      "text": "Prepare a month-by-month schedule for Mira Quillwhistle showing how much of Elin Quillwhistle's Marzipan Meadow College spring charges can come from the Velvet Acorn Custody 529, the Teacup Comet Bank tuition set-aside, and the Paper Otter Custody Treasury fund without changing retirement contributions.",
+      "priority": null,
+      "dueDate": "2023-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that schedule, dated December 19, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Marzipan Meadow billing packet",
+      "text": "Obtain the itemized student account PDF from Marzipan Meadow College for Mira Quillwhistle to substantiate Elin Quillwhistle's payment plan and qualified expense categories, since the portal screenshot omitted it.",
+      "priority": null,
+      "dueDate": "2023-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain the packet, dated December 12, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Velvet Acorn 529 balance discrepancy",
+      "text": "Reconcile the balance discrepancy on Elin Quillwhistle's 529 account at Velvet Acorn Custody for Mira Quillwhistle, where a mobile screenshot showed $67,400 and the downloaded statement showed $72,270, to confirm the amount available for the next payment.",
+      "priority": null,
+      "dueDate": "2023-12-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reconcile the balance discrepancy, dated December 15, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Identify direct 529 payment workflow",
+      "text": "Identify an acceptable direct payment or reimbursement workflow between Velvet Acorn Custody and the Marzipan Meadow College portal for Mira Quillwhistle, after the portal rejected bank verification for Elin Quillwhistle's direct 529 payment and displayed an error on two attempts.",
+      "priority": null,
+      "dueDate": "2023-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to identify the workflow, dated December 18, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Rowan education funding projection",
+      "text": "Prepare a separate education funding projection for Mira Quillwhistle's son Rowan Quillwhistle using the existing 529 balance, expected test and application costs, and a first-year college savings target that does not rely on borrowing.",
+      "priority": null,
+      "dueDate": "2023-12-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that projection, dated December 29, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare off-campus housing cost projection",
+      "text": "Prepare a projection for Mira Quillwhistle of which rent, food, and utility amounts for Elin Quillwhistle's off-campus apartment with two classmates could fit into the education funding plan versus parent cash flow in the next academic year.",
+      "priority": null,
+      "dueDate": "2024-01-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that projection, dated January 19, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Rowan college cost-gap estimate",
+      "text": "Prepare a cost-gap estimate for Mira Quillwhistle's son Rowan Quillwhistle before the first school deposit decision, using the scholarship response calendar from Rowan's counselor to compare merit aid offers consistently.",
+      "priority": null,
+      "dueDate": "2024-02-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the estimate, dated February 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare tax estimate and sale sequencing",
+      "text": "Prepare a tax estimate and sale-sequencing review for Mira Quillwhistle's Paper Otter Custody taxable education reserve, covering the unrealized gains in the equity index fund and the separate Treasury position earmarked for tuition.",
+      "priority": null,
+      "dueDate": "2024-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the tax estimate and sale-sequencing review, dated January 3, 2024."
+    }
+  ]
+}

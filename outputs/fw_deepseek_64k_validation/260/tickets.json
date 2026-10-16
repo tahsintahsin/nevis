@@ -1,0 +1,47 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset portal credentials and strengthen MFA",
+      "text": "Reset Jared Wrenpuddle's Apricot Compass Wealth Advisory portal credentials through approved channels, review active sessions, and set up stronger MFA after repeated lockouts following an uninitiated password-reset email.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Reset portal credentials",
+          "text": "Reset Jared Wrenpuddle's Apricot Compass Wealth Advisory portal credentials through approved channels.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review active portal sessions",
+          "text": "Review active sessions on Jared Wrenpuddle's Apricot Compass Wealth Advisory portal account following the repeated lockouts.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Set up stronger MFA",
+          "text": "Set up stronger multi-factor authentication for Jared Wrenpuddle's Apricot Compass Wealth Advisory portal access.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18"
+    },
+    {
+      "templateId": null,
+      "title": "Review transfer instructions and profile changes",
+      "text": "Review the pending Teacup Comet Bank link and the associated transfer instructions and profile changes on Jared and Ava Wrenpuddle's joint taxable brokerage account, since Jared confirmed the household has no relationship with Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "associated transfer-instruction/profile-change review was agreed for 2024-03-19"
+    }
+  ]
+}

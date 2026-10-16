@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e2",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"607\", \"tickets\": [{\"title\": \"Prepare care-cost cash-flow projection\", \"text\": \"Prepare a care-cost cash-flow projection for Lena and Gareth Mossbutton comparing continued home care with a move to the Coral Badger Residence memory-care studio. Use current aide hours, guaranteed income, portfolio values, and Lena’s preferred cash floor.\", \"priority\": null, \"dueDate\": \"2025-06-20\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to prepare that projection for 2025-06-20.\"}, {\"title\": \"Address memory-care room deposit funding source\", \"text\": \"Address which cash source Lena and Gareth should use for the Coral Badger Residence room deposit before the hold expires.\", \"priority\": null, \"dueDate\": \"2025-06-09\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to address the deposit funding source for 2025-06-09.\"}, {\"title\": \"Coordinate caregiver payment and payroll guidance\", \"text\": \"Coordinate with Lena Mossbutton on whether Nora Maplesprocket’s respite care payments and potential direct household payments to backup caregivers create household payroll or reporting considerations.\", \"priority\": null, \"dueDate\": \"2025-07-01\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to coordinate on that caregiver payment and payroll question for 2025-07-01.\"}, {\"title\": \"Review backup care assumption for missed shifts\", \"text\": \"Review whether the care budget should include private backup coverage at a higher rate for missed Pocket Lantern Home Care evening shifts.\", \"priority\": null, \"dueDate\": \"2025-06-17\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to review the backup care assumption for 2025-06-17.\"}, {\"title\": \"Review estate authority provisions\", \"text\": \"Review the trust successor trustee language and health-care directive backup agents in Lena and Gareth Mossbutton’s estate documents for consistency with the household’s present caregiving roles.\", \"priority\": null, \"dueDate\": \"2025-06-27\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to review those estate authority provisions for 2025-06-27.\"}, {\"title\": \"Review concentrated Moonbadger Tools stock position\", \"text\": \"Review the $185,000 Moonbadger Tools stock position in the joint taxable account for care-funding potential, embedded gain, and concentration considerations.\", \"priority\": null, \"dueDate\": \"2025-06-25\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to review that position for 2025-06-25.\"}, {\"title\": \"Coordinate tax impact of funding care\", \"text\": \"Coordinate with Tobin Thimblefern on the tax effects of funding care from taxable-account sales versus IRA withdrawals, considering the prior-year capital gains and charitable gifts.\", \"priority\": null, \"dueDate\": \"2025-07-03\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to coordinate on that tax impact question for 2025-07-03.\"}]}",
+   "usage": {
+    "input_tokens": 2254,
+    "output_tokens": 828,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 4096
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete inherited beneficiary package",
+      "text": "Complete the inherited account beneficiary package for Elian Thimblefern using the packets from Velvet Acorn Custody to ensure proper beneficiary designations.",
+      "priority": null,
+      "dueDate": "2024-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09."
+    },
+    {
+      "templateId": "b69561c0-d94b-5366-9da1-17d83160108e",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Review Elian Thimblefern’s financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items, incorporating the expected changes from the inherited assets.",
+      "priority": "medium",
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "the agreed post-inheritance plan refresh is due 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate arrangement after family changes",
+      "text": "Review Elian Thimblefern’s estate arrangement to update fiduciary designations and coordinate inherited assets following the recent family changes.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed estate arrangement review after family changes is due 2024-03-08."
+    }
+  ]
+}

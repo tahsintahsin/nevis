@@ -1,0 +1,21 @@
+{
+ "config": "fw_large_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"849\",\n\"tickets\": [\n{\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\",\n\"title\": \"Update household profile\",\n\"text\": \"Update the household profile for Nadia and Owen Pebblefizz by recording Lena as a dependent, updating childcare and medical cash flow, and capturing Nadia’s revised parental‑leave income estimate.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-14\",\n\"assigneeId\": null,\n\"subTasks\": [\n{\n\"title\": \"Record Lena as dependent\",\n\"text\": \"Record Lena Pebblefizz as a dependent in the household profile.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Update childcare and medical cash flow\",\n\"text\": \"Update the childcare and medical cash‑flow estimates in the household profile.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n},\n{\n\"title\": \"Capture revised parental‑leave income estimate\",\n\"text\": \"Capture Nadia Pebblefizz’s revised Cloudberry Kite parental‑leave income estimate in the household profile.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": null\n}\n],\n\"evidence\": \"By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Provide family-attorney checklist\",\n\"text\": \"Provide a family‑attorney checklist for Nadia and Owen Pebblefizz to address the 2021 will and healthcare documents that predate their daughter Lena and lack a minor‑child guardian.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-21\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain term policy and disability details\",\n\"text\": \"Obtain Owen Pebblefizz’s individual term policy declaration page and the disability benefit details for both Nadia and Owen Pebblefizz, needed to complete the protection review.\",\n\"priority\": null,\n\"dueDate\": \"2025-02-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 358,
+    "output_tokens": 2802,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 13319
+   },
+   "stop": "stop"
+  }
+ ]
+}

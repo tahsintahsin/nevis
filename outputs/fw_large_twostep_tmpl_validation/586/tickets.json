@@ -1,0 +1,125 @@
+{
+  "meetingId": "586",
+  "tickets": [
+    {
+      "templateId": "08361f27-bfef-5da9-85f9-5136b2a38dcc",
+      "title": "Prepare liquidity planning analysis",
+      "text": "Review expected cash needs, emergency reserve targets, recurring income sources, upcoming distributions, and potential funding sources. Summarize recommended cash cushion, any portfolio trades needed to raise cash, tax considerations, and questions for the lead advisor before client discussion. For Mira Willowdoodle and Arlen Copperwisp, assess the shortfall in their six‑month cash reserve after accounting for the $24,000 wedding expenses, the remaining $1,850 monthly apartment rent through May 31, and the $9,600 monthly household spending, and propose funding options.",
+      "priority": "medium",
+      "dueDate": "2024-03-18",
+      "assigneeId": "04250424-b280-5443-9318-1c2f184393c9",
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-18 is to address the cash reserve and remaining lease impact."
+    },
+    {
+      "templateId": "5738ede4-fc73-570d-9d4a-a39e4eb4d6c8",
+      "title": "Collect address and residency update details",
+      "text": "Use this form to collect updated household information.\n\nClient name: Mira Willowdoodle and Arlen Copperwisp\nEffective date of change: 2024-02-01\nPrior mailing address: [PRIOR MAILING ADDRESS]\nNew mailing address: [NEW MAILING ADDRESS]\nNew physical residence address, if different: [PHYSICAL ADDRESS]\nPrimary phone: [PHONE]\nEmail address: [EMAIL]\nState of legal residence before change: [PRIOR STATE]\nState of legal residence after change: [NEW STATE]\nResidency change reason: [MOVE / SEASONAL / TAX RESIDENCY / OTHER]\nExpected time in each state during the year: [DETAILS]\nAccounts, policies, or plans needing address update: [LIST]\nProfessional contacts to notify, if any: [CPA / ATTORNEY / OTHER]\nSupporting documentation received: [YES / NO / NEEDED]\nNotes or follow-up questions: [NOTES]",
+      "priority": "medium",
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-06 is to update the household profile and address records."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain and upload marriage certificate",
+      "text": "Obtain a certified copy of Mira Willowdoodle and Arlen Copperwisp's marriage certificate and upload it to the client file to satisfy custodian and insurance record requirements. Ensure the document is scanned and attached before the 2024-02-28 deadline.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-02-28 to obtain marriage certificate evidence."
+    },
+    {
+      "templateId": null,
+      "title": "Provide taxable account registration comparison",
+      "text": "Provide Mira Willowdoodle with a plain‑language comparison of keeping her Velvet Acorn Custody taxable account individually titled versus opening a new joint account for household savings, highlighting registration requirements, tax implications, and access controls. Deliver the comparison to her by the 2024-03-01 deadline.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-01 is to provide the taxable account registration options."
+    },
+    {
+      "templateId": null,
+      "title": "Set up view‑only dashboard access",
+      "text": "Set up view‑only dashboard access for Arlen Copperwisp so he can see the household’s financial overview while preserving Mira Willowdoodle’s trading authority on her individual IRA and taxable accounts. Complete the configuration by 2024-02-29.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-29 is to address online access for a spouse and household view."
+    },
+    {
+      "templateId": null,
+      "title": "Investigate and correct beneficiary inconsistencies",
+      "text": "Investigate the beneficiary record inconsistencies across Mira Willowdoodle’s IRA, 401(k), and other accounts as well as Arlen Copperwisp’s employer plan, and correct them to reflect the married household. Finalize the updates by 2024-03-08.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-03-08 on beneficiary record inconsistencies."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn beneficiary update error",
+      "text": "Resolve the Velvet Acorn Custody error that prevented adding Arlen Copperwisp as a contingent beneficiary to Mira Willowdoodle’s taxable account, and confirm the change with a valid confirmation number. Address the issue by 2024-02-27.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-02-27 is to address the custodian beneficiary update error."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer benefit election changes",
+      "text": "Review Mira Willowdoodle’s newlywed enrollment window at Clockwork Clover Robotics and Arlen Copperwisp’s benefit‑change process at Paper Otter Preparatory, and recommend any necessary adjustments to medical, life, and disability coverage for the combined household. Provide recommendations by 2024-03-05.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-05 is to review employer benefit elections."
+    },
+    {
+      "templateId": null,
+      "title": "Align life and disability coverage",
+      "text": "Align the beneficiaries and replacement‑income assumptions for Mira Willowdoodle’s $750,000 term life policy, her employer group life coverage, and Arlen Copperwisp’s $500,000 term policy and employer coverage to ensure consistency across the household. Complete the alignment by 2024-03-14.",
+      "priority": null,
+      "dueDate": "2024-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed by 2024-03-14 on life and disability coverage alignment."
+    },
+    {
+      "templateId": "8f09a5a6-7496-50a3-906b-2e2d49077496",
+      "title": "Request estate document collection",
+      "text": "Ask Mira Willowdoodle and Arlen Copperwisp to provide current estate documents, including wills, trusts, powers of attorney, health care directives, and any recent amendment pages, so the advisory team can update planning records. Obtain the documents by the 2024-03-12 deadline.",
+      "priority": "medium",
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-03-12 is to collect estate document copies and any amendment pages."
+    },
+    {
+      "templateId": null,
+      "title": "Gather mortgage and property documents",
+      "text": "Gather the current mortgage statement, deed vesting page, and homeowner policy declarations for Arlen Copperwisp’s Lakewood townhouse to enable a full property record review. Submit the documents by 2024-03-15.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2024-03-15 for the mortgage and property record review based on those missing property records."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare joint 2024 tax projection",
+      "text": "Prepare a coordinated 2024 tax withholding and estimated‑tax projection for Mira Willowdoodle and Arlen Copperwisp, incorporating their combined salaries, bonus targets, investment income, and Mira’s $42,000 capital loss carryforward. Deliver the projection to their tax preparer by 2024-04-05.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2024-04-05 is to prepare the joint tax withholding projection."
+    }
+  ]
+}

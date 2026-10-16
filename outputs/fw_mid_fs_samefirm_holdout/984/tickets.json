@@ -1,0 +1,65 @@
+{
+  "meetingId": "984",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Provide planning worksheet separating household draws, tax set-asides, and business operating reserves",
+      "text": "Provide a planning worksheet that separates household draws, tax set-asides, and business operating reserves for Copper Firefly Studio LLC, given retainer income and workshop payments will not arrive evenly.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Darian asked for a planning worksheet that separates household draws, tax set-asides, and business operating reserves because retainer income and workshop payments will not arrive evenly. The agreed follow-up is to provide that worksheet by 2024-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Address business books and CPA coordination for estimated tax cash needs",
+      "text": "Set up a chart of accounts, recurring bookkeeping schedule, and coordination format for Linnea Thimblefern to review estimated tax cash needs for Copper Firefly Studio LLC.",
+      "priority": null,
+      "dueDate": "2024-10-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the launch of Copper Firefly Studio LLC requires a chart of accounts, recurring bookkeeping schedule, and coordination format for Linnea to review estimated tax cash needs. The agreed follow-up is to address those bookkeeping and coordination items by 2024-10-30."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain LLC formation documents and first business bank statement",
+      "text": "Obtain the LLC articles, EIN confirmation, operating agreement, and first business bank statement for Copper Firefly Studio LLC so the business balance sheet can be verified.",
+      "priority": null,
+      "dueDate": "2024-10-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the advisory file does not yet contain the LLC articles, EIN confirmation, operating agreement, or first business bank statement, so the business balance sheet cannot be verified. The unresolved need is to obtain those documents by 2024-10-18."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile workshop deposit discrepancy",
+      "text": "Reconcile the workshop deposit discrepancy between the invoice log showing two Mossy Meteor Payments deposits and the business checking activity showing only one matching deposit. Determine if the missing deposit went to Darian’s personal account.",
+      "priority": null,
+      "dueDate": "2024-10-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the invoice log shows two Mossy Meteor Payments deposits for workshops, while the business checking activity shows only one matching deposit; the missing deposit may have gone to Darian’s personal account. The unresolved need is to reconcile the workshop deposits by 2024-10-22."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare self-employed retirement plan comparison",
+      "text": "Prepare a comparison of retirement plan structures that could fit Copper Firefly Studio LLC alongside Liora’s ongoing salary deferrals and the household cash reserve target.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Darian wants a comparison of retirement plan structures that could fit the new LLC alongside Liora’s ongoing salary deferrals and the household cash reserve target before his planned planning review with Paper Otter Tax. The agreed follow-up is to prepare that comparison by 2024-11-15."
+    },
+    {
+      "templateId": null,
+      "title": "Address business liability and income protection coverage gaps",
+      "text": "Address the missing professional liability policy for Copper Firefly Studio LLC and Darian’s disability coverage that was tied to his prior employer benefits.",
+      "priority": null,
+      "dueDate": "2024-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the pre-meeting coverage review found that Copper Firefly Studio LLC has no professional liability policy on file and that Darian’s disability coverage was tied to his prior employer benefits. The agreed follow-up is to address those coverage items by 2024-11-01."
+    }
+  ]
+}

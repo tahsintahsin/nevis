@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"263\", \"followups\": [{\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\", \"action\": \"Reset portal credentials, review active sessions, and strengthen MFA via approved channels for Jared's portal access.\"}, {\"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\", \"action\": \"Check transfer instructions and profile changes related to the pending Teacup Comet Bank link.\"}]}",
+   "usage": {
+    "input_tokens": 2745,
+    "output_tokens": 351,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 960
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"263\", \"tickets\": [{\"title\": \"Reset portal credentials and strengthen MFA for Jared Wrenpuddle\", \"text\": \"Reset Jared Wrenpuddle's portal credentials at Velvet Acorn Custody under Apricot Compass Wealth Advisory, review active sessions, and strengthen MFA through approved channels following the uninitiated password-reset email and repeated lockouts.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\", \"templateId\": null}, {\"title\": \"Review pending Teacup Comet Bank link for Jared Wrenpuddle\", \"text\": \"Check transfer instructions and profile changes for the pending Teacup Comet Bank link on Jared Wrenpuddle's portal account at Velvet Acorn Custody, since Jared stated no household account exists at Teacup Comet Bank.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 2872,
+    "output_tokens": 1278,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1554
+   },
+   "stop": "stop"
+  }
+ ]
+}

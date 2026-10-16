@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"569\",\n\"tickets\": [\n{\n\"title\": \"Send planning summary to estate attorney\",\n\"text\": \"Prepare and send a planning summary to estate attorney Priya Thimblefern at Silver Marmot Law addressing the outdated successor trustee sequence, the children's current roles, and Helena's wish to avoid naming a corporate trustee unless family members cannot serve.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-11\",\n\"assigneeId\": \"404e3513-579d-5368-b97f-3a7639c794de\",\n\"subTasks\": [],\n\"evidence\": \"They agreed that by 2025-07-11 a planning summary will be sent to estate attorney Priya Thimblefern at Silver Marmot Law addressing the outdated successor trustee sequence, the children's current roles, and Helena's wish to avoid naming a corporate trustee unless family members cannot serve.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Compare rollover IRA custodian records\",\n\"text\": \"Compare the rollover IRA custodian records, which list Rowan as primary beneficiary and Linus and Arden equally as contingent beneficiaries, against the estate plan because the older trust schedule still references an equal split with Maribel's family branch.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-18\",\n\"assigneeId\": \"404e3513-579d-5368-b97f-3a7639c794de\",\n\"subTasks\": [],\n\"evidence\": \"By 2025-07-18, they agreed to compare rollover IRA custodian records, which list Rowan as primary beneficiary and Linus and Arden equally as contingent beneficiaries, against the estate plan because the older trust schedule still references an equal split with Maribel's family branch.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Locate original trust binder and send scans\",\n\"text\": \"Locate the original trust binder and send scans if found because the vault copy lacks the signature page, Schedule A, and written trustee acceptance or resignation provisions.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-09\",\n\"assigneeId\": \"404e3513-579d-5368-b97f-3a7639c794de\",\n\"subTasks\": [],\n\"evidence\": \"By 2025-07-09, Helena agreed to look for the original trust binder and send scans if found because the vault copy lacks the signature page, Schedule A, and written trustee acceptance or resignation provisions.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Model trustee and executor alternatives\",\n\"text\": \"Model trustee and executor alternatives for attorney discussion because Linus has moved overseas for a multi-year teaching appointment and may not be practical as first successor trustee, including whether Arden or Rowan's brother Felix Cloudpuddle is a more workable backup.\",\n\"priority\": null,\n\"dueDate\": \"2025-07-25\",\n\"assigneeId\": \"404e3513-579d-5368-b97f-3a7639c794de\",\n\"subTasks\": [],\n\"evidence\": \"By 2025-07-25, they agreed to model trustee and executor alternatives for attorney discussion because Linus has moved overseas for a multi-year teaching appointment and may not be practical as first successor trustee, including whether Arden or Rowan's brother Felix Cloudpuddle is a more workable backup.\"\n,\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3346,
+    "output_tokens": 861,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"314\", \"followups\": [{\"evidence\": \"the agreed follow-up is to refresh the household plan for North Carolina residency, Asheville housing costs, revised commuting expenses, cash reserve targets, retirement savings, and Lila's education funding assumptions by 2025-10-10.\", \"action\": \"Refresh the household financial plan with updated North Carolina residency, Asheville housing costs, commuting expenses, cash reserve targets, retirement savings, and Lila's education funding assumptions by 2025-10-10.\"}, {\"evidence\": \"The agreed follow-up is to review Ellis's Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA, disability coverage, supplemental life insurance, and retirement contribution choices by 2025-09-30 before the election window closes.\", \"action\": \"Review Ellis's Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA, disability, supplemental life insurance, and retirement contribution choices before the 2025-09-30 election deadline.\"}]}",
+   "usage": {
+    "input_tokens": 2160,
+    "output_tokens": 1221,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 960
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"314\", \"tickets\": [{\"title\": \"Review Financial Plan Snapshot\", \"text\": \"Refresh key assumptions, compare current projections to stated goals, note material changes in income, expenses, taxes, assets, liabilities, retirement timing, and education funding needs, then list planning decisions for advisor review. Update the plan for Nora and Ellis Bramblequill's North Carolina residency, the $885,000 Asheville home with a $622,000 30-year fixed mortgage at 6.125% through Amber Teapot Mortgage, $13,200 expected monthly spending, $184,000 cash reserves at Teacup Comet Bank, $1.36 million at Velvet Acorn Custody, and Lila's 529 funding.\", \"priority\": \"medium\", \"dueDate\": \"2025-10-10\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to refresh the household plan for North Carolina residency, Asheville housing costs, revised commuting expenses, cash reserve targets, retirement savings, and Lila's education funding assumptions by 2025-10-10.\", \"templateId\": \"a5a5fd32-0e81-5137-9be4-206c688fccbb\"}, {\"title\": \"Conduct Benefits Enrollment Outreach\", \"text\": \"Outreach purpose: benefits enrollment support for Ellis Bramblequill.\\n\\nMessage outline:\\n1. Confirm the enrollment window or relative deadline: before the 2025-09-30 election deadline.\\n2. Request current benefits materials: benefits guide, rate sheet, and portal summary from Cloudberry Kite Analytics.\\n3. Ask about expected changes: employment change to Cloudberry Kite Analytics in Asheville.\\n4. Identify decisions to review: HSA, disability coverage, supplemental life insurance, and retirement contribution choices.\\n5. If contacting a benefits professional, request clarification on: plan rules, employer match, coverage effective date, eligibility.\\n6. Close with next step: schedule review.\\n\\nReusable note: Do not provide final election instructions until plan documents and client priorities have been reviewed. Ellis's new hybrid data operations role offers a $146,000 salary with employer benefits available.\", \"priority\": \"medium\", \"dueDate\": \"2025-09-30\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to review Ellis's Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA, disability coverage, supplemental life insurance, and retirement contribution choices by 2025-09-30 before the election window closes.\", \"templateId\": \"d9b191a2-f79c-5e44-ab92-1a656d96a3be\"}]}",
+   "usage": {
+    "input_tokens": 2392,
+    "output_tokens": 2626,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1554
+   },
+   "stop": "stop"
+  }
+ ]
+}

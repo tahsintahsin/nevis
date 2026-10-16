@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"853\",\n\"tickets\": [\n{\n\"title\": \"Review Velvet Acorn Custody security alert and profile\",\n\"text\": \"Review the Velvet Acorn Custody unfamiliar-device alert and check for any changes to Leona Thimblefern's household profile or distribution instructions. Coordinate the necessary pre-upload custodian security steps to resolve the authentication issue.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"\n,\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 619,
+    "output_tokens": 175,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

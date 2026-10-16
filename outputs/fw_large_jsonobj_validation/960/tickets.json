@@ -1,0 +1,86 @@
+{
+  "name": "meetingId",
+  "meetingId": "960",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare appreciated stock donation analysis",
+      "text": "Prepare an analysis of donating appreciated Paper Otter Robotics shares versus cash for Nora Velvetreed’s donor‑advised fund, including expected concentration reduction and required transfer records.",
+      "priority": null,
+      "dueDate": "2024-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that appreciated stock donation analysis by March 20, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review concentrated employer stock for charitable lots",
+      "text": "Review Nora Velvetreed’s concentrated Paper Otter Robotics stock holdings to identify specific lots with large unrealized gains suitable for charitable contributions to the Silver Marmot Foundation donor‑advised fund.",
+      "priority": null,
+      "dueDate": "2024-03-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review concentrated employer stock for charitable lots by March 27, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Address charitable giving timeline for tax filing",
+      "text": "Address the timeline for charitable gifts to ensure records are correctly allocated between prior‑year contributions and current‑year planning items for Priya Dewspindle’s tax filing package for Nora and Sam Velvetreed.",
+      "priority": null,
+      "dueDate": "2024-03-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the charitable giving timeline before the filing package closes by March 25, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain donor‑advised fund contribution receipt",
+      "text": "Obtain or resolve the missing contribution confirmation from the Silver Marmot Foundation for Nora Velvetreed’s donor‑advised fund, needed to substantiate the deductible gift in the tax records.",
+      "priority": null,
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain or resolve the donor-advised fund contribution receipt by March 22, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile donor‑advised fund balance discrepancy",
+      "text": "Reconcile the discrepancy between Nora Velvetreed’s donor‑advised fund portal balance and the activity summary download to determine if pending grants, investment movements, or deposit timing explain the difference.",
+      "priority": null,
+      "dueDate": "2024-03-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to reconcile the donor-advised fund balance by March 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Support pending grant recommendation review",
+      "text": "Support the review of the pending grant recommendation to Marzipan Meadow Rural Clinic in the Silver Marmot Foundation portal and determine whether additional information is required from the foundation.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to support that pending grant recommendation review by March 18, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Address charitable plan after caregiving change",
+      "text": "Address the charitable giving plan to incorporate a modest annual grant category for elder‑care access organizations in Hazel Velvetreed’s county following her move to assisted living.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the charitable plan after that family caregiving change by April 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare CPA‑ready charitable documentation packet",
+      "text": "Prepare a single packet for CPA Priya Dewspindle that separates donor‑advised fund contributions, donor‑advised fund grants, and any direct charitable gifts for Nora and Sam Velvetreed, ensuring deductible and non‑deductible documentation are not mixed.",
+      "priority": null,
+      "dueDate": "2024-04-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the CPA-ready charitable documentation packet by April 12, 2024."
+    }
+  ]
+}

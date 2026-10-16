@@ -1,0 +1,65 @@
+{
+  "meetingId": "648",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Restore Velvet Acorn Custody portal access for Lena Copperwisp",
+      "text": "Restore Lena Copperwisp's secure online access to the Velvet Acorn Custody portal using a method that does not rely on the old SMS code path. She was locked out after repeated unexpected multifactor authentication prompts overnight.",
+      "priority": null,
+      "dueDate": "2025-04-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to restore secure online access by April 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Review unrecognized external bank link at Velvet Acorn Custody",
+      "text": "Review the pending external bank nickname in the Velvet Acorn Custody activity view that Lena Copperwisp did not recognize and reconcile it against her known instructions. No completed transfer from that pending destination was visible as of the call.",
+      "priority": null,
+      "dueDate": "2025-04-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to review that link by April 11, 2025."
+    },
+    {
+      "templateId": "37c17d04-e353-50f8-a3c6-359f520559a4",
+      "title": "Update recurring payment instructions",
+      "text": "Pause the $2,500 monthly transfer from the joint taxable account at Velvet Acorn Custody to the Teacup Comet Bank checking account for Lena and Noah Copperwisp. Replacement instructions must use only a verified Teacup Comet Bank destination and require phone confirmation before any money movement.",
+      "priority": null,
+      "dueDate": "2025-04-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to update the instructions by April 14, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Teacup Comet Bank incident documentation",
+      "text": "Collect the Teacup Comet Bank incident reference, statement pages showing any attempted micro-deposits, and written confirmation of which bank account numbers remain valid for Lena and Noah Copperwisp's primary checking and emergency reserves.",
+      "priority": null,
+      "dueDate": "2025-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to collect those materials by April 15, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh Velvet Acorn Custody alert and trusted contact records",
+      "text": "Update the Velvet Acorn Custody alert record to replace Lena Copperwisp's prior work email and add Noah Copperwisp's current mobile number as a trusted contact verification option for the household.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to refresh those records by April 18, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate secure Marzipan Meadow School tuition funding",
+      "text": "Coordinate secure funding for Marzipan Meadow School's next tuition installment of $8,600 for Poppy Copperwisp, ensuring funds are not routed through any unverified destination account. The installment is due before the next normal advisory service cycle.",
+      "priority": null,
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to coordinate secure tuition funding by April 16, 2025."
+    }
+  ]
+}

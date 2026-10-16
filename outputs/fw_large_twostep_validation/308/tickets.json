@@ -1,0 +1,55 @@
+{
+  "meetingId": "308",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare life insurance coverage analysis",
+      "text": "Prepare a life insurance coverage analysis for Alina Mossbutton and Derek Mossbutton, incorporating Alina’s employer group life coverage, Derek’s $250,000 Moonbadger term policy, the $412,000 mortgage balance, and Nora’s recent adoption. Use the adoption date of 2026-02-12, Derek’s reduced income during leave, and the current mortgage to model appropriate coverage levels.",
+      "priority": null,
+      "dueDate": "2026-03-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare life insurance coverage analysis by 2026-03-09 reflecting Nora’s adoption, Derek’s reduced household income during leave, the mortgage balance, and current group and term policies."
+    },
+    {
+      "templateId": null,
+      "title": "Create consolidated childcare education funding view",
+      "text": "Create a consolidated view for Alina Mossbutton and Derek Mossbutton comparing childcare costs versus education funding, incorporating the $2,150 monthly daycare quote, projected college savings contributions, reserve impact, and dependent‑care reimbursements.",
+      "priority": null,
+      "dueDate": "2026-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2026-03-12 to create one view of childcare and education funding tradeoffs because the daycare quote and desired college savings contribution would draw from the same monthly surplus, showing reserve impact, dependent-care reimbursements, and possible education account funding levels."
+    },
+    {
+      "templateId": null,
+      "title": "Add guardian nomination and trust language",
+      "text": "Add a guardian nomination for Nora Mossbutton, draft appropriate testamentary trust language, and update all beneficiary designations for Alina Mossbutton and Derek Mossbutton to include Nora.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed because the file has pre-child estate documents and account beneficiaries but no guardian nomination, testamentary trust language, or beneficiary designations with provisions for Nora."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain and upload adoption documents",
+      "text": "Obtain the final adoption decree, amended birth certificate, and Nora Mossbutton’s Social Security number, and upload these documents to the client vault.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is also needed because the vault lacks the final adoption decree, amended birth certificate, or Social Security number needed to verify beneficiary and education account paperwork."
+    },
+    {
+      "templateId": null,
+      "title": "Determine and complete dependent care enrollment",
+      "text": "Determine the appropriate parent for the dependent‑care enrollment and complete the enrollment for Alina Mossbutton and Derek Mossbutton before the benefits window closes on 2026-02-27.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2026-02-27 to address dependent-care enrollment timing because Derek’s employer portal shows a benefits enrollment window closing soon, and Alina was unsure which parent’s dependent-care arrangement should be used given the expected daycare start and leave transition."
+    }
+  ]
+}

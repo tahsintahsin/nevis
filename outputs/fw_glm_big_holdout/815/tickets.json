@@ -1,0 +1,104 @@
+{
+  "meetingId": "815",
+  "tickets": [
+    {
+      "templateId": "24021c5e-be89-5d42-9140-abb9dc028eee",
+      "title": "Complete address and residency update workflow",
+      "text": "Use this workflow when a client reports a new mailing address, tax residency change, seasonal residence, or household relocation. Confirm the effective date, update advisory records, and identify planning consequences for tax-aware investment management, retirement income distributions, and account communications. Elena and Rowan Pippinwisp moved from Oregon to the Reno townhouse; update advisory records, statement delivery preferences, and planning assumptions to reflect the new residence and tax-residency trail.",
+      "priority": "medium",
+      "dueDate": "2024-09-03",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm move details and documentation",
+          "text": "Collect the new mailing address, physical residence, prior address, effective date, seasonal residence notes, and any supporting documentation the client is comfortable providing.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update internal records and communication preferences",
+          "text": "Update CRM, household profile, statement delivery preferences, meeting location notes, and any compliance-required address fields.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review planning impacts",
+          "text": "Check whether the move affects state tax assumptions, retirement distribution withholding, municipal bond exposure, estate document jurisdiction, insurance coverage, or advisor registration requirements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm completion with client",
+          "text": "Send a brief confirmation summarizing the updates made and any follow-up items the client should address with tax, legal, or account providers.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "The agreed follow-up for 2024-09-03 is to update the address, statement delivery preferences, and planning assumptions for the new residence and tax-residency trail."
+    },
+    {
+      "templateId": "2c5d93d5-0cc9-529e-ae9b-ebe8c1077044",
+      "title": "Policy Renewal Follow-Up",
+      "text": "Organize the homeowners coverage questions for Rowan Pippinwisp tied to the Thimble Harbor Insurance renewal notice, which shows a noticeably higher homeowners premium, before the renewal window closes. Rowan also holds a $750,000 individual term life policy with Thimble Harbor Insurance scheduled to end in 2032.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for 2024-09-10 is to organize the homeowners coverage questions tied to the Thimble Harbor Insurance renewal notice."
+    },
+    {
+      "templateId": "edf2fbce-5c49-5e58-9961-8db31aa328b7",
+      "title": "Change recurring payment instructions",
+      "text": "Confirm the requested recurring payment change, verify the effective timing with the provider or custodian, and document the old and new payment method or amount without storing unnecessary sensitive details. Address the Teacup Comet Bank mortgage-autopay correction for Elena and Rowan Pippinwisp: the bank continued an old extra-principal draft after the refinance setup, causing a duplicate withdrawal from checking and uncertainty about the recurring instruction now on file.",
+      "priority": "medium",
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for 2024-08-30 is to address the mortgage autopay correction."
+    },
+    {
+      "templateId": "0abfb48a-c041-5167-89d9-5c914aeb4eb5",
+      "title": "Request and organize estate document copies",
+      "text": "Ask the client to provide current copies of core estate documents, including will, revocable trust if applicable, powers of attorney, health care directives, beneficiary designations, trustee or executor contact information, and any recent amendment pages. Store received documents according to firm procedures and note missing items for follow-up. Elena and Rowan Pippinwisp's estate plan was drafted in 2018 by attorney Nadia Cloudpuddle of Buttonwood Balloon Legal with a revocable trust; the planning file lacks current copies of the will, trust amendment pages, powers of attorney, health care directive, and beneficiary-designation confirmations.",
+      "priority": "medium",
+      "dueDate": "2024-09-20",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The unresolved estate-binder follow-up dated 2024-09-20 is collection of those current documents and confirmations."
+    },
+    {
+      "templateId": "dbefe474-45fd-55fe-9ce9-fd646cf1c79d",
+      "title": "Review equity award evidence and planning criteria",
+      "text": "Collect and review:\n- Current equity award statement or portal export.\n- Grant agreements and plan documents for each award type.\n- Vesting schedule, expiration dates, blackout windows, and trading policy limits.\n- Option type, strike price, current estimated value, and exercise rules.\n- RSU release schedule, withholding method, and sell-to-cover details.\n- ESPP purchase periods, discount, holding period rules, and payroll contribution rate.\n- Concentration exposure compared with total household net worth and investable assets.\n- Tax evidence needed for ordinary income, AMT, capital gains, and estimated payments.\n- Employment status risks, change-in-control provisions, and post-termination exercise windows.\n- Client goals for diversification, cash needs, charitable giving, and retirement income.\n\nFlag missing evidence, conflicts between documents, tax questions for the CPA, and transactions requiring pre-clearance before any recommendation is finalized. Elena Pippinwisp's Cloudberry Kite Robotics portal includes restricted stock units, incentive stock options, and blackout-window notices that have not yet been analyzed together, and Cloudberry Kite Robotics equity represents a large share of household investable wealth.",
+      "priority": "medium",
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for 2024-09-13 is to review those employer-equity materials together."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estimated tax reserve planning with CPA",
+      "text": "Coordinate with CPA Jasper Thimblefern of Silver Marmot Tax on estimated tax reserves for Elena and Rowan Pippinwisp before any Cloudberry Kite Robotics employer-share sale or option exercise is modeled for cash-flow planning. Their 2023 federal return reported adjusted gross income of about $318,000.",
+      "priority": null,
+      "dueDate": "2024-09-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for 2024-09-18 is coordination on those estimated tax reserves."
+    },
+    {
+      "templateId": "098a99bb-56c3-5bae-8a8a-0daaeba9311f",
+      "title": "Year-End Deadline Sweep",
+      "text": "Review year-end charitable transfer timing for Elena and Rowan Pippinwisp alongside their cash-gift pattern and tax projections, including the option of using appreciated taxable holdings for giving. Their 2023 charitable giving was about $22,000, primarily through cash gifts to Pocket Lantern Foundation and a local food bank, and they want to avoid unnecessary trading in appreciated taxable positions.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for 2024-11-15 is to review year-end charitable transfer timing with their cash-gift pattern and tax projections."
+    }
+  ]
+}

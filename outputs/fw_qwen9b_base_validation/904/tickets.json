@@ -1,0 +1,57 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": "f8d803ca-7cf7-5d92-935d-f7ba24502300",
+      "title": "Gather mortgage document packet",
+      "text": "Complete the inherited account beneficiary package for Elian Thimblefern to finalize the estate's next transfer batch, covering the inherited IRA and taxable brokerage account at Velvet Acorn Custody.",
+      "priority": "medium",
+      "dueDate": "2024-02-09",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [
+        {
+          "title": "Prepare document request list",
+          "text": "Create a tailored request for current mortgage statement, note or loan terms, escrow details if applicable, property tax statement, homeowners insurance declarations page, and any refinance or purchase estimates available.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Track received documents",
+          "text": "Log each received item, note missing pages or outdated versions, and request replacements using secure upload instructions.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Summarize key mortgage terms",
+          "text": "Capture loan balance, interest rate, payment amount, escrow status, maturity or reset information, and any prepayment restrictions for advisor review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Velvet Acorn Custody sent beneficiary claim packets for the inherited IRA and taxable account, and Nessa indicated completed paperwork is needed for the estate’s next transfer batch; the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09."
+    },
+    {
+      "templateId": "b69561c0-d94b-5366-9da1-17d83160108e",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Refresh Elian Thimblefern's financial plan to account for the new inherited assets (taxable brokerage, IRA, and lake cabin interest) and update retirement timing, cash reserves, tax picture, and investment allocation assumptions.",
+      "priority": "medium",
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "Mira’s review noted that expected taxable assets, inherited IRA, and cabin interest would materially change Elian’s retirement timing assumptions, cash reserve position, tax picture, and investment allocation; the agreed post-inheritance plan refresh is due 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate arrangement after family changes",
+      "text": "Review Elian Thimblefern's estate documents and arrangement to address the fact that they still name Corin Mossbutton as primary health-care agent and personal representative, now that family dynamics and asset ownership have changed.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "Elian’s estate documents were signed in 2012 and name late spouse Corin Mossbutton as primary health-care agent and personal representative; because those documents still name Corin in primary fiduciary roles and the inherited assets add new property and beneficiary coordination questions, the agree"
+    }
+  ]
+}

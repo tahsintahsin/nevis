@@ -1,0 +1,114 @@
+{
+  "meetingId": "809",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Process one-time $38k IRA withdrawal for remodel",
+      "text": "Process a one-time gross distribution of $38,000 from Dorian Pebblefizz's traditional IRA at Velvet Acorn Custody to be sent to the Teacup Comet Bank checking account for the first contractor deposit on the home accessibility remodel.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to process that withdrawal, with the follow-up dated 2025-08-15."
+    },
+    {
+      "templateId": "edf2fbce-5c49-5e58-9961-8db31aa328b7",
+      "title": "Change recurring payment instructions",
+      "text": "Increase the regular monthly IRA distribution from $4,000 to $6,500 gross per month for Dorian Pebblefizz, document the revised bank destination at Teacup Comet Bank, and update withholding assumptions before the next payment cycle.",
+      "priority": "medium",
+      "dueDate": "2025-08-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to make and document that adjustment, with the follow-up dated 2025-08-20."
+    },
+    {
+      "templateId": "8ef84ad4-7060-5fbc-8fe4-3be1a4ab9960",
+      "title": "Coordinate household profile update handoffs",
+      "text": "Update advisory records, mailing information, meeting location notes, and retirement distribution withholding assumptions for Dorian Pebblefizz and Elena Pebblefizz to reflect their move from Portland, Oregon to Henderson, Nevada as their primary residence.",
+      "priority": "medium",
+      "dueDate": "2025-08-22",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [
+        {
+          "title": "Gather profile changes from client notes",
+          "text": "Compile the move details: Portland to Henderson, Nevada, effective June 2025, and confirm new primary residence status.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Reflect the Nevada residency change in retirement distribution withholding assumptions and tax-aware investment notes.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf"
+        },
+        {
+          "title": "Refresh service and compliance records",
+          "text": "Update CRM fields, communication preferences, and document storage labels to reflect the new Henderson, Nevada address.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf"
+        },
+        {
+          "title": "Confirm profile summary",
+          "text": "Send Dorian and Elena a concise summary of the updated household profile items and confirm the new withholding assumptions.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf"
+        }
+      ],
+      "evidence": "They agreed to complete those updates, with the follow-up dated 2025-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Oregon withholding discrepancy on IRA",
+      "text": "Address the discrepancy where the Velvet Acorn Custody record still shows Oregon state withholding on Dorian Pebblefizz's recurring IRA distribution despite the household's primary residence being in Henderson, Nevada.",
+      "priority": null,
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to address that discrepancy, with the follow-up dated 2025-08-29."
+    },
+    {
+      "templateId": null,
+      "title": "Check payment timing and bank instruction history",
+      "text": "Investigate the recent ACH deposit delay from the traditional IRA at Velvet Acorn Custody to Teacup Comet Bank that caused Dorian Pebblefizz to manually move funds from savings to cover bills.",
+      "priority": null,
+      "dueDate": "2025-08-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that the payment timing and bank instruction history need to be checked, with the follow-up dated 2025-08-18."
+    },
+    {
+      "templateId": null,
+      "title": "Run year-end cash flow and withholding review",
+      "text": "Conduct a year-end cash flow and withholding review for Dorian Pebblefizz and Elena Pebblefizz incorporating higher IRA withdrawals, potential Portland sale proceeds of $410,000, and Elena's expected 2025 wages of $28,000, to be finalized with CPA Tobin Mossbutton before estimated tax planning.",
+      "priority": null,
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to that review, with the follow-up dated 2025-11-14."
+    },
+    {
+      "templateId": "0abfb48a-c041-5167-89d9-5c914aeb4eb5",
+      "title": "Request and organize estate document copies",
+      "text": "Collect current copies of wills, powers of attorney, trust amendment pages, and beneficiary confirmations for Dorian Pebblefizz and Elena Pebblefizz to replace the older 2018 documents currently in the advisory file.",
+      "priority": "medium",
+      "dueDate": "2025-09-05",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "They agreed to collect those materials, with the follow-up dated 2025-09-05."
+    },
+    {
+      "templateId": null,
+      "title": "Review cash-raising plan for concentrated stock",
+      "text": "Compare IRA distributions, taxable cash, and selective sales options for Dorian Pebblefizz's joint taxable account to determine a cash-raising plan for the Paper Otter Components stock position without assuming it is the first funding source.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "They agreed to that cash-raising review, with the follow-up dated 2025-09-12."
+    }
+  ]
+}

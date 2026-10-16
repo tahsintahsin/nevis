@@ -1,0 +1,105 @@
+{
+  "meetingId": "655",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain federal payment confirmation",
+      "text": "Obtain the corresponding federal payment confirmation for the most recent filed tax return.",
+      "priority": null,
+      "dueDate": "2024-12-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to obtain the corresponding federal payment confirmation, dated 2024-12-24."
+    },
+    {
+      "templateId": null,
+      "title": "Provide consolidated written log",
+      "text": "Provide a consolidated written log showing each unresolved operational issue, the responsible party, and the next status checkpoint for the open service matter status log.",
+      "priority": null,
+      "dueDate": "2024-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to provide the consolidated written log, dated 2024-12-18."
+    },
+    {
+      "templateId": null,
+      "title": "Restore read-only dashboard access",
+      "text": "Restore read-only access to the Teacup Comet Bank cash dashboard for Serena Willowdoodle.",
+      "priority": null,
+      "dueDate": "2024-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to restore read-only dashboard access, dated 2024-12-19."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate temporary mailing and delivery setup",
+      "text": "Coordinate the temporary mailing and delivery setup for the household during the home renovation.",
+      "priority": null,
+      "dueDate": "2024-12-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to coordinate the temporary mailing and delivery setup, dated 2024-12-27."
+    },
+    {
+      "templateId": null,
+      "title": "Correct custodian login security routing",
+      "text": "Correct the custodian login security routing so Jasper Willowdoodle is not receiving authentication texts tied to Serena’s IRA login.",
+      "priority": null,
+      "dueDate": "2024-12-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to correct the custodian login security routing, dated 2024-12-17."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate Jasper profile issue",
+      "text": "Resolve the duplicate Jasper profile issue in the portal that is preventing Jasper from completing an electronic signature packet for household records.",
+      "priority": null,
+      "dueDate": "2024-12-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to resolve the duplicate Jasper profile issue affecting the electronic signature packet, dated 2024-12-20."
+    },
+    {
+      "templateId": null,
+      "title": "Address taxable account cost basis feed discrepancy",
+      "text": "Address the missing lot-level basis for three positions in the joint taxable account at Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2024-12-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to address the taxable account cost basis feed discrepancy, dated 2024-12-23."
+    },
+    {
+      "templateId": null,
+      "title": "Address trusted contact field inconsistency",
+      "text": "Address the trusted contact field inconsistency between the joint taxable account and Serena’s IRA profile at Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to address the trusted contact field inconsistency, dated 2025-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Revise renovation reserve reporting classification",
+      "text": "Revise the renovation reserve reporting classification so it is not included under long-term portfolio assets in the household performance report.",
+      "priority": null,
+      "dueDate": "2024-12-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to revise the renovation reserve reporting classification, dated 2024-12-31."
+    },
+    {
+      "templateId": null,
+      "title": "Address billing account group mismatch",
+      "text": "Address the billing account group mismatch created by the inclusion of a closed zero-balance account in the Willowdoodle household group.",
+      "priority": null,
+      "dueDate": "2024-12-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to address the billing account group mismatch, dated 2024-12-30."
+    }
+  ]
+}

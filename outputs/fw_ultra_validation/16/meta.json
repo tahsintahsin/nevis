@@ -1,0 +1,26 @@
+{
+ "model": "accounts/fireworks/models/nemotron-3-ultra-nvfp4",
+ "latency_s": 6.513198,
+ "input_tokens": 5331,
+ "output_tokens": 436,
+ "cache_write_tokens": 0,
+ "cache_read_tokens": 0,
+ "cost_usd": 0.004245,
+ "cost_basis": "tokens",
+ "token_cost_usd": 0.004245,
+ "config": "fw_ultra",
+ "provider": "fireworks",
+ "deployment": "serverless",
+ "api_model": "accounts/fireworks/models/nemotron-3-ultra-nvfp4",
+ "fine_tuned": false,
+ "prompt_version": "main-e2d185a2",
+ "pipeline": "single",
+ "few_shot": "none",
+ "few_shot_examples": [],
+ "structured_output": "json_schema",
+ "calls": 1,
+ "stop_reasons": [
+  "stop"
+ ],
+ "effort": null
+}

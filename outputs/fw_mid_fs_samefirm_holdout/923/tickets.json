@@ -1,0 +1,125 @@
+{
+  "meetingId": "923",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare coordinated Roth conversion projection",
+      "text": "Prepare a coordinated projection showing whether a partial Roth conversion would still make sense in a high-income year after incorporating Helena Thimblefern's bonus estimate, vested shares, Gabriel's business income range, and the household's charitable plans.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Helena asked for a coordinated projection showing whether a partial Roth conversion would still make sense in a high-income year after incorporating her bonus estimate, vested shares, Gabriel’s business income range, and the household’s charitable plans. The agreed follow-up is to prepare that coord"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate projected tax payments and withholding assumptions with CPA",
+      "text": "Coordinate projected tax payments and withholding assumptions with CPA Lina Maplesprocket before the next household cash-flow update.",
+      "priority": null,
+      "dueDate": "2025-09-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For estimated tax coordination with Lina Maplesprocket, the unusually high income year and Gabriel’s uneven business income create a need to coordinate projected payments and withholding assumptions with the CPA before the next household cash-flow update. The agreed follow-up is to coordinate those "
+    },
+    {
+      "templateId": null,
+      "title": "Review year-to-date paystub and bonus/withholding discrepancy",
+      "text": "Review the discrepancy between Helena Thimblefern's year-to-date paystub and the bonus and withholding amounts used in the preliminary tax estimate.",
+      "priority": null,
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For compensation and withholding discrepancy review, Helena’s year-to-date paystub does not align with the bonus and withholding amounts used in the preliminary tax estimate, and the variance is large enough to affect quarterly tax planning. The agreed follow-up is to review the discrepancy by 2025-"
+    },
+    {
+      "templateId": null,
+      "title": "Complete Moonbadger Instruments benefits enrollment review",
+      "text": "Complete a review of the available health plan, HSA, disability, life insurance, and 401(k) election choices at Moonbadger Instruments before the employer portal closes.",
+      "priority": null,
+      "dueDate": "2025-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For employer benefits enrollment support, Moonbadger Instruments moved its benefits cycle, and Helena wants a review of the available health plan, HSA, disability, life insurance, and 401(k) election choices before the employer portal closes. The agreed follow-up is to complete that benefits enrollm"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing donor signatures for Silver Marmot Giving Fund",
+      "text": "Obtain the missing spouse consent page and donor acknowledgment page signatures for the Silver Marmot Giving Fund charitable transfer packet.",
+      "priority": null,
+      "dueDate": "2025-07-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For missing charitable transfer signatures, the Silver Marmot Giving Fund charitable transfer packet in the planning file is otherwise complete, but the spouse consent page and one donor acknowledgment page were not signed in the returned copy. The agreed follow-up is to obtain the missing signature"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare donor-advised fund giving schedule",
+      "text": "Prepare a giving schedule that coordinates the donor-advised fund balance, possible appreciated securities gifts, anonymous grant preferences, and tax projection assumptions.",
+      "priority": null,
+      "dueDate": "2025-10-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the year-end charitable giving plan, Helena asked for a giving schedule that coordinates the donor-advised fund balance, possible appreciated securities gifts, anonymous grant preferences, and tax projection assumptions. The agreed follow-up is to prepare that giving schedule by 2025-10-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update advisory file with Gabriel's inheritance materials",
+      "text": "Update the advisory file with Gabriel Thimblefern's expected estate distribution materials, including estate account values, tax character, and beneficiary paperwork.",
+      "priority": null,
+      "dueDate": "2025-08-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For Gabriel’s inheritance intake, Gabriel’s expected estate distribution creates a new planning input, and Helena wants the advisory file updated once estate account values, tax character, and beneficiary paperwork are available. The agreed follow-up is to update the file with those inheritance mate"
+    },
+    {
+      "templateId": null,
+      "title": "Provide planning summary to Clockwork Clover Legal for Oren Dewspindle",
+      "text": "Provide a planning summary for Oren Dewspindle at Clockwork Clover Legal covering account titling, beneficiaries, charitable intent, and family caregiving concerns.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For estate document coordination, Helena requested a planning summary for Oren Dewspindle at Clockwork Clover Legal covering account titling, beneficiaries, charitable intent, and family caregiving concerns before the couple schedules an estate document refresh. The agreed follow-up is to provide th"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn beneficiary update status",
+      "text": "Resolve the beneficiary update status at Velvet Acorn Custody, checking whether the retirement account and taxable account updates were both accepted.",
+      "priority": null,
+      "dueDate": "2025-07-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the Velvet Acorn beneficiary update delay, Helena reported that a beneficiary update submitted through Velvet Acorn Custody still appears as pending, and the custodian’s portal does not show whether the retirement account and taxable account updates were both accepted. The agreed follow-up is to"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current mortgage statement for primary residence",
+      "text": "Obtain the current mortgage statement for the primary residence showing escrow, payment allocation, and payoff information.",
+      "priority": null,
+      "dueDate": "2025-07-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For mortgage documentation for the cash-flow review, the planning file lacks a current mortgage statement showing escrow, payment allocation, and payoff information for the primary residence, which Mira needs to refresh the retirement cash-flow model. The agreed follow-up is to obtain the current mo"
+    },
+    {
+      "templateId": null,
+      "title": "Review household insurance coverage",
+      "text": "Review the household's insurance coverage to assess alignment with mortgage balance, retirement timing, and Rowan's remaining education period.",
+      "priority": null,
+      "dueDate": "2025-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For insurance coverage review, the policy information reviewed for the household shows term coverage that may no longer align with the mortgage balance, retirement timing, and Rowan’s remaining education period. The agreed follow-up is to review the insurance coverage by 2025-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Develop plan for concentrated Moonbadger Instruments position",
+      "text": "Develop a plan for the concentrated Moonbadger Instruments position in Helena Thimblefern's taxable brokerage account.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the concentrated Moonbadger stock plan, the portfolio review showed that Moonbadger Instruments shares and vested RSU shares make up a larger taxable account position than Helena is comfortable carrying into the next planning year. The agreed follow-up is to develop a plan for the concentrated M"
+    }
+  ]
+}

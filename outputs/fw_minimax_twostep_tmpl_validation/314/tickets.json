@@ -1,0 +1,25 @@
+{
+  "meetingId": "314",
+  "tickets": [
+    {
+      "templateId": "a5a5fd32-0e81-5137-9be4-206c688fccbb",
+      "title": "Review Financial Plan Snapshot",
+      "text": "Refresh key assumptions, compare current projections to stated goals, note material changes in income, expenses, taxes, assets, liabilities, retirement timing, and education funding needs, then list planning decisions for advisor review for the Bramblequill household. Update for North Carolina residency after the move from Nashville, the $885,000 Asheville home with a $622,000 30-year fixed mortgage at 6.125% through Amber Teapot Mortgage, $13,200 expected monthly spending, $184,000 cash reserves at Teacup Comet Bank, and approximately $1.36 million across Velvet Acorn Custody accounts including Nora's IRA, Ellis's 401(k), and Lila's 529.",
+      "priority": "medium",
+      "dueDate": "2025-10-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to refresh the household plan for North Carolina residency, Asheville housing costs, revised commuting expenses, cash reserve targets, retirement savings, and Lila’s education funding assumptions by 2025-10-10."
+    },
+    {
+      "templateId": "d9b191a2-f79c-5e44-ab92-1a656d96a3be",
+      "title": "Conduct Benefits Enrollment Outreach",
+      "text": "Outreach purpose: benefits enrollment support for Ellis Bramblequill.\n\nMessage outline:\n1. Confirm the enrollment window or relative deadline: before 2025-09-30 election window closes.\n2. Request current benefits materials: benefits guide, rate sheet, and portal summary.\n3. Ask about expected changes: employment change to hybrid data operations role at Cloudberry Kite Analytics.\n4. Identify decisions to review: HSA, disability coverage, supplemental life insurance, and retirement contribution choices.\n5. If contacting a benefits professional, request clarification on: [PLAN RULES / EMPLOYER MATCH / COVERAGE EFFECTIVE DATE / ELIGIBILITY].\n6. Close with next step: [SCHEDULE REVIEW / UPLOAD DOCUMENTS / CONFIRM ELECTIONS].\n\nReusable note: Do not provide final election instructions until plan documents and client priorities have been reviewed. Ellis started a hybrid data operations role at Cloudberry Kite Analytics in Asheville with a $146,000 salary and employer benefits available; coordinate the review before the 2025-09-30 election window closes.",
+      "priority": "medium",
+      "dueDate": "2025-09-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review Ellis’s Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA, disability coverage, supplemental life insurance, and retirement contribution choices by 2025-09-30 before the election window closes."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+ "config": "fw_large_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"260\",\n\"tickets\": [\n{\n\"templateId\": \"32d114ba-8f40-54cb-953d-781d5ca26c93\",\n\"title\": \"Complete household profile update\",\n\"text\": \"Review and update the transfer instruction and profile change for Jared and Ava Wrenpuddle’s joint taxable brokerage account, confirming the correct Teacup Comet Bank link status and making any necessary adjustments.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2024-03-19\",\n\"assigneeId\": null,\n\"subTasks\": [\n{\n\"title\": \"Collect household changes\",\n\"text\": \"Request updates for household members, employment, dependents, contact information, outside advisors, and major life changes since the prior profile review.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": \"ef41105d-921f-5052-8549-4d1a0f81fa3f\"\n},\n{\n\"title\": \"Update planning assumptions\",\n\"text\": \"Record changes to income, savings, spending, insurance coverage, benefits, goals, and risk tolerance in the planning record.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": \"4cbe713b-b420-5401-9de5-20d1f947c70e\"\n},\n{\n\"title\": \"Advisor review of planning impacts\",\n\"text\": \"Review the updated household profile for retirement income, tax-aware investment, equity compensation, or estate coordination implications that warrant follow-up.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": \"368cf34f-7766-520c-b44f-afbfa66af4ab\"\n}\n],\n\"evidence\": \"associated transfer-instruction/profile-change review was agreed for 2024-03-19.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Reset credentials and strengthen MFA setup\",\n\"text\": \"Perform a clean credential reset for Jared and Ava Wrenpuddle, review the session for any unauthorized activity, and implement stronger multi-factor authentication on the Apricot Compass Wealth Advisory portal.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2739,
+    "output_tokens": 1916,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 12202
+   },
+   "stop": "stop"
+  }
+ ]
+}

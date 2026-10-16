@@ -1,0 +1,75 @@
+{
+  "meetingId": "587",
+  "tickets": [
+    {
+      "templateId": "08361f27-bfef-5da9-85f9-5136b2a38dcc",
+      "title": "Prepare liquidity planning analysis",
+      "text": "Review expected cash needs, emergency reserve targets, recurring income sources, upcoming distributions, and potential funding sources for Mira Thimblefern’s business sale proceeds. Summarize recommended cash cushion, any portfolio trades needed to raise cash, tax considerations, and questions for the lead advisor before client discussion. Show how much sale cash should remain available for taxes, household reserves, mortgage decisions, charitable gifts, and staged portfolio reinvestment.",
+      "priority": "medium",
+      "dueDate": "2025-09-05",
+      "assigneeId": "04250424-b280-5443-9318-1c2f184393c9",
+      "subTasks": [],
+      "evidence": "For the liquidity plan for business sale proceeds, Mira asked for an analysis showing how much sale cash should remain available for taxes, household reserves, mortgage decisions, charitable gifts, and staged portfolio reinvestment; the agreed follow-up is due September 5, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Collect closing documents for business sale",
+      "text": "Obtain the final closing statement, escrow schedule, and post-closing adjustment worksheet for Mira Thimblefern’s sale of an 80% membership interest in Paper Otter Packaging LLC to Copper Firefly Holdings. Add the missing documents to her planning file so net proceeds and escrow treatment can be verified.",
+      "priority": null,
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the final closing statement, escrow schedule, and post-closing adjustment worksheet were not yet in Mira’s planning file, and those documents are needed to verify net proceeds and escrow treatment by August 29, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Trace net proceeds variance",
+      "text": "Reconcile the broker’s proceeds memo with the $3.71 million incoming wire to Mira Thimblefern’s Teacup Comet Bank checking account. Trace the higher estimated net cash amount to fees, debt payoff, escrow, or a separate expected transfer.",
+      "priority": null,
+      "dueDate": "2025-08-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the broker’s proceeds memo showed a higher estimated net cash amount than the actual incoming bank wire, and the difference needs to be traced to fees, debt payoff, escrow, or a separate expected transfer by August 27, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estimated tax planning with CPA",
+      "text": "Coordinate with Tobin Mossbutton of Apricot Compass Tax to compare Mira Thimblefern’s sale proceeds, consulting income, withholding, and expected deductions before the next estimated tax planning decision.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira wants the advisory team and Tobin Mossbutton to compare sale proceeds, consulting income, withholding, and expected deductions before the next estimated tax planning decision; the agreed follow-up is due September 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Collect health coverage replacement details",
+      "text": "Obtain premium, deductible, and eligibility details for replacement health coverage for Mira Thimblefern after her former company coverage ends following the transition period. Provide the information needed before choosing an option.",
+      "priority": null,
+      "dueDate": "2025-09-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "premium, deductible, and eligibility details for replacement coverage are needed before choosing an option by September 20, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve bank transfer hold on sale proceeds",
+      "text": "Follow up with Teacup Comet Bank on the temporary outbound online transfer hold affecting Mira Thimblefern’s sale-proceeds checking account. Address the restriction preventing efficient movement of excess cash to custody or treasury vehicles.",
+      "priority": null,
+      "dueDate": "2025-08-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira reported that Teacup Comet Bank temporarily limited outbound online transfers from the account that received the sale wire, preventing efficient movement of excess cash to custody or treasury vehicles; the agreed follow-up is due August 25, 2025."
+    },
+    {
+      "templateId": "8f09a5a6-7496-50a3-906b-2e2d49077496",
+      "title": "Request estate document collection",
+      "text": "Ask Mira Thimblefern to provide current estate documents, including wills, trusts, powers of attorney, health care directives, and any recent amendment pages, so the advisory team can update planning records. Obtain current signed copies of any post-sale amendments or fiduciary updates to replace the operating business interest references in the estate file.",
+      "priority": "medium",
+      "dueDate": "2025-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the estate file on record still references the operating business interest and lacks current signed copies of any post-sale amendments or fiduciary updates; the agreed follow-up is due September 10, 2025."
+    }
+  ]
+}

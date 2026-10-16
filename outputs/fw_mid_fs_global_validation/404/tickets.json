@@ -1,0 +1,97 @@
+{
+  "meetingId": "404",
+  "tickets": [
+    {
+      "templateId": "432e4a09-cd76-510d-b173-4fe70356ef9a",
+      "title": "Recover Client Portal Access",
+      "text": "Restore secure portal access for Nadia Pebblefizz after multi-factor authentication failed on her replacement phone. Identity verification was completed on 2026-07-06.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena completed identity verification and restored secure portal access on 2026-07-06 after multi-factor authentication failed on Nadia’s replacement phone."
+    },
+    {
+      "templateId": "d7b4bdf3-ad00-5206-9988-f8090aa6f2cf",
+      "title": "Coordinate Divorce Planning Documents",
+      "text": "Coordinate with attorney Corin Nettlewhisk and CPA Jules Thimblefern after obtaining written authorization from Nadia Pebblefizz. Prepare a planning packet covering draft settlement terms, asset schedules, support estimates, retirement-account order questions, and current statements.",
+      "priority": "high",
+      "dueDate": "2026-07-17",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm document scope and permissions",
+          "text": "Identify which documents are needed, such as draft or final settlement terms, asset schedules, support obligations, retirement account orders, tax returns, and current statements. Confirm the client’s written permission before coordinating with an attorney, CPA, or mediator.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5"
+        },
+        {
+          "title": "Create secure collection folder",
+          "text": "Set up a secure upload location, list missing items, and label received documents by category. Do not request or store unnecessary sensitive documents beyond the planning scope.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb"
+        },
+        {
+          "title": "Prepare planning summary for advisor review",
+          "text": "Summarize available assets, liabilities, income obligations, beneficiary concerns, account titling issues, and open questions for the advisor. Flag any urgent implementation constraints without providing legal conclusions.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9268210f-ef66-5a4b-88ad-788a4cfe5d2d"
+        }
+      ],
+      "evidence": "They agreed by 2026-07-17 to coordinate with attorney Corin Nettlewhisk and CPA Jules Thimblefern after written authorization, with a planning packet covering draft settlement terms, asset schedules, support estimates, retirement-account order questions, and current statements."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain cash-flow and basis documents needed by 2026-07-15",
+      "text": "Obtain the most recent joint return, latest property tax bill, and current Teacup Comet Bank mortgage payoff for the cash-flow and basis review. Current brokerage statements and pay stubs are already in the secure folder.",
+      "priority": null,
+      "dueDate": "2026-07-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the most recent joint return, latest property tax bill, and current Teacup Comet Bank mortgage payoff are still needed by 2026-07-15"
+    },
+    {
+      "templateId": null,
+      "title": "Check IRA and employer plan beneficiary forms against Corin’s temporary restrictions",
+      "text": "Check Nadia Pebblefizz’s IRA record and employer plan screen against Corin Nettlewhisk’s temporary restrictions before any beneficiary change is submitted. Rowan is still listed on the IRA record and employer plan screen.",
+      "priority": null,
+      "dueDate": "2026-07-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira found Rowan still listed on Nadia’s IRA record and employer plan screen; the agreed follow-up by 2026-07-24 is to check forms against Corin’s temporary restrictions before any beneficiary change is submitted."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare refinance and support affordability model",
+      "text": "Prepare an illustrative refinance and support affordability model for Nadia Pebblefizz’s house-retention assumptions. Separate the model from legal advice and note it is for illustrative purposes only.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia’s house-retention assumptions were informational: she is evaluating refinance and support affordability, and Mira said the model will be illustrative and separate from legal advice."
+    },
+    {
+      "templateId": "5e79e466-5ab1-5dbb-b640-48dd21ca6ee1",
+      "title": "Collect Education Account Setup Details",
+      "text": "Collect education account setup details from Nadia Pebblefizz, including account type, owner, beneficiary, initial contribution, and funding source, once custody and contribution language is clearer. Nadia declined starting education-account paperwork until custody and contribution language is clearer.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia declined starting education-account paperwork until custody and contribution language is clearer."
+    },
+    {
+      "templateId": "ca0beb64-4823-5deb-8d28-1f7a5f7d128e",
+      "title": "Collect Client Tax Documents",
+      "text": "Request and organize current tax documents for Nadia Pebblefizz’s planning review, including prior-year federal and state returns, W-2s, 1099s, K-1s, estimated tax payment records, charitable giving summaries, and any tax notices. Track missing items and route complete packet to the planning team.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb",
+      "subTasks": [],
+      "evidence": "the most recent joint return, latest property tax bill, and current Teacup Comet Bank mortgage payoff are still needed by 2026-07-15"
+    }
+  ]
+}

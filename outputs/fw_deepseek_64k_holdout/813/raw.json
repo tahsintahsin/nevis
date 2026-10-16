@@ -1,0 +1,18 @@
+{
+ "config": "fw_deepseek_64k",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"813\", \"tickets\": [{\"templateId\": null, \"title\": \"Prepare side-by-side home-care funding projection\", \"text\": \"Prepare a side-by-side home-care funding projection for Lena Cloudpuddle and Arun Cloudpuddle comparing continued weekday home-care aides from Pocket Lantern Home Care, expanded evening coverage, and a limited assisted-living trial, using current aide invoices of about $3,400 per month, Lena's short-term disability income, Arun's $3,850 monthly pension and $2,420 monthly Social Security, and the Velvet Acorn Custody portfolio accounts.\", \"priority\": null, \"dueDate\": \"2024-06-07\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The committed follow-up is to prepare that projection for 2024-06-07.\"}, {\"templateId\": null, \"title\": \"Coordinate long-term care claim packet\", \"text\": \"Coordinate the financial portions of Lena Cloudpuddle's long-term care claim packet with Buttonwood Balloon Life and Pocket Lantern Home Care, supplying the care invoices, physician certification, and activities-of-daily-living statement required before benefits can be reviewed.\", \"priority\": null, \"dueDate\": \"2024-06-03\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The committed follow-up is that coordination for 2024-06-03.\"}, {\"templateId\": null, \"title\": \"Obtain Pocket Lantern Home Care records\", \"text\": \"Obtain the signed care plan, weekly caregiver schedule, and rate sheet showing weekday versus weekend charges from Pocket Lantern Home Care for Lena Cloudpuddle and Arun Cloudpuddle's planning file, to separate recurring care costs from one-time setup charges.\", \"priority\": null, \"dueDate\": \"2024-06-10\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The committed follow-up is to obtain those records for 2024-06-10.\"}, {\"templateId\": null, \"title\": \"Resolve long-term care benefit discrepancy\", \"text\": \"Resolve the mismatch between the $180 daily benefit shown in Buttonwood Balloon Life's insurer portal and the $210 daily benefit on Lena Cloudpuddle's policy declaration page before claim assumptions can be modeled.\", \"priority\": null, \"dueDate\": \"2024-06-04\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The committed follow-up is to resolve the mismatch for 2024-06-04.\"}, {\"templateId\": null, \"title\": \"Address Pocket Lantern Home Care invoice delivery\", \"text\": \"Address the delivery of Pocket Lantern Home Care invoices, which currently go only to Lena Cloudpuddle's personal email and delay reimbursement tracking, so Arun Cloudpuddle and Priya Cloudpuddle can confirm billed hours against the caregiver calendar.\", \"priority\": null, \"dueDate\": \"2024-05-31\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The committed follow-up is to address invoice delivery for 2024-05-31.\"}, {\"templateId\": null, \"title\": \"Develop backup caregiver coverage schedule\", \"text\": \"Develop a temporary caregiver coverage schedule and estimated short-term cost range for Lena Cloudpuddle and Arun Cloudpuddle before Arun's knee rehabilitation begins, since it will reduce his ability to drive Lena and cover transfers at home.\", \"priority\": null, \"dueDate\": \"2024-06-12\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The committed follow-up is to develop that schedule and cost range for 2024-06-12.\"}]}",
+   "usage": {
+    "input_tokens": 5990,
+    "output_tokens": 3532,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

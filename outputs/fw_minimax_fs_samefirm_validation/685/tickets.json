@@ -1,0 +1,65 @@
+{
+  "meetingId": "685",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare In-Home Care Options and Out-of-Pocket Costs",
+      "text": "Prepare a side-by-side comparison of in-home aide coverage, adult day programming, short respite stays, transportation, and likely out-of-pocket costs for Harold and Lena Velvetreed under several weekly care-hour levels. Use the neurologist's recommendation of 20 to 24 hours per week of in-home aide support and twice-weekly physical therapy as the near-term baseline.",
+      "priority": null,
+      "dueDate": "2026-01-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Harold asked for a side-by-side view of in-home aide coverage, adult day programming, short respite stays, transportation, and likely out-of-pocket costs under several weekly care-hour levels; the agreed follow-up is to prepare that comparison by 2026-01-20."
+    },
+    {
+      "templateId": null,
+      "title": "Build Family Caregiver Coverage Map",
+      "text": "Build a family caregiver coverage map for Harold and Lena Velvetreed that reflects Sofia Copperwisp's weekend availability (about one weekend per month overnight), Martin Velvetreed's remote medication refill role, Harold's fatigue, and gaps during weekday evenings. Use the map to identify where additional in-home aide hours are needed.",
+      "priority": null,
+      "dueDate": "2026-01-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to build a family caregiver coverage map by 2026-01-16."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Silver Marmot Insurance Claim Intake Packet",
+      "text": "Prepare an organized intake packet for the Silver Marmot Insurance claim-intake appointment covering physician orders, care notes, aide agency estimates, invoices, and policy questions for Harold and Lena Velvetreed's long-term care claims. Include the 90-day elimination period and the daily benefit maximums ($220 for Harold, $180 for Lena).",
+      "priority": null,
+      "dueDate": "2026-01-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the intake packet by 2026-01-12."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Aide Shift Minimums in Cost Estimates",
+      "text": "Reconcile the inconsistent aide shift minimums in the projected weekly care cost for Lena Velvetreed: one agency quote described a four-hour minimum for daytime shifts while Sofia Copperwisp's call notes showed three-hour visits. Update the cost estimates so the assumptions are consistent across care alternatives.",
+      "priority": null,
+      "dueDate": "2026-01-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to resolve the aide shift minimums in the cost estimates by 2026-01-13."
+    },
+    {
+      "templateId": null,
+      "title": "Correct Secure Upload Access for Lena's Portal",
+      "text": "Correct the secure upload access issue for Lena Velvetreed's portal, which opened under Harold's login and prevented a separate upload stream for care records, health forms, and aide invoices tied to Lena's claim file. Establish a separate upload stream for Lena's records.",
+      "priority": null,
+      "dueDate": "2026-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to correct secure upload access by 2026-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Address LTC Policy Benefit Inflation Assumptions",
+      "text": "Address the differing inflation rider language in Harold and Lena Velvetreed's two Silver Marmot Insurance long-term care policies so the daily benefit maximums ($220 for Harold, $180 for Lena) are shown correctly in the care-cost projections. Update the projections to reflect each policy's inflation assumptions.",
+      "priority": null,
+      "dueDate": "2026-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address the policy benefit inflation assumptions by 2026-01-23."
+    }
+  ]
+}

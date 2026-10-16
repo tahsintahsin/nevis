@@ -1,0 +1,75 @@
+{
+  "meetingId": "984",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare owner draw and tax set-aside worksheet",
+      "text": "Prepare a planning worksheet for Darian Nettlewhisk that separates household draws, tax set-asides, and business operating reserves for Copper Firefly Studio LLC, given that retainer income ($9,000/month through year-end) and workshop deposits ($18,000 across the next three sessions) will not arrive evenly.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to provide that worksheet by 2024-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Set up bookkeeping schedule and CPA coordination",
+      "text": "Prepare a chart of accounts, recurring bookkeeping schedule, and coordination format for Linnea Thimblefern of Paper Otter Tax to review Copper Firefly Studio LLC's estimated tax cash needs, addressing the launch of the LLC.",
+      "priority": null,
+      "dueDate": "2024-10-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those bookkeeping and coordination items by 2024-10-30."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Copper Firefly Studio LLC entity documents",
+      "text": "Obtain the LLC articles, EIN confirmation, operating agreement, and first business bank statement for Copper Firefly Studio LLC so the business balance sheet can be verified.",
+      "priority": null,
+      "dueDate": "2024-10-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to obtain those documents by 2024-10-18."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Copper Firefly Studio LLC payment route",
+      "text": "Coordinate with Teacup Comet Bank to establish a reliable payment route for Copper Firefly Studio LLC's recurring software and contractor invoices after the new-account transfer limit blocked an initial vendor payment.",
+      "priority": null,
+      "dueDate": "2024-10-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the payment route by 2024-10-16."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Mossy Meteor Payments workshop deposits",
+      "text": "Reconcile the two Mossy Meteor Payments workshop deposits recorded in the invoice log against the business checking activity at Teacup Comet Bank, where only one matching deposit appears, to determine whether the missing deposit went to Darian Nettlewhisk's personal account.",
+      "priority": null,
+      "dueDate": "2024-10-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to reconcile the workshop deposits by 2024-10-22."
+    },
+    {
+      "templateId": null,
+      "title": "Compare self-employed retirement plan options",
+      "text": "Prepare a comparison of retirement plan structures that could fit Copper Firefly Studio LLC alongside Liora Nettlewhisk's ongoing salary deferrals and the household cash reserve target, ahead of Darian Nettlewhisk's planned planning review with Paper Otter Tax.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2024-11-15."
+    },
+    {
+      "templateId": null,
+      "title": "Address business liability and disability coverage gaps",
+      "text": "Address the lack of a professional liability policy for Copper Firefly Studio LLC and the loss of Darian Nettlewhisk's employer-tied disability coverage, including coordinating with Silver Marmot Insurance or other carriers as needed.",
+      "priority": null,
+      "dueDate": "2024-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those coverage items by 2024-11-01."
+    }
+  ]
+}

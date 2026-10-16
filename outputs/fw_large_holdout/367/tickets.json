@@ -1,0 +1,175 @@
+{
+  "meetingId": "367",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare down-payment liquidity funding order",
+      "text": "Prepare a funding order for the down‑payment showing cash available from Nolan Pebblefizz’s checking, high‑yield savings, money‑market, and Treasury bill accounts, while preserving the $65,000 reserve floor.",
+      "priority": null,
+      "dueDate": "2025-06-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that funding order by June 24, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble mortgage asset verification package",
+      "text": "Assemble the mortgage asset verification package for Nolan Pebblefizz, including proof of funds for the taxable account and both Teacup Comet Bank deposit accounts.",
+      "priority": null,
+      "dueDate": "2025-06-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to assemble the mortgage asset verification package by June 25, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Lena’s income documentation",
+      "text": "Obtain Lena Pebblefizz’s most recent school‑year paystub and employment contract page for the mortgage file.",
+      "priority": null,
+      "dueDate": "2025-06-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena’s income documentation remains needed by June 23, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve credit report liability discrepancy",
+      "text": "Resolve the discrepancy in the credit report liability for Lena’s student loan to correct the debt‑to‑income worksheet for Nolan Pebblefizz.",
+      "priority": null,
+      "dueDate": "2025-06-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Resolution of the credit report liability difference remains needed by June 26, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Complete lender portal upload process",
+      "text": "Complete the lender portal upload by creating a combined statement file that the Teacup Comet Bank portal will accept for Nolan Pebblefizz’s mortgage application.",
+      "priority": null,
+      "dueDate": "2025-06-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A way to complete the lender portal upload remains needed by June 23, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Provide deposit explanations for underwriting",
+      "text": "Provide explanations for the recent non‑payroll deposits in Nolan Pebblefizz’s Teacup Comet Bank account for underwriting review.",
+      "priority": null,
+      "dueDate": "2025-06-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Deposit explanations for underwriting remain needed by June 25, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Document potential family contribution treatment",
+      "text": "Document the treatment of any potential family contribution toward purchase‑adjacent costs for Nolan Pebblefizz’s mortgage file.",
+      "priority": null,
+      "dueDate": "2025-06-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Documentation treatment for any potential family contribution remains needed by June 24, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Gather homeowner’s insurance binder details",
+      "text": "Gather the final homeowner’s insurance binder details, including dwelling coverage, deductible, and premium timing, for Nolan Pebblefizz’s closing package.",
+      "priority": null,
+      "dueDate": "2025-07-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Homeowner’s insurance binder details remain needed by July 1, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare fixed-rate vs adjustable-rate comparison",
+      "text": "Prepare a side‑by‑side comparison of the fixed‑rate loan estimate and the adjustable‑rate alternative for Nolan Pebblefizz, highlighting payment stress points.",
+      "priority": null,
+      "dueDate": "2025-06-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the fixed-rate and adjustable-rate mortgage comparison by June 27, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare property tax and escrow budget update",
+      "text": "Prepare an updated budget for Nolan Pebblefizz that separates principal, interest, property taxes, homeowner’s insurance, utilities, and moving‑period overlap.",
+      "priority": null,
+      "dueDate": "2025-06-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that property tax, insurance, and escrow budget update by June 27, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Address closing-wire logistics and limits",
+      "text": "Address the closing‑wire logistics and Teacup Comet Bank transfer limits to ensure same‑day certified funds for Nolan Pebblefizz’s settlement.",
+      "priority": null,
+      "dueDate": "2025-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address closing-wire logistics and transfer limits by July 3, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare rent overlap and move-in expense plan",
+      "text": "Prepare a plan for Nolan Pebblefizz that coordinates rent overlap, moving expenses, and furniture purchases during the home purchase transition.",
+      "priority": null,
+      "dueDate": "2025-06-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a rent overlap and move-in expense plan by June 30, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Address tax impact of taxable sales",
+      "text": "Address the tax impact of selling appreciated holdings in Nolan Pebblefizz’s taxable investment account to fund the down‑payment.",
+      "priority": null,
+      "dueDate": "2025-06-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the tax impact of selling appreciated taxable holdings by June 25, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Compare short-term liquidity alternatives",
+      "text": "Compare short‑term liquidity alternatives to taxable sales for Nolan Pebblefizz, including Treasury maturities and bridge sources.",
+      "priority": null,
+      "dueDate": "2025-06-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare short-term liquidity alternatives to taxable sales by June 26, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate title vesting and estate review",
+      "text": "Coordinate the title vesting choice and review estate documents with Mossy Meteor Law for Nolan Pebblefizz’s new home ownership.",
+      "priority": null,
+      "dueDate": "2025-06-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate the title vesting and estate document review by June 30, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Reset post-closing reserve and cash-flow view",
+      "text": "Reset the post‑closing cash reserve target and monthly cash‑flow view for Nolan Pebblefizz after the home purchase.",
+      "priority": null,
+      "dueDate": "2025-07-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to reset the post-closing reserve and monthly cash-flow view by July 2, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Update financial plan baseline for purchase",
+      "text": "Update the financial plan baseline for Nolan Pebblefizz using the accepted purchase price, loan amount, escrow costs, and preferred cash reserve.",
+      "priority": null,
+      "dueDate": "2025-07-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the financial plan baseline for the accepted purchase by July 8, 2025."
+    }
+  ]
+}

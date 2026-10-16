@@ -1,0 +1,25 @@
+{
+  "meetingId": "523",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Raise Velvet Acorn Custody monthly checking transfer",
+      "text": "Raise Liora Pebblefizz’s monthly checking transfer from Velvet Acorn Custody to $3,500–$4,200 for the next cycle.",
+      "priority": null,
+      "dueDate": "2024-07-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-07-24 to raise Velvet Acorn Custody monthly checking transfer $3,500-to-$4,200 next cycle."
+    },
+    {
+      "templateId": null,
+      "title": "File utilities and home-maintenance costs",
+      "text": "File Liora Pebblefizz’s utilities and home-maintenance costs of about $4,200 against the $3,500 monthly checking transfer.",
+      "priority": null,
+      "dueDate": "2024-07-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2024-07-26, support is needed: file $3,500 versus Liora’s about-$4,200 utilities/home-maintenance."
+    }
+  ]
+}

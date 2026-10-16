@@ -1,0 +1,45 @@
+{
+  "meetingId": "569",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Send estate planning summary to attorney",
+      "text": "Send a planning summary to estate attorney Priya Thimblefern at Silver Marmot Law addressing the outdated successor trustee sequence, the children’s current roles, and Helena Cloudpuddle’s wish to avoid naming a corporate trustee unless family members cannot serve.",
+      "priority": null,
+      "dueDate": "2025-07-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-07-11 a planning summary will be sent to estate attorney Priya Thimblefern at Silver Marmot Law addressing the outdated successor trustee sequence, the children’s current roles, and Helena’s wish to avoid naming a corporate trustee unless family members cannot serve."
+    },
+    {
+      "templateId": null,
+      "title": "Compare rollover IRA beneficiary records with the estate plan",
+      "text": "Compare the rollover IRA custodian records, which list Rowan Cloudpuddle as primary beneficiary and Linus and Arden Cloudpuddle equally as contingent beneficiaries, with the estate plan. Address the older trust schedule’s reference to an equal split with Maribel’s family branch.",
+      "priority": null,
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-07-18, they agreed to compare rollover IRA custodian records, which list Rowan as primary beneficiary and Linus and Arden equally as contingent beneficiaries, against the estate plan because the older trust schedule still references an equal split with Maribel’s family branch."
+    },
+    {
+      "templateId": null,
+      "title": "Locate the original trust binder",
+      "text": "Helena Cloudpuddle will look for the original trust binder and send scans if found. The vault copy lacks the signature page, Schedule A, and written trustee acceptance or resignation provisions.",
+      "priority": null,
+      "dueDate": "2025-07-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-07-09, Helena agreed to look for the original trust binder and send scans if found because the vault copy lacks the signature page, Schedule A, and written trustee acceptance or resignation provisions."
+    },
+    {
+      "templateId": null,
+      "title": "Model trustee and executor alternatives",
+      "text": "Model trustee and executor alternatives for attorney discussion because Linus Cloudpuddle has moved overseas for a multi-year teaching appointment and may not be practical as first successor trustee. Evaluate whether Arden Cloudpuddle or Rowan’s brother Felix Cloudpuddle is a more workable backup.",
+      "priority": null,
+      "dueDate": "2025-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-07-25, they agreed to model trustee and executor alternatives for attorney discussion because Linus has moved overseas for a multi-year teaching appointment and may not be practical as first successor trustee, including whether Arden or Rowan’s brother Felix Cloudpuddle is a more workable ba"
+    }
+  ]
+}

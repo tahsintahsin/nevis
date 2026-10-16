@@ -1,0 +1,155 @@
+{
+  "meetingId": "848",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare adjustable-rate mortgage refinance analysis",
+      "text": "Prepare a side-by-side refinance analysis for Dorian and Lena Pebblefizz’s first mortgage with Teacup Comet Bank versus accepting the May 2024 rate reset. Use the current loan balance of $512,400, the estimated reset payment increase of about $1,080 per month, the closing-cost estimate, and the household’s monthly cash-flow gap.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian asked for a side-by-side review of refinancing the first mortgage versus accepting the reset, using the current loan balance, estimated reset payment, closing-cost estimate, and the household’s monthly cash-flow gap. The agreed follow-up is to prepare that adjustable-rate mortgage refinance a"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain mortgage reset notice and loan documents",
+      "text": "Obtain the mortgage reset notice, January 2024 loan statement, and original adjustable-rate note for Dorian and Lena Pebblefizz’s Teacup Comet Bank first mortgage. Use these documents to verify the rate cap language, index, margin, escrow amount, and timing before the refinance analysis is finalized.",
+      "priority": null,
+      "dueDate": "2024-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The mortgage reset notice, the current loan statement, and the original adjustable-rate note are needed to verify the rate cap language, index, margin, escrow amount, and timing before the refinance analysis is finalized. The agreed follow-up is to obtain those reset notice and loan documents by Feb"
+    },
+    {
+      "templateId": null,
+      "title": "Compare mortgage modification quote with outside refinance estimates",
+      "text": "Compare Dorian and Lena Pebblefizz’s Teacup Comet Bank modification quote with at least two outside refinance estimates. Compare payment, points, estimated cash to close, and treatment of escrow.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian requested a comparison of the Teacup Comet Bank modification quote with at least two outside refinance estimates, including payment, points, estimated cash to close, and treatment of escrow. The agreed follow-up is to complete the lender quote comparison by March 1, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare information request for missing mortgage modification estimate",
+      "text": "Prepare a concise information request for Teacup Comet Bank’s servicer for the promised written modification estimate. The bank transferred Dorian between departments twice and did not send the estimate.",
+      "priority": null,
+      "dueDate": "2024-02-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian reported that Teacup Comet Bank transferred him between departments twice and did not send the promised written modification estimate, so the agreed follow-up is to prepare a concise information request for the servicer by February 19, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile mortgage escrow discrepancy",
+      "text": "Reconcile the different escrow amounts shown in the mortgage reset notice and online portal for Dorian and Lena Pebblefizz’s Teacup Comet Bank first mortgage. Resolve the discrepancy before relying on the projected post-reset payment.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The reset notice and the online mortgage portal show different escrow amounts, creating a payment difference that must be reconciled before relying on the projected post-reset payment; the agreed follow-up is to complete the mortgage escrow discrepancy check by February 23, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Verify recent income and pay statements",
+      "text": "Verify Dorian’s most recent Moonbadger Systems pay statement and Lena’s Paper Otter Health Cooperative pay statement for the refinance package. Confirm current proof of income, including the impact of Lena’s four-day workweek.",
+      "priority": null,
+      "dueDate": "2024-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian and Lena keep their primary checking account at Teacup Comet Bank, and the checking account balance was $8,700 on February 10, 2024. They maintain a high-yield savings account at Velvet Acorn Custody, with a balance of $31,600 on February 10, 2024. Dorian said he views $30,000 as the minimum "
+    },
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update Dorian and Lena Pebblefizz’s household profile with current employment, income, dependent, and family support details. Reflect Lena’s four-day workweek starting in January 2024 and its impact on recurring income and refinancing documentation.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena’s move to a four-day workweek changed recurring income and refinancing documentation, so the agreed follow-up is to refresh the household profile with current employment, income, dependent, and family support details by February 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare home equity line of credit options",
+      "text": "Compare keeping Dorian and Lena Pebblefizz’s Teacup Comet Bank home equity line of credit separate, rolling it into a refinance, or using a scheduled principal repayment plan. Consider the line’s variable 8.9% rate, interest-only payments of about $555 per month, and the November 2025 draw-period end.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the home equity line has a high variable rate and an interest-only structure, the agreed follow-up is to compare keeping it separate, rolling it into a refinance, or using a scheduled principal repayment plan by February 28, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare credit card payoff sequence",
+      "text": "Prepare a payoff order for Dorian and Lena Pebblefizz’s three credit cards showing interest cost, minimum-payment requirements, and the effect of applying reduced travel and dining spending of about $900 per month to the highest-rate card first. The largest balance is $12,900 on the Teacup Comet Bank rewards card at 23.4%.",
+      "priority": null,
+      "dueDate": "2024-02-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian asked for a payoff order for the three credit cards that shows interest cost, minimum-payment requirements, and the effect of applying reduced travel and dining spending to the highest-rate card first. The agreed follow-up is to prepare the credit card payoff sequence by February 22, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile credit report balance discrepancy",
+      "text": "Reconcile the approximately $2,100 higher credit card balance on the lender’s credit report with the current online balance. Use updated statements to verify the refinance debt-to-income inputs.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian also said one credit card balance on the lender’s credit report is about $2,100 higher than the current online balance, so the refinance debt-to-income inputs will be checked against updated statements. The agreed follow-up is to complete that credit report balance reconciliation by February "
+    },
+    {
+      "templateId": null,
+      "title": "Prepare temporary cash-flow triage budget",
+      "text": "Prepare a temporary cash-flow triage budget for Dorian and Lena Pebblefizz addressing recurring spending exceeding regular net pay. Identify spending reductions, debt-payment targets, and a minimum cash reserve guardrail. Incorporate Dorian’s $30,000 minimum cash level and the possible reduction of discretionary travel and dining spending by about $900 per month.",
+      "priority": null,
+      "dueDate": "2024-02-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The household’s recurring spending has exceeded regular net pay in recent months, based on average net pay deposits of about $13,900 outside bonus months, recurring household spending averaging about $15,150 per month over the past six months, and savings used to cover shortfalls in four of those si"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare bonus and restricted stock unit allocation plan",
+      "text": "Prepare a written allocation framework for Dorian’s next Moonbadger Systems bonus and restricted stock unit vesting. Balance tax withholding, credit card payoff, cash reserve protection, and possible refinance closing costs.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian requested a written allocation framework for the next bonus and restricted stock unit vesting that balances tax withholding, credit card payoff, cash reserve protection, and possible refinance closing costs. The agreed follow-up is to prepare the bonus and restricted stock unit allocation pla"
+    },
+    {
+      "templateId": null,
+      "title": "Model equity income for estimated tax or withholding adjustments",
+      "text": "Model Dorian’s upcoming Moonbadger Systems restricted stock unit income for possible estimated tax or withholding adjustments. Address his concern that restricted stock unit withholding may be below the household’s marginal tax rate.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian reported concern that restricted stock unit withholding may be below the household’s marginal tax rate, and he expects restricted stock unit withholding to cover less tax than that rate. The agreed follow-up is to model the upcoming equity income for possible estimated tax or withholding adju"
+    },
+    {
+      "templateId": null,
+      "title": "Review homeowners insurance premium pressure",
+      "text": "Review Dorian and Lena Pebblefizz’s Amber Teapot Mutual homeowners coverage pages, deductible options, and the escrow projection. Assess the impact of the annual premium increase from $2,480 to $3,190 alongside the changing mortgage escrow payment.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The homeowners insurance renewal premium increased from $2,480 to $3,190 annually. The homeowners insurance renewal increased materially while the mortgage escrow payment is also changing, so Dorian requested a review of coverage pages, deductible options, and whether the escrow projection reflects "
+    },
+    {
+      "templateId": null,
+      "title": "Check estate document relevance",
+      "text": "Review beneficiary designations and estate-document topics for Dorian and Lena Pebblefizz to raise with an attorney. Consider the 2016 wills naming Marcus Pebblefizz as successor guardian, the absence of Alina Pebblefizz, and the existing wills’ lack of support for Alina in the context of the current debt situation.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian and Lena signed wills in 2016. The 2016 wills name Dorian’s brother, Marcus Pebblefizz, as successor guardian for the children, and the 2016 wills do not mention Dorian’s mother, Alina Pebblefizz. The existing wills predate the current debt situation and do not mention support for Alina, so D"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# MiniMax M3 (428B MoE), reasoning LOW (default answers 'no tickets' on long meetings). Hold-out 0.897.
+# Settings exactly as run on validation and hold-out (see FRONTIER.md).
+provider: fireworks
+model: accounts/fireworks/models/minimax-m3
+deployment: serverless
+prompt: main
+pipeline: single
+few_shot: none
+structured_output: json_schema
+temperature: 0.0
+max_tokens: 32000
+concurrency: 8
+extra_body: {reasoning_effort: low}
+notes: "MiniMax M3 (428B MoE), reasoning LOW (default answers 'no tickets' on long meetings). Hold-out 0.897."

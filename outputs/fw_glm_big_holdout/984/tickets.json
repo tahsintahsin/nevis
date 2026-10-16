@@ -1,0 +1,75 @@
+{
+  "meetingId": "984",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare owner draw and tax set-aside worksheet",
+      "text": "Provide Darian Nettlewhisk a planning worksheet that separates household draws, tax set-asides, and business operating reserves for Copper Firefly Studio LLC, because retainer income and workshop payments will not arrive evenly. Reference the $9,000 per month retainers and $18,000 of workshop deposits.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Darian asked for a planning worksheet that separates household draws, tax set-asides, and business operating reserves because retainer income and workshop payments will not arrive evenly. The agreed follow-up is to provide that worksheet by 2024-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Set up bookkeeping and CPA coordination items",
+      "text": "Address the bookkeeping and coordination items for Copper Firefly Studio LLC: a chart of accounts, a recurring bookkeeping schedule, and a coordination format for Linnea Thimblefern of Paper Otter Tax to review estimated tax cash needs.",
+      "priority": null,
+      "dueDate": "2024-10-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those bookkeeping and coordination items by 2024-10-30."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain LLC entity and account documents",
+      "text": "Obtain for the advisory file the Copper Firefly Studio LLC articles, EIN confirmation, operating agreement, and first business bank statement from Teacup Comet Bank, so the business balance sheet can be verified.",
+      "priority": null,
+      "dueDate": "2024-10-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to obtain those documents by 2024-10-18."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve business payment route at Teacup Comet Bank",
+      "text": "Address a reliable payment route for Copper Firefly Studio LLC's recurring software and contractor invoices after Teacup Comet Bank blocked an initial vendor payment from the business checking account under a new-account transfer limit.",
+      "priority": null,
+      "dueDate": "2024-10-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the payment route by 2024-10-16."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile workshop deposits with Mossy Meteor Payments",
+      "text": "Reconcile the two Mossy Meteor Payments workshop deposits shown in the invoice log against the single matching deposit in the Copper Firefly Studio LLC business checking activity at Teacup Comet Bank; the missing deposit may have gone to Darian Nettlewhisk's personal account.",
+      "priority": null,
+      "dueDate": "2024-10-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved need is to reconcile the workshop deposits by 2024-10-22."
+    },
+    {
+      "templateId": null,
+      "title": "Compare self-employed retirement plan options",
+      "text": "Prepare a comparison of retirement plan structures that could fit Copper Firefly Studio LLC alongside Liora Nettlewhisk's ongoing salary deferrals and the household cash reserve target, for Darian Nettlewhisk's planned planning review with Paper Otter Tax.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2024-11-15."
+    },
+    {
+      "templateId": null,
+      "title": "Address business liability and disability coverage",
+      "text": "Address coverage items for Darian Nettlewhisk: obtaining a professional liability policy for Copper Firefly Studio LLC, which has none on file, and replacing disability coverage that was tied to his prior employer benefits at Pocket Lantern Analytics.",
+      "priority": null,
+      "dueDate": "2024-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those coverage items by 2024-11-01."
+    }
+  ]
+}

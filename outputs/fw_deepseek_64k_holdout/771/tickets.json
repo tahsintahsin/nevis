@@ -1,0 +1,35 @@
+{
+  "meetingId": "771",
+  "tickets": [
+    {
+      "templateId": "7e079875-a636-5be9-84a0-36c6f079b4eb",
+      "title": "Open new client account",
+      "text": "Open the approved new account using the selected custodian workflow. Confirm account type, registration, ownership details, funding source, beneficiary or authorized party requirements when applicable, advisory fee setup, document status, and delivery preferences before submitting the application package. Open the joint taxable account for Lila Copperwisp and Rowan Thistlefable at Velvet Acorn Custody, initially funded from Teacup Comet Bank savings, with online access and electronic statements for both spouses.",
+      "priority": "high",
+      "dueDate": "2024-10-18",
+      "assigneeId": "5c5439fe-19f1-52ba-8646-5d8a3755e27e",
+      "subTasks": [],
+      "evidence": "They agreed to open a joint taxable account at the existing custodian, initially funded from Teacup Comet Bank savings, with online access and electronic statements for both spouses, due 2024-10-18."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare retirement beneficiary forms",
+      "text": "Prepare retirement beneficiary forms for Lila Copperwisp naming Rowan Thistlefable as primary and Camila Copperwisp as contingent where allowed, covering the Velvet Acorn Custody IRA and 401(k) accounts.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare retirement beneficiary forms naming Rowan primary and Camila Copperwisp contingent where allowed, due 2024-10-25."
+    },
+    {
+      "templateId": null,
+      "title": "Collect certified marriage certificate",
+      "text": "Collect the certified marriage certificate for Lila Copperwisp and Rowan Thistlefable because custodian and bank records still show Lila's prior household status.",
+      "priority": null,
+      "dueDate": "2024-10-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to collect the certified marriage certificate because custodian and bank records still show Lila’s prior household status, due 2024-10-14."
+    }
+  ]
+}

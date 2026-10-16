@@ -1,0 +1,23 @@
+{
+ "config": "fw_mid_fs_global_k4",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657",
+  "60",
+  "329"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"260\", \"tickets\": [{\"title\": \"Reset credentials and strengthen MFA for Jared Wrenpuddle's portal access\", \"text\": \"Reset Jared Wrenpuddle's portal credentials after an uninitiated password-reset email caused repeated lockouts. Review active sessions and set up stronger MFA to secure account access.\", \"priority\": null, \"dueDate\": \"2024-03-18\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Jared reported repeated lockouts after an uninitiated password-reset email; approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18.\"}, {\"title\": \"Review and update account transfer instructions and profile changes\", \"text\": \"Review the pending Teacup Comet Bank link on Jared Wrenpuddle's account and confirm the household has no such link. Update the account profile and transfer instructions accordingly.\", \"priority\": null, \"dueDate\": \"2024-03-19\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Account activity showed a pending Teacup Comet Bank link; Jared said the household had none there, and associated transfer-instruction/profile-change review was agreed for 2024-03-19.\"}]}",
+   "usage": {
+    "input_tokens": 1,
+    "output_tokens": 316,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 28113
+   },
+   "stop": "stop"
+  }
+ ]
+}

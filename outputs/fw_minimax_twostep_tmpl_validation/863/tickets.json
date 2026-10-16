@@ -1,0 +1,55 @@
+{
+  "meetingId": "863",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare first-year college funding sources for Nia Dewspindle",
+      "text": "Prepare a comparison of funding sources to cover Nia Dewspindle's first-year college funding gap at Marzipan Meadow University, including Nia's 529 balance (about $74,600), the joint taxable brokerage at Velvet Acorn Custody (about $412,000), expected bonus cash from Liora's 22% target bonus on her $185,000 base salary at Cloudberry Kite Robotics, and a limited sale of Cloudberry Kite Robotics shares (about $118,000 position, about $42,000 cost basis). Preserve the $80,000 cash reserve floor at Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2026-03-20 a comparison will be prepared of using Nia’s 529 balance, taxable brokerage assets, expected bonus cash, and a limited sale of Cloudberry Kite Robotics shares to cover the first-year college funding gap while preserving Liora’s stated cash reserve floor."
+    },
+    {
+      "templateId": null,
+      "title": "Select Marzipan Meadow University tuition payment method",
+      "text": "Help Liora and Dorian Dewspindle select the Marzipan Meadow University tuition payment method (semester lump-sum or monthly payment plan) so the first bill can be processed before the 2026-04-15 deadline.",
+      "priority": null,
+      "dueDate": "2026-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A tuition payment method selection is needed by 2026-04-15 because the Marzipan Meadow University portal offers a semester lump-sum payment or monthly payment plan, and the family has not chosen the method needed before the first bill can be processed."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current 529 statements for Nia, Owen, and grandparent account",
+      "text": "Obtain current statements for Nia Dewspindle's 529 account, Owen Dewspindle's 529 account, and the grandparent-owned education account Dorian Dewspindle mentioned, so account ownership, balances, and available distribution options can be confirmed for the planning file.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Current statements for Nia’s 529 account, Owen’s 529 account, and a grandparent-owned education account Dorian mentioned are needed by 2026-03-18 because the planning file lacks them and account ownership, balances, and available distribution options cannot be confirmed."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Nia Dewspindle 529 balance discrepancy",
+      "text": "Reconcile the discrepancy in Nia Dewspindle's 529 balance, where Liora's tuition spreadsheet lists about $82,000 while the portal statement shows about $74,600 after a prior distribution, and identify the source of the difference.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to reconcile the 529 balance by 2026-03-18 because Liora’s tuition spreadsheet lists Nia’s 529 balance at about $82,000, while the portal statement shows about $74,600 after a prior distribution, and the source of the difference was not identified during the call."
+    },
+    {
+      "templateId": null,
+      "title": "Review Dewspindle college cost worksheet categories",
+      "text": "Review the Dewspindle college cost worksheet to separate scholarship aid, required technology costs, housing charges, and tuition so amounts can be matched to education account distributions and tax records.",
+      "priority": null,
+      "dueDate": "2026-03-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed that by 2026-03-24 the college cost worksheet will be reviewed because Elena’s review found scholarship aid, required technology costs, housing charges, and tuition grouped together, making it unclear which amounts should be matched to education account distributions and which recor"
+    }
+  ]
+}

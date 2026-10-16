@@ -1,0 +1,25 @@
+{
+  "meetingId": "134",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Restore failed-reset access and activate app-MFA",
+      "text": "Restore failed-reset access and activate app-MFA for Adrian Lanternmoss's Apricot Compass Advisory and Velvet Acorn Custody logins using the error screenshot and correct primary email address.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed: by 2024-11-08, restore failed-reset access and activate app-MFA for Apricot/Velvet logins, using error-screenshot/correct-primary email"
+    },
+    {
+      "templateId": null,
+      "title": "Verify Moonbadger Credit Union ACH links and restrict movement",
+      "text": "Verify unfamiliar Moonbadger Credit Union ACH micro-deposits and external links for Adrian Lanternmoss, restrict new-money movement, and confirm withdrawal settings.",
+      "priority": null,
+      "dueDate": "2024-11-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2024-11-07, verify unfamiliar Moonbadger Credit Union ACH micro-deposits/external links, restrict new-money movement, confirm withdrawal settings"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_minimax",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"793\", \"tickets\": [{\"title\": \"Prepare destination note for sale proceeds\", \"text\": \"Prepare a concise destination note for Raina Bramblequill covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions related to the Cloudberry Kite Design Studio sale to Silver Marmot Holdings. Reference the $2,765,000 Teacup Comet Bank deposit, the $1.74 million Velvet Acorn Custody balance ($1.08 million taxable and $660,000 traditional IRA), the $4.6 million gross consideration, $350,000 indemnity escrow holdback, and the 18-month $12,000-per-month consulting agreement.\", \"priority\": null, \"dueDate\": \"2025-01-10\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"Raina asked for a concise destination note covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions; the agreed follow-up is due January 10, 2025.\" , \"templateId\": null}, {\"title\": \"Obtain executed escrow agreement and working-capital schedule\", \"text\": \"Obtain the executed escrow agreement and final working-capital schedule for Raina Bramblequill's sale of Cloudberry Kite Design Studio to Silver Marmot Holdings. These documents are missing from the sale file and are needed to reconcile the $4.6 million gross consideration, $350,000 indemnity escrow holdback, and the $2,765,000 Teacup Comet Bank deposit.\", \"priority\": null, \"dueDate\": \"2025-01-03\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The agreed January 3, 2025 follow-up is to obtain the executed escrow agreement and final working-capital schedule missing from the sale file.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 5428,
+    "output_tokens": 1909,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

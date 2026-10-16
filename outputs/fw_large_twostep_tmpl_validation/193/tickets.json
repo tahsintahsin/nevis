@@ -1,0 +1,25 @@
+{
+  "meetingId": "193",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare $25,000 transfer instructions for donation",
+      "text": "Prepare the $25,000 transfer instructions for Sela Mossbutton and Jonah Mossbutton after verifying the brokerage details of their Velvet Acorn Growth Fund shares held in the joint taxable account.",
+      "priority": null,
+      "dueDate": "2026-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2026-01-23 prepare approximately-$25,000 transfer instructions after brokerage-detail verification"
+    },
+    {
+      "templateId": null,
+      "title": "Address acknowledgment language and pledge details",
+      "text": "Address the prior-year-only acknowledgment and add the missing current pledge and receipt goods‑or‑services language for Sela Mossbutton’s donation to Moonbadger Arts Center, ensuring compliance with charitable documentation standards.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2026-02-06 address Evan-noted prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language"
+    }
+  ]
+}

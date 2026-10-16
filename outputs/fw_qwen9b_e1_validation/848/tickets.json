@@ -1,0 +1,155 @@
+{
+  "meetingId": "848",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare adjustable-rate mortgage refinance analysis",
+      "text": "Prepare a side-by-side review of refinancing Dorian and Lena’s first mortgage versus accepting the reset. Use the current loan balance, estimated reset payment, closing-cost estimate, and the household’s monthly cash-flow gap. Verify the rate cap language, index, margin, escrow amount, and timing before finalizing the analysis.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that adjustable-rate mortgage refinance analysis by February 23, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain adjustable-rate mortgage reset notice and loan documents",
+      "text": "Obtain the mortgage reset notice, the current loan statement, and the original adjustable-rate note. Use these documents to verify the rate cap language, index, margin, escrow amount, and timing before the refinance analysis is finalized.",
+      "priority": null,
+      "dueDate": "2024-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain those reset notice and loan documents by February 20, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare lender modification and refinance quotes",
+      "text": "Compare the Teacup Comet Bank modification quote with at least two outside refinance estimates. Include payment, points, estimated cash to close, and treatment of escrow.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the lender quote comparison by March 1, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare information request for Teacup Comet Bank servicer",
+      "text": "Prepare a concise information request for the Teacup Comet Bank servicer. Address the missing written modification estimate and the department transfers that Dorian reported.",
+      "priority": null,
+      "dueDate": "2024-02-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "so the agreed follow-up is to prepare a concise information request for the servicer by February 19, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile mortgage escrow discrepancy",
+      "text": "Reconcile the mortgage escrow discrepancy between the reset notice and the online mortgage portal. Resolve the payment difference before relying on the projected post-reset payment.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the mortgage escrow discrepancy check by February 23, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Verify recent income and pay statements",
+      "text": "Verify Dorian’s most recent Moonbadger Systems pay statement and Lena’s Paper Otter Health Cooperative pay statement. Confirm the statements are current and sufficient for the refinance package.",
+      "priority": null,
+      "dueDate": "2024-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to verify recent income and pay statements by February 21, 2024."
+    },
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Refresh the household profile with current employment, income, dependent, and family support details. Reflect Lena’s move to a four-day workweek and the resulting changes to recurring income and refinancing documentation.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "so the agreed follow-up is to refresh the household profile with current employment, income, dependent, and family support details by February 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare home equity line of credit options",
+      "text": "Compare keeping the home equity line of credit separate, rolling it into a refinance, or using a scheduled principal repayment plan. Address the line’s high variable rate and interest-only structure.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the home equity line has a high variable rate and an interest-only structure, the agreed follow-up is to compare keeping it separate, rolling it into a refinance, or using a scheduled principal repayment plan by February 28, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare credit card payoff sequence",
+      "text": "Prepare a payoff order for the three credit cards. Show interest cost, minimum-payment requirements, and the effect of applying reduced travel and dining spending to the highest-rate card first.",
+      "priority": null,
+      "dueDate": "2024-02-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the credit card payoff sequence by February 22, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile credit report balance discrepancy",
+      "text": "Reconcile the credit report balance discrepancy of about $2,100 for one credit card. Check the refinance debt-to-income inputs against updated statements.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that credit report balance reconciliation by February 27, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare temporary cash-flow triage budget",
+      "text": "Prepare a temporary cash-flow triage budget. Identify spending reductions, debt-payment targets, and a minimum cash reserve guardrail. Incorporate Dorian’s stated $30,000 minimum cash level and the possible reduction of discretionary travel and dining spending by about $900 per month.",
+      "priority": null,
+      "dueDate": "2024-02-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a temporary cash-flow triage budget by February 26, 2024, identifying spending reductions, debt-payment targets, and a minimum cash reserve guardrail."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare bonus and restricted stock unit allocation plan",
+      "text": "Prepare a written allocation framework for the next bonus and restricted stock unit vesting. Balance tax withholding, credit card payoff, cash reserve protection, and possible refinance closing costs.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the bonus and restricted stock unit allocation plan by March 8, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Model equity income for tax or withholding adjustments",
+      "text": "Model the upcoming equity income for possible estimated tax or withholding adjustments. Address Dorian’s concern that restricted stock unit withholding may be below the household’s marginal tax rate.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to model the upcoming equity income for possible estimated tax or withholding adjustments by March 15, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review homeowners insurance premium pressure",
+      "text": "Review the homeowners insurance coverage pages, deductible options, and whether the escrow projection reflects the new premium. Address the material premium increase and the changing mortgage escrow payment.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the insurance premium pressure review by March 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Check estate document relevance",
+      "text": "Review beneficiary designations and estate-document topics to raise with an attorney. Address the 2016 wills’ successor guardian designation, the lack of mention of Alina Pebblefizz, and the absence of support for Alina in the existing wills.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the estate document relevance check by March 12, 2024."
+    }
+  ]
+}

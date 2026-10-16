@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e2",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"716\", \"tickets\": [{\"title\": \"Prepare estate attorney account and beneficiary information outline\", \"text\": \"Prepare an outline of Daniel Copperwisp’s account and beneficiary information for his estate attorney to evaluate updates following his marriage. The outline should reflect the current estate documents, which predate the marriage and do not name Lea Copperwisp in the fiduciary roles Daniel described.\", \"priority\": null, \"dueDate\": \"2025-01-15\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Daniel asked for an outline of the account and beneficiary information his estate attorney would need to evaluate updates; the agreed follow-up is due 2025-01-15.\"}, {\"title\": \"Update client address and residency information\", \"text\": \"Process a client address or residency change after receiving written confirmation. Verify the new mailing address, legal residence, seasonal address if any, effective date, state tax implications to flag for the advisor, custodian forms required, and communication preferences. Record the update in the CRM and confirm completion to the client.\", \"priority\": \"medium\", \"dueDate\": \"2025-01-07\", \"assigneeId\": \"0c95f12a-aa0b-5e7d-82d7-30d510a640ca\", \"templateId\": \"70ed524c-85e2-5a82-b10e-86adb63f1e5f\", \"subTasks\": [], \"evidence\": \"Daniel said he is now living at Lea’s townhouse and asked that Apricot Compass Advisory update the household record and custodian mailing information once he sends written confirmation of the preferred mailing address and legal residence; the agreed follow-up is due 2025-01-07.\"}, {\"title\": \"Prepare account registration and beneficiary-change materials\", \"text\": \"Prepare materials for Daniel Copperwisp to review options for keeping his taxable brokerage account individually titled, adding transfer-on-death instructions, and updating primary beneficiaries on advisory-held retirement assets in light of his marriage to Lea Copperwisp.\", \"priority\": null, \"dueDate\": \"2025-01-08\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Daniel asked for materials to review options for keeping his taxable brokerage account individually titled, adding transfer-on-death instructions, and updating primary beneficiaries on advisory-held retirement assets in light of the marriage; the agreed follow-up is due 2025-01-08.\"}, {\"title\": \"Prepare tax-filing-status investment summary for Daniel’s CPA\", \"text\": \"Prepare a concise summary of Daniel Copperwisp’s investment income, potential capital-gain exposure, withholding information, and filing-status questions for his discussion with his CPA at Paper Otter Tax Services.\", \"priority\": null, \"dueDate\": \"2025-01-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Daniel wanted Apricot Compass Advisory to prepare a concise summary of investment income, potential capital-gain exposure, withholding information, and filing-status questions for that discussion; the agreed follow-up is due 2025-01-10.\"}]}",
+   "usage": {
+    "input_tokens": 2628,
+    "output_tokens": 730,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

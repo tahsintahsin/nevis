@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"853\",\n\"followups\": [\n{\n\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\",\n\"action\": \"Review the Velvet Acorn Custody unfamiliar-device alert.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\",\n\"action\": \"Check the client profile and distribution instruction changes.\",\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\"\n},\n{\n\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\",\n\"action\": \"Coordinate pre‑upload custodian security steps.\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1249,
+    "output_tokens": 1100,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1339
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"853\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Review Velvet Acorn Custody alert\",\n\"text\": \"Review the unfamiliar-device alert from Velvet Acorn Custody for Leona Thimblefern, noting that the portal rejected her authentication code and the alert was triggered shortly before the rejection.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"\n},\n{\n\"templateId\": \"5b32df43-64e8-57a6-a96f-81094794d36d\",\n\"title\": \"Update household profile\",\n\"text\": \"Check Leona Thimblefern's household profile and distribution instruction changes, focusing on failure blocks for phone, email, and trusted‑contact review, and resolve the outdated profile issue that affected service access.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Coordinate pre‑upload custodian security steps\",\n\"text\": \"Coordinate pre‑upload security steps with Velvet Acorn Custody for Leona Thimblefern, ensuring phone, email, and trusted‑contact verification are completed before any document upload.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3230,
+    "output_tokens": 1043,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 70
+   },
+   "stop": "stop"
+  }
+ ]
+}

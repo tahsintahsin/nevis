@@ -1,0 +1,35 @@
+{
+  "meetingId": "294",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare transfer instructions for share donation",
+      "text": "Prepare transfer instructions for Nora Nettlewhisk to donate approximately $50,000 of Copper Firefly Utilities shares to her donor‑advised fund at Velvet Acorn Charitable.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed August 2 follow-up is to prepare transfer instructions for donating about $50,000 of Copper Firefly Utilities shares to Nora’s donor-advised fund at Velvet Acorn Charitable."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain status letter for Paper Otter Trust",
+      "text": "Obtain a current charitable status letter or receipt‑language sample for the Paper Otter Medical Research Trust as requested by Nora Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2024-08-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Needed by August 9 are a current charitable status letter or receipt-language sample for Paper Otter Medical Research Trust;"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Marzipan Meadow Arts EIN payee mismatch",
+      "text": "Resolve the EIN payee mismatch for the Marzipan Meadow Arts School/Foundation as required by Nora Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2024-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "needed by August 5 is resolution of the Marzipan Meadow Arts School/Foundation EIN payee mismatch."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "meetingId": "842",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate manual restricted share transfer",
+      "text": "Coordinate the nonstandard manual transfer of Daria Nettlewhisk's restricted Paper Otter Systems shares to Thimble Harbor Custody as Velvet Acorn Custody cannot use the electronic feed.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate that manual transfer path by 2025-01-08."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve IRA registration name variance",
+      "text": "Address the name mismatch on Daria Nettlewhisk's traditional IRA transfer paperwork between Daria Mae Nettlewhisk and Daria M. Nettlewhisk to remove the transfer blocker.",
+      "priority": null,
+      "dueDate": "2025-01-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the IRA registration name variance by 2025-01-07."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain latest rollover IRA statement",
+      "text": "Obtain the most recent statement for Jonas Nettlewhisk's rollover IRA to satisfy the receiving custodian's request before transfer.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed to obtain the most recent Jonas rollover IRA statement by 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Set up inherited IRA receiving account",
+      "text": "Set up a separately titled receiving account for Daria Nettlewhisk's inherited IRA from Iris Juniperjingle at Thimble Harbor Custody.",
+      "priority": null,
+      "dueDate": "2025-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to set up the inherited IRA receiving account by 2025-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Place residual cash and income sweep",
+      "text": "Place a residual cash and income sweep instruction with Velvet Acorn Custody's transfer desk to capture post‑list dividends and interest.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to place the residual cash and income sweep instruction by 2025-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain TOD beneficiary confirmation packet",
+      "text": "Obtain the signed transfer‑on‑death beneficiary confirmation packet for the new taxable account at Thimble Harbor Custody.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed on the transfer-on-death beneficiary confirmation packet by 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Review cost‑basis import for taxable lots",
+      "text": "Review the cost‑basis import for taxable municipal bond fund lots to correct purchase‑date and basis variances identified by Apricot Compass Advisory.",
+      "priority": null,
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the cost-basis import for taxable lots by 2025-01-17."
+    },
+    {
+      "templateId": null,
+      "title": "Provide tax coordination transfer report",
+      "text": "Provide Lena Mossbutton, CPA, with a transfer‑position report covering taxable positions and embedded gains during the account transfer.",
+      "priority": null,
+      "dueDate": "2025-01-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to provide that tax coordination for taxable positions during the transfer by 2025-01-13."
+    },
+    {
+      "templateId": null,
+      "title": "Relocate recurring household cash transfer",
+      "text": "Relocate the monthly household cash transfer from the Velvet Acorn Custody money market source to the new Thimble Harbor Custody cash sleeve after funding.",
+      "priority": null,
+      "dueDate": "2025-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to relocate the recurring household income transfer by 2025-01-15."
+    },
+    {
+      "templateId": null,
+      "title": "Establish cash reserve at receiving custodian",
+      "text": "Establish a cash sleeve at Thimble Harbor Custody for Daria Nettlewhisk's cash reserve to cover property‑tax, tuition, and caregiving expenses during the transfer period.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to establish the cash reserve at the receiving custodian by 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Update trusted contact and household profile",
+      "text": "Update the trusted contact and household profile at the receiving custodian to reflect Selma Nettlewhisk's move into the household.",
+      "priority": null,
+      "dueDate": "2025-01-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed on the trusted contact and household profile change by 2025-01-20."
+    },
+    {
+      "templateId": null,
+      "title": "Complete paper certificate replacement affidavit",
+      "text": "Complete the replacement affidavit paperwork for the two legacy Silver Marmot Energy certificates to enable electronic transfer from Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2025-01-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the paper certificate replacement affidavit process by 2025-01-14."
+    }
+  ]
+}

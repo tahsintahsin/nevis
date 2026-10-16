@@ -1,0 +1,55 @@
+{
+  "meetingId": "427",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare care‑cost runway projection",
+      "text": "Prepare a care‑cost runway projection for Helena Cloudpuddle that compares the current 32‑hour weekly aide schedule with a higher‑coverage scenario, and identify when cash reserves will require increased withdrawals from the $615,000 taxable account.",
+      "priority": null,
+      "dueDate": "2024-01-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Helena asked for a care-cost runway projection comparing the current aide schedule with a higher-coverage scenario and showing when cash reserves would require an increased taxable-account withdrawal; the agreed follow-up is due 2024-01-05."
+    },
+    {
+      "templateId": null,
+      "title": "Create documented family caregiver reimbursement plan",
+      "text": "Create a documented family caregiver reimbursement approach for Helena Cloudpuddle that clearly separates gifts, wages, and shared household costs, reflecting Lila Cloudpuddle’s reduced clinic hours and weekday transportation and medication supervision responsibilities.",
+      "priority": null,
+      "dueDate": "2024-01-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lila is reducing her clinic hours to cover weekday transportation and medication supervision, and Helena wants a documented family caregiver reimbursement approach that does not blur gifts, wages, and shared household costs; the agreed follow-up is due 2024-01-12."
+    },
+    {
+      "templateId": "3bb0b639-8984-5223-9158-efd8be86b1f0",
+      "title": "Collect estate planning documents",
+      "text": "Obtain the full long‑term care policy contract, claim packet, and elimination‑period instructions from Amber Teapot Life Insurance for Helena Cloudpuddle, as the premium notice alone is insufficient for the claim file.",
+      "priority": null,
+      "dueDate": "2024-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For long-term care claim file materials, Helena had the premium notice but not the full policy contract, claim packet, or elimination-period instructions requested by Amber Teapot Life Insurance; those materials are needed by 2024-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile billed aide hours with calendar",
+      "text": "Reconcile the billed aide hours reported by Pocket Lantern Home Care with Helena Cloudpuddle’s calendar and aide sign‑in sheet to determine the accurate home‑care invoice amount.",
+      "priority": null,
+      "dueDate": "2024-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Pocket Lantern Home Care’s portal shows more billed aide hours for the first service week than Helena’s calendar and aide sign-in sheet, so the home-care invoice amount is not ready for planning assumptions; the agreed follow-up is due 2024-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare financial questions and affordability figures",
+      "text": "Prepare financial questions and affordability figures for Helena Cloudpuddle to support the upcoming care conference with the rehab team reviewing home therapy authorization and daily supervision.",
+      "priority": null,
+      "dueDate": "2024-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The rehab team set a near-term care conference to review home therapy authorization and daily supervision, and Helena wants financial questions and affordability figures ready for that conversation; the agreed follow-up is due 2024-01-08."
+    }
+  ]
+}

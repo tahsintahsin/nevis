@@ -1,0 +1,74 @@
+{
+  "meetingId": "48",
+  "tickets": [
+    {
+      "templateId": "ab602761-3406-545d-946a-f89ed918aa51",
+      "title": "Recover client portal access",
+      "text": "Recover Nadia Pebblefizz's Moonbadger Dataworks portal access to review equity compensation details and reconcile RSU tax withholding with portal records.",
+      "priority": null,
+      "dueDate": "2025-03-05",
+      "assigneeId": "4e2b9f66-dea7-5a5c-bdad-e06b8ff6c9f9",
+      "subTasks": [],
+      "evidence": "For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares."
+    },
+    {
+      "templateId": "7857efc6-bba7-5e31-8f61-da07a28ecf78",
+      "title": "Coordinate divorce document intake and planning file",
+      "text": "Coordinate divorce document intake and planning file for Nadia Pebblefizz, addressing equity compensation, mortgage, and education funding needs.",
+      "priority": "high",
+      "dueDate": null,
+      "assigneeId": "9211ea08-d06a-58ff-96dd-dfcb00950a92",
+      "subTasks": [
+        {
+          "title": "Build document request list",
+          "text": "Identify needed items such as settlement drafts, court orders, asset and liability schedules, tax returns, retirement plan statements, insurance policies, and beneficiary records. Note which items are pending and which are attorney-provided.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "5a254a59-68a1-5844-984f-e49022314f34"
+        },
+        {
+          "title": "Create secure intake folder",
+          "text": "Set up a secure document location, label documents by category, and confirm that no sensitive materials are sent through unsecured channels.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4e2b9f66-dea7-5a5c-bdad-e06b8ff6c9f9"
+        },
+        {
+          "title": "Review planning implications",
+          "text": "Summarize items affecting cash flow, tax filing status, retirement assets, education accounts, insurance coverage, estate documents, and account titling.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "9211ea08-d06a-58ff-96dd-dfcb00950a92"
+        },
+        {
+          "title": "Prepare professional coordination summary",
+          "text": "Draft a concise summary of outstanding documents, known planning questions, and authorized professionals to contact, using placeholders for attorney or CPA details.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "5a254a59-68a1-5844-984f-e49022314f34"
+        }
+      ],
+      "evidence": "Nadia, a Moonbadger senior product director with a $235,000 base salary, 20% target bonus, and trading-window-restricted annual equity grants, has 18,400 unvested RSUs vesting quarterly through 2028 and vested ISOs/NSOs with strikes below the portal’s current internal share value."
+    },
+    {
+      "templateId": "48477f77-ca03-5965-8823-1af13b354c94",
+      "title": "Collect education account setup details",
+      "text": "Collect education account setup details for Nadia Pebblefizz's children ages 9 and 12, including beneficiary information, target contribution amounts, and funding sources.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "She expects to help fund college for children ages 9 and 12 and targets late-fifties work flexibility."
+    },
+    {
+      "templateId": "51f4d644-ddd3-5cf5-a7c4-3def8c413759",
+      "title": "Review concentrated investment position",
+      "text": "Review Nadia Pebblefizz's concentrated investment position in Moonbadger Dataworks employer stock, currently the household's largest single-company exposure.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "employer stock/vested options were the household’s largest single-company exposure."
+    }
+  ]
+}

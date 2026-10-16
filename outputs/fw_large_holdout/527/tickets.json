@@ -1,0 +1,104 @@
+{
+  "meetingId": "527",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare charitable funding comparison for Paper Otter",
+      "text": "Prepare a side-by-side analysis of using cash, appreciated securities from Velvet Acorn Custody, and the Amber Teapot Charitable Trust donor-advised fund to fund the Paper Otter Literacy Fund commitment.",
+      "priority": null,
+      "dueDate": "2026-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that the comparison is to be prepared by 2026-04-24."
+    },
+    {
+      "templateId": null,
+      "title": "Complete taxable lot review for in-kind giving",
+      "text": "Complete a review of taxable lots in the Velvet Acorn Custody account to identify positions with unrealized gains, including the concentrated Marzipan Meadow Robotics holding, for the in-kind charitable transfer analysis.",
+      "priority": null,
+      "dueDate": "2026-04-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that the taxable lot review is to be completed by 2026-04-28."
+    },
+    {
+      "templateId": "a92a4adf-148b-5005-8dbd-a9ca092696b2",
+      "title": "Coordinate business sale planning and transition steps",
+      "text": "Use this workflow when a client is considering, negotiating, or closing the sale of a privately held business. Confirm the stage of the transaction, identify the advisory team, gather key documents, and coordinate recommendations for cash flow, tax reserves, investment timing, estate planning, and post-sale account operations. Keep all notes generic until client-specific documents are attached. Obtain the draft indication of interest, ownership schedule, and any transfer restrictions related to the possible Copper Firefly Designworks transaction with Silver Marmot Holdings.",
+      "priority": "high",
+      "dueDate": "2026-04-17",
+      "assigneeId": "e5048335-9a16-52f2-9f18-ae8aa6cda3c5",
+      "subTasks": [
+        {
+          "title": "Gather sale structure and planning inputs",
+          "text": "Request the draft letter of intent or purchase agreement, estimated gross proceeds, expected closing window, ownership percentage, installment or earnout terms, and any known restrictions on proceeds. Note missing items for follow-up with the client or transaction team.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "836d8f86-f750-51c1-9acc-68bdead4c5a8"
+        },
+        {
+          "title": "Coordinate tax and legal review handoff",
+          "text": "Prepare a summary for the client's CPA and attorney covering estimated proceeds, basis information requested, entity structure, charitable or trust planning questions, and anticipated liquidity needs. Do not provide tax or legal conclusions; track open professional guidance items.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "e5048335-9a16-52f2-9f18-ae8aa6cda3c5"
+        },
+        {
+          "title": "Prepare account and transfer logistics",
+          "text": "Identify whether new taxable, trust, or entity accounts may be needed; confirm titling instructions; prepare custodian paperwork placeholders; and outline the expected source and destination of funds without entering real account numbers in the template.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91bbeadd-58e4-5080-aacb-f3ba3fd1d714"
+        },
+        {
+          "title": "Draft post-sale investment and income plan agenda",
+          "text": "Create a meeting agenda covering cash reserve targets, tax reserve strategy, debt payoff decisions, concentrated risk reduction, retirement income changes, education funding updates, and philanthropic or estate planning priorities after liquidity is received.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "836d8f86-f750-51c1-9acc-68bdead4c5a8"
+        }
+      ],
+      "evidence": "For business-sale documents affecting gift timing, the charitable analysis lacks the draft indication of interest, ownership schedule, and any transfer restrictions connected to the possible Copper Firefly Designworks transaction with Silver Marmot Holdings; follow-up is needed by 2026-04-17."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve donor identity for Paper Otter pledge",
+      "text": "Clarify whether the Paper Otter Literacy Fund pledge should list Jonas Pebblefizz individually or the household jointly, and determine the appropriate donor-advised fund grant path.",
+      "priority": null,
+      "dueDate": "2026-04-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For donor identity for pledge and receipt records, the Paper Otter Literacy Fund draft pledge lists Jonas individually, while the household plan describes joint giving by Jonas and Nadia and a possible donor-advised fund grant path; follow-up is needed by 2026-04-21."
+    },
+    {
+      "templateId": null,
+      "title": "Fix Amber Teapot portal login issue",
+      "text": "Address the Amber Teapot Charitable Trust portal problem where Jonas’s login verification code was sent to an old phone number and the profile may contain an outdated mailing address.",
+      "priority": null,
+      "dueDate": "2026-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the Amber Teapot portal and account registration issue, Jonas reported that a prior donor-advised fund grant request stalled after the Amber Teapot portal rejected his login and sent a verification code to an old phone number, and the account profile may also carry the former mailing address; fo"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate Paper Otter pledge package logistics",
+      "text": "Coordinate the preparation of the Paper Otter Literacy Fund pledge package and initial transfer instructions, accounting for the chosen funding method (cash, securities, or donor-advised fund).",
+      "priority": null,
+      "dueDate": "2026-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that the pledge package logistics are to be handled by 2026-05-01."
+    },
+    {
+      "templateId": null,
+      "title": "Update philanthropy plan post-sale scenario",
+      "text": "Update the charitable plan to distinguish funding options before and after the potential Copper Firefly Designworks minority-interest sale, reflecting changes in household liquidity and concentrated business exposure.",
+      "priority": null,
+      "dueDate": "2026-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the philanthropy plan after a potential Copper Firefly transaction, the possible minority-interest sale would change household liquidity and concentrated business exposure, and the charitable plan has not yet distinguished funding before transaction certainty from funding after transaction certa"
+    }
+  ]
+}

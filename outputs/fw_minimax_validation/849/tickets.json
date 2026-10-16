@@ -1,0 +1,35 @@
+{
+  "meetingId": "849",
+  "tickets": [
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update the Pebblefizz household profile to record daughter Lena Pebblefizz (born 2025-01-12) as a dependent, refresh the childcare and medical cash flow, and capture Nadia Pebblefizz's revised Cloudberry Kite Robotics parental-leave income estimate.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate."
+    },
+    {
+      "templateId": null,
+      "title": "Provide family-attorney checklist for estate documents",
+      "text": "Provide a family-attorney checklist for Nadia and Owen Pebblefizz because their 2021 will and healthcare documents predate daughter Lena and lack a minor-child guardian.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Owen's term policy and both spouses' disability details",
+      "text": "Obtain Owen Pebblefizz's individual term policy declaration page and disability details for both Nadia and Owen Pebblefizz; only Nadia's group life benefit summary is currently in the portal, leaving the protection review incomplete.",
+      "priority": null,
+      "dueDate": "2025-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete."
+    }
+  ]
+}

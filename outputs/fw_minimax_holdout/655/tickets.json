@@ -1,0 +1,125 @@
+{
+  "meetingId": "655",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain employer disability certificate for Serena",
+      "text": "Obtain the formal employer disability certificate from the Pocket Lantern Robotics employer portal for Serena Willowdoodle. The planning file currently has only a benefits summary; the certificate describes the monthly cap and exclusions and is needed to complete the disability coverage review.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the employer disability certificate remains a concrete unresolved issue for follow-up, dated 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing trust certification page",
+      "text": "Obtain the missing page of the Coral Badger Law Group trust certification describing trustee powers for the Willowdoodle household. The custodian has not accepted the trust registration update without that page, so account registration remains incomplete.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "trust certification support for account registration remains a concrete unresolved issue for follow-up, dated 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain federal estimated tax payment confirmation",
+      "text": "Obtain the federal estimated tax payment confirmation for the Willowdoodle household from Lena Dewspindle, CPA, before the next payment window. Serena saw the state payment voucher in the CPA portal but did not see the corresponding federal payment confirmation.",
+      "priority": null,
+      "dueDate": "2024-12-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to obtain the corresponding federal payment confirmation, dated 2024-12-24."
+    },
+    {
+      "templateId": null,
+      "title": "Provide consolidated open service log",
+      "text": "Provide Serena Willowdoodle with one consolidated written log of each unresolved operational issue, the responsible party, and the next status checkpoint. Prior updates arrived in separate portal messages and emails, so a single log is needed.",
+      "priority": null,
+      "dueDate": "2024-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to provide the consolidated written log, dated 2024-12-18."
+    },
+    {
+      "templateId": null,
+      "title": "Restore Teacup Comet Bank dashboard access",
+      "text": "Restore read-only adviser access to the Teacup Comet Bank cash dashboard for the Willowdoodle household. The prior authorization no longer appears active and Serena asked Apricot Compass Wealth Advisory to restore it.",
+      "priority": null,
+      "dueDate": "2024-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to restore read-only dashboard access, dated 2024-12-19."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate temporary mailing and delivery setup",
+      "text": "Coordinate the temporary mailing and delivery setup for the Willowdoodle household during the home renovation. Recent account correspondence still reflected the prior delivery setup and needs to be updated to the temporary address.",
+      "priority": null,
+      "dueDate": "2024-12-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to coordinate the temporary mailing and delivery setup, dated 2024-12-27."
+    },
+    {
+      "templateId": null,
+      "title": "Correct custodian login security routing",
+      "text": "Correct the custodian login security routing for the Willowdoodle household at Velvet Acorn Custody. Jasper currently receives authentication texts tied to Serena's IRA login, which does not match the household's intended credential separation.",
+      "priority": null,
+      "dueDate": "2024-12-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to correct the custodian login security routing, dated 2024-12-17."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve duplicate Jasper portal profile",
+      "text": "Resolve the duplicate Jasper Willowdoodle profile in the portal so Jasper can complete the pending electronic signature packet for household records. The duplicate profile currently blocks the signature workflow.",
+      "priority": null,
+      "dueDate": "2024-12-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to resolve the duplicate Jasper profile issue affecting the electronic signature packet, dated 2024-12-20."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve taxable account cost basis feed discrepancy",
+      "text": "Resolve the cost basis feed discrepancy in the joint taxable account at Velvet Acorn Custody for the Willowdoodle household. The data feed is missing lot-level basis for three positions while the custodian statement shows basis amounts for those same holdings.",
+      "priority": null,
+      "dueDate": "2024-12-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to address the taxable account cost basis feed discrepancy, dated 2024-12-23."
+    },
+    {
+      "templateId": null,
+      "title": "Address trusted contact field inconsistency",
+      "text": "Address the trusted contact field inconsistency in the Willowdoodle household custodian records at Velvet Acorn Custody. The joint taxable account lists a trusted contact, but Serena's IRA profile does not show a trusted contact entry.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to address the trusted contact field inconsistency, dated 2025-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Revise renovation reserve reporting classification",
+      "text": "Revise the renovation reserve reporting classification in the Willowdoodle household performance report. The renovation reserve is currently included under long-term portfolio assets even though Serena tracks that cash separately from investable reserves.",
+      "priority": null,
+      "dueDate": "2024-12-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to revise the renovation reserve reporting classification, dated 2024-12-31."
+    },
+    {
+      "templateId": null,
+      "title": "Address billing account group mismatch",
+      "text": "Address the billing account group mismatch in the Willowdoodle household billing review screen. A closed zero-balance account is still included in the household group, creating a mismatch between the invoice allocation view and current managed accounts.",
+      "priority": null,
+      "dueDate": "2024-12-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed work is to address the billing account group mismatch, dated 2024-12-30."
+    }
+  ]
+}

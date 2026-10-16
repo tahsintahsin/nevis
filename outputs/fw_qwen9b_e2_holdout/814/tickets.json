@@ -1,0 +1,55 @@
+{
+  "meetingId": "814",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm home and umbrella policy active status and mortgagee evidence requirements",
+      "text": "Confirm the active status of the Thimblefern household’s Amber Teapot Insurance homeowner and umbrella policies and the mortgagee evidence requirements. The policies could lapse because a premium draft used a closed card and the grace-period notice reached the prior address.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas asked for help confirming active status with Amber Teapot Insurance and the mortgagee evidence requirements, and the agreed follow-up is to confirm those items by June 28, 2024."
+    },
+    {
+      "templateId": "edf2fbce-5c49-5e58-9961-8db31aa328b7",
+      "title": "Change recurring payment instructions",
+      "text": "Confirm the requested recurring payment change, verify the effective timing with the provider or custodian, and document the old and new payment method or amount without storing unnecessary sensitive details. Change the Amber Teapot Insurance premium payment route from the canceled Teacup Comet Bank debit card to the joint checking account.",
+      "priority": "medium",
+      "dueDate": "2024-07-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the carrier portal still referenced the Teacup Comet Bank debit card that Jonas canceled after a fraud alert, while Jonas wants future premiums drawn from the joint checking account instead of a card; the agreed follow-up is to address that payment-route change by July 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Align insurance mailing address records",
+      "text": "Align the Thimblefern household’s insurance mailing address records with the Durham home address. Amber Teapot Insurance records show the former townhouse address, while mortgage records, the advisory household profile, and deed information reflect the Durham home. Resolve the mismatch affecting notices and proof-of-coverage routing.",
+      "priority": null,
+      "dueDate": "2024-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to align the records by July 3, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete household protection review",
+      "text": "Complete a household protection review reflecting Clara Thimblefern’s transition to self-employment, the household’s new income pattern, mortgage, dependents, and existing term coverage. Address the loss of Clara’s former group life and employer-paid long-term disability coverage.",
+      "priority": null,
+      "dueDate": "2024-07-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas asked for a household protection review that reflects the new income pattern, mortgage, dependents, and existing term coverage. The agreed follow-up is to complete that review by July 15, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare premium funding and reserve impact plan",
+      "text": "Prepare a near-term plan for paying the annual homeowner, umbrella, auto, and term premiums without reducing the Thimblefern household’s cash reserve below its six-month comfort level.",
+      "priority": null,
+      "dueDate": "2024-07-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jonas requested a near-term plan for paying the annual homeowner, umbrella, auto, and term premiums without reducing the household’s cash reserve below its six-month comfort level. The agreed follow-up is to prepare that plan by July 10, 2024."
+    }
+  ]
+}

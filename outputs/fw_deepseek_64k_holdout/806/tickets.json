@@ -1,0 +1,114 @@
+{
+  "meetingId": "806",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete one-time IRA withdrawal for remodel deposit",
+      "text": "Process a $38,000 gross distribution from Dorian Pebblefizz's traditional IRA at Velvet Acorn Custody to Teacup Comet Bank checking for the first contractor deposit on the home accessibility remodel.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian asked for a $38,000 gross distribution from the traditional IRA at Velvet Acorn Custody to be sent to Teacup Comet Bank checking for the first contractor deposit, and they agreed to complete the one-time IRA withdrawal by 2025-08-15."
+    },
+    {
+      "templateId": "edf2fbce-5c49-5e58-9961-8db31aa328b7",
+      "title": "Change recurring payment instructions",
+      "text": "Confirm the requested recurring payment change, verify the effective timing with the provider or custodian, and document the old and new payment method or amount without storing unnecessary sensitive details. Increase Dorian Pebblefizz's regular IRA distribution at Velvet Acorn Custody from $4,000 to $6,500 gross per month into Teacup Comet Bank checking, and document the revised bank destination and withholding assumptions before the next payment cycle.",
+      "priority": "medium",
+      "dueDate": "2025-08-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian also asked to raise the regular IRA cash flow from $4,000 gross per month to $6,500 gross per month and to document the revised bank destination and withholding assumptions before the next payment cycle; they agreed to complete the recurring IRA distribution adjustment by 2025-08-20."
+    },
+    {
+      "templateId": "24021c5e-be89-5d42-9140-abb9dc028eee",
+      "title": "Complete address and residency update workflow",
+      "text": "Use this workflow when Dorian and Elena Pebblefizz report a new mailing address, tax residency change, seasonal residence, or household relocation. Confirm the effective date, update advisory records, and identify planning consequences for tax-aware investment management, retirement income distributions, and account communications. Update Dorian and Elena Pebblefizz's advisory records, mailing information, meeting location notes, and retirement distribution withholding assumptions for the June 2025 move from Portland, Oregon, to Henderson, Nevada.",
+      "priority": "medium",
+      "dueDate": "2025-08-22",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm move details and documentation",
+          "text": "Collect the new mailing address, physical residence, prior address, effective date, seasonal residence notes, and any supporting documentation the client is comfortable providing.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update internal records and communication preferences",
+          "text": "Update CRM, household profile, statement delivery preferences, meeting location notes, and any compliance-required address fields.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review planning impacts",
+          "text": "Check whether the move affects state tax assumptions, retirement distribution withholding, municipal bond exposure, estate document jurisdiction, insurance coverage, or advisor registration requirements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm completion with client",
+          "text": "Send a brief confirmation summarizing the updates made and any follow-up items the client should address with tax, legal, or account providers.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "The move from Oregon to Nevada requires advisory records, mailing information, meeting location notes, and retirement distribution withholding assumptions to be updated using the new residency facts Dorian provided, and they agreed to complete those updates by 2025-08-22."
+    },
+    {
+      "templateId": "edf2fbce-5c49-5e58-9961-8db31aa328b7",
+      "title": "Change recurring payment instructions",
+      "text": "Confirm the requested recurring payment change, verify the effective timing with the provider or custodian, and document the old and new payment method or amount without storing unnecessary sensitive details. Correct the Oregon state withholding shown on Dorian Pebblefizz's recurring IRA distribution at Velvet Acorn Custody, since the Henderson, Nevada home is now the primary residence and no Oregon withholding is expected on future payments.",
+      "priority": "medium",
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "they agreed to address the Oregon withholding discrepancy on IRA payments by 2025-08-29."
+    },
+    {
+      "templateId": null,
+      "title": "Check IRA payment timing and bank instruction history",
+      "text": "Investigate why Dorian Pebblefizz's recent IRA ACH deposit reached Teacup Comet Bank later than expected, forcing a manual transfer from savings, and review the payment timing and bank instruction history with Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2025-08-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that the payment timing and bank instruction history need to be checked by 2025-08-18."
+    },
+    {
+      "templateId": "098a99bb-56c3-5bae-8a8a-0daaeba9311f",
+      "title": "Year-End Deadline Sweep",
+      "text": "Review Dorian and Elena Pebblefizz's year-end cash flow and withholding with Tobin Mossbutton of Amber Teapot Tax Services, using the higher IRA withdrawals, possible Portland sale proceeds, and Elena's wages as inputs before final estimated tax planning.",
+      "priority": null,
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "they agreed to complete the distribution and tax planning deadline review by 2025-11-14."
+    },
+    {
+      "templateId": "0abfb48a-c041-5167-89d9-5c914aeb4eb5",
+      "title": "Request and organize estate document copies",
+      "text": "Ask Dorian and Elena Pebblefizz to provide current copies of core estate documents, including will, revocable trust if applicable, powers of attorney, health care directives, beneficiary designations, trustee or executor contact information, and any recent amendment pages. Store received documents according to firm procedures and note missing items for follow-up. Collect current wills, powers of attorney, trust amendment pages if applicable, and beneficiary confirmations for recordkeeping and planning review, since only 2018 estate papers are in the advisory vault.",
+      "priority": "medium",
+      "dueDate": "2025-09-05",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "Because only older estate papers are available in the advisory file, they agreed that current wills, powers of attorney, trust amendment pages if applicable, and beneficiary confirmations need to be collected for recordkeeping and planning review by 2025-09-05."
+    },
+    {
+      "templateId": null,
+      "title": "Compare cash-raising options for Paper Otter stock",
+      "text": "Compare IRA distributions, taxable cash, and selective sales of the $92,000 Paper Otter Components position in Dorian and Elena Pebblefizz's joint taxable account at Velvet Acorn Custody, without assuming the employer stock is the first funding source, and review tax impact and concentration risk together.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "they agreed that the cash-raising plan should compare IRA distributions, taxable cash, and selective sales without assuming the employer stock is the first funding source, with the review due by 2025-09-12."
+    }
+  ]
+}

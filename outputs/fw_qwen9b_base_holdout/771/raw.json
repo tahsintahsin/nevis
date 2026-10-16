@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"771\",\n\"tickets\": [\n{\n\"title\": \"Open joint taxable account at Velvet Acorn Custody\",\n\"text\": \"Open a new joint taxable account at Velvet Acorn Custody for Lila and Rowan Thistlefable, funded from their Teacup Comet Bank savings, with online access and electronic statements enabled for both spouses.\",\n\"priority\": \"high\",\n\"dueDate\": \"2024-10-18\",\n\"assigneeId\": \"5c5439fe-19f1-52ba-8646-5d8a3755e27e\",\n\"templateId\": \"7e079875-a636-5be9-84a0-36c6f079b4eb\",\n\"evidence\": \"They agreed to open a joint taxable account at the existing custodian, initially funded from Teacup Comet Bank savings, with online access and electronic statements for both spouses, due 2024-10-18.\"\n,\n\"subTasks\": []\n},\n{\n\"title\": \"Prepare retirement beneficiary forms for Lila and Rowan\",\n\"text\": \"Prepare retirement beneficiary forms for Lila and Rowan Thistlefable at Velvet Acorn Custody and Rowan's 403(b) provider, naming Rowan as primary beneficiary and Camila Copperwisp as contingent beneficiary where allowed.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2024-10-25\",\n\"assigneeId\": \"130cfbca-49c1-5229-8b8a-f22b7a7de62b\",\n\"templateId\": null,\n\"evidence\": \"They agreed to prepare retirement beneficiary forms naming Rowan primary and Camila Copperwisp contingent where allowed, due 2024-10-25.\"\n,\n\"subTasks\": []\n},\n{\n\"title\": \"Collect certified marriage certificate for Lila and Rowan\",\n\"text\": \"Collect the certified marriage certificate for Lila and Rowan Thistlefable to update custodian and bank records, as they currently show Lila's prior household status.\",\n\"priority\": \"medium\",\n\"dueDate\": \"2024-10-14\",\n\"assigneeId\": \"130cfbca-49c1-5229-8b8a-f22b7a7de62b\",\n\"templateId\": \"129a0b7f-8c53-50bf-9cf0-a61ab4d220da\",\n\"evidence\": \"They agreed to collect the certified marriage certificate because custodian and bank records still show Lila's prior household status, due 2024-10-14.\"\n,\n\"subTasks\": []\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1124,
+    "output_tokens": 656,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

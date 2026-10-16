@@ -1,0 +1,35 @@
+{
+  "meetingId": "606",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare first-year education funding source comparison",
+      "text": "Prepare a side-by-side schedule showing how Lena Pebblefizz’s Velvet Acorn Custody 529 account, the household’s $28,000 education savings CD at Teacup Comet Bank, taxable account sales, and household cash could cover the first academic year at Thimble Harbor University while preserving the $50,000 cash reserve floor.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora asked for a side-by-side schedule showing how Lena’s 529 account, the education savings CD, taxable account sales, and household cash could cover the first academic year while preserving the stated cash reserve floor; the agreed follow-up is due 2025-01-24."
+    },
+    {
+      "templateId": "609c6669-8b2f-5dd3-8f40-5b8fa9439242",
+      "title": "Follow up on missing signature",
+      "text": "Contact the client to request the missing signature on [document name]. Confirm the correct signing method and note when the completed document is received.",
+      "priority": "medium",
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nora reported that the distribution page rejected the saved Teacup Comet Bank link twice and did not provide a confirmation number, leaving the preferred payment path uncertain; the agreed follow-up is due 2025-01-17."
+    },
+    {
+      "templateId": "609c6669-8b2f-5dd3-8f40-5b8fa9439242",
+      "title": "Follow up on missing signature",
+      "text": "Contact the client to request the missing signature on [document name]. Confirm the correct signing method and note when the completed document is received.",
+      "priority": "medium",
+      "dueDate": "2025-02-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the cash-flow stress review tied to Evan’s job change, Evan’s possible shift from salaried employee to remote contractor could affect monthly income timing, benefits, and stock compensation while tuition payments are beginning; the agreed follow-up is due 2025-02-07."
+    }
+  ]
+}

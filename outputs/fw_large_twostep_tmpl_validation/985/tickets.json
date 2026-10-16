@@ -1,0 +1,185 @@
+{
+  "meetingId": "985",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Create first-year education funding schedule",
+      "text": "Create a side‑by‑side first‑year education funding schedule for Daria Mossbutton and Owen Mossbutton that details the family cash contribution, 529 withdrawals, taxable account usage, student loan amount, and the remaining shortfall for Lila’s first year at Paper Otter University, based on the $74,800 cost and $18,000 scholarship.",
+      "priority": null,
+      "dueDate": "2026-06-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to create, by June 5, 2026, a side-by-side first-year education funding schedule showing the family cash contribution, 529 withdrawals, possible taxable account use, student loan amount, and remaining shortfall for Lila’s first year at Paper Otter University based on the figures discusse"
+    },
+    {
+      "templateId": null,
+      "title": "Identify source(s) for semester bill",
+      "text": "Identify the specific source or mix of sources for the first fall semester bill for Lila Mossbutton at Paper Otter University, noting that the portal shows a family portion exceeding the $18,500 cash balance in the Velvet Acorn Custody taxable account.",
+      "priority": null,
+      "dueDate": "2026-06-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The first Paper Otter University fall semester payment source remains unresolved, with follow-up needed by June 26, 2026 to identify the specific source or mix of sources for the first semester bill because the portal shows a family portion that is larger than the current taxable account cash balanc"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain final school cost and aid docs",
+      "text": "Obtain the final Paper Otter University cost and aid documents, including the official aid notice, housing assignment charge, meal plan selection, and detailed student fee statement, to replace the current estimates used in planning.",
+      "priority": null,
+      "dueDate": "2026-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Final school cost and aid documents also remain needed by June 10, 2026: the final Paper Otter University aid notice, housing assignment charge, meal plan selection, and student fee detail, because the meeting used an estimate rather than final school documents."
+    },
+    {
+      "templateId": null,
+      "title": "Verify scholarship acknowledgment and enrollment status",
+      "text": "Verify the Paper Otter University scholarship acknowledgment, confirm Lila Mossbutton’s enrollment status, and review any conditions affecting the $18,000 merit award before relying on it in the funding schedule.",
+      "priority": null,
+      "dueDate": "2026-06-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The scholarship and enrollment information remains unresolved, with follow-up needed by June 8, 2026 to verify the Paper Otter University scholarship acknowledgment, enrollment status, and any conditions that affect the merit award before the household relies on it in the funding schedule."
+    },
+    {
+      "templateId": null,
+      "title": "Create education payment timing checklist",
+      "text": "Create an education payment timing checklist for Daria Mossbutton that outlines 529 withdrawal processing, direct school payment options, household cash transfers, and taxable account settlement timing for the first semester bill.",
+      "priority": null,
+      "dueDate": "2026-06-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to create, by June 6, 2026, an education payment timing checklist that distinguishes 529 withdrawal processing, direct school payment options, household cash transfers, and taxable account settlement timing for the first semester bill."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve failed secure portal upload",
+      "text": "Resolve the failed Apricot Compass Advisory secure portal upload of the tuition invoice screenshot reported by Daria Mossbutton so the planning file contains the necessary school evidence.",
+      "priority": null,
+      "dueDate": "2026-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed to resolve, by June 3, 2026, the failed Apricot Compass Advisory secure portal upload Daria reported for the tuition invoice screenshot so the planning file contains the school evidence used in the funding discussion."
+    },
+    {
+      "templateId": null,
+      "title": "Determine cash raise from taxable account",
+      "text": "Determine how much cash can be raised from the joint taxable investment account at Velvet Acorn Custody for the Mossbutton household without creating avoidable concentration, tax, or reserve issues, given the current $18,500 cash holdings.",
+      "priority": null,
+      "dueDate": "2026-06-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to determine, by June 12, 2026, how much cash can be raised from the Velvet Acorn Custody taxable account without creating avoidable concentration, tax, or reserve issues because current money market holdings do not cover the expected semester payment."
+    },
+    {
+      "templateId": "ddf43168-2732-55bc-b8cc-9d9c9342d023",
+      "title": "Review concentrated investment position",
+      "text": "Evaluate a concentrated position for portfolio risk, tax exposure, liquidity needs, and available transition strategies. Gather cost basis, holding period, unrealized gain or loss, restrictions, charitable intent, and any employer-related trading limitations before recommending next steps. Specifically assess Daria Mossbutton’s Moonbadger Robotics stock holdings, considering available trading windows, lot‑level gain exposure, and the impact on her concentrated position as part of the education funding analysis.",
+      "priority": "high",
+      "dueDate": "2026-06-18",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "They agreed to analyze, by June 18, 2026, the use of Moonbadger Robotics stock for part of the education gap, including available trading windows, lot-level gain exposure, and the effect on Daria’s concentrated position."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain employer stock cost basis records",
+      "text": "Obtain the lot‑level cost basis and vesting records for Daria Mossbutton’s Moonbadger Robotics shares held outside her retirement plan to enable tax‑aware analysis of a potential education‑gap sale.",
+      "priority": null,
+      "dueDate": "2026-06-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The employer stock cost basis records remain needed by June 11, 2026: lot-level cost basis and vesting records for the Moonbadger Robotics shares held outside the retirement plan, because the available account view does not show enough detail for tax-aware funding analysis."
+    },
+    {
+      "templateId": null,
+      "title": "Review discrepancy in Lila 529 balance",
+      "text": "Review the discrepancy between the latest Cloudberry Kite Education Plan household statement and the online balance shown for Lila Mossbutton’s 529 account, identifying any pending contributions, market movements, or unreflected transactions.",
+      "priority": null,
+      "dueDate": "2026-06-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to review, by June 7, 2026, the difference between the latest Cloudberry Kite Education Plan household statement and the online balance shown during the meeting for Lila’s 529 account, including any pending contribution, market movement, or transaction not reflected in both places."
+    },
+    {
+      "templateId": null,
+      "title": "Review Lila 529 allocation for tuition",
+      "text": "Review whether Lila Mossbutton’s 529 investment allocation and cash availability align with the near‑term tuition withdrawal schedule, given the current equity exposure shown on the statement.",
+      "priority": null,
+      "dueDate": "2026-06-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed to review, by June 12, 2026, whether Lila’s 529 investment allocation and cash availability fit the near-term tuition withdrawal schedule, given the equity exposure shown on the current statement."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on failed bank-link",
+      "text": "Follow up on the failed bank‑link attempt Daria Mossbutton described when trying to connect her Teacup Comet Bank checking account for an education payment through the Cloudberry Kite Education Plan.",
+      "priority": null,
+      "dueDate": "2026-06-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to follow up by June 4, 2026 on the failed bank-link attempt Daria described when she tried to connect Teacup Comet Bank checking for an education account payment through Cloudberry Kite Education Plan."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Tin Sparrow 529 statement",
+      "text": "Obtain the most recent Tin Sparrow Education Savings 529 statement for Lila Mossbutton to replace the verbal $22,000 balance estimate provided by Alma Pebblefizz.",
+      "priority": null,
+      "dueDate": "2026-06-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The most recent Tin Sparrow Education Savings 529 statement for Lila remains needed by June 21, 2026 because the planning discussion relied on Alma’s verbal balance estimate."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare instructions for relatives' education gifts",
+      "text": "Prepare clear instructions for Alma Pebblefizz and other relatives on how to make education gifts or reimbursements that are traceable to Lila Mossbutton’s college funding plan and distinguishable from the household’s regular contributions.",
+      "priority": null,
+      "dueDate": "2026-06-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare, by June 19, 2026, instructions for how Alma and other relatives can make education gifts or reimbursements in a way that is traceable to Lila’s college funding plan and distinguishable from the household’s monthly contributions."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm school authorization steps for billing",
+      "text": "Confirm the school authorization steps that allow Daria Mossbutton and Owen Mossbutton to view Lila’s billing and financial aid information at Paper Otter University now that she controls student record access.",
+      "priority": null,
+      "dueDate": "2026-06-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to confirm, by June 14, 2026, the school authorization steps that allow Daria and Owen to view billing and financial aid information for Lila now that she controls student record access."
+    },
+    {
+      "templateId": null,
+      "title": "Revisit work-study cash flow plan",
+      "text": "Revisit the work‑study cash‑flow plan for Lila Mossbutton by June 24 if her course schedule or first‑year workload reduces the usability of the $4,000 work‑study assumption for billed costs.",
+      "priority": null,
+      "dueDate": "2026-06-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The work-study cash flow assumption remains unresolved, with follow-up needed by June 24, 2026 to revisit the cash flow plan if Lila’s course schedule or first-year workload makes the stated work-study amount less usable for billed costs."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate with Nia on education payments",
+      "text": "Coordinate with Nia Cloverwhisk of Coral Badger Tax on education payment recordkeeping, potential state tax treatment of 529 contributions, taxable asset sales, and documentation of family assistance gifts for the Mossbutton household.",
+      "priority": null,
+      "dueDate": "2026-06-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to coordinate with Nia by June 20, 2026 on education payment recordkeeping, potential state tax treatment of 529 contributions, taxable asset sales, and any gift documentation for family assistance."
+    },
+    {
+      "templateId": "a9d3b8a3-fcdf-5a99-bb86-dc976b2554d7",
+      "title": "Complete beneficiary update checklist",
+      "text": "Use this checklist before submitting or recording beneficiary updates:\n\n- Confirm the account registration and account type requiring a beneficiary review.\n- Verify current primary and contingent beneficiaries on file.\n- Confirm full legal names, relationships, dates of birth if required, and allocation percentages.\n- Check that total primary percentages equal 100% and total contingent percentages equal 100% when applicable.\n- Identify whether spouse consent, trust documentation, or plan administrator approval is required.\n- Confirm whether IRA, retirement plan, transfer-on-death, insurance, or annuity rules apply.\n- Send the correct custodian or carrier form through the approved secure process.\n- Save confirmation of submission and final acceptance in the client record.\n- Note any estate planning follow-up needed with the client’s attorney.\n\nApply this checklist to review and update successor owner and beneficiary designations for all education accounts, including Lila’s Cloudberry Kite 529, Theo’s Cloudberry Kite 529, and Alma’s Tin Sparrow 529, in light of Lila’s college enrollment and Theo’s future needs.",
+      "priority": "high",
+      "dueDate": "2026-07-03",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [],
+      "evidence": "They agreed to review, by July 3, 2026, successor owner and beneficiary records for the education accounts in light of Lila starting college, Theo remaining a future beneficiary, and Alma appearing on at least one account record."
+    }
+  ]
+}

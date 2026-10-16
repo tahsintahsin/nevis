@@ -1,0 +1,75 @@
+{
+  "meetingId": "597",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Send consolidated list of incomplete onboarding items",
+      "text": "Send Arden Cloverwhisk a consolidated list of the remaining portal sections and paper forms that are incomplete after the onboarding meeting.",
+      "priority": null,
+      "dueDate": "2026-02-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arden asked for one consolidated list of remaining portal sections and paper forms because he was unsure which onboarding items were still incomplete after the meeting; the agreed follow-up is to send that list by 2026-02-19."
+    },
+    {
+      "templateId": null,
+      "title": "Build short-term cash-flow schedule",
+      "text": "Build a short-term cash-flow schedule for Arden Cloverwhisk tied to reserves, tuition, mortgage payments, and tax set-asides. Account for salary continuation through June 2026 and the expected consulting role with Clockwork Clover Systems starting in March 2026 at $18,000 per month for an initial six-month contract.",
+      "priority": null,
+      "dueDate": "2026-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arden’s salary continuation and new consulting income create a temporary overlap followed by uncertain contract renewal timing; the agreed follow-up is to build a short-term cash-flow schedule tied to reserves, tuition, mortgage payments, and tax set-asides by 2026-03-13."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Paper Otter Robotics 401(k) rollover information",
+      "text": "Collect Arden Cloverwhisk’s most recent Paper Otter Robotics 401(k) statement, source breakdown, vesting details, loan status, and summary plan information before comparing available rollover choices for the former employer plan.",
+      "priority": null,
+      "dueDate": "2026-02-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the retirement plan rollover evaluation, the current Paper Otter Robotics plan statement, source breakdown, vesting details, loan status, and summary plan information are needed before the available choices for the former employer plan are compared, with follow-up needed by 2026-02-26."
+    },
+    {
+      "templateId": null,
+      "title": "Address external account aggregation access",
+      "text": "Address the failed Velvet Acorn Custody connection during portal setup after multifactor authentication. Restore access to Arden Cloverwhisk’s taxable brokerage account for the initial portfolio review.",
+      "priority": null,
+      "dueDate": "2026-02-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arden reported that the Velvet Acorn Custody connection failed twice during portal setup after multifactor authentication, leaving the taxable brokerage account unavailable for the initial portfolio review; the agreed follow-up is to address external account aggregation access by 2026-02-17."
+    },
+    {
+      "templateId": null,
+      "title": "Review equity compensation separation terms",
+      "text": "Review Arden Cloverwhisk’s Paper Otter Robotics incentive stock options and restricted stock units, including post-termination exercise provisions, cash requirements, and tax coordination points before he makes any election.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arden wants the firm to review the holdings, exercise terms, cash requirements, and tax coordination points before he makes any election; the agreed follow-up is to complete the equity compensation separation review by 2026-03-06."
+    },
+    {
+      "templateId": "278e4645-2b2c-502c-b086-38d3ff7c2144",
+      "title": "Follow up on client tax notice",
+      "text": "Log the notice, request a complete copy from the client, identify the tax year and response window, and coordinate with the client's tax professional when authorized. Document the issue type, any payment requested, and whether the notice relates to investment income, retirement distributions, estimated taxes, or another matter.\n\nObtain the complete IRS notice and permission to coordinate with CPA Sienna Maplesprocket of Copper Firefly Tax Studio before routing the matter. The partial notice image references tax year 2024 and possible underpayment interest but does not show the full issue description, response instructions, or payment calculation.",
+      "priority": "high",
+      "dueDate": "2026-02-18",
+      "assigneeId": "a99e4321-9f42-5aa9-b7eb-f9503ded0b62",
+      "subTasks": [],
+      "evidence": "The partial IRS notice image does not show the full issue description, response instructions, or payment calculation, so the complete notice and permission to coordinate with Sienna Maplesprocket are needed before the matter can be routed, with follow-up needed by 2026-02-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review life insurance, beneficiary designations, and estate documents",
+      "text": "Review Arden and Lena Cloverwhisk’s life insurance coverage, current beneficiary designations, and estate documents for planning relevance. The $1.2 million Moonbadger Life Assurance term policy and Lena’s $600,000 group life coverage are older than the current household circumstances, as are the 2017 wills naming Arden’s brother Milo Cloverwhisk as successor trustee.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the life insurance policy details, current beneficiary designations, and estate documents are older than the current household circumstances; the agreed follow-up is to review coverage, titling, and named fiduciaries for planning relevance by 2026-03-20."
+    }
+  ]
+}

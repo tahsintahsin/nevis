@@ -1,0 +1,104 @@
+{
+  "meetingId": "154",
+  "tickets": [
+    {
+      "templateId": "49855936-cdb3-553c-9d96-aedf56efcad7",
+      "title": "Open and Prepare New Account",
+      "text": "Set up a new joint taxable advisory account for Nolan and Lila Pebblefizz with transfer-on-death registration. The account should reflect a moderate-growth objective, tax sensitivity, and a preference to avoid adding to the existing Paper Otter Analytics concentration. Transfer cash above the $120,000 household reserve target and anticipated estate cash once received.",
+      "priority": "medium",
+      "dueDate": "2024-11-01",
+      "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4",
+      "subTasks": [
+        {
+          "title": "Confirm account profile and registration",
+          "text": "Verify the intended account type, ownership or registration, tax classification if applicable, investment objective, risk tolerance, and any special restrictions before paperwork is prepared.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4"
+        },
+        {
+          "title": "Prepare and review account documents",
+          "text": "Complete the custodian or platform forms, advisory agreement items, fee schedule references, beneficiary fields if applicable, and required disclosures. Review for missing signatures, inconsistent addresses, and incomplete identity information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Submit opening package and track approval",
+          "text": "Submit the account package through the appropriate channel and monitor for approval, rejection, or additional information requests. Record any follow-up items in the client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm funding and first operational setup",
+          "text": "Confirm funding instructions, transfer status, cash availability, model or allocation setup, statement delivery preference, and online access readiness before closing the workflow.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4"
+        }
+      ],
+      "evidence": "Nolan asked to set up a new joint taxable advisory account with transfer-on-death registration for cash above the household reserve target and for anticipated estate cash once received. The account profile needs to reflect the couple’s moderate-growth objective, tax sensitivity, and preference to av"
+    },
+    {
+      "templateId": "f5286f1b-d273-53aa-86ac-8930bce13b82",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Complete a side-by-side review of Lila Pebblefizz’s new medical coverage, disability options, life insurance, HSA or FSA eligibility, and retirement plan contributions at Moonbadger Design Studio before her enrollment window closes.",
+      "priority": "medium",
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lila’s job change created a new enrollment decision for medical coverage, disability options, life insurance, HSA or FSA eligibility, and retirement plan contributions. Nolan provided the employee portal screenshots during the meeting and asked for a side-by-side review before her enrollment window "
+    },
+    {
+      "templateId": "0b36d91c-41e3-5416-b667-1892b9e43f2a",
+      "title": "Gather Inheritance Intake Details",
+      "text": "Gather the core facts for Adele Pebblefizz’s estate: inventory, beneficiary confirmation, inherited IRA custodian notice, and expected distribution schedule. Use these facts before any investment decision is made.",
+      "priority": "high",
+      "dueDate": "2024-10-30",
+      "assigneeId": "157b8a9a-c7b3-5f23-8936-81828c794fa4",
+      "subTasks": [],
+      "evidence": "The executor’s email referenced estate cash, a possible inherited IRA interest, and pending tax reporting, but the client file does not yet contain the estate inventory, beneficiary confirmation, inherited IRA custodian notice, or expected distribution schedule. Nolan asked for the core facts to be "
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Paper Otter Analytics stock cost basis",
+      "text": "Reconcile the cost basis discrepancy for Nolan Pebblefizz’s Paper Otter Analytics tax lots between his spreadsheet and the Velvet Acorn Custody unrealized gain report. Determine which shares are suitable for charitable gifting or trimming as part of concentration management.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nolan’s spreadsheet shows a different cost basis for several Paper Otter Analytics tax lots than the figures appearing on the Velvet Acorn Custody unrealized gain report. The discrepancy affects which shares may be suitable for charitable gifting or trimming as part of the concentration-management d"
+    },
+    {
+      "templateId": null,
+      "title": "Confirm IRA beneficiary update records",
+      "text": "Confirm the current beneficiary records for Nolan Pebblefizz’s IRA at Velvet Acorn Custody and correct account-level settings where needed. The portal shows paper delivery for one household login and does not display a beneficiary update Nolan believed was submitted.",
+      "priority": null,
+      "dueDate": "2024-10-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nolan also reported that the Velvet Acorn Custody portal still shows paper delivery for one household login and does not display the beneficiary update he believed was submitted for his IRA. The service follow-up is limited to confirming current records and correcting account-level settings where ne"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare estate document coordination points for attorney review",
+      "text": "Prepare coordination points for Nolan and Lila Pebblefizz’s estate attorney to review the revocable trust, pour-over wills, powers of attorney, and health care directives in light of the current family situation. Focus on outdated guardianship provisions and the successor trustee who has moved overseas.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The year-end review found that the family’s estate plan still references guardianship provisions created when both children were minors and names a successor trustee who has since moved overseas. Nolan asked for coordination points to send to the estate attorney so the documents can be reviewed in l"
+    },
+    {
+      "templateId": "9727228a-7805-5061-bf40-38d37d55b59a",
+      "title": "Apricot Compass Financial Plan Review",
+      "text": "Complete a year-end tax projection for Nolan and Lila Pebblefizz that coordinates withholding, estimated tax exposure, appreciated-share giving, and whether a larger charitable gift should be made before year-end. Include the couple’s usual $18,000 annual charitable gifts and support to Silver Marmot Arts Fund.",
+      "priority": null,
+      "dueDate": "2024-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nolan requested a projection that coordinates withholding, estimated tax exposure, appreciated-share giving, and whether a larger charitable gift should be made before year-end. They agreed to complete the year-end tax projection and charitable funding analysis by 2024-12-06."
+    }
+  ]
+}

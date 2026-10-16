@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "310",
+  "313"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"314\", \"tickets\": [{\"title\": \"Refresh Household Plan for North Carolina Residency\", \"text\": \"Refresh the household plan for North Carolina residency, Asheville housing costs, revised commuting expenses, cash reserve targets, retirement savings, and Lila Bramblequill’s education funding assumptions.\", \"priority\": null, \"dueDate\": \"2025-10-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is to refresh the household plan for North Carolina residency, Asheville housing costs, revised commuting expenses, cash reserve targets, retirement savings, and Lila’s education funding assumptions by 2025-10-10\"}, {\"title\": \"Review Ellis Bramblequill’s Cloudberry Kite Analytics Benefits Guide\", \"text\": \"Review Ellis Bramblequill’s Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA, disability coverage, supplemental life insurance, and retirement contribution choices before the election window closes.\", \"priority\": null, \"dueDate\": \"2025-09-30\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up is to review Ellis’s Cloudberry Kite Analytics benefits guide, rate sheet, and portal summary against HSA, disability coverage, supplemental life insurance, and retirement contribution choices by 2025-09-30 before the election window closes.\"}, {\"title\": \"Obtain Asheville Homeowners Insurance Declarations Page and Umbrella Coverage Premium Notice\", \"text\": \"Obtain the Asheville homeowners declarations page and current umbrella coverage premium notice from the insurance portal, as the file currently has sold Nashville property insurance records but lacks these North Carolina documents.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Insurance evidence remains needed because the file has sold Nashville property insurance records but lacks the Asheville homeowners declarations page, current umbrella declarations page, and premium notice; Nora said those documents are still in the insurance portal.\"}, {\"title\": \"Resolve Nora Bramblequill’s Payroll Address and Withholding State Question for CPA\", \"text\": \"Resolve the unresolved state residency and withholding question for Nora Bramblequill’s CPA, caused by a mismatch between her Tennessee payroll address at Paper Otter Designworks and the Asheville residence shown on the moving invoice, mortgage records, and utility setup.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Payroll and withholding follow-up remains needed because Nora’s Paper Otter Designworks paystub shows a Tennessee payroll address while the moving invoice, mortgage records, and utility setup show the Asheville residence, creating an unresolved state residency and withholding question for the client’s CPA.\"}]}",
+   "usage": {
+    "input_tokens": 11151,
+    "output_tokens": 663,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

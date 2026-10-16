@@ -1,0 +1,84 @@
+{
+  "meetingId": "834",
+  "tickets": [
+    {
+      "templateId": "eeaa9b5d-78e4-55ba-98d9-0f6ae221111e",
+      "title": "Follow up on account security concern",
+      "text": "Security concern type: unauthorized access\nAffected account or platform: Velvet Acorn Custody\nDate client reported concern: 2025-11-06\nClient's preferred contact method: phone\nImmediate action requested: reset credentials\nCustodian or platform contact: Velvet Acorn Custody support\nResolution status: open\nNext client update: 2025-11-07",
+      "priority": "high",
+      "dueDate": "2025-11-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-07 covering custodian escalation, evidence documentation, credential reset coordination, and a phone update to Paige."
+    },
+    {
+      "templateId": "d59658c9-3bcc-573c-a34e-479818bc4c60",
+      "title": "Follow up on missing signature",
+      "text": "Contact Darin Lanternmoss through the approved channel, explain the required signature location on the household authorization package, and confirm secure return of the signed page for Paige Lanternmoss.",
+      "priority": "medium",
+      "dueDate": "2025-11-10",
+      "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9",
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-10 to contact Darin through the approved channel, explain the required signature location, and confirm secure return of the signed page."
+    },
+    {
+      "templateId": "340a01fd-6530-54e3-8336-c6224508592f",
+      "title": "Track custodian transfer status",
+      "text": "Check the latest status of the Velvet Acorn Custody transfer for the taxable account, document any remaining assets or cost basis discrepancies, and report findings to Paige Lanternmoss.",
+      "priority": "medium",
+      "dueDate": "2025-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-12 to check the receiving custodian’s latest status and document whether remaining assets or basis details are still pending."
+    },
+    {
+      "templateId": "96edd7b2-1df4-595b-96aa-9e7c04b9813d",
+      "title": "Complete beneficiary update workflow",
+      "text": "Use the beneficiary update workflow to confirm the revised primary and contingent percentages for Darin Lanternmoss, Liora Lanternmoss, and the Willow Pudding Family Trust, identify the correct custodian process, and flag any trust wording that may require estate attorney review for Paige Lanternmoss.",
+      "priority": "medium",
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm beneficiary instructions",
+          "text": "Review the client's requested beneficiary changes, including primary and contingent beneficiaries, percentages, relationship details, and any per stirpes or trust-related language. Flag anything that requires attorney or estate planning review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "08744d31-7555-51ee-a1eb-a482b9defeeb"
+        },
+        {
+          "title": "Prepare custodian documentation",
+          "text": "Identify the correct beneficiary update method for each affected account, prepare forms or portal steps, and confirm whether spousal consent, medallion signature guarantee, or trust documentation is required.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9"
+        },
+        {
+          "title": "Submit and track update",
+          "text": "Submit the completed documentation through the approved custodian channel and track the request until the custodian confirms the beneficiary record has been updated.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9"
+        },
+        {
+          "title": "Confirm completion with client",
+          "text": "Send the client a concise confirmation that the beneficiary update has been completed, noting any accounts still pending or any items the client should retain with estate documents.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "08744d31-7555-51ee-a1eb-a482b9defeeb"
+        }
+      ],
+      "evidence": "They agreed on follow-up by 2025-11-14 to confirm the requested designations, identify the correct custodian process, and flag any trust wording that may require estate attorney review."
+    },
+    {
+      "templateId": "b91c5012-f119-507f-91de-d78d8599cb42",
+      "title": "Review charitable transfer readiness",
+      "text": "Review the proposed charitable gift of appreciated Copper Firefly Systems shares to Marzipan Meadow Arts Fund, collect delivery instructions, coordinate tax questions, and gather confirmation evidence for Paige Lanternmoss.",
+      "priority": "medium",
+      "dueDate": "2025-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-21 covering the proposed asset, charity delivery instructions, tax coordination questions, and confirmation evidence needed for Paige’s records."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+ "model": "accounts/fireworks/models/minimax-m3",
+ "latency_s": 32.87049,
+ "input_tokens": 7510,
+ "output_tokens": 6346,
+ "cache_write_tokens": 0,
+ "cache_read_tokens": 2836,
+ "cost_usd": 0.010038360000000001,
+ "cost_basis": "tokens",
+ "token_cost_usd": 0.010038360000000001,
+ "config": "fw_minimax_twostep_tmpl",
+ "provider": "fireworks",
+ "deployment": "serverless",
+ "api_model": "accounts/fireworks/models/minimax-m3",
+ "fine_tuned": false,
+ "prompt_version": "two_step_tmpl-9efed385",
+ "pipeline": "two_step",
+ "few_shot": "none",
+ "few_shot_examples": [],
+ "structured_output": "json_schema",
+ "calls": 2,
+ "stop_reasons": [
+  "stop",
+  "stop"
+ ],
+ "effort": "low"
+}

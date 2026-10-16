@@ -1,0 +1,97 @@
+{
+  "meetingId": "194",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain Velvet Acorn lapse reinstatement details for Arlo Copperwisp",
+      "text": "Obtain from Velvet Acorn Life Insurance the reinstatement terms, catch-up premium, conversion availability, and any underwriting requirements for Arlo Copperwisp's $1.5 million term life policy that entered grace or lapse status after a premium draft failed from a closed Pocket Lantern Bank account.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain that carrier information by March 1, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Process recurring payment change request",
+      "text": "Complete the recurring payment change intake before submitting any instruction.\n\nClient household: Arlo and Lena Copperwisp\nRequest type: Change funding source\nPayment purpose: Insurance premium drafts\nCurrent payment amount: [________________]\nNew payment amount, if applicable: [________________]\nCurrent frequency: [________________]\nNew frequency, if applicable: [________________]\nRequested effective timing: By February 29, 2024\nFunding account nickname or registration, no full account number: Teacup Comet Bank operating account (replacing closed Pocket Lantern Bank account)\nDestination or payee: Insurance carriers including Velvet Acorn Life Insurance\nTax withholding change needed?: Not applicable\nClient authorization method received: [Secure message / signed form / recorded call note / other]\nCustodian or provider forms required: [________________]\nSpecial handling notes: Apply only to policies still eligible for automatic payment\nConfirmation sent to client: [Yes / No; date or note reference: ________________]\n\nArlo Copperwisp requested this change after the Velvet Acorn Life Insurance lapse notice traced to the failed draft from the closed Pocket Lantern Bank account.",
+      "priority": "medium",
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to update the payment source by February 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current Polka Fern declarations pages for Copperwisp household",
+      "text": "Obtain current home, auto, umbrella, and Bend rental property declarations pages from Polka Fern Insurance Agency for the Copperwisp household, since the latest renewal coverage limits cannot be confirmed from the older portal copies already on file.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Current declarations are needed by March 8, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Review Bend rental condo protection for Copperwisp household",
+      "text": "Review protection for the Copperwisp household's Bend rental condo purchased in January 2024 for $635,000 with a $410,000 mortgage balance, covering landlord, tenant, liability, property loss, and loss-of-rent exposures that were not part of the prior household insurance review.",
+      "priority": null,
+      "dueDate": "2024-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review that protection by March 15, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare Moonbadger benefits with Copperwisp private coverage",
+      "text": "Compare Moonbadger Robotics supplemental life, disability, and beneficiary settings with the Copperwisp household's private coverage before the benefits election portal closes, tied to Arlo Copperwisp's promotion.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That comparison is needed by March 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Velvet Acorn beneficiary evidence for Arlo Copperwisp",
+      "text": "Obtain current carrier evidence from Velvet Acorn Life Insurance for the beneficiary arrangement on Arlo Copperwisp's term policy, since the portal shows a different arrangement than the beneficiary summary retained in the Cloudberry Kite Custody planning file.",
+      "priority": null,
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That evidence is needed by March 12, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Request Arlo and Lena Copperwisp's current estate planning documents, organize received files, and prepare a concise gap summary for advisor review. Include wills, revocable trust documents, powers of attorney, health care directives, beneficiary designation evidence, trust funding records, and any recent attorney correspondence. Do not provide legal interpretation; identify document dates, named roles, missing pages or signatures, and items that may require attorney confirmation.\n\nThe 2016 Buttonwood Balloon Legal binder names Lena as Arlo's primary agent and Jules Copperwisp as successor trustee, but the estate binder lacks trust funding evidence and includes fiduciary role information that may not reflect the current household and insurance beneficiary structure.",
+      "priority": "medium",
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to Arlo and Lena Copperwisp and log each received item by document type, execution date if visible, and file location. Reference the 2016 Buttonwood Balloon Legal binder already on file.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        },
+        {
+          "title": "Review completeness and role information",
+          "text": "Check whether key documents appear complete and note visible fiduciary roles (Lena as Arlo's primary agent, Jules Copperwisp as successor trustee), successor roles, beneficiary references, missing signature pages, outdated drafts, or documents that refer to schedules not provided.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0"
+        },
+        {
+          "title": "Prepare advisor gap summary",
+          "text": "Summarize collected evidence, open questions, and attorney follow-up items for the lead advisor before any client-facing recommendations are discussed. Flag the missing trust funding evidence and any beneficiary discrepancies with the Velvet Acorn Life Insurance arrangement.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "91e6fcb2-95ab-5fbf-b81c-989b1748ccb3"
+        }
+      ],
+      "evidence": "The agreed follow-up is to collect the estate planning documents by March 22, 2024."
+    }
+  ]
+}

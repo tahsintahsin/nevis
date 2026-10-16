@@ -1,0 +1,94 @@
+{
+  "meetingId": "815",
+  "tickets": [
+    {
+      "templateId": "24021c5e-be89-5d42-9140-abb9dc028eee",
+      "title": "Complete address and residency update workflow",
+      "text": "Use this workflow when a client reports a new mailing address, tax residency change, seasonal residence, or household relocation. Confirm the effective date, update advisory records, and identify planning consequences for tax-aware investment management, retirement income distributions, and account communications.\n\nFor Elena and Rowan Pippinwisp, update advisory records, statement delivery preferences, and planning assumptions to reflect their new Reno townhouse residence and tax-residency trail.",
+      "priority": "medium",
+      "dueDate": "2024-09-03",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm move details and documentation",
+          "text": "Collect the new mailing address, physical residence, prior address, effective date, seasonal residence notes, and any supporting documentation the client is comfortable providing.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update internal records and communication preferences",
+          "text": "Update CRM, household profile, statement delivery preferences, meeting location notes, and any compliance-required address fields.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review planning impacts",
+          "text": "Check whether the move affects state tax assumptions, retirement distribution withholding, municipal bond exposure, estate document jurisdiction, insurance coverage, or advisor registration requirements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm completion with client",
+          "text": "Send a brief confirmation summarizing the updates made and any follow-up items the client should address with tax, legal, or account providers.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Elena reported that the household moved from Oregon to the Reno townhouse and asked that advisory records, statement delivery preferences, and planning assumptions reflect the new residence and tax-residency trail. The agreed follow-up for 2024-09-03 is to update the address, statement delivery pref"
+    },
+    {
+      "templateId": null,
+      "title": "Organize homeowners coverage questions for Thimble Harbor Insurance",
+      "text": "Organize the homeowners coverage questions tied to Rowan Pippinwisp’s Thimble Harbor Insurance renewal notice before the renewal window closes.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan brought a Thimble Harbor Insurance renewal notice showing a noticeably higher homeowners premium and asked for help organizing coverage questions before the renewal window closes. The agreed follow-up for 2024-09-10 is to organize the homeowners coverage questions tied to the Thimble Harbor In"
+    },
+    {
+      "templateId": null,
+      "title": "Address the Teacup Comet Bank mortgage autopay correction",
+      "text": "Address the mortgage autopay correction at Teacup Comet Bank, including the duplicate withdrawal from checking caused by the old extra-principal draft after the refinance setup and the recurring instruction now on file.",
+      "priority": null,
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena also described a Teacup Comet Bank mortgage-autopay service problem in which the bank continued an old extra-principal draft after the refinance setup, causing a duplicate withdrawal from checking and uncertainty about the recurring instruction now on file. The agreed follow-up for 2024-08-30 "
+    },
+    {
+      "templateId": "dbefe474-45fd-55fe-9ce9-fd646cf1c79d",
+      "title": "Review equity award evidence and planning criteria",
+      "text": "Collect and review Elena Pippinwisp’s Cloudberry Kite Robotics equity award materials together, including restricted stock units, incentive stock options, and blackout-window notices.",
+      "priority": "medium",
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena said the portal includes restricted stock units, incentive stock options, and blackout-window notices that have not yet been analyzed together. The agreed follow-up for 2024-09-13 is to review those employer-equity materials together."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estimated tax reserves with Jasper Thimblefern",
+      "text": "Coordinate with Jasper Thimblefern of Silver Marmot Tax on estimated tax reserves before any employer-share sale or option exercise is modeled for cash-flow planning.",
+      "priority": null,
+      "dueDate": "2024-09-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena asked Mossy Meteor Advisory to coordinate with Jasper Thimblefern on estimated tax reserves before any employer-share sale or option exercise is modeled for cash-flow planning. The agreed follow-up for 2024-09-18 is coordination on those estimated tax reserves."
+    },
+    {
+      "templateId": null,
+      "title": "Review year-end charitable transfer timing",
+      "text": "Review the year-end timing for Elena and Rowan Pippinwisp’s charitable transfers alongside their cash-gift pattern and tax projections. Consider using appreciated taxable holdings for charitable giving.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena and Rowan discussed using appreciated taxable holdings for charitable giving and wanted the year-end timing reviewed alongside their cash-gift pattern and tax projections. The agreed follow-up for 2024-11-15 is to review year-end charitable transfer timing with their cash-gift pattern and tax "
+    }
+  ]
+}

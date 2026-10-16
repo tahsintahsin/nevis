@@ -1,0 +1,25 @@
+{
+  "meetingId": "793",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare business-sale destination note",
+      "text": "Prepare a concise destination note for Raina Bramblequill covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions following her sale of 80% of Cloudberry Kite Design Studio to Silver Marmot Holdings.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Raina asked for a concise destination note covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions; the agreed follow-up is due January 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain executed escrow agreement and final working-capital schedule",
+      "text": "Obtain the executed escrow agreement and final working-capital schedule missing from Raina Bramblequill’s sale file. Resolve the net proceeds reconciliation discrepancy between the closing binder and bank deposit by identifying escrow, advisory fees, legal fees, and working-capital adjustments.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed January 3, 2025 follow-up is to obtain the executed escrow agreement and final working-capital schedule missing from the sale file."
+    }
+  ]
+}

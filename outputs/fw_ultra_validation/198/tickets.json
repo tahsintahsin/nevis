@@ -1,0 +1,63 @@
+{
+  "meetingId": "198",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble tax filing data for first married year",
+      "text": "Assemble year-to-date pay statements, equity vesting records, mortgage interest information for both properties, and condominium rental income data for Dahlia Mossbutton and Owen Cloudpuddle's first post-marriage tax return with Priya Copperwisp at Copper Firefly Tax Studio.",
+      "priority": null,
+      "dueDate": "2023-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to assemble that tax filing data by 2023-11-21."
+    },
+    {
+      "templateId": null,
+      "title": "Begin household account transition review for marriage",
+      "text": "Begin operational review for changing selected contact information, household mailing preferences, and joint visibility settings on advisory-serviced accounts for Dahlia Mossbutton and Owen Cloudpuddle after marriage.",
+      "priority": null,
+      "dueDate": "2023-11-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to begin that review by 2023-11-03."
+    },
+    {
+      "templateId": "430e12f8-8d1e-56b8-b622-187c9d3239d4",
+      "title": "Process recurring payment change request",
+      "text": "Complete the recurring payment change intake before submitting any instruction.\n\nClient household: [Dahlia Mossbutton and Owen Cloudpuddle]\nRequest type: [change funding source]\nPayment purpose: [selected household payments]\nCurrent payment amount: [________________]\nNew payment amount, if applicable: [________________]\nCurrent frequency: [________________]\nNew frequency, if applicable: [________________]\nRequested effective timing: [________________]\nFunding account nickname or registration, no full account number: [Teacup Comet Bank high-yield savings (Dahlia Mossbutton individual)]\nDestination or payee: [________________]\nTax withholding change needed? [Not applicable]\nClient authorization method received: [________________]\nCustodian or provider forms required: [________________]\nSpecial handling notes: [Moving payments to new Paper Otter Bank joint checking account]\nConfirmation sent to client: [No]\n\nThis review addresses moving selected household payments from Dahlia Mossbutton's individual Teacup Comet Bank account to the new Paper Otter Bank joint checking account for Dahlia Mossbutton and Owen Cloudpuddle, with a target review completion by 2023-11-15.",
+      "priority": "medium",
+      "dueDate": "2023-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that payment funding review by 2023-11-15."
+    },
+    {
+      "templateId": "d71226e6-275a-5a53-88b4-57b55eccb19c",
+      "title": "Liquidity Reserve Snapshot",
+      "text": "Review the joint cash reserve target for Dahlia Mossbutton and Owen Cloudpuddle considering separate savings accounts (Teacup Comet Bank high-yield savings $48,000 and checking/savings $27,000), new joint checking account at Paper Otter Bank ($6,200), two properties with mortgages, and combined monthly spending of approximately $12,600.",
+      "priority": null,
+      "dueDate": "2023-11-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the joint cash reserve target by 2023-11-17."
+    },
+    {
+      "templateId": null,
+      "title": "Collect estate planning documents and summarize gaps",
+      "text": "Request Dahlia Mossbutton and Owen Cloudpuddle's current estate planning documents, organize received files, and prepare a concise gap summary for advisor review. Include wills, revocable trust documents, powers of attorney, health care directives, beneficiary designation evidence, trust funding records, and any recent attorney correspondence. Do not provide legal interpretation; identify document dates, named roles, missing pages or signatures, and items that may require attorney confirmation.\n\nCollect estate document copies for Dahlia Mossbutton (2018 will and health care directive prepared by Cassian Willowdoodle naming Lina Mossbutton as primary fiduciary) and Owen Cloudpuddle (estate plan with guardian provisions for Finn Cloudpuddle) for marriage review by 2023-11-10.",
+      "priority": "medium",
+      "dueDate": "2023-11-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Request and log estate documents",
+          "text": "Send the standard document request checklist to the client and log each received item by document type, execution date if visible, and file location.",
+          "priority": "medium",
+          "dueDate": "2023-11-011-011-06",
+          "assigneeId": "dc27a56a-9f8e-5909-959b-cf89e9c02e33"
+        }
+      ],
+      "evidence": "The agreed follow-up is to collect those estate document copies by 2023-11-10."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete inherited account beneficiary package",
+      "text": "Complete the inherited account beneficiary package for Elian Thimblefern with Velvet Acorn Custody, covering the inherited IRA and taxable account claim packets, so the estate's next transfer batch can proceed.",
+      "priority": null,
+      "dueDate": "2024-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09."
+    },
+    {
+      "templateId": "b69561c0-d94b-5366-9da1-17d83160108e",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Review Elian Thimblefern's financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items. Confirm whether new facts require updated recommendations or a follow-up meeting agenda. Refresh the plan to incorporate the inherited assets: the estimated $270,000 taxable brokerage allocation, $160,000 inherited IRA, and 35% interest in the lake cabin valued at $420,000 in total, which materially change retirement timing, cash reserve position, tax picture, and investment allocation.",
+      "priority": "medium",
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "the agreed post-inheritance plan refresh is due 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate arrangement after family changes",
+      "text": "Review Elian Thimblefern's estate arrangement after family changes, updating the 2012 documents that still name late spouse Corin Mossbutton as primary health-care agent and personal representative, and addressing the new property and beneficiary coordination questions raised by the inherited assets.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed estate arrangement review after family changes is due 2024-03-08."
+    }
+  ]
+}

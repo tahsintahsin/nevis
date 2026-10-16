@@ -1,0 +1,55 @@
+{
+  "meetingId": "303",
+  "tickets": [
+    {
+      "templateId": "fa8ebcc2-e3bb-5862-a32e-36b07cd19a82",
+      "title": "Coordinate divorce-related financial document package",
+      "text": "Compile and organize financial planning records requested for divorce-related analysis for Anika Meadowbobbin. Use only authorized documents, confirm permitted communication channels, and separate planning notes from legal advice. Coordinate with Tobin Mossbutton of Silver Marmot Legal when written authorization is on file. Gather the investment, bank, retirement, debt, and household cash‑flow records requested by Tobin Mossbutton for the pending property discussion, and deliver the package by March 14, 2025.",
+      "priority": "high",
+      "dueDate": "2025-03-14",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "They agreed that the divorce financial document package will compile authorized investment, bank, retirement, debt, and household cash-flow records requested by Tobin Mossbutton for the pending property discussion by March 14, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Paper Otter valuation and K‑1",
+      "text": "Obtain the Paper Otter Fabrication ownership valuation exhibit, the recent K‑1 support, and the buy‑sell agreement pages for Anika Meadowbobbin, and provide them to attorney Tobin Mossbutton by March 18, 2025.",
+      "priority": null,
+      "dueDate": "2025-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the shared portal lacked the Paper Otter Fabrication ownership valuation exhibit, recent K-1 support, and buy-sell agreement pages needed by Silver Marmot Legal, the agreed follow-up is to obtain those records by March 18, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Compare and label mortgage balance documents",
+      "text": "Compare the mediation worksheet mortgage balance with the Teacup Comet Bank portal data, label the source documents, and prepare them for planning exhibits for Anika Meadowbobbin by March 12, 2025.",
+      "priority": null,
+      "dueDate": "2025-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the mediation worksheet showed a lower mortgage balance than the Teacup Comet Bank portal, the agreed follow-up is to compare and label source documents before planning exhibits by March 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate changes to retirement and insurance",
+      "text": "Coordinate any changes to Anika Meadowbobbin’s Roth IRA, term life insurance policy, and joint taxable account through authorized legal channels, working with attorney Tobin Mossbutton, and complete the updates by March 21, 2025.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s planning inventory review found Reid still listed on Anika’s Roth IRA, term life policy, and joint taxable account; any changes are to be coordinated through authorized legal channels by March 21, 2025."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Access recovery request\n\nClient name: Anika Meadowbobbin\nAffected portal or institution: Velvet Acorn Custody joint taxable account\nUser ID or known login email: [________________]\nIssue type: MFA reset\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [yes / no / location: ________]\nSecurity notes or restrictions: [________________]\nNext action required: [________________]",
+      "priority": "high",
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the Velvet Acorn Custody joint taxable login sends verification prompts to Reid’s phone and prevents Anika from downloading statements, access recovery was agreed by March 10, 2025."
+    }
+  ]
+}

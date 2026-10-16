@@ -1,0 +1,85 @@
+{
+  "meetingId": "567",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Refresh estate documents and guardian nomination",
+      "text": "Coordinate the guardian nomination and estate document refresh for Mira and Jonas Quillwhistle, whose 2019 wills, powers of attorney, and health care directives predate parenthood and omit a child guardian nomination, trust provisions for a minor child, and updated fiduciary choices tied to Lila Quillwhistle. The 2019 documents name Mira's sister, Tessa Willowdoodle, as backup decision maker.",
+      "priority": null,
+      "dueDate": "2026-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for guardian nomination and estate document refresh is due 2026-03-15."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare education funding account structure outline",
+      "text": "Prepare an education savings account structure outline for Lila Quillwhistle covering owner selection, beneficiary information, an initial funding amount from cash reserves at Teacup Comet Bank, possible recurring contributions, and tax or gifting considerations. Mira Quillwhistle wants funding to cover about half of a public university cost while preserving flexibility.",
+      "priority": null,
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that education funding account structure outline by 2026-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Lila's Social Security number and adoption decree",
+      "text": "Follow up on obtaining Lila Quillwhistle's Social Security number and final adoption decree, which are needed for both account-opening information and the household's tax documentation for Mira and Jonas Quillwhistle.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those records are needed for both account-opening information and the household’s tax documentation; this unresolved legal identity records issue needs follow-up by 2026-03-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare life insurance needs analysis",
+      "text": "Prepare a life insurance needs analysis for Mira and Jonas Quillwhistle considering mortgage payoff on the roughly $612,000 balance, survivor income, childcare costs, and a targeted education funding amount. Current coverage includes Mira's employer group life at two times salary plus a $500,000 supplemental policy through Cloudberry Kite Systems and Jonas's $300,000 level term policy through Silver Marmot Insurance running to 2044.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2026-02-27 is preparation of a life insurance needs analysis considering mortgage payoff, survivor income, childcare costs, and a targeted education funding amount."
+    },
+    {
+      "templateId": null,
+      "title": "Verify disability benefit coverage details",
+      "text": "Verify disability benefit coverage for Mira and Jonas Quillwhistle, since the Cloudberry Kite Systems benefits summary only showed a wage-replacement percentage and Jonas's available disability coverage is unclear. Mira's employer long-term disability coverage replaces 60% of eligible income and Jonas has no individual disability policy.",
+      "priority": null,
+      "dueDate": "2026-02-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Disability benefit verification remains needed by 2026-02-24."
+    },
+    {
+      "templateId": null,
+      "title": "Assemble CPA tax preparation packet",
+      "text": "Organize the CPA packet for Mira and Jonas Quillwhistle before CPA Alina Dewspindle's spring preparation cutoff, including adoption-related tax records, childcare deposit evidence from Buttonwood Balloon Early Learning, dependent information, and employer benefit elections.",
+      "priority": null,
+      "dueDate": "2026-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for the CPA packet is due 2026-03-10."
+    },
+    {
+      "templateId": null,
+      "title": "Compare dependent care FSA versus cash flow funding",
+      "text": "Compare using a dependent care flexible spending account versus paying childcare costs entirely from cash flow for Mira and Jonas Quillwhistle once full-time infant care begins at Buttonwood Balloon Early Learning at $2,850 per month.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for the dependent care benefit estimate is due 2026-02-18."
+    },
+    {
+      "templateId": "06ce3b8f-97db-50d6-b568-9379f45c3196",
+      "title": "Resolve account access recovery issue",
+      "text": "Help Mira Quillwhistle regain access to the joint taxable investment account at Velvet Acorn Custody, confirm identity requirements, document the resolution path, and note any follow-up security steps. The security code is being sent to an old mobile number, blocking joint statement downloads and planned funding transfers.",
+      "priority": "high",
+      "dueDate": "2026-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for the custodian portal access interruption is due 2026-02-14."
+    }
+  ]
+}

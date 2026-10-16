@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"528\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Identify bookkeeping and CPA records needed\",\n\"text\": \"Identify the records that Lena Bramblequill’s bookkeeper and CPA Nia Thimblefern will need once client deposits begin, including operating account details and transaction logs, to support Pocket Lantern Studio LLC banking separation.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to identify those records by 2024-09-13.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Prepare quarterly tax payment calendar\",\n\"text\": \"Prepare a quarterly tax payment calendar for Lena Bramblequill that aligns estimated self‑employment tax payments with her invoice schedule and household cash availability, coordinating with CPA Nia Thimblefern.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-20\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to prepare that calendar by 2024-09-20.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Address Velvet Acorn custodian feed issue\",\n\"text\": \"Address the Velvet Acorn Custody dashboard feed issue for Lena Bramblequill so the household account view reflects her current restricted stock unit holdings and brokerage data.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-10\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to address the feed issue by 2024-09-10.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review estate documents and beneficiary designations\",\n\"text\": \"Review the estate documents and beneficiary designations for Lena Bramblequill, including wills naming her sister Priya Bramblequill, to ensure they reflect ownership of Pocket Lantern Studio LLC and related assets.\",\n\"priority\": null,\n\"dueDate\": \"2024-10-04\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to review the estate documents and beneficiary designations by 2024-10-04.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 5135,
+    "output_tokens": 1347,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

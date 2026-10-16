@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"768\",\n\"tickets\": [\n{\n\"templateId\": \"7e079875-a636-5be9-84a0-36c6f079b4eb\",\n\"title\": \"Open new client account\",\n\"text\": \"Open the approved new joint taxable account for Lila Copperwisp and Rowan Thistlefable using the existing custodian workflow. Fund the account initially from the Teacup Comet Bank savings, and ensure both spouses receive online access and electronic statements.\",\n\"priority\": \"high\",\n\"dueDate\": \"2024-10-18\",\n\"assigneeId\": \"5c5439fe-19f1-52ba-8646-5d8a3755e27e\",\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-ups are to open a joint taxable account at the existing custodian by 2024-10-18, initially funded from Teacup Comet Bank savings, with both spouses receiving online access and electronic statements\"\n},\n{\n\"templateId\": null,\n\"title\": \"Prepare beneficiary change forms\",\n\"text\": \"Prepare beneficiary change forms for Lila Copperwisp naming Rowan Thistlefable as primary and Camila Copperwisp as contingent where allowed. Ensure the forms are completed and submitted by the required deadline.\",\n\"priority\": null,\n\"dueDate\": \"2024-10-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"prepare beneficiary change forms by 2024-10-25 naming Rowan primary and Camila Copperwisp contingent where allowed\"\n},\n{\n\"templateId\": null,\n\"title\": \"Collect household identity records\",\n\"text\": \"Collect the household identity records for Lila Copperwisp and Rowan Thistlefable, including the certified marriage certificate, to update the client profiles. Ensure the records are added to the file by the target date.\",\n\"priority\": null,\n\"dueDate\": \"2024-10-14\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"collect household identity records by 2024-10-14 because profiles still show Lila’s prior household status and the file lacks the certified marriage certificate\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4129,
+    "output_tokens": 2070,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

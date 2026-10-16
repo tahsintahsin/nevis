@@ -1,0 +1,114 @@
+{
+  "meetingId": "815",
+  "tickets": [
+    {
+      "templateId": "24021c5e-be89-5d42-9140-abb9dc028eee",
+      "title": "Complete address and residency update workflow",
+      "text": "Update advisory records, statement delivery preferences, and planning assumptions to reflect Elena and Rowan Pippinwisp’s move from Oregon to the Reno townhouse and the associated tax-residency trail.",
+      "priority": "medium",
+      "dueDate": "2024-09-03",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm move details and documentation",
+          "text": "Collect the new mailing address, physical residence, prior address, effective date, seasonal residence notes, and any supporting documentation the client is comfortable providing.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update internal records and communication preferences",
+          "text": "Update CRM, household profile, statement delivery preferences, meeting location notes, and any compliance-required address fields.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review planning impacts",
+          "text": "Check whether the move affects state tax assumptions, retirement distribution withholding, municipal bond exposure, estate document jurisdiction, insurance coverage, or advisor registration requirements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm completion with client",
+          "text": "Send a brief confirmation summarizing the updates made and any follow-up items the client should address with tax, legal, or account providers.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "The agreed follow-up for 2024-09-03 is to update the address, statement delivery preferences, and planning assumptions for the new residence and tax-residency trail."
+    },
+    {
+      "templateId": null,
+      "title": "Organize homeowners coverage questions tied to Thimble Harbor Insurance renewal notice",
+      "text": "Help organize the homeowners coverage questions tied to the Thimble Harbor Insurance renewal notice showing a noticeably higher premium.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan brought a Thimble Harbor Insurance renewal notice showing a noticeably higher homeowners premium and asked for help organizing coverage questions before the renewal window closes. The agreed follow-up for 2024-09-10 is to organize the homeowners coverage questions tied to the Thimble Harbor In"
+    },
+    {
+      "templateId": "edf2fbce-5c49-5e58-9961-8db31aa328b7",
+      "title": "Change recurring payment instructions",
+      "text": "Address the Teacup Comet Bank mortgage-autopay service problem in which the bank continued an old extra-principal draft after the refinance setup, causing a duplicate withdrawal from checking and uncertainty about the recurring instruction now on file.",
+      "priority": "medium",
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena also described a Teacup Comet Bank mortgage-autopay service problem in which the bank continued an old extra-principal draft after the refinance setup, causing a duplicate withdrawal from checking and uncertainty about the recurring instruction now on file. The agreed follow-up for 2024-08-30 "
+    },
+    {
+      "templateId": "0abfb48a-c041-5167-89d9-5c914aeb4eb5",
+      "title": "Request and organize estate document copies",
+      "text": "Collect current copies of the will, trust amendment pages, powers of attorney, health care directive, and beneficiary-designation confirmations to complete the estate-binder follow-up.",
+      "priority": "medium",
+      "dueDate": "2024-09-20",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "The unresolved estate-binder follow-up dated 2024-09-20 is collection of those current documents and confirmations."
+    },
+    {
+      "templateId": "098a99bb-56c3-5bae-8a8a-0daaeba9311f",
+      "title": "Year-End Deadline Sweep",
+      "text": "Resolve the discrepancy between the education-funding worksheet (which assumes a larger annual contribution for a grandchild) and the account statement, and establish whether the worksheet or the statement reflects Elena and Rowan’s intended gift level.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The education-funding worksheet assumes a larger annual contribution for a grandchild than the account statement appears to show, and the meeting did not establish whether the worksheet or the statement reflects Elena and Rowan’s intended gift level. That college-account funding discrepancy remains "
+    },
+    {
+      "templateId": "f32975d4-b9d2-5dee-8d8e-b4b2741ab40e",
+      "title": "Coordinate business sale outreach",
+      "text": "Review the restricted stock units, incentive stock options, and blackout-window notices in the portal that have not yet been analyzed together.",
+      "priority": "medium",
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for 2024-09-13 is to review those employer-equity materials together."
+    },
+    {
+      "templateId": "2c5d93d5-0cc9-529e-ae9b-ebe8c1077044",
+      "title": "Policy Renewal Follow-Up",
+      "text": "Coordinate with CPA Jasper Thimblefern on estimated tax reserves before any employer-share sale or option exercise is modeled for cash-flow planning.",
+      "priority": null,
+      "dueDate": "2024-09-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena asked Mossy Meteor Advisory to coordinate with Jasper Thimblefern on estimated tax reserves before any employer-share sale or option exercise is modeled for cash-flow planning. The agreed follow-up for 2024-09-18 is coordination on those estimated tax reserves."
+    },
+    {
+      "templateId": "098a99bb-56c3-5bae-8a8a-0daaeba9311f",
+      "title": "Year-End Deadline Sweep",
+      "text": "Review year-end charitable transfer timing alongside the household’s cash-gift pattern and tax projections.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena and Rowan discussed using appreciated taxable holdings for charitable giving and wanted the year-end timing reviewed alongside their cash-gift pattern and tax projections. The agreed follow-up for 2024-11-15 is to review year-end charitable transfer timing with their cash-gift pattern and tax "
+    }
+  ]
+}

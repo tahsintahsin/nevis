@@ -1,0 +1,50 @@
+{
+  "meetingId": "849",
+  "tickets": [
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update the household profile for Nadia and Owen Pebblefizz by recording their daughter Lena as a dependent, adjusting the childcare and medical cash flow, and incorporating Nadia’s revised Cloudberry Kite parental-leave income estimate.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate."
+    },
+    {
+      "templateId": null,
+      "title": "Provide family-attorney checklist",
+      "text": "Provide a family-attorney checklist for Nadia and Owen Pebblefizz to address the 2021 will and healthcare documents that predate their daughter Lena and lack a minor-child guardian.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain term policy and disability details",
+      "text": "Obtain Owen Pebblefizz’s individual term policy declaration page and the disability details for both Nadia and Owen Pebblefizz to complete the protection review.",
+      "priority": null,
+      "dueDate": "2025-02-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Obtain Owen’s term policy declaration page",
+          "text": "Collect the individual term policy declaration page for Owen Pebblefizz.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Obtain spouses’ disability details",
+          "text": "Collect the disability details for both Nadia and Owen Pebblefizz.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete."
+    }
+  ]
+}

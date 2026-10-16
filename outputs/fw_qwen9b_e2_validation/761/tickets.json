@@ -1,0 +1,75 @@
+{
+  "meetingId": "761",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble survivor administration packet",
+      "text": "Assemble the death certificate, 2016 will, and current household account list for Galen Thimblefern’s survivor administration packet. Use the packet for custodian, bank, and insurer notifications following Rhea Thimblefern’s death.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the death certificate, 2016 will, and current household account list were identified as the core packet for custodian, bank, and insurer notifications after Rhea’s death; the agreed follow-up is due 2024-11-08."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Paper Otter Publishing benefits documents",
+      "text": "Collect Rhea Thimblefern’s missing employer life insurance claim forms and 401(k) distribution paperwork from Paper Otter Publishing. Galen has the final paystub and provided HR contact information for document outreach.",
+      "priority": null,
+      "dueDate": "2024-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Galen had Rhea’s final paystub but not the employer life insurance claim forms or 401(k) distribution paperwork, and he provided the HR contact information for document outreach; the agreed follow-up is due 2024-11-12."
+    },
+    {
+      "templateId": null,
+      "title": "Recover Teacup Comet Bank bill-pay access",
+      "text": "Resolve the Teacup Comet Bank bill-pay authentication issue for Galen Thimblefern. Online bill-pay still routes to Rhea’s mobile number and blocks changes to household utility payees. Restore access and allow bill-pay changes.",
+      "priority": null,
+      "dueDate": "2024-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "online bill-pay authentication still routed to Rhea’s mobile number and blocked changes to household utility payees; the agreed follow-up is due 2024-11-06."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Velvet Acorn Custody registration",
+      "text": "Reconcile the registration of Galen and Rhea’s joint taxable account at Velvet Acorn Custody. Custody records show joint tenants, while the estate binder describes the account as transfer-on-death to Lina Thimblefern. Obtain the account registration evidence before claims are submitted.",
+      "priority": null,
+      "dueDate": "2024-11-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "custody records showed the joint taxable account as joint tenants, while the household estate binder described the same account as transfer-on-death to Lina, and Galen asked for the account registration evidence to be reconciled before claims are submitted; the agreed follow-up is due 2024-11-15."
+    },
+    {
+      "templateId": "c2779699-232b-57db-b0a8-994a3ad6251e",
+      "title": "Collect Tax Documents for Planning Review",
+      "text": "Request, track, and organize tax documents needed for Galen Thimblefern’s survivor-year tax projection. Include current income, withholding, charitable giving, estimated payment, and realized gain reports. Use secure upload instructions and note any missing items for advisor follow-up.",
+      "priority": "medium",
+      "dueDate": "2024-11-22",
+      "assigneeId": "d8b6c5e7-1b71-5fdb-b6ff-5bb2d48617d8",
+      "subTasks": [],
+      "evidence": "Nadia Pebblefizz requested current income, withholding, charitable giving, estimated payment, and realized gain reports for Galen’s survivor-year tax projection; the agreed follow-up is due 2024-11-22."
+    },
+    {
+      "templateId": "616fb00d-e58e-5578-bfe6-01f5ab99768c",
+      "title": "Build Retirement Income Plan Checklist",
+      "text": "Complete these checks before presenting a retirement income plan:\n\n- Confirm planned retirement timing, employment status, and expected lifestyle changes.\n- Verify essential spending, discretionary spending, one-time goals, and emergency reserve needs.\n- Inventory income sources, including Social Security, pensions, annuities, rental income, part-time income, and portfolio withdrawals.\n- Review account types and tax character across taxable, tax-deferred, Roth, HSA, and cash reserves.\n- Model withdrawal sequencing and identify tax-aware distribution opportunities.\n- Check Medicare, health insurance, long-term care, and insurance premium assumptions.\n- Review required minimum distribution timing where applicable.\n- Evaluate inflation assumptions and stress-test market downturn scenarios.\n- Confirm beneficiary designations and estate planning coordination items.\n- Document open questions, missing evidence, and recommended next steps for advisor review.\n\nRefresh the retirement income model for Galen Thimblefern using updated survivor income, Medicare premiums, cash reserves, and portfolio withdrawal assumptions. Exclude Rhea’s employer medical premiums and income.",
+      "priority": "high",
+      "dueDate": "2024-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "updated survivor income, Medicare premiums, cash reserves, and portfolio withdrawal assumptions were identified as inputs for the next plan version; the agreed follow-up is due 2024-12-06."
+    },
+    {
+      "templateId": "ec95858f-0b1b-5ac5-9396-1be6809f1ffc",
+      "title": "Review Concentrated Position Exposure",
+      "text": "Assess Galen Thimblefern’s Moonbadger Industrial Systems position size, cost basis, holding period, tax impact, liquidity needs, employer or insider restrictions, diversification targets, and available sale, hedge, gifting, or charitable strategies. Review staged sale, charitable gifting, and tax impact without rushing the decision during estate administration.",
+      "priority": "medium",
+      "dueDate": "2024-12-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Galen asked for a staged sale, charitable gifting, and tax-impact review because the holding remains a large part of the taxable account and he does not want a rushed decision during estate administration; the agreed follow-up is due 2024-12-13."
+    }
+  ]
+}

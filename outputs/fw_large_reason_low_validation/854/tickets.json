@@ -1,0 +1,85 @@
+{
+  "meetingId": "854",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm beneficiary designations for retirement and insurance",
+      "text": "Confirm current beneficiary designations for Alden Pebblefizz's retirement accounts and insurance policies, ensuring they reflect the intended primary and contingent beneficiaries as discussed.",
+      "priority": null,
+      "dueDate": "2024-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "confirmation of current beneficiary designations across retirement and insurance accounts is needed by 2024-05-08."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain complete estate documents for Pebblefizz household",
+      "text": "Obtain full copies of Alden and Priya Pebblefizz's wills, powers of attorney, and healthcare directives to enable the planning team to summarize the estate arrangement.",
+      "priority": null,
+      "dueDate": "2024-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "complete copies are needed by 2024-05-08 before the planning team can summarize the estate arrangement."
+    },
+    {
+      "templateId": null,
+      "title": "Complete household profile packet sections",
+      "text": "Complete the remaining contact, authorization, risk tolerance, and communication preference sections of Alden Pebblefizz's household profile packet so the new client record can be finalized.",
+      "priority": null,
+      "dueDate": "2024-04-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is completion of those remaining sections by 2024-04-26."
+    },
+    {
+      "templateId": null,
+      "title": "Reset portal access and confirm upload instructions",
+      "text": "Reset secure portal access for Alden and Priya Pebblefizz and confirm upload instructions for brokerage statements with both decision‑makers.",
+      "priority": null,
+      "dueDate": "2024-04-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reset portal access and confirm upload instructions with both household decision-makers by 2024-04-23."
+    },
+    {
+      "templateId": "6d91b3c5-f350-52b1-949e-0902b766d90a",
+      "title": "Coordinate retirement plan rollover request",
+      "text": "Manage the reusable retirement plan rollover process for Alden Pebblefizz. Confirm the source plan type (Willow Pudding Components), destination account readiness, distribution method, tax withholding instructions, transfer restrictions, and documentation needed before the client initiates the rollover. Track receipt of funds and flag any tax, investment, or timing issues for advisor review. Address the evaluation of the Willow Pudding Components plan once the statement and distribution options are received.",
+      "priority": "medium",
+      "dueDate": "2024-05-03",
+      "assigneeId": "a937bf6e-3ad5-5284-b240-883a5ae3e40a",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that evaluation once those records are available, due 2024-05-03."
+    },
+    {
+      "templateId": null,
+      "title": "Include equity award considerations in planning meeting",
+      "text": "Include Paper Otter Robotics equity award vesting concentration, tax withholding, and potential post‑vesting sale considerations for Alden Pebblefizz in the first planning meeting.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to include those equity award considerations in the first planning meeting by 2024-05-10."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain tax returns and CPA authorization",
+      "text": "Obtain Alden and Priya Pebblefizz's most recent federal and Oregon tax returns and written authorization to coordinate with CPA Rowan Thimblefern for the baseline tax analysis.",
+      "priority": null,
+      "dueDate": "2024-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those materials and authorization are needed by 2024-05-01."
+    },
+    {
+      "templateId": null,
+      "title": "Update education funding assumptions for Nora",
+      "text": "Update the education funding assumptions for Nora Pebblefizz, reflecting her interest in an out‑of‑state engineering program, to revise the 529 spending timeline for Alden and Priya Pebblefizz.",
+      "priority": null,
+      "dueDate": "2024-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "updated education funding assumptions are needed by 2024-05-15."
+    }
+  ]
+}

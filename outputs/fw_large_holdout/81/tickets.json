@@ -1,0 +1,35 @@
+{
+  "meetingId": "81",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update address records for Lila Copperwisp",
+      "text": "Update address-related advisory and custodian records for Lila Copperwisp to reflect the Seattle residence effective 2025-04-01, including changes at Teacup Comet Bank, Velvet Acorn Custody, and Silver Marmot Mutual policies.",
+      "priority": null,
+      "dueDate": "2025-04-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2025-04-04 to update address-related advisory and custodian records after the lease begins"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain lease and utility confirmation",
+      "text": "Obtain the signed Seattle apartment lease and Washington utility confirmation for Lila Copperwisp to complete her file.",
+      "priority": null,
+      "dueDate": "2025-04-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2025-04-09 to obtain the lease and Washington utility confirmation missing from the file"
+    },
+    {
+      "templateId": null,
+      "title": "Review Oregon bond fund and cash needs",
+      "text": "Review the Oregon municipal bond fund, the concentration of Tin Sparrow Robotics shares, and the household’s move‑related cash requirements for Lila Copperwisp.",
+      "priority": null,
+      "dueDate": "2025-04-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2025-04-25 to review the Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meetingId": "398",
+  "tickets": [
+    {
+      "templateId": "57f0c40e-1353-504e-8b4a-d7269e288882",
+      "title": "Review equity award strategy",
+      "text": "Use this workflow to evaluate Nia and Owen Bramblequill's equity compensation package, identify tax and concentration risks, and prepare planning recommendations before the next compensation decision window. Gather current grant documents, vesting schedules, cost basis information, estimated income, and any employer plan rules before completing the review. Prepare a charitable funding comparison of appreciated employer shares versus cash gifts to support the $250,000 fund goal, incorporating tax impact and portfolio concentration considerations.",
+      "priority": "medium",
+      "dueDate": "2025-12-12",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect equity award evidence",
+          "text": "Request grant agreements, vesting schedules, recent brokerage statements, employer plan summaries, and any prior exercise or sale confirmations. Confirm award types, vesting status, expiration timing, and blackout or trading-window constraints.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Analyze tax and cash-flow impact",
+          "text": "Model potential ordinary income, capital gain, AMT exposure where applicable, withholding gaps, and estimated tax needs. Note whether charitable giving, tax-loss harvesting, or staged sales may be relevant.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Assess concentration and liquidity risk",
+          "text": "Compare employer stock exposure with the client's total portfolio, spending needs, emergency reserves, and upcoming liquidity events. Document recommended diversification ranges and any constraints on execution.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare recommendation summary",
+          "text": "Create a concise client-facing summary with available choices, planning tradeoffs, documents reviewed, open questions, and recommended next steps for the advisor meeting.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "They agreed to prepare the comparison by December 12, 2025."
+    },
+    {
+      "templateId": "21dfeb72-8e0b-5317-9129-20bcd2aeaba8",
+      "title": "Update household profile information",
+      "text": "Complete or refresh the household profile using the placeholders below.\n\nPrimary contact: Nia Bramblequill\nPreferred name: \nPronouns, if shared: \nEmail: \nPhone: \nMailing address: \nTax filing status: joint\nEmployment status: Vice President of Product; Part-time Faculty\nEmployer or business: Apricot Compass Technologies; Buttonwood Balloon School\nSpouse or partner: Owen Bramblequill\nDependents: Liora Bramblequill, age 15; Benjamin Bramblequill, age 12\nKey family contacts: Selene Bramblequill (mother, assisted living)\nCPA or tax preparer: Tobin Mossbutton of Polka Fern Tax Services\nAttorney: \nInsurance agent: \nMajor life changes since last update: Selene Bramblequill moved into assisted living\nCurrent planning priorities: Build $250,000 charitable fund; Update household profile\nDocuments to request or refresh: Employer share documentation; Cost basis evidence; Holding period evidence\nOpen questions: \n\nUpdate Nia and Owen Bramblequill’s household profile to reflect the new emergency contact for Owen and the charitable fund planning priority, and ensure the profile reflects the updated dependent information.",
+      "priority": null,
+      "dueDate": "2025-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to address the household profile and planning contact update by December 19, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Verify Moonbadger Arts gift requirements",
+      "text": "Verify the Moonbadger Arts Foundation’s process for a large publicly traded securities gift, including delivery instructions, designation language for arts education, and receipt wording needed for tax records for Nia and Owen Bramblequill.",
+      "priority": null,
+      "dueDate": "2025-12-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to verify those requirements by December 9, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare charitable deduction tax projection",
+      "text": "Prepare a tax projection for Nia and Owen Bramblequill estimating charitable deduction capacity, carryforward limits, and impact on taxable income given household compensation, unrealized gains, mortgage interest, and prior giving, to inform year‑end transfer decisions.",
+      "priority": null,
+      "dueDate": "2025-12-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare that projection by December 17, 2025."
+    }
+  ]
+}

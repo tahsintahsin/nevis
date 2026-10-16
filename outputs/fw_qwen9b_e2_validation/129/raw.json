@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e2",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"129\", \"tickets\": [{\"title\": \"Request estate document package\", \"text\": \"Subject: Estate planning document request\\n\\nHello Nolan Wrenpuddle,\\n\\nTo help keep the financial plan and account records aligned with the current estate plan, please send copies of any available documents listed below:\\n\\n- Will\\n- Revocable trust or other trust agreements\\n- Trust amendments or restatements\\n- Durable power of attorney\\n- Health care directive or medical power of attorney\\n- Beneficiary designation confirmations\\n- Letters of instruction or executor/trustee contact details\\n- Any recent attorney summary letter\\n\\nIf another professional should provide these directly, please share the professional’s name, firm, email, and phone number: Celia Thimblefern.\\n\\nPreferred secure delivery method: [secure portal / encrypted email / mail / other: ________]\\nDocuments already on file: 2014 revocable trust and will\\nDocuments still needed: Any later restatement, trustee acceptance language, durable power of attorney, health care directive, or attorney summary letter. Confirm what was finalized in the binder Celia Thimblefern may have prepared after Carla’s death.\\n\\nThank you,\\nApricot Compass Advisory\", \"priority\": \"medium\", \"dueDate\": \"2026-02-19\", \"assigneeId\": null, \"templateId\": \"f893c20e-c44a-568a-9217-439053a4b55d\", \"subTasks\": [], \"evidence\": \"The agreed follow-up is to obtain the current estate document package by 2026-02-19.\"}, {\"title\": \"Follow up on IRA beneficiary inconsistency\", \"text\": \"Follow up with Nolan Wrenpuddle by 2026-02-26 on the inconsistency between his traditional IRA and Roth IRA beneficiary confirmations. The traditional IRA lists Lena and Oscar equally, while the Roth IRA still lists the 2014 revocable trust as sole beneficiary. Nolan expects both accounts to pass directly to his children unless there is a specific reason to keep the trust on one account.\", \"priority\": null, \"dueDate\": \"2026-02-26\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Further follow-up is needed by 2026-02-26 on the IRA beneficiary inconsistency, because Nolan expected both retirement accounts to pass directly to his children unless there was a specific reason to keep the trust on one account.\"}, {\"title\": \"Follow up on successor trustee sequence and authority evidence\", \"text\": \"Follow up with Nolan Wrenpuddle by 2026-03-05 on the successor trustee sequence and authority evidence. Carla Wrenpuddle remains first successor trustee before Priya Nettlewhisk. Confirm whether Priya signed any trustee acceptance and whether another child should be added later. This affects the estate review and possible future trust account administration steps.\", \"priority\": null, \"dueDate\": \"2026-03-05\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Further follow-up is also needed by 2026-03-05 on the successor trustee sequence and authority evidence, because Carla remains ahead of Priya and Nolan is unsure whether Priya signed any acceptance or whether another child should be added later; this affects the estate review and possible future trust account administration steps.\"}]}",
+   "usage": {
+    "input_tokens": 3170,
+    "output_tokens": 775,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

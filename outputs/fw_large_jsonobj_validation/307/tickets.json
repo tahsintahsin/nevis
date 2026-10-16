@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "meetingId": "307",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Create calendar of vesting and blackout periods",
+      "text": "Create a consolidated calendar for Tobin Mossbutton that lists all option and RSU vesting dates, blackout periods, and pre‑clearance steps, using information from Velvet Acorn Custody and the employer equity plan.",
+      "priority": null,
+      "dueDate": "2026-08-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare illustration comparing exercise alternatives",
+      "text": "Prepare an illustration for Tobin Mossbutton that compares same‑day sale, cash exercise, and partial exercise of his options against available cash reserves and payroll withholding capacity, incorporating the identified vested option strike prices.",
+      "priority": null,
+      "dueDate": "2026-08-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain equity plan agreement and related documents",
+      "text": "Obtain the full equity plan agreement, all grant notices, and the insider trading policy for Tobin Mossbutton to confirm exercise limits and sale restrictions, as only the current portal balance was provided.",
+      "priority": null,
+      "dueDate": "2026-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions"
+    }
+  ]
+}

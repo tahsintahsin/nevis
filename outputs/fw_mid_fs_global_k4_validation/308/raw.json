@@ -1,0 +1,23 @@
+{
+ "config": "fw_mid_fs_global_k4",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657",
+  "60",
+  "329"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"308\", \"tickets\": [{\"title\": \"Prepare life insurance coverage analysis\", \"text\": \"Prepare a life insurance coverage analysis for Alina and Derek Mossbutton reflecting Nora Mossbutton’s adoption, Derek’s reduced household income during unpaid leave, the $412,000 mortgage balance, and current group and term policies. Alina has employer group life insurance equal to one times salary; Derek has a $250,000 term policy with Moonbadger Life through 2041.\", \"priority\": null, \"dueDate\": \"2026-03-09\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed to prepare life insurance coverage analysis by 2026-03-09 reflecting Nora’s adoption, Derek’s reduced household income during leave, the mortgage balance, and current group and term policies.\"}, {\"title\": \"Create one view of childcare and education funding tradeoffs\", \"text\": \"Create one view of childcare and education funding tradeoffs for Alina and Derek Mossbutton, showing reserve impact, dependent-care reimbursements, and possible education account funding levels. The daycare quote is $2,150 per month for infant care; desired college savings contributions would draw from the same monthly surplus.\", \"priority\": null, \"dueDate\": \"2026-03-12\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2026-03-12 to create one view of childcare and education funding tradeoffs because the daycare quote and desired college savings contribution would draw from the same monthly surplus, showing reserve impact, dependent-care reimbursements, and possible education account funding levels.\"}, {\"title\": \"Address dependent-care enrollment timing\", \"text\": \"Address dependent-care enrollment timing for Alina and Derek Mossbutton because Derek’s employer portal shows a benefits enrollment window closing soon, and Alina was unsure which parent’s dependent-care arrangement should be used given the expected daycare start and leave transition. Follow up by 2026-02-27.\", \"priority\": null, \"dueDate\": \"2026-02-27\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2026-02-27 to address dependent-care enrollment timing because Derek’s employer portal shows a benefits enrollment window closing soon, and Alina was unsure which parent’s dependent-care arrangement should be used given the expected daycare start and leave transition.\"}]}",
+   "usage": {
+    "input_tokens": 1,
+    "output_tokens": 579,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 27372
+   },
+   "stop": "stop"
+  }
+ ]
+}

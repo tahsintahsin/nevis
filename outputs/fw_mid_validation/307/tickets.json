@@ -1,0 +1,35 @@
+{
+  "meetingId": "307",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare single calendar of option and RSU vesting, blackout periods, and pre-clearance steps",
+      "text": "Prepare a single calendar of Tobin Mossbutton's option and RSU vesting, blackout periods, and pre-clearance steps, as planning was relying on memory or portal screenshots.",
+      "priority": "medium",
+      "dueDate": "2026-08-12",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots."
+    },
+    {
+      "templateId": null,
+      "title": "Illustrate same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity",
+      "text": "Illustrate same-day sale, cash exercise, or partial exercise against Tobin Mossbutton's cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison.",
+      "priority": "medium",
+      "dueDate": "2026-08-19",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison."
+    },
+    {
+      "templateId": null,
+      "title": "Collect full equity plan agreement, grant notices, and insider trading policy",
+      "text": "Collect the full equity plan agreement, grant notices, and insider trading policy for Tobin Mossbutton to confirm exercise limits and sale restrictions, as Tobin showed only the current portal balance.",
+      "priority": "medium",
+      "dueDate": "2026-08-05",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance."
+    }
+  ]
+}

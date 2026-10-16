@@ -1,0 +1,127 @@
+{
+  "meetingId": "11",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare first-year college funding schedule",
+      "text": "Map Lila Pebblefizz's first-year cost at Buttonwood Balloon University against the $12,000 merit scholarship, the Lila 529 account at Velvet Acorn Custody ($103,800), available Teacup Comet Bank checking cash, and any remaining gap, so Nadia and Owen Pebblefizz can see the order and timing of likely funding sources.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia asked Pocket Lantern Advisory to map Lila’s expected first-year cost against the merit scholarship, the Lila 529 account, available checking cash, and any remaining gap so the household can see the order and timing of likely funding sources. The agreed follow-up is to prepare that first-year c"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Lila 529 investment positioning review",
+      "text": "Prepare risk-reduction options for the Lila 529 account at Velvet Acorn Custody, currently about 70% equity-oriented and 30% short-term bond and cash-equivalent options, ahead of the next withdrawal decision given near-term tuition use.",
+      "priority": null,
+      "dueDate": "2025-02-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The team noted that the account still had a large equity-oriented allocation despite the near-term tuition use, and the discussion covered preparing risk-reduction options before the next withdrawal decision. The agreed follow-up is to prepare the Lila 529 investment positioning review by 2025-02-24"
+    },
+    {
+      "templateId": null,
+      "title": "Collect university aid and billing documents",
+      "text": "Collect from Nadia Pebblefizz the final Buttonwood Balloon University billing statement, itemized fee schedule, and complete financial aid portal export, since the analysis depends on the confirmed net amount owed after the $12,000 scholarship.",
+      "priority": null,
+      "dueDate": "2025-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia did not have the final university billing statement, itemized fee schedule, or complete financial aid portal export available during the meeting, and the analysis depends on the confirmed net amount owed after the scholarship. The agreed follow-up is to collect the university aid and billing d"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve housing deposit credit mismatch",
+      "text": "Reconcile the accepted housing deposit that appears in the Buttonwood Balloon University payment portal but is absent from Nadia Pebblefizz's printed student account statement, to confirm the remaining balance to fund for Lila's first year.",
+      "priority": null,
+      "dueDate": "2025-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia showed that the accepted housing deposit appeared in the portal but was absent from the printed statement, creating uncertainty about the remaining balance to fund. The agreed follow-up is to address the housing deposit credit mismatch by 2025-02-20."
+    },
+    {
+      "templateId": "e60cbf3c-ee73-5fc7-b200-220ac603a8f5",
+      "title": "Follow up on account security concern",
+      "text": "Contact the client to confirm whether access has been secured, recommend password and multifactor authentication review, document any suspicious activity, and escalate to the custodian if unauthorized access or transactions are suspected. Owen Pebblefizz's Velvet Acorn Custody login was locked after an identity-verification attempt, and the household wants both parents able to view the Lila 529 account before withdrawal planning.",
+      "priority": "high",
+      "dueDate": "2025-02-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia reported that Owen’s Velvet Acorn Custody login was locked after an identity-verification attempt, and the household wants both parents able to view the education account before withdrawal planning. The agreed follow-up is to address Owen’s locked 529 account access by 2025-02-17."
+    },
+    {
+      "templateId": null,
+      "title": "Reflect Owen's reduced schedule on college cash flow",
+      "text": "Update the education funding plan for Nadia and Owen Pebblefizz to reflect Owen's reduced four-day schedule at Paper Otter Works, which lowered his salary from $142,000 to $112,000, while preserving the stated emergency reserve preference of at least six months of core household expenses in cash.",
+      "priority": null,
+      "dueDate": "2025-03-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Owen’s move to a four-day schedule reduced household salary income, and the education funding plan needs to reflect the lower recurring cash flow while preserving the stated emergency reserve preference. The agreed follow-up is to reflect the effect of Owen’s reduced work schedule on college cash fl"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare payment plan and short-term borrowing comparison",
+      "text": "Compare the Buttonwood Balloon University monthly payment plan, a draw on the $120,000 home equity line, and a limited taxable brokerage sale at Velvet Acorn Custody for any first-year shortfall remaining after scholarship and 529 funding for Lila Pebblefizz.",
+      "priority": null,
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Nadia requested a comparison of the university monthly payment plan, a home equity line draw, and a limited taxable brokerage sale for any first-year shortfall that remains after scholarship and 529 funding. The agreed follow-up is to prepare the payment plan and short-term borrowing comparison by 2"
+    },
+    {
+      "templateId": null,
+      "title": "Review concentrated position risk and planning choices",
+      "text": "Assess the concentrated holding, document the risk profile, identify tax-aware diversification options, and prepare recommendations suitable for client review. Include the position size, cost basis status, account registration, liquidity needs, restrictions, and any employer or insider-trading considerations using placeholders where client-specific facts will be added. Nadia Pebblefizz's Silver Marmot Robotics position is about $286,000 in a taxable brokerage account at Velvet Acorn Custody, roughly 22% of investable assets, with an unrealized long-term gain of about $171,000, and she asked for tax-aware sale scenarios that could fund part of Lila's college shortfall.",
+      "priority": "medium",
+      "dueDate": "2025-03-05",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather position facts and restrictions",
+          "text": "Collect current holding value, percentage of portfolio, account type, estimated cost basis, holding period, dividend or income profile, trading restrictions, blackout windows, and any pledged or restricted-share status. Nadia Pebblefizz holds Silver Marmot Robotics stock worth about $286,000 in a taxable brokerage account at Velvet Acorn Custody, about 22% of investable assets, with an unrealized long-term gain of about $171,000.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "efbe58d1-6bfd-54b3-a7f9-fd9c22046941"
+        },
+        {
+          "title": "Model diversification and tax scenarios",
+          "text": "Compare potential sale, staged sale, charitable gifting, exchange fund, hedging, or hold strategies as applicable. Estimate tax impact, cash flow effect, and portfolio concentration change for each reasonable option. Model tax-aware sale scenarios that could fund part of Lila Pebblefizz's college shortfall without an unnecessarily large concentrated-position reduction at one time.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "efbe58d1-6bfd-54b3-a7f9-fd9c22046941"
+        },
+        {
+          "title": "Prepare advisor recommendation summary",
+          "text": "Summarize key risks, viable strategies, tradeoffs, implementation requirements, and open questions for advisor review before client presentation.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c832e307-ebbe-5183-8f19-b2ba284474d8"
+        }
+      ],
+      "evidence": "The review identified a sizeable taxable holding in Nadia’s employer stock, and Nadia asked for tax-aware sale scenarios that could fund part of Lila’s college shortfall without creating an unnecessarily large concentrated-position reduction at one time. The agreed follow-up is to prepare the Silver"
+    },
+    {
+      "templateId": "20de386e-ad1c-5f93-aa1f-a8da447fe4f7",
+      "title": "Tax Document Collection Starter",
+      "text": "Coordinate with the CPA the needed document list for Nadia and Owen Pebblefizz's 2024 tax file, which is missing education-related statements for Lila Pebblefizz's dual-enrollment coursework and the record of Iris Pebblefizz's $8,000 college gift.",
+      "priority": null,
+      "dueDate": "2025-02-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The household’s 2024 tax file did not yet include the relevant education-related statements for Lila’s dual-enrollment coursework or the record of Iris Pebblefizz’s college gift, and Nadia asked the team to coordinate the needed document list with the CPA. The agreed follow-up is to coordinate that "
+    },
+    {
+      "templateId": "cfef4f79-282e-5bfc-be83-12b2766ed2d5",
+      "title": "Coordinate beneficiary update request",
+      "text": "Confirm the requested beneficiary update, obtain the correct custodian or carrier form, prepare instructions for completion, and track the request through confirmation. Use placeholders for account registration, beneficiary names, relationship details, percentage allocations, and required signatures. Nadia Pebblefizz asked that the successor-owner update process for the Velvet Acorn Custody 529 accounts for Lila and Jonah be coordinated, since the successor-owner fields were completed years ago and may no longer align with Sera Bramblequill, the successor fiduciary named in the current estate documents.",
+      "priority": "medium",
+      "dueDate": "2025-02-28",
+      "assigneeId": "b7c65af5-ac5e-56ab-a355-a3f6b5b97185",
+      "subTasks": [],
+      "evidence": "Nadia also said the 529 successor-owner information may no longer align with the fiduciary named in the current estate documents, and she asked that the update process for the education accounts be coordinated. The agreed follow-up is to address 529 successor-owner alignment by 2025-02-28."
+    }
+  ]
+}

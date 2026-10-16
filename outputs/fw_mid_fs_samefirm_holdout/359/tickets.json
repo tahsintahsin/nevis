@@ -1,0 +1,115 @@
+{
+  "meetingId": "359",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update Cash Reserve Target",
+      "text": "Update the household's cash reserve target based on Ronan's consulting project ending and a likely gap before the next engagement, changing the reserve before any equity sale proceeds are assumed.",
+      "priority": null,
+      "dueDate": "2024-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Ronan described a consulting project ending and a likely gap before the next engagement, changing the household’s reserve target before any equity sale proceeds are assumed; the agreed follow-up for 2024-03-13 is to update the cash reserve."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Moonbadger Robotics Concentration Analysis",
+      "text": "Prepare a side-by-side comparison of selling a portion of vested shares versus holding through the next open window, using tax lots from the brokerage account and the stock plan account.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha asked for a side-by-side comparison of selling a portion of vested shares versus holding through the next open window, using tax lots from the brokerage account and the stock plan account; the agreed follow-up for 2024-03-08 is to prepare the concentration analysis for Moonbadger Robotics holdi"
+    },
+    {
+      "templateId": null,
+      "title": "Review Trading-Window Compliance",
+      "text": "Review trading-window compliance for planned sales, referencing pre-clearance and window restrictions.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha was unsure whether a planned sale could be entered before the window opens; the agreed follow-up for 2024-03-05 is to review trading-window compliance."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Employer Trading Materials",
+      "text": "Obtain the current insider-trading policy, blackout calendar, or pre-clearance contact from Moonbadger Robotics.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The meeting file did not include the current insider-trading policy, blackout calendar, or pre-clearance contact from Moonbadger Robotics; the needed follow-up for 2024-03-05 is to obtain the employer trading materials."
+    },
+    {
+      "templateId": null,
+      "title": "Model Long-Dated Option Exercise Alternatives",
+      "text": "Model the long-dated option exercise alternatives, comparing exercise-and-hold, same-day sale, and staged exercise scenarios.",
+      "priority": null,
+      "dueDate": "2024-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The option table included both incentive stock options and nonqualified stock options with material spread, and the group discussed comparing exercise-and-hold, same-day sale, and staged exercise scenarios;"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Missing Award Agreements and Withholding Elections",
+      "text": "Obtain the missing award agreements and tax withholding elections for the most recent equity grant.",
+      "priority": null,
+      "dueDate": "2024-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha had the stock plan dashboard and a grant summary, but not the signed award agreements or tax withholding elections for the most recent equity grant; the needed follow-up for 2024-03-04 is to obtain the missing award agreements and withholding elections."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Incentive Stock Option Share-Count Mismatch",
+      "text": "Resolve the incentive stock option share-count mismatch between the personal spreadsheet and the employer portal.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha’s personal spreadsheet listed a lower exercisable incentive stock option count than the employer portal, creating uncertainty about which figure should be used in tax projections; the needed follow-up for 2024-03-06 is to resolve the incentive stock option share-count mismatch."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate Payroll Withholding and Estimated Tax Planning",
+      "text": "Coordinate payroll withholding and estimated tax planning with CPA Kellan Nettlewhisk, addressing restricted stock vesting, option exercises, and bonus timing.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Asha requested coordination with Kellan because restricted stock vesting, option exercises, and bonus timing may cause uneven tax withholding; the agreed follow-up for 2024-03-18 is to coordinate payroll withholding and estimated tax planning."
+    },
+    {
+      "templateId": null,
+      "title": "Address Cost-Basis Import Issue for Transferred Company Shares",
+      "text": "Address the cost-basis import issue for transferred Moonbadger Robotics shares, where several blank acquisition-date fields would affect gain calculations.",
+      "priority": null,
+      "dueDate": "2024-03-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian noted that the custodian’s imported cost basis for transferred Moonbadger Robotics shares showed several blank acquisition-date fields, which would affect gain calculations for sales; the agreed follow-up for 2024-03-11 is to address the cost-basis import issue for transferred company shares."
+    },
+    {
+      "templateId": null,
+      "title": "Review Beneficiary and Trust Titling Discrepancy",
+      "text": "Review the beneficiary and trust titling discrepancy, as the brokerage and retirement accounts remain individually titled or beneficiary-driven despite the trust being named in estate documents.",
+      "priority": null,
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The trust is named in the estate documents, but the brokerage and retirement accounts reviewed during the call remain individually titled or beneficiary-driven; the needed follow-up for 2024-03-22 is to review the beneficiary and trust titling discrepancy."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Upcoming Vest Liquidity Check",
+      "text": "Complete the upcoming restricted stock unit vest liquidity check, separating cash-flow data from long-term investment decisions.",
+      "priority": null,
+      "dueDate": "2024-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The next restricted stock unit settlement may create sell-to-cover shares and additional cash-flow data, so liquidity assumptions for tuition, taxes, and mortgage payments were separated from long-term investment decisions; the agreed follow-up for 2024-03-20 is to complete the upcoming vest liquidi"
+    }
+  ]
+}

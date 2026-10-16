@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"48\", \"tickets\": [\n{\"title\": \"Prepare equity vesting and trading-window calendar\", \"text\": \"Build a practical equity vesting and trading-window calendar for Nadia Pebblefizz separating Nadia-controlled dates from company-administered dates for her Moonbadger Dataworks equity, covering quarterly RSU vesting through 2028, option-expiration sequencing, blackout periods, and employer preclearance steps.\", \"priority\": null, \"dueDate\": \"2025-03-07\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\"},\n{\"title\": \"Review concentrated investment position\", \"text\": \"Summarize the holding, approximate percentage of portfolio, cost basis availability, liquidity needs, tax exposure, restrictions, and potential diversification approaches for advisor review. Cover Nadia Pebblefizz's Moonbadger Dataworks vested ISOs/NSOs with strikes below the portal's current internal share value, the next open trading window following the current blackout, the meaningful spread over strike, and her considerations of AMT exposure, share retention, and stock concentration relative to the household's Velvet Acorn Custody taxable account of about $742,000.\", \"priority\": \"medium\", \"dueDate\": \"2025-03-14\", \"assigneeId\": null, \"templateId\": \"51f4d644-ddd3-5cf5-a7c4-3def8c413759\", \"subTasks\": [], \"evidence\": \"For 2025-03-14, agreed pre-window option exercise/sale analysis covers next open trading window following current blackout, meaningful spread over strike, and Nadia weighing AMT exposure, share retention, and stock concentration.\"},\n{\"title\": \"Obtain equity grant documents\", \"text\": \"Collect Nadia Pebblefizz's Moonbadger Dataworks equity grant documents because the file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations needed to reconcile withheld and deposited shares.\", \"priority\": null, \"dueDate\": \"2025-03-05\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares.\"}\n]}",
+   "usage": {
+    "input_tokens": 2988,
+    "output_tokens": 780,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2123
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_jsonobj",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"name\":\"response\",\n\"type\":\"json_object\",\n\"value\":{\n\"meetingId\":\"190\",\n\"tickets\":[\n{\n\"title\":\"Prepare share-transfer instructions for Moonbadger\",\n\"text\":\"Prepare share-transfer instructions for Sela Mossbutton to move approximately $25,000 worth of Velvet Acorn Growth Fund shares from her joint taxable account with Jonah Mossbutton to the Moonbadger Arts Center, using the verified brokerage delivery details provided.\",\n\"priority\":null,\n\"dueDate\":\"2026-01-23\",\n\"assigneeId\":null,\n\"subTasks\":[],\n\"evidence\":\"asked for agreed 2026-01-23 approximately-$25,000 share-transfer instructions to Moonbadger using verified brokerage-delivery details.\",\n\"templateId\":null\n},\n{\n\"title\":\"Obtain updated pledge confirmation language\",\n\"text\":\"Obtain updated pledge confirmation and receipt language for the planned gift to Moonbadger Arts Center, addressing the missing goods/services details noted in the prior-year acknowledgment for Sela Mossbutton.\",\n\"priority\":null,\n\"dueDate\":\"2026-02-06\",\n\"assigneeId\":null,\n\"subTasks\":[],\n\"evidence\":\"not current planned-gift pledge-confirmation/receipt-language on goods/services; agreed 2026-02-06.\",\n\"templateId\":null\n}\n]\n}\n}",
+   "usage": {
+    "input_tokens": 3534,
+    "output_tokens": 1415,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 40
+   },
+   "stop": "stop"
+  }
+ ]
+}

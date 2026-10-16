@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"48\",\n\"followups\": [\n{\n\"evidence\": \"Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\",\n\"action\": \"Prepare a practical equity vesting and trading‑window calendar by 2025‑03‑07.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"For 2025-03-14, agreed pre-window option exercise/sale analysis covers next open trading window following current blackout, meaningful spread over strike, and Nadia weighing AMT exposure, share retention, and stock concentration.\",\n\"action\": \"Complete a pre‑window option exercise/sale analysis by 2025‑03‑14.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares.\",\n\"action\": \"Obtain the missing equity grant documents (plan, grant notices, tax‑withholding confirmations) by 2025‑03‑05.\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3455,
+    "output_tokens": 867,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 789
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"48\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Prepare equity vesting/trading window calendar\",\n\"text\": \"Prepare a practical equity vesting and trading‑window calendar for Nadia Pebblefizz, separating Nadia‑controlled from company‑administered dates to resolve confusion over quarterly RSU vesting, option‑expiration sequencing, blackouts, and employer pre‑clearance steps, due 2025‑03‑07.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-07\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Agreed for 2025-03-07 is a practical equity vesting/trading-window calendar separating Nadia-controlled from company-administered dates after confusion over quarterly RSU vesting, option-expiration sequencing, blackouts, and employer preclearance steps.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Complete pre‑window option exercise analysis\",\n\"text\": \"Complete a pre‑window option exercise and sale analysis for Nadia Pebblefizz covering the next open trading window after the current blackout, assessing meaningful spread over strike, AMT exposure, share retention, and stock concentration, due 2025‑03‑14.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-14\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"For 2025-03-14, agreed pre-window option exercise/sale analysis covers next open trading window following current blackout, meaningful spread over strike, and Nadia weighing AMT exposure, share retention, and stock concentration.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain missing equity grant documents\",\n\"text\": \"Obtain the missing equity grant documents for Nadia Pebblefizz, including the current equity incentive plan, portal option‑lot grant notices, and RSU tax‑withholding confirmations needed to reconcile withheld and deposited shares, due 2025‑03‑05.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-05\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"For 2025-03-05, equity grant documents are needed because file lacks the current equity incentive plan, portal option-lot grant notices, and RSU tax-withholding confirmations to reconcile withheld/deposited shares.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4878,
+    "output_tokens": 1272,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 140
+   },
+   "stop": "stop"
+  }
+ ]
+}

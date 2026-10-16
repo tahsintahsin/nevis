@@ -1,0 +1,85 @@
+{
+  "meetingId": "567",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Refresh estate documents and nominate a guardian",
+      "text": "Update Mira and Jonas Quillwhistle's 2019 estate documents to nominate a guardian for Lila Quillwhistle and add trust provisions for a minor child, replacing the current backup decision maker, Tessa Willowdoodle.",
+      "priority": null,
+      "dueDate": "2026-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for guardian nomination and estate document refresh is due 2026-03-15."
+    },
+    {
+      "templateId": "e8182f48-f62d-5f4b-a8b7-f263fa7722d5",
+      "title": "Send education account setup outreach",
+      "text": "Outreach purpose: Introduce the education account setup process and gather the information needed to evaluate options such as a 529 plan or other education savings vehicle.\n\nSuggested message outline:\nHello Mira Quillwhistle,\n\nWe can help evaluate and set up an education savings account for Lila Quillwhistle (daughter). To get started, please share:\n- Beneficiary full legal name: Lila Quillwhistle\n- Beneficiary relationship to account owner: daughter\n- Beneficiary state of residence: Oregon\n- Account owner: [placeholder]\n- Desired initial contribution or funding plan: [placeholder]\n- Expected recurring contribution, if any: [placeholder]\n- Investment risk preference or time horizon: [placeholder]\n- Any state tax, gifting, or financial aid questions to review: [placeholder]\n\nIf another professional should be included, such as Mira Quillwhistle's CPA, attorney, or education planning contact, confirm permission and preferred contact details before outreach.\n\nNext step: Once we have the details, we will outline available account structure choices and setup instructions.\n\nPrepare the education funding account structure outline for Lila Quillwhistle, targeting about half of a public university cost while preserving flexibility, and covering owner selection, beneficiary information, an initial funding amount from cash reserves, possible recurring contributions, and tax or gifting considerations.",
+      "priority": "medium",
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that education funding account structure outline by 2026-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Lila's Social Security number and adoption decree",
+      "text": "Collect Lila Quillwhistle's Social Security number and final adoption decree for Mira and Jonas Quillwhistle, as these records are needed for account-opening information and the household's tax documentation.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The team does not yet have Lila’s Social Security number or final adoption decree, and those records are needed for both account-opening information and the household’s tax documentation; this unresolved legal identity records issue needs follow-up by 2026-03-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare life insurance needs analysis",
+      "text": "Prepare a life insurance needs analysis for Mira and Jonas Quillwhistle covering mortgage payoff, survivor income, childcare costs, and a targeted education funding amount, given the household's changed protection needs after the adoption.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The adoption changed the household’s protection needs, so the agreed follow-up by 2026-02-27 is preparation of a life insurance needs analysis considering mortgage payoff, survivor income, childcare costs, and a targeted education funding amount."
+    },
+    {
+      "templateId": null,
+      "title": "Verify disability benefit coverage",
+      "text": "Verify Mira Quillwhistle's employer long-term disability coverage and clarify Jonas Quillwhistle's available disability coverage, since the benefits summary reviewed only showed a 60% wage-replacement percentage and Jonas has no individual policy.",
+      "priority": null,
+      "dueDate": "2026-02-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Disability benefit verification remains needed by 2026-02-24."
+    },
+    {
+      "templateId": "f6ebc8bc-edf5-5118-bc52-3a026e943d48",
+      "title": "Review tax document collection for completeness",
+      "text": "Review the collected tax documents against the expected evidence list before marking the file complete.\n\nCriteria to confirm:\n- Prior-year tax return is available if needed for carryovers, estimated payments, or basis details.\n- W-2, 1099, K-1, retirement distribution, Social Security, interest, dividend, and capital gain documents are present as applicable.\n- Brokerage tax packages include corrected versions if the custodian issued updates.\n- Estimated tax payment records show payment amount, jurisdiction, and relative payment period.\n- Charitable giving records include acknowledgment letters where required.\n- Mortgage interest, property tax, education, childcare, medical, and business expense records are included when relevant.\n- Equity compensation activity has supporting grant, vesting, exercise, sale, and withholding evidence when applicable.\n- Documents are labeled clearly and stored in the appropriate secure folder.\n- Missing items are listed with owner, source, and next follow-up action.\n\nEvidence to collect: tax forms, custodian statements, payroll records, contribution confirmations, payment confirmations, charitable receipts, equity compensation reports, and notes from Mira Quillwhistle's CPA when available.\n\nOrganize Mira and Jonas Quillwhistle's adoption-related tax records, childcare deposit evidence, dependent information, and employer benefit elections for CPA Alina Dewspindle before the spring preparation cutoff.",
+      "priority": "medium",
+      "dueDate": "2026-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For tax and childcare documentation, Mira and Jonas need adoption-related tax records, childcare deposit evidence, dependent information, and any employer benefit elections organized before their CPA’s spring preparation cutoff. The agreed follow-up for the CPA packet is due 2026-03-10."
+    },
+    {
+      "templateId": null,
+      "title": "Compare dependent care FSA versus cash flow",
+      "text": "Compare using a dependent care flexible spending account against paying childcare costs entirely from cash flow for Mira and Jonas Quillwhistle once full-time infant care begins at Buttonwood Balloon Early Learning.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira also asked for a comparison of using a dependent care flexible spending account versus paying childcare costs entirely from cash flow once full-time infant care begins. The agreed follow-up for the dependent care benefit estimate is due 2026-02-18."
+    },
+    {
+      "templateId": "06ce3b8f-97db-50d6-b568-9379f45c3196",
+      "title": "Resolve account access recovery issue",
+      "text": "Help Mira Quillwhistle regain access to her Velvet Acorn Custody account, confirm identity requirements, document the resolution path, and note any follow-up security steps. The security code is being sent to an old mobile number, which is blocking joint statement downloads and planned funding transfers.",
+      "priority": "high",
+      "dueDate": "2026-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up for the custodian portal access interruption is due 2026-02-14."
+    }
+  ]
+}

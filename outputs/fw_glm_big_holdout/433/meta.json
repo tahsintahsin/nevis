@@ -1,0 +1,26 @@
+{
+ "model": "accounts/fireworks/models/glm-5p3",
+ "latency_s": 12.69783,
+ "input_tokens": 5532,
+ "output_tokens": 1736,
+ "cache_write_tokens": 0,
+ "cache_read_tokens": 0,
+ "cost_usd": 0.015383200000000001,
+ "cost_basis": "tokens",
+ "token_cost_usd": 0.015383200000000001,
+ "config": "fw_glm_big",
+ "provider": "fireworks",
+ "deployment": "serverless",
+ "api_model": "accounts/fireworks/models/glm-5p3",
+ "fine_tuned": false,
+ "prompt_version": "main-e2d185a2",
+ "pipeline": "single",
+ "few_shot": "none",
+ "few_shot_examples": [],
+ "structured_output": "json_schema",
+ "calls": 1,
+ "stop_reasons": [
+  "stop"
+ ],
+ "effort": "low"
+}

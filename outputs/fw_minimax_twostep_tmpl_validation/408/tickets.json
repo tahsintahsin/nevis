@@ -1,0 +1,85 @@
+{
+  "meetingId": "408",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare mortgage reset and refinance comparison",
+      "text": "Prepare a side-by-side comparison for Liora and Jonah Nettlewhisk of keeping the adjustable mortgage after the reset, using the fixed-rate refinance quote, and combining or leaving the Teacup Comet Bank HELOC separate, including payment estimates, closing costs, and cash reserve impact. The Silver Marmot Mortgage first mortgage resets from 3.125% to an estimated 6.875% on 2025-03-01, and Liora prefers to keep at least $50,000 in cash reserves during the refinancing period.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2025-01-24."
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing Silver Marmot Mortgage refinance documents",
+      "text": "Collect the missing Silver Marmot Mortgage refinance documents for Liora and Jonah Nettlewhisk: Liora's current pay stub from Clockwork Clover Systems, Jonah's year-to-date profit-and-loss statement for Paper Otter Design LLC, the most recent business bank statement, and a complete prior-year tax return packet. Route the complete packet to the lender before underwriting review.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That document packet remains an unresolved issue needing follow-up by 2025-01-28."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Silver Marmot Mortgage payoff balance discrepancy",
+      "text": "Reconcile the mortgage payoff balance discrepancy for Liora and Jonah Nettlewhisk between Liora's mortgage portal showing $642,000 and the Silver Marmot Mortgage loan officer worksheet using $655,800. Confirm the correct principal balance so loan-to-value and cash-to-close estimates are accurate before underwriting review.",
+      "priority": null,
+      "dueDate": "2025-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2025-01-23."
+    },
+    {
+      "templateId": "432e4a09-cd76-510d-b173-4fe70356ef9a",
+      "title": "Recover Client Portal Access",
+      "text": "Recover Teacup Comet Bank portal access for Liora and Jonah Nettlewhisk by redirecting two-factor prompts from Jonah's old phone number to a current device, then export recent HELOC and checking statements for Silver Marmot Mortgage lender review. The Teacup Comet Bank HELOC has a balance of approximately $146,000 and the checking account holds $22,000.",
+      "priority": null,
+      "dueDate": "2025-01-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That access issue remains unresolved and needs follow-up by 2025-01-27."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Nettlewhisk cash-flow stress test",
+      "text": "Complete a cash-flow stress test for Liora and Jonah Nettlewhisk modeling the Silver Marmot Mortgage reset payment, the Teacup Comet Bank HELOC interest at 8.75%, the $18,400 credit card payoff target, Eleni's school costs tied to the Coral Badger College Plan 529, and Hazel Willowdoodle's possible voluntary monthly support against the household's $22,300 average gross monthly income and $10,900 recurring non-debt spending.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that modeling by 2025-01-31."
+    },
+    {
+      "templateId": "9e10aee4-f276-52cb-be0c-39f25dd71780",
+      "title": "Review Concentrated Position",
+      "text": "Assess position size, tax basis, liquidity needs, risk tolerance, trading restrictions, and diversification options before recommending any action for the Clockwork Clover Systems stock position in the joint taxable brokerage account at Velvet Acorn Custody, valued at approximately $156,000 with an estimated cost basis of $42,000. Compare partial sale, staged sale, pledged-asset alternatives, and no-sale options as sources of debt-reduction funds for Liora and Jonah Nettlewhisk.",
+      "priority": "medium",
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction by 2025-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Address appraisal and rate-lock readiness items",
+      "text": "Address the appraisal and rate-lock readiness items for Liora and Jonah Nettlewhisk before Silver Marmot Mortgage underwriting review: provide insurance declarations, the property tax bill, and HOA confirmation for the primary residence. The loan officer's rate-lock window and appraisal checklist create a timing constraint that must be met.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those readiness items by 2025-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare non-retirement funding analysis for debt restructuring",
+      "text": "Prepare a planning analysis for Liora and Jonah Nettlewhisk showing non-retirement funding options for debt restructuring before any retirement-account cash-flow scenario, per Liora's stated boundary that IRA or 401(k) withdrawals should be treated only as a last resort. Include the joint taxable brokerage account at Velvet Acorn Custody (~$384,000), the $68,000 cash at Teacup Comet Bank, and Jonah's Paper Otter Design LLC consulting income as potential sources.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed planning analysis is to show non-retirement funding options before any retirement-account cash-flow scenario by 2025-02-03."
+    }
+  ]
+}

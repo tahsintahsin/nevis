@@ -1,0 +1,129 @@
+{
+  "meetingId": "810",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Paper Otter Systems share donation logistics to Moonbadger",
+      "text": "Prepare appreciated-share donation logistics for Galen and Lina Thimblefern's Paper Otter Systems position in the Clockwork Clover Custody joint taxable brokerage account, transferring selected tax lots to the Moonbadger Charitable Fund donor-advised fund.",
+      "priority": null,
+      "dueDate": "2025-11-24",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Identify transferable Paper Otter Systems tax lots",
+          "text": "Review the Clockwork Clover Custody joint taxable account and identify which Paper Otter Systems tax lots are appropriate to transfer to the Moonbadger Charitable Fund donor-advised fund for Galen and Lina Thimblefern.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Document custodian delivery instructions",
+          "text": "Obtain and document Clockwork Clover Custody's delivery instructions for transferring Paper Otter Systems shares to the Moonbadger Charitable Fund donor-advised fund.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Assemble gift path records",
+          "text": "Assemble the records needed to show the gift path from the Clockwork Clover Custody account to the Moonbadger Charitable Fund donor-advised fund for Galen and Lina Thimblefern.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Galen asked for appreciated-share donation logistics covering which Paper Otter Systems tax lots could be transferred to Moonbadger Charitable Fund, the custodian’s delivery instructions, and the records needed to show the gift path; the agreed follow-up is dated 2025-11-24."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate charitable concentration and tax review with Amber Teapot Tax",
+      "text": "Coordinate the charitable concentration and tax review with Nadia Copperwisp at Amber Teapot Tax for Galen and Lina Thimblefern, addressing the large Paper Otter Systems position in the Clockwork Clover Custody joint taxable account.",
+      "priority": null,
+      "dueDate": "2025-12-03",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Coordinate lot selection with CPA",
+          "text": "Coordinate lot selection for the Paper Otter Systems position with Nadia Copperwisp at Amber Teapot Tax for Galen and Lina Thimblefern.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Coordinate charitable bunching assumptions",
+          "text": "Coordinate charitable bunching assumptions with Nadia Copperwisp at Amber Teapot Tax for Galen and Lina Thimblefern.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Coordinate tax estimates",
+          "text": "Coordinate tax estimates with Nadia Copperwisp at Amber Teapot Tax for Galen and Lina Thimblefern.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "the agreed charitable concentration and tax review is dated 2025-12-03."
+    },
+    {
+      "templateId": null,
+      "title": "Update income assumption for giving capacity",
+      "text": "Update household income projections for Galen and Lina Thimblefern to reflect Lina's three-day weekly schedule at Thimble Harbor Clinic starting January 2026, and recalculate charitable capacity, estimated taxes, and a comfortable donor-advised fund contribution size.",
+      "priority": null,
+      "dueDate": "2025-11-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed income assumption update for giving capacity is dated 2025-11-28."
+    },
+    {
+      "templateId": "098a99bb-56c3-5bae-8a8a-0daaeba9311f",
+      "title": "Year-End Deadline Sweep",
+      "text": "Map remaining grants, donor-advised fund contributions, and cash gifts for Galen and Lina Thimblefern before the household's planned cutoff for charitable activity, accounting for their travel schedule and the $125,000 to $150,000 preferred annual giving range. Reconcile the Moonbadger Charitable Fund donor-advised fund balance, current-year contributions of $85,000, and about $22,000 of direct gifts through 2025-10-31.",
+      "priority": null,
+      "dueDate": "2025-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed year-end charitable giving sweep is dated 2025-12-12."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Moonbadger Charitable Fund balance mismatch",
+      "text": "Reconcile the Moonbadger Charitable Fund portal balance (near $410,000 before the meeting) with the advisory ledger for Galen and Lina Thimblefern, accounting for pending grants and investment activity, so the household can size near-term grant recommendations.",
+      "priority": null,
+      "dueDate": "2025-11-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed on the donor-advised fund balance mismatch, dated 2025-11-26."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing acknowledgment letters for direct gifts",
+      "text": "Obtain acknowledgment letters from Cloudberry Kite Food Pantry and the Buttonwood Balloon School scholarship program for Galen and Lina Thimblefern's direct gifts, and complete the household's charitable documentation packet.",
+      "priority": null,
+      "dueDate": "2025-12-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed on the direct-gift receipt file, dated 2025-12-05."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Moonbadger Charitable Fund portal access problem",
+      "text": "Resolve Galen Thimblefern's rejected Moonbadger Charitable Fund portal login and the missing Buttonwood Balloon School entry in the charity search so grant recommendations can be entered for the household.",
+      "priority": null,
+      "dueDate": "2025-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "follow-up is needed on the donor-advised fund portal access problem, dated 2025-11-21."
+    },
+    {
+      "templateId": "0abfb48a-c041-5167-89d9-5c914aeb4eb5",
+      "title": "Request and organize estate document copies",
+      "text": "Ask Galen and Lina Thimblefern to provide current copies of core estate documents, including will, revocable trust if applicable, powers of attorney, health care directives, beneficiary designations, trustee or executor contact information, and any recent amendment pages. Store received documents according to firm procedures and note missing items for follow-up. The 2017 estate documents name Lina Thimblefern as successor trustee and Nolan Thimblefern as backup trustee; the advisory record is missing signed trust pages, charitable bequest language, and the donor-advised fund successor-advisor designation.",
+      "priority": "medium",
+      "dueDate": "2025-12-10",
+      "assigneeId": "a76627e3-5ef0-5551-a608-b225e494e4cf",
+      "subTasks": [],
+      "evidence": "the agreed estate and charitable-beneficiary documents follow-up is dated 2025-12-10."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_mid",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"626\", \"tickets\": [{\"title\": \"Review Soren's requested $85,000 Teacup Comet Bank checking transfer and $9,000 monthly transfer after setup\", \"text\": \"Review the requested $85,000 Teacup Comet Bank checking transfer and $9,000 monthly transfer after setup, including available cash, possible municipal-bond ladder or Copper Firefly Robotics share sales, and any planning impact. Confirm the correct destination and authorization method before cash release, as Soren read checking account ending 4418 while the custodian record shows authorized Teacup Comet Bank account ending 4184.\", \"priority\": \"high\", \"dueDate\": \"2026-08-27\", \"assigneeId\": \"29e3bddf-1fa1-5d47-a1a5-65045f866fc7\", \"subTasks\": [], \"evidence\": \"The agreed August 27, 2026 follow-up is to review Soren's requested $85,000 Teacup Comet Bank checking transfer and $9,000 monthly transfer after setup, including available cash, possible municipal-bond ladder or Copper Firefly Robotics share sales, and any planning impact.\",\"templateId\": null}, {\"title\": \"Obtain Soren's not-yet-uploaded Copper Firefly Robotics separation agreement, final paystub, and consulting contract\", \"text\": \"Obtain Soren's not-yet-uploaded Copper Firefly Robotics separation agreement, final paystub, and consulting contract to update taxable income, benefits, and recurring cash-flow assumptions. By September 4, 2026, the Paper Otter Life annual premium review needs follow-up because the notice shows a higher outlay than last year and a policy-election window closing soon; the household has not chosen whether to pay from checking, reduce coverage, or request an in-force illustration.\", \"priority\": \"medium\", \"dueDate\": \"2026-08-30\", \"assigneeId\": \"29e3bddf-1fa1-5d47-a1a5-65045f866fc7\", \"subTasks\": [], \"evidence\": \"The agreed August 30, 2026 follow-up is to obtain Soren's not-yet-uploaded Copper Firefly Robotics separation agreement, final paystub, and consulting contract to update taxable income, benefits, and recurring cash-flow assumptions.\",\"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 5145,
+    "output_tokens": 571,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

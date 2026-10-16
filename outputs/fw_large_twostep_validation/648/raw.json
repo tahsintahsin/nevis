@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep",
+ "prompt_version": "two_step-7f9120d2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"648\",\n\"followups\": [\n{\n\"evidence\": \"the agreed follow-up is to restore secure online access by April 10, 2025.\",\n\"action\": \"Restore Lena's secure online portal access using a method that does not rely on SMS code.\"\n},\n{\n\"evidence\": \"the agreed follow-up is to review that link by April 11, 2025.\",\n\"action\": \"Review the unrecognized external bank link in the custodian activity view.\"\n},\n{\n\"evidence\": \"the agreed follow-up is to update the instructions by April 14, 2025.\",\n\"action\": \"Pause and update the recurring taxable‑account transfer instructions to use a verified Teacup Comet Bank destination with phone confirmation.\"\n},\n{\n\"evidence\": \"the agreed follow-up is to collect those materials by April 15, 2025.\",\n\"action\": \"Gather Teacup Comet Bank incident reference, statement pages, and written confirmation of valid account numbers.\"\n},\n{\n\"evidence\": \"the agreed follow-up is to refresh those records by April 18, 2025.\",\n\"action\": \"Refresh custodian alert records to use Lena’s current work email and add Noah’s mobile number as a trusted contact.\"\n},\n{\n\"evidence\": \"the agreed follow-up is to coordinate secure tuition funding by April 16, 2025.\",\n\"action\": \"Arrange secure tuition payment to Marzipan Meadow School ensuring funds are sent to a verified account before the next installment.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3558,
+    "output_tokens": 808,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 998
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"648\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Restore secure portal access for Lena\",\n\"text\": \"Restore Lena Copperwisp's secure online portal access with Velvet Acorn Custody using a verification method that does not rely on the SMS code, as agreed for completion by 2025-04-10.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-10\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to restore secure online access by April 10, 2025.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review unrecognized external bank link\",\n\"text\": \"Review the unrecognized external bank link shown in Velvet Acorn Custody's activity view for Lena Copperwisp, and determine its legitimacy by 2025-04-11.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-11\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to review that link by April 11, 2025.\"\n},\n{\n\"templateId\": \"37c17d04-e353-50f8-a3c6-359f520559a4\",\n\"title\": \"Update recurring payment instructions\",\n\"text\": \"Update the recurring taxable‑account transfer instructions for Lena Copperwisp to pause the $2,500 monthly transfer and replace it with a verified Teacup Comet Bank destination that requires phone confirmation, as agreed by 2025-04-14.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-14\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to update the instructions by April 14, 2025.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Gather Teacup Comet Bank incident documentation\",\n\"text\": \"Gather the incident reference number, relevant statement pages showing any attempted micro‑deposits, and written confirmation of the valid Teacup Comet Bank account numbers for Lena and Noah Copperwisp, to be completed by 2025-04-15.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-15\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to collect those materials by April 15, 2025.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Refresh custodian alert contact records for Lena Copperwisp\",\n\"text\": \"Refresh the custodian alert records for Lena Copperwisp to replace the prior work email with her current one and add Noah Copperwisp's mobile number as a trusted contact, to be done by 2025-04-18.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to refresh those records by April 18, 2025.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Coordinate secure tuition payment to Marzipan Meadow\",\n\"text\": \"Coordinate a secure tuition payment for the $8,600 spring installment for Poppy Copperwisp at Marzipan Meadow School, ensuring funds are sent to a verified account and not routed through any unverified destination, to be completed by 2025-04-16.\",\n\"priority\": null,\n\"dueDate\": \"2025-04-16\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to coordinate secure tuition funding by April 16, 2025.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3900,
+    "output_tokens": 2243,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1810
+   },
+   "stop": "stop"
+  }
+ ]
+}

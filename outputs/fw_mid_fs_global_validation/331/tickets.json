@@ -1,0 +1,94 @@
+{
+  "meetingId": "331",
+  "tickets": [
+    {
+      "templateId": "45a9f11f-56b2-5d9f-99f4-2a6fa9fd2467",
+      "title": "Cash distribution request",
+      "text": "Collect the current mortgage payoff quote, full HELOC statement, and any prepayment-penalty language from Clockwork Clover Mortgage and Teacup Comet Bank to enable a complete refinance review.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Loan document collection was completed on 2024-04-09, with the current mortgage payoff quote, full HELOC statement, and any prepayment-penalty language not available during the conversation, limiting a complete refinance review."
+    },
+    {
+      "templateId": "623ad58d-d707-5b72-b93a-1627b0f205a7",
+      "title": "Gather debt refinance review details",
+      "text": "Reconcile the difference between the Thimble Harbor Credit Union phone-system payoff amount and the latest monthly statement for Julian Mossbutton’s auto loan, and determine how the discrepancy affects the debt-repayment order.",
+      "priority": "medium",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Auto loan payoff reconciliation was completed on 2024-04-09 after Julian reported one payoff amount from the Thimble Harbor Credit Union phone system that did not match the latest monthly statement, and the difference affects the debt-repayment order."
+    },
+    {
+      "templateId": "2efc41ba-91f8-5d86-b2a2-3c797cb65cc0",
+      "title": "Complete access recovery checks",
+      "text": "Restore Julian Mossbutton’s access to the Moonbadger Robotics retirement plan portal by updating the multi-factor authentication phone number from the old number to the current one, enabling review of plan loan rules and contribution settings.",
+      "priority": "high",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Employer plan access recovery was completed on 2024-04-09 after Julian could not open the Moonbadger Robotics retirement plan portal because multi-factor authentication still used an old phone number, blocking review of plan loan rules and contribution settings."
+    },
+    {
+      "templateId": null,
+      "title": "Update cash-flow budget after household income change",
+      "text": "Update the household’s revised cash-flow budget reflecting Lena Mossbutton’s reduced work schedule and the resulting decrease in take-home pay to about $9,250 per month, and determine the target for accelerated debt repayment.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The cash-flow update after the household income change was completed on 2024-04-09; Lena’s reduced work schedule lowered household take-home pay, and the revised budget is needed before setting a target for accelerated debt repayment."
+    },
+    {
+      "templateId": null,
+      "title": "Review tax-aware investment liquidation for debt reduction",
+      "text": "Review the tax impact of selling appreciated holdings from the joint taxable investment account at Velvet Acorn Custody for debt reduction, before using investments as a funding source for the mortgage or HELOC reset.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "tax-aware investment liquidation review was completed on 2024-04-09; a review of the taxable account showed appreciated holdings that could be sold for debt reduction, and the tax impact needs to be estimated before using investments as a funding source."
+    },
+    {
+      "templateId": "f97ad76a-c137-5418-ae58-f5b4ab6a808a",
+      "title": "Coordinate tax notice follow-up",
+      "text": "Coordinate with the household’s CPA to receive the debt-restructure assumptions, potential investment-sale amounts, and questions about home-equity interest treatment for the current tax year.",
+      "priority": "high",
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect and classify the notice",
+          "text": "Request a complete copy of the notice, envelope, and any prior correspondence. Record the tax year, agency, notice type, proposed amount, and response options.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Reconcile notice against planning records",
+          "text": "Compare the notice to available return summaries, estimated tax payment records, withholding information, retirement distributions, and prior client notes.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Coordinate with the client’s CPA or tax preparer",
+          "text": "Send a concise summary with placeholders for the notice type, tax year, amount, and requested action. Ask the tax professional to confirm whether the client should respond, dispute, amend, or pay.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Document final action and follow-up",
+          "text": "Record the agreed response plan, evidence reviewed, submission method, and any follow-up check needed after the response is sent.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "CPA coordination on interest treatment and investment sales was completed on 2024-04-09 after Julian asked that the household’s CPA receive the debt-restructure assumptions, potential investment-sale amounts, and questions about home-equity interest treatment for the current tax year."
+    }
+  ]
+}

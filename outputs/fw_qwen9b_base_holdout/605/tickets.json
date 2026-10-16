@@ -1,0 +1,115 @@
+{
+  "meetingId": "605",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Cloudberry Kite Analytics cash-flow map",
+      "text": "Prepare a month-by-month cash-flow map for Elena Pebblefizz showing household draws, expected retainer receipts from Silver Marmot Market Lab, software costs, estimated tax reserves, and minimum cash thresholds to support the new self-employment income structure.",
+      "priority": null,
+      "dueDate": "2026-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that cash-flow map for March 18, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Develop owner-draw and tax set-aside method",
+      "text": "Develop a repeatable rule for Elena Pebblefizz's owner draws and tax set-asides during low-receipt months, accounting for her transition from payroll employee to self-employed consultant.",
+      "priority": null,
+      "dueDate": "2026-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to develop that method for March 20, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Correct Teacup Comet Bank application name",
+      "text": "Correct the business banking application at Teacup Comet Bank to use the full LLC name 'Cloudberry Kite Analytics LLC' instead of the shortened name and resolve the EIN confirmation upload issue.",
+      "priority": null,
+      "dueDate": "2026-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to correct the application issue for March 6, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Silver Marmot invoice and ACH setup",
+      "text": "Complete the initial invoice and ACH payment-routing setup for Elena Pebblefizz's Silver Marmot Market Lab retainer, ensuring receipts are routed separately from household cash.",
+      "priority": null,
+      "dueDate": "2026-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the invoice and payment-routing setup for March 5, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Cloudberry Kite entity formation documents",
+      "text": "Obtain the Oregon articles, EIN letter, operating agreement, and initial resolution for Cloudberry Kite Analytics LLC to complete the entity formation document packet.",
+      "priority": null,
+      "dueDate": "2026-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved follow-up need is to obtain that document packet for March 8, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Silver Marmot revenue forecast",
+      "text": "Reconcile the $15,000 monthly contracted revenue in Elena Pebblefizz's planning worksheet against the signed $12,000 per month statement of work with Silver Marmot Market Lab.",
+      "priority": null,
+      "dueDate": "2026-03-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved follow-up need is to reconcile that forecast for March 15, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Create bookkeeping and receipt workflow",
+      "text": "Create a bookkeeping and receipt workflow for Elena Pebblefizz to separate business charges currently mixed among household credit card, personal checking, and business debit card.",
+      "priority": null,
+      "dueDate": "2026-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to create a bookkeeping and receipt workflow for March 22, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Address cash reserve segmentation",
+      "text": "Address cash reserve segmentation for Elena Pebblefizz to distinguish emergency funds from business tax reserves and near-term business expenses currently held in one savings account.",
+      "priority": null,
+      "dueDate": "2026-03-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address cash reserve segmentation for March 28, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain professional liability and cyber coverage estimate",
+      "text": "Obtain an estimate for professional liability and cyber coverage for Elena Pebblefizz's Cloudberry Kite Analytics LLC to address client data work requirements.",
+      "priority": null,
+      "dueDate": "2026-03-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain that estimate for March 25, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Collect final payroll and benefits documents",
+      "text": "Collect Elena Pebblefizz's final paystub, unused vacation payout details, and COBRA notice from Paper Otter Health Systems to estimate current-year wages and benefit costs.",
+      "priority": null,
+      "dueDate": "2026-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The unresolved follow-up need is to collect those documents for March 12, 2026."
+    },
+    {
+      "templateId": null,
+      "title": "Create estimated tax payment calendar",
+      "text": "Create an estimated tax payment calendar for Elena Pebblefizz with reminders tied to the new consulting income pattern, pending final payroll figures and first invoices.",
+      "priority": null,
+      "dueDate": "2026-03-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to create that calendar for March 31, 2026."
+    }
+  ]
+}

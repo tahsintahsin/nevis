@@ -1,0 +1,94 @@
+{
+  "meetingId": "980",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update household contact addresses across all records",
+      "text": "Update the Portland mailing address with the Fort Collins household address across the Apricot Compass Advisory profile, custodian records, portal delivery settings, IRA records, and Robin Mossbutton's household contact record once move-in confirmation is available.",
+      "priority": null,
+      "dueDate": "2025-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena asked Apricot Compass Advisory to replace the Portland mailing address with the Fort Collins household address across the advisory profile, custodian records, portal delivery settings, IRA records, and Robin’s household contact record once move-in confirmation is available; the agreed follow-u"
+    },
+    {
+      "templateId": "bf1a1f75-3fe2-5cb6-8261-3d4ebbddb335",
+      "title": "Collect tax documents for planning review",
+      "text": "Collect Elena Mossbutton's latest Moonbadger Analytics paystub, Robin Mossbutton's Tin Sparrow Learning Cooperative year-to-date payroll report, moving reimbursement information, and written permission for Nia Bramblequill at Clockwork Clover Tax to coordinate with the advisory team.",
+      "priority": "medium",
+      "dueDate": "2025-07-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For cross-state tax planning materials, the planning file does not yet include Elena’s latest Moonbadger Analytics paystub, Robin’s Tin Sparrow Learning Cooperative year-to-date payroll report, moving reimbursement information, or written permission for Nia Bramblequill at Clockwork Clover Tax to co"
+    },
+    {
+      "templateId": "bd12f883-8acf-5b18-99ca-5dc82f67b3c8",
+      "title": "Coordinate custodian transfer tracking",
+      "text": "Prepare a transfer package for the taxable brokerage account at Paper Otter Wealth to be transferred to Velvet Acorn Custody, resolving the issue where notices were sent to the former Portland address.",
+      "priority": "high",
+      "dueDate": "2025-07-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Prepare and verify transfer package",
+          "text": "Confirm transfer form completeness, registration match, delivery method, and any statement or acceptance paperwork required before submission.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936"
+        },
+        {
+          "title": "Submit to receiving custodian and record tracking details",
+          "text": "Send the transfer package through the approved channel and record the submission confirmation, transfer type, and expected status checkpoints using placeholders.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936"
+        },
+        {
+          "title": "Monitor external release and resolve exceptions",
+          "text": "Follow up on pending, rejected, or partial transfer statuses; document any required corrected paperwork, liquidation instruction, or contra-firm requirement.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Reconcile assets and communicate completion",
+          "text": "Compare received assets and cash to the prior statement, flag residual sweeps or missing positions, and prepare a completion update for the client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936"
+        }
+      ],
+      "evidence": "the agreed work covers a transfer package for the taxable brokerage to Velvet Acorn Custody by 2025-07-18."
+    },
+    {
+      "templateId": "7e5df057-b6d6-59e3-b7ef-4b6f7ca3a27c",
+      "title": "Collect Mortgage Document Packet",
+      "text": "Assemble the financial packet for the Fort Collins townhouse purchase using the advisory record, including recent brokerage, retirement, bank, and insurance statements, without sending full account numbers by email.",
+      "priority": null,
+      "dueDate": "2025-06-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the townhouse lender asked for recent brokerage, retirement, bank, and insurance statements before underwriting can finish, and Elena wants the advisory record used to assemble the financial packet without sending full account numbers by email; the agreed follow-up is due 2025-06-30."
+    },
+    {
+      "templateId": null,
+      "title": "Review insurance policies for relocation changes",
+      "text": "Compare Elena Mossbutton's Silver Marmot Insurance policies and provider list against the new Fort Collins household setup, accounting for changes in the insured residence, vehicle garaging location, local medical network, and emergency contacts.",
+      "priority": null,
+      "dueDate": "2025-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena wants her Silver Marmot Insurance policies and provider list compared against the Fort Collins household setup; the agreed follow-up is due 2025-07-25."
+    },
+    {
+      "templateId": "a9d3b8a3-fcdf-5a99-bb86-dc976b2554d7",
+      "title": "Complete beneficiary update checklist",
+      "text": "Perform a consolidated review of household beneficiary records and attorney coordination notes to align the IRA, taxable transfer-on-death note, and Silver Marmot Insurance life policy with the new Fort Collins trust documents and successor contacts.",
+      "priority": "high",
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s relocation review found that the IRA, taxable transfer-on-death note, and Silver Marmot Insurance life policy still reference the Oregon trust documents and Lara Thimblefern as successor contact; the agreed beneficiary and estate-document alignment work covers a consolidated review of househo"
+    }
+  ]
+}

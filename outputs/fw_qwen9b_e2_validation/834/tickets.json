@@ -1,0 +1,84 @@
+{
+  "meetingId": "834",
+  "tickets": [
+    {
+      "templateId": "eeaa9b5d-78e4-55ba-98d9-0f6ae221111e",
+      "title": "Follow up on account security concern",
+      "text": "Security concern type: suspicious communication\nAffected account or platform: Paige Lanternmoss’s Velvet Acorn Custody account\nDate client reported concern: 2025-11-06\nClient's preferred contact method: secure portal messages or phone calls\nImmediate action requested: escalate to custodian, document evidence, coordinate credential reset, and provide a phone update to Paige\nCustodian or platform contact: Velvet Acorn Custody\nEvidence to review: Paige’s forwarded login alert for a session she did not recognize and her statement that she could not verify whether recent account activity was legitimate\nResolution status: open\nNext client update: phone update to Paige\nInternal notes: Follow-up by 2025-11-07 covering custodian escalation, evidence documentation, credential reset coordination, and a phone update to Paige.",
+      "priority": "high",
+      "dueDate": "2025-11-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-07 covering custodian escalation, evidence documentation, credential reset coordination, and a phone update to Paige."
+    },
+    {
+      "templateId": "d59658c9-3bcc-573c-a34e-479818bc4c60",
+      "title": "Follow up on missing signature",
+      "text": "Contact Darin Lanternmoss through the approved communication channel to explain which document still needs signature, where to sign, and how to return it securely. Confirm receipt of the completed signature page and update the document status log. The portal upload contains Paige’s signed pages but not Darin’s signature page.",
+      "priority": "medium",
+      "dueDate": "2025-11-10",
+      "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9",
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-10 to contact Darin through the approved channel, explain the required signature location, and confirm secure return of the signed page."
+    },
+    {
+      "templateId": "340a01fd-6530-54e3-8336-c6224508592f",
+      "title": "Track custodian transfer status",
+      "text": "Check the pending transfer with Velvet Acorn Custody, note the latest status, and alert the advisor if securities, cost basis, or residual cash have not arrived as expected. The receiving custodian has received securities from Teacup Comet Brokerage, but the cost basis file and a small residual cash sweep do not match the sending statement Paige uploaded.",
+      "priority": "medium",
+      "dueDate": "2025-11-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-12 to check the receiving custodian’s latest status and document whether remaining assets or basis details are still pending."
+    },
+    {
+      "templateId": "96edd7b2-1df4-595b-96aa-9e7c04b9813d",
+      "title": "Complete beneficiary update workflow",
+      "text": "Use this workflow when a client needs to add, remove, or revise beneficiary designations. Confirm the requested change, gather the required custodian forms or online instructions, submit the update, and verify the custodian's final confirmation before closing the loop with the client. Confirm Paige Lanternmoss’s requested IRA beneficiary changes, including revised primary and contingent percentages for Darin, Liora, and the Willow Pudding Family Trust.",
+      "priority": "medium",
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm beneficiary instructions",
+          "text": "Review the client's requested beneficiary changes, including primary and contingent beneficiaries, percentages, relationship details, and any per stirpes or trust-related language. Flag anything that requires attorney or estate planning review. Confirm Paige Lanternmoss’s requested IRA beneficiary changes, including revised primary and contingent percentages for Darin, Liora, and the Willow Pudding Family Trust.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "08744d31-7555-51ee-a1eb-a482b9defeeb"
+        },
+        {
+          "title": "Prepare custodian documentation",
+          "text": "Identify the correct beneficiary update method for each affected account, prepare forms or portal steps, and confirm whether spousal consent, medallion signature guarantee, or trust documentation is required.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9"
+        },
+        {
+          "title": "Submit and track update",
+          "text": "Submit the completed documentation through the approved custodian channel and track the request until the custodian confirms the beneficiary record has been updated.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ddfe45a4-1a81-5a26-8db5-0d7287fbbec9"
+        },
+        {
+          "title": "Confirm completion with client",
+          "text": "Send the client a concise confirmation that the beneficiary update has been completed, noting any accounts still pending or any items the client should retain with estate documents.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "08744d31-7555-51ee-a1eb-a482b9defeeb"
+        }
+      ],
+      "evidence": "They agreed on follow-up by 2025-11-14 to confirm the requested designations, identify the correct custodian process, and flag any trust wording that may require estate attorney review."
+    },
+    {
+      "templateId": "b91c5012-f119-507f-91de-d78d8599cb42",
+      "title": "Review charitable transfer readiness",
+      "text": "Review the proposed charitable transfer using these criteria and collect supporting evidence:\n- Confirm intended recipient is a qualified charity or eligible donor-advised fund sponsor.\n- Confirm asset type, estimated value, cost basis if available, holding period, and whether appreciated securities are involved.\n- Confirm source account registration and authority to give transfer instructions.\n- Verify delivery instructions, including recipient name, tax identification details if provided securely, custodian delivery method, and any special purpose or designation language.\n- Check whether the gift should be coordinated with the client's tax advisor for deductibility, AGI limits, bunching strategy, or required minimum distribution treatment.\n- Confirm whether the client needs an acknowledgment letter, gift receipt, or confirmation for tax records.\n- Evidence to collect: client authorization, current position or cash balance, charity delivery instructions, custodian form or portal confirmation, and final transfer confirmation. Review Paige Lanternmoss’s possible gift of appreciated Copper Firefly Systems shares to Marzipan Meadow Arts Fund during her year-end giving window.",
+      "priority": "medium",
+      "dueDate": "2025-11-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed on follow-up by 2025-11-21 covering the proposed asset, charity delivery instructions, tax coordination questions, and confirmation evidence needed for Paige’s records."
+    }
+  ]
+}

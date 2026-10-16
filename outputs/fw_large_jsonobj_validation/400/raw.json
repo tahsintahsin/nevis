@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_jsonobj",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"name\": \"response\",\n\"type\": \"object\",\n\"properties\": {\n\"meetingId\": { \"type\": \"string\" },\n\"tickets\": {\n\"type\": \"array\",\n\"items\": {\n\"type\": \"object\",\n\"properties\": {\n\"title\": { \"type\": \"string\" },\n\"text\": { \"type\": \"string\" },\n\"priority\": { \"type\": [\"string\", \"null\"] },\n\"dueDate\": { \"type\": [\"string\", \"null\"] },\n\"assigneeId\": { \"type\": [\"string\", \"null\"] },\n\"subTasks\": {\n\"type\": \"array\",\n\"items\": {\n\"type\": \"object\",\n\"properties\": {\n\"title\": { \"type\": \"string\" },\n\"text\": { \"type\": \"string\" },\n\"priority\": { \"type\": [\"string\", \"null\"] },\n\"assigneeId\": { \"type\": [\"string\", \"null\"] }\n},\n\"required\": [\"title\", \"text\", \"priority\", \"assigneeId\"]\n}\n},\n\"evidence\": { \"type\": \"string\" },\n\"templateId\": { \"type\": [\"string\", \"null\"] }\n},\n\"required\": [\"title\", \"text\", \"priority\", \"dueDate\", \"assigneeId\", \"subTasks\", \"evidence\", \"templateId\"]\n}\n}\n},\n\"required\": [\"meetingId\", \"tickets\"]\n}\n",
+   "usage": {
+    "input_tokens": 7250,
+    "output_tokens": 3250,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 40
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+  "meetingId": "407",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare detailed funds‑flow schedule",
+      "text": "Prepare an updated funds‑flow schedule separating gross consideration, escrow holdbacks, rollover equity, tax reserves, and transaction fees for Julian Maplesprocket’s sale, using the draft LOI figures.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "An updated funds-flow schedule is needed to separate gross consideration, holdbacks, rollover equity, tax reserves, and transaction fees by 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare sale‑liquidity staging plan",
+      "text": "Prepare a plan showing how incoming business‑sale cash will be allocated among household reserves, tax reserves, renovation funds, debt decisions, and investment tranches for Julian Maplesprocket.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the sale-liquidity staging plan by 2025-01-08."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare preferred‑equity rollover review",
+      "text": "Prepare a plain‑language review of the proposed $1.5 million rollover into Copper Firefly Systems preferred equity, covering liquidity limits, dividend terms, redemption rights, and concentration risk.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that preferred-equity rollover review by 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare CPA sale‑tax projection package",
+      "text": "Prepare a tax projection package covering federal, Oregon, basis, installment‑payment assumptions, escrow taxation, and shareholder note treatment for Julian’s sale.",
+      "priority": null,
+      "dueDate": "2025-01-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the CPA sale-tax projection package by 2025-01-07."
+    },
+    {
+      "templateId": null,
+      "title": "Model shareholder note payoff treatment",
+      "text": "Model the $380,000 shareholder note payoff separately from equity proceeds to aid advisory team and CPA in cash‑allocation assumptions.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to model the shareholder note payoff treatment by 2025-01-08."
+    },
+    {
+      "templateId": null,
+      "title": "Clarify employee retention bonus pool",
+      "text": "Clarify the variance in the employee retention bonus pool figures to determine impact on net proceeds and working‑capital adjustments.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Clarification of the retention bonus pool variance is needed by 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare escrow holdback reserve analysis",
+      "text": "Prepare a reserve scenario that excludes escrow release proceeds for the liquidity plan, analyzing escrow holdback impacts.",
+      "priority": null,
+      "dueDate": "2025-01-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the escrow holdback reserve analysis by 2025-01-13."
+    },
+    {
+      "templateId": null,
+      "title": "Verify incoming‑wire capacity and instructions",
+      "text": "Verify the receiving‑bank process and capacity for the expected sale proceeds inbound wire before funds are sent.",
+      "priority": null,
+      "dueDate": "2025-01-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to verify incoming-wire capacity and receiving instructions by 2025-01-02."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain final consulting agreement economics",
+      "text": "Obtain the final consulting agreement terms covering compensation, expense reimbursement, termination, and non‑compete interactions for Julian’s post‑sale income forecast.",
+      "priority": null,
+      "dueDate": "2025-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Final consulting agreement economics are needed by 2025-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare post‑sale investment policy",
+      "text": "Prepare an investment policy reflecting staged cash deployment, liquidity floor, tax exposure, and fossil‑fuel screening preferences after the business sale.",
+      "priority": null,
+      "dueDate": "2025-01-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the post-sale investment policy by 2025-01-22."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare renovation and mortgage reserve model",
+      "text": "Model renovation costs and mortgage reserve needs to determine how much sale cash can be allocated to property spending, considering the Portland residence and lake cabin debts.",
+      "priority": null,
+      "dueDate": "2025-01-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare renovation and mortgage reserve modeling by 2025-01-16."
+    },
+    {
+      "templateId": null,
+      "title": "Review insurance transition after sale",
+      "text": "Review changes to Julian and Priya’s insurance coverage, including term life, disability, umbrella, and key‑person policies, in light of the business‑sale liquidity shift.",
+      "priority": null,
+      "dueDate": "2025-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to review the insurance transition after the business sale by 2025-01-15."
+    },
+    {
+      "templateId": null,
+      "title": "Complete estate liquidity and fiduciary review",
+      "text": "Complete a review of estate liquidity and fiduciary considerations given the increased liquidity from the sale and current family circumstances.",
+      "priority": null,
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete an estate liquidity and fiduciary review by 2025-01-17."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare residency and sourcing support file",
+      "text": "Prepare a residency and sourcing support file for the CPA’s sale‑year tax analysis, documenting travel, Washington apartment stays, and Oregon workdays.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian’s travel calendar, Oregon workdays, and Washington apartment records create a concrete need for a residency and sourcing support file for the CPA’s sale-year tax analysis by 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare charitable funding structure comparison",
+      "text": "Prepare a comparison of charitable funding structures, including donor‑advised funds and appreciated securities, using the family’s $75,000 annual giving level and projected sale liquidity.",
+      "priority": null,
+      "dueDate": "2025-01-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the charitable funding structure comparison by 2025-01-14."
+    }
+  ]
+}

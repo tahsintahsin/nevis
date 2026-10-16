@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"599\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Update household profile and route information\",\n\"text\": \"Update the household profile for Nolan Pebblefizz and Lena Pebblefizz, routing the new address and residency information to all relevant custodians and statement providers.\",\n\"priority\": null,\n\"dueDate\": null,\n\"assigneeId\": \"d8fe8317-1b9f-5ed2-aec3-d28071e724c7\",\n\"subTasks\": [],\n\"evidence\": \"Address and residency record work was completed after Nolan asked Mira Quillwhistle and Apricot Compass Advisory to update the household profile and route new information because several statements still showed Oregon.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2575,
+    "output_tokens": 1090,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

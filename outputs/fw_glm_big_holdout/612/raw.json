@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"612\", \"tickets\": [{\"title\": \"Complete address and residency update checks\", \"templateId\": \"a19cba02-6935-5708-8852-6d1c2cd423d5\", \"text\": \"Use the following checks before marking an address or residency update complete:\\n\\n- Confirm the new mailing address, residential address, and effective date of the change.\\n- Determine whether the move changes state residency, tax withholding, municipal tax exposure, or planning assumptions.\\n- Update internal CRM, financial planning software, reporting address, and household contact records.\\n- Confirm which custodians, insurers, retirement plan providers, or benefits administrators require separate address updates.\\n- Review whether beneficiary forms, estate documents, powers of attorney, or health directives may need state-specific review.\\n- Ask whether voter registration, driver's license, homestead, or domicile evidence is relevant to the planning file.\\n- Document who authorized the change and how identity was verified.\\n- Send confirmation to the client with any remaining action items.\\n\\nDana Cloudpuddle and Ellis Willowdoodle married on 2024-08-17 and share Ellis's Portland, Oregon townhouse as their primary residence; update household, planning, address, spouse contact, and outside-institution records, including Teacup Comet Bank, Velvet Acorn Credit Union, Velvet Acorn Custody, Moonbadger Robotics 401(k), and Paper Otter School 403(b).\", \"priority\": \"medium\", \"dueDate\": \"2024-09-06\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-06 to update household, planning, address, spouse contact, and outside-institution records.\"}, {\"title\": \"Benefits Enrollment Quick Start\", \"templateId\": \"70f06a3e-5fd7-517b-b68a-3b58951aede6\", \"text\": \"Collect benefits evidence for Ellis Willowdoodle from Paper Otter School, including the rate sheet and beneficiary confirmation that Ellis had not yet downloaded, and add them to the client file for the household planning review.\", \"priority\": null, \"dueDate\": \"2024-09-13\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"Benefits evidence is needed by 2024-09-13 because Ellis had not downloaded the Paper Otter School rate sheet or beneficiary confirmation.\"}, {\"title\": \"Update IRA beneficiary to replace Blair Nettlewhisk\", \"templateId\": null, \"text\": \"Update the beneficiary listing on Dana Cloudpuddle's Velvet Acorn Custody IRA so Ellis Willowdoodle replaces Blair Nettlewhisk, per Dana's instruction that Ellis should be the beneficiary.\", \"priority\": null, \"dueDate\": \"2024-09-10\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-10 to address Dana's Velvet Acorn Custody IRA beneficiary listing Blair Nettlewhisk, after Dana said Ellis should replace Blair.\"}]}",
+   "usage": {
+    "input_tokens": 5090,
+    "output_tokens": 747,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

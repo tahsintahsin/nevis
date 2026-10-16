@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e1",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"260\", \"tickets\": [{\"title\": \"Reset portal credentials and review session\", \"text\": \"Reset Jared Wrenpuddle’s portal credentials and review his session. Confirm MFA methods and strengthen MFA setup. Address the repeated lockouts after the uninitiated password-reset email.\", \"priority\": null, \"dueDate\": \"2024-03-18\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18.\"}, {\"title\": \"Review pending Teacup Comet Bank transfer instructions and profile change\", \"text\": \"Review the pending Teacup Comet Bank link in Jared Wrenpuddle’s joint taxable brokerage account. Confirm the household has no account there and review the associated transfer instructions and profile change.\", \"priority\": null, \"dueDate\": \"2024-03-19\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"associated transfer-instruction/profile-change review was agreed for 2024-03-19.\"}]}",
+   "usage": {
+    "input_tokens": 3335,
+    "output_tokens": 268,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

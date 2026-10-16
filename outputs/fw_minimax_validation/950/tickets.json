@@ -1,0 +1,154 @@
+{
+  "meetingId": "950",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Collect missing estate binder pages",
+      "text": "Collect the missing estate binder pages for Julian Mossbutton's estate review, including the later trust amendment and health care directive that may be in the home safe, and reconcile them with the older trust and pour-over will scans already in the Apricot Compass Advisory portal.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to collect the missing estate binder pages for review by 2024-04-05."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare consolidated estate review packet",
+      "text": "Prepare a consolidated estate review packet for Paper Otter Legal using Julian Mossbutton's trust, wills, powers of attorney, account titling notes, and beneficiary observations, including provisions tied to the children's minor years identified in the Apricot Compass review.",
+      "priority": null,
+      "dueDate": "2024-04-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare a consolidated packet for Paper Otter Legal by 2024-04-12 using the trust, wills, powers of attorney, account titling notes, and beneficiary observations."
+    },
+    {
+      "templateId": null,
+      "title": "Update successor fiduciary roster",
+      "text": "Update the list of potential trustees, executors, and health care agents for Julian and Elena Mossbutton, reflecting that Theo Mossbutton is now an adult and that Priya Willowdoodle's overseas relocation affects her availability as a successor fiduciary.",
+      "priority": null,
+      "dueDate": "2024-04-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to update the list of potential trustees, executors, and health care agents by 2024-04-15."
+    },
+    {
+      "templateId": "6445004d-4738-5b54-8a7d-a7b278501b6c",
+      "title": "Request beneficiary update details",
+      "text": "Use this form to collect beneficiary update details:\n\nClient full name: Julian Mossbutton\nAccount or policy type: traditional IRA\nCustodian or provider: Velvet Acorn Custody\nCurrent beneficiary information to review: [CURRENT BENEFICIARY DETAILS]\nRequested primary beneficiary name(s): Elena Mossbutton\nPrimary beneficiary relationship(s): spouse\nPrimary beneficiary percentage allocation(s): 100%\nRequested contingent beneficiary name(s): Samira Mossbutton and Theo Mossbutton\nContingent beneficiary relationship(s): children\nContingent beneficiary percentage allocation(s): equal per stirpes\nSpecial instructions or restrictions: per stirpes\nDocuments needed or attached: [DOCUMENT LIST]\nClient confirmation received by: meeting\nOpen questions: [OPEN QUESTIONS]",
+      "priority": null,
+      "dueDate": "2024-04-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the traditional IRA beneficiary paperwork by 2024-04-10."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve retirement plan beneficiary inconsistency",
+      "text": "Resolve the beneficiary inconsistency for Julian Mossbutton's Pocket Lantern Systems retirement plan, where the plan portal lists the Thimble Harbor Revocable Trust as primary beneficiary while Julian's estate worksheet says Elena Mossbutton should be primary on retirement assets.",
+      "priority": null,
+      "dueDate": "2024-04-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to follow up on the inconsistency by 2024-04-11."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm taxable account title and TOD options",
+      "text": "Confirm the intended title and available transfer-on-death options for Julian and Elena Mossbutton's joint taxable brokerage account at Velvet Acorn Custody, where the latest statement labels it as joint tenancy but the estate inventory describes it as a trust account.",
+      "priority": null,
+      "dueDate": "2024-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to confirm the intended title and available transfer-on-death options by 2024-04-18."
+    },
+    {
+      "templateId": "82c7a96d-c73b-5618-ae54-131547c346e7",
+      "title": "Follow up on account security item",
+      "text": "Review the vault access issue for Julian and Elena Mossbutton, where Elena could not open the shared vault invitation during the meeting because the authentication prompt failed. Confirm the client's preferred secure communication method, verify whether access credentials, multi-factor authentication, trusted contacts, or recent account activity require attention, and document the resolution steps. Do not request or record passwords or authentication codes.",
+      "priority": "high",
+      "dueDate": "2024-04-08",
+      "assigneeId": "5d5873db-bbef-5c5b-8c6b-d3c5f5da285f",
+      "subTasks": [],
+      "evidence": "They agreed to review vault access, trusted contacts, and secure delivery preferences by 2024-04-08, without collecting passwords or codes."
+    },
+    {
+      "templateId": null,
+      "title": "Complete pre-consult estate questionnaire",
+      "text": "Complete the pre-consult estate questionnaire for Paper Otter Legal for Julian and Elena Mossbutton, covering household members, asset categories, fiduciary candidates, and client-stated priorities, before the scheduled attorney discussion.",
+      "priority": null,
+      "dueDate": "2024-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "they agreed to complete the pre-consult estate questionnaire for Paper Otter Legal by 2024-04-16 before the scheduled attorney discussion, including household members, asset categories, fiduciary candidates, and client-stated priorities."
+    },
+    {
+      "templateId": "5221b3ba-6797-5273-8a7b-f0091cceb59a",
+      "title": "Concentrated Holding Snapshot",
+      "text": "Prepare a current snapshot of Julian Mossbutton's Pocket Lantern Systems stock exposure, including unrealized gain, vesting schedule, and liquidity implications, given that the stock represents about 18% of Julian and Elena Mossbutton's investable assets.",
+      "priority": null,
+      "dueDate": "2024-04-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare a current snapshot of the Pocket Lantern Systems stock exposure, unrealized gain, vesting schedule, and liquidity implications by 2024-04-19."
+    },
+    {
+      "templateId": "132fb768-cd5c-53d1-92ab-bb963b9e7db7",
+      "title": "Prepare retirement income plan",
+      "text": "Develop a retirement income plan for Julian and Elena Mossbutton using Julian's planned retirement from full-time work at the end of 2027, Elena's expected continued work until 2029, their $13,500 per month household spending before income taxes and charitable gifts, Elena's projected annual pension benefit of about $21,000 from Cloudberry Kite School at age 65, Julian's Social Security estimate of about $3,250 per month at full retirement age, the $185,000 cash reserves at Teacup Comet Bank, and anticipated portfolio withdrawals. Document assumptions, identify planning gaps, and prepare a clear recommendation summary for review.",
+      "priority": "medium",
+      "dueDate": "2024-04-26",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather retirement income inputs",
+          "text": "Collect current spending estimates, anticipated retirement date or phase-in plan, Social Security or pension information, expected withdrawals, cash reserves, and known large upcoming expenses for Julian and Elena Mossbutton, including Julian's planned retirement at the end of 2027, Elena's continued work until 2029, Julian's Social Security estimate of about $3,250 per month at full retirement age, Elena's projected annual pension benefit of about $21,000 from Cloudberry Kite School at age 65, and the $185,000 cash reserves at Teacup Comet Bank.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "5d5873db-bbef-5c5b-8c6b-d3c5f5da285f"
+        },
+        {
+          "title": "Model withdrawal and income scenarios",
+          "text": "Compare base, conservative, and flexible withdrawal scenarios for Julian and Elena Mossbutton. Note sequence-of-return risk, inflation assumptions, tax-sensitive account sequencing, and any years with unusual income or deductions.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "5d5873db-bbef-5c5b-8c6b-d3c5f5da285f"
+        },
+        {
+          "title": "Identify tax-aware implementation steps",
+          "text": "Review opportunities for Roth conversions, capital gain harvesting, charitable giving strategies, estimated tax payments, and coordination with Nadine Copperwisp at Lavender Sprocket Tax where appropriate, including the $18,000 annual charitable giving pattern through Buttonwood Balloon Foundation.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare client review summary",
+          "text": "Summarize recommended income sources, withdrawal order, cash reserve target, key risks, open questions, and follow-up actions for the Julian and Elena Mossbutton meeting.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "5d5873db-bbef-5c5b-8c6b-d3c5f5da285f"
+        }
+      ],
+      "evidence": "They agreed to prepare that roadmap by 2024-04-26."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain life insurance policy confirmations",
+      "text": "Obtain current ownership and beneficiary confirmation pages from Silver Marmot Insurance for Julian Mossbutton's $1 million term life insurance policy (running to age 70) and Elena Mossbutton's $500,000 term life insurance policy for the estate review.",
+      "priority": null,
+      "dueDate": "2024-04-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to obtain current policy confirmations for the estate review by 2024-04-17."
+    },
+    {
+      "templateId": null,
+      "title": "Send estate planning note to tax preparer",
+      "text": "Send Nadine Copperwisp at Lavender Sprocket Tax a planning note covering the anticipated estate revisions for Julian and Elena Mossbutton, their $18,000 annual charitable giving pattern through Buttonwood Balloon Foundation, the concentrated Pocket Lantern Systems stock exposure, and potential taxable gains, before her tax projection meeting.",
+      "priority": null,
+      "dueDate": "2024-04-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "they agreed to send Nadine Copperwisp a planning note by 2024-04-24 covering the anticipated estate revisions, charitable giving pattern, concentrated stock exposure, and potential taxable gains before her tax projection meeting with Julian and Elena."
+    }
+  ]
+}

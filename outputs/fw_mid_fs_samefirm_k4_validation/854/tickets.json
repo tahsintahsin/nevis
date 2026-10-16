@@ -1,0 +1,65 @@
+{
+  "meetingId": "854",
+  "tickets": [
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Complete the remaining contact, authorization, risk tolerance, and communication preference sections of the household profile packet so the new client record can be finalized. Alden Pebblefizz should finish the sections not yet completed.",
+      "priority": null,
+      "dueDate": "2024-04-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Alden said the household profile packet was started but not finished. Mira and Tobin asked him to complete the remaining contact, authorization, risk tolerance, and communication preference sections so the new client record can be finalized, and the agreed follow-up is completion of those remaining "
+    },
+    {
+      "templateId": null,
+      "title": "Reset portal access and confirm upload instructions",
+      "text": "Reset secure portal access for Alden and Priya Pebblefizz and confirm upload instructions for both household decision-makers. Address Priya’s missing portal invitation and Alden’s timed-out upload attempt when attaching the brokerage statement.",
+      "priority": null,
+      "dueDate": "2024-04-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Alden reported that Priya did not receive the secure portal invitation and that his own upload attempt timed out when attaching the brokerage statement; the agreed follow-up is to reset portal access and confirm upload instructions with both household decision-makers by 2024-04-23."
+    },
+    {
+      "templateId": null,
+      "title": "Evaluate prior employer retirement plan for rollover",
+      "text": "Evaluate the Willow Pudding Components prior employer retirement plan (approximately $148,000 balance) for possible rollover steps once the plan statement and distribution options are available. Confirm whether Copper Firefly Advisory can assist with the rollover evaluation.",
+      "priority": null,
+      "dueDate": "2024-05-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Alden specifically asked whether Copper Firefly Advisory could help evaluate the Willow Pudding Components plan and possible rollover steps once the plan statement and distribution options are available. The agreed follow-up is to address that evaluation once those records are available, due 2024-05"
+    },
+    {
+      "templateId": null,
+      "title": "Include equity award considerations in first planning meeting",
+      "text": "Include Paper Otter Robotics annual equity award elections in the first planning meeting agenda, accounting for vesting concentration, tax withholding, and whether to sell shares after vesting.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Alden said Paper Otter Robotics will issue annual equity award elections soon, and he wants the first planning meeting to account for vesting concentration, tax withholding, and whether to sell shares after vesting; the agreed follow-up is to include those equity award considerations in the first pl"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain tax returns and CPA authorization",
+      "text": "Obtain the most recent federal and Oregon tax returns and written permission to coordinate with Rowan Thimblefern, the household’s CPA, to complete the tax baseline for the first plan build.",
+      "priority": null,
+      "dueDate": "2024-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the tax return and CPA authorization topic, the onboarding review did not include the most recent federal and Oregon tax returns or written permission to coordinate with Rowan Thimblefern, leaving the tax baseline incomplete for the first plan build;"
+    },
+    {
+      "templateId": null,
+      "title": "Update education funding assumptions for Nora’s college program",
+      "text": "Update education funding assumptions for Nora Pebblefizz’s recent interest in an out-of-state engineering program, which could materially change the household’s education funding target and the 529 spending timeline.",
+      "priority": null,
+      "dueDate": "2024-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Alden described Nora’s recent interest in an out-of-state engineering program, which could materially change the household’s education funding target and the 529 spending timeline; updated education funding assumptions are needed by 2024-05-15."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"193\",\n\"tickets\": [\n{\n\"title\": \"Prepare $25,000 transfer instructions for Moonbadger Arts Center\",\n\"text\": \"Prepare approximately $25,000 transfer instructions for Sela Mossbutton and Jonah Mossbutton to donate appreciated Velvet Acorn Growth Fund shares to Moonbadger Arts Center's youth-workshop fund, pending verification of brokerage details.\",\n\"priority\": null,\n\"dueDate\": \"2026-01-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"They agreed: by 2026-01-23 prepare approximately-$25,000 transfer instructions after brokerage-detail verification\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Address prior-year acknowledgment and missing pledge language\",\n\"text\": \"Address the prior-year-only acknowledgment issue and incorporate missing current pledge/receipt goods-or-services language for Sela Mossbutton's donation to Moonbadger Arts Center.\",\n\"priority\": null,\n\"dueDate\": \"2026-02-06\",\n\"assigneeId\": \"a7eb678b-bf5e-50fc-b01b-eeb80d99a3e0\",\n\"subTasks\": [],\n\"evidence\": \"by 2026-02-06 address Evan-noted prior-year-only acknowledgment and missing current pledge/receipt goods-or-services language\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 746,
+    "output_tokens": 343,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

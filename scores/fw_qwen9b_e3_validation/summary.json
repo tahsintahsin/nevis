@@ -1,0 +1,89 @@
+{
+ "meetings": 80,
+ "ref_tickets": 476,
+ "pred_tickets": 472,
+ "north_star": 0.8762604775280607,
+ "north_star_by_ticket": 0.8670886075949367,
+ "meetings_without_miss": 0.6625,
+ "north_star_worst10pct": 0.7051353874883287,
+ "different_task_pairs": 16,
+ "f1": 0.9219409282700421,
+ "precision": 0.9258474576271186,
+ "recall": 0.9180672268907563,
+ "valid_rate": 1.0,
+ "invalid_tickets": 0,
+ "f1_macro": 0.9266613097343596,
+ "empty_meeting_acc": 1.0,
+ "extra_from_declined": 0,
+ "count_abs_error": 0.475,
+ "tickets_with_invention": 1,
+ "invented_facts": 1,
+ "invented_names": 0,
+ "template_ok": 0.9176201372997712,
+ "dueDate_ok": 0.9954233409610984,
+ "assignee_ok": 0.9816933638443935,
+ "priority_ok": 0.9290617848970252,
+ "subtasks_ok": 0.9794050343249427,
+ "text_good": 0.8398169336384439,
+ "text_size_ok": 0.9496567505720824,
+ "text_style_ok": 1.0,
+ "template_used_ok": 0.9931350114416476,
+ "template_kept": 0.9723762381237471,
+ "blanks_f1": 0.8944470344470344,
+ "judge_0_5": 4.391304347826087,
+ "blank_hit": 69,
+ "blank_missed": 10,
+ "blank_extra": 7,
+ "template_correct_freeform": 297,
+ "template_correct_template": 104,
+ "template_missed": 18,
+ "template_forced": 16,
+ "template_wrong_template": 2,
+ "north_star_95": [
+  0.8459679480551745,
+  0.9043739151318275
+ ],
+ "north_star_by_ticket_95": [
+  0.8359280882679085,
+  0.8955544541760366
+ ],
+ "f1_95": [
+  0.8969548615390935,
+  0.9445638879101207
+ ],
+ "precision_95": [
+  0.8934904078971876,
+  0.954005421686747
+ ],
+ "recall_95": [
+  0.8875489457831326,
+  0.9447856017089341
+ ],
+ "north_star_no_tune_twin": 0.8637173918630778,
+ "meetings_no_tune_twin": 68,
+ "run": {
+  "meetings_with_meta": 80,
+  "models": {
+   "accounts/nevis-home-task/models/qwen35-9b-tickets-e3r#accounts/nevis-home-task/deployments/qwen35-9b-eval2": 80
+  },
+  "latency_median_s": 12.35371,
+  "latency_p90_s": 26.308919200000005,
+  "cost_mean_usd": 0.0038314583635745093,
+  "cost_median_usd": 0.003431586111093768,
+  "cost_total_usd": 0.30651666908596076
+ },
+ "settings": {
+  "invalid_policy": "meeting",
+  "judge": "accounts/fireworks/models/gpt-oss-120b",
+  "min_pair_score": 0.3
+ },
+ "judge_stats": {
+  "model": "accounts/fireworks/models/gpt-oss-120b",
+  "calls": 0,
+  "cached": 453,
+  "unparsed": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "seconds": 0.0
+ }
+}

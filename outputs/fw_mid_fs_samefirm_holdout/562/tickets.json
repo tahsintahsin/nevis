@@ -1,0 +1,35 @@
+{
+  "meetingId": "562",
+  "tickets": [
+    {
+      "templateId": "014f22b3-2adc-53a7-944b-141688d29b12",
+      "title": "Tax Notice Triage",
+      "text": "Collect and assemble Dana Wrenpuddle’s requested account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports for Mira Quillwhistle’s divorce file. Several items were not in the secure folder.",
+      "priority": null,
+      "dueDate": "2024-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2024-12-06, assemble Dana’s requested account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports, as several items were not in the secure folder"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare inventory of individual and joint accounts and payments",
+      "text": "Prepare an inventory distinguishing Mira’s individual accounts, Simon’s known separate accounts, joint property and liabilities, beneficiary designations, and recurring household payments for counsel discussion of ownership changes before transfers.",
+      "priority": null,
+      "dueDate": "2024-12-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "by 2024-12-13, prepare an inventory distinguishing Mira’s individual accounts, Simon’s known separate accounts, joint property/liabilities, beneficiary designations, and recurring household payments for counsel discussion of ownership changes before transfers"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Cloudberry Kite Systems equity compensation data",
+      "text": "Reconcile Cloudberry Kite Systems grants, vested/unvested shares, withholding, and sale history between the advisory portal vesting totals and counsel’s spreadsheet for legal review.",
+      "priority": null,
+      "dueDate": "2024-12-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "after Lena identified Cloudberry Kite Systems portal vesting totals differed from counsel’s spreadsheet, by 2024-12-10 reconcile grants, vested/unvested shares, withholding, and sale history for legal review"
+    }
+  ]
+}

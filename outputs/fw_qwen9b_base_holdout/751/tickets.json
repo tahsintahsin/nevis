@@ -1,0 +1,85 @@
+{
+  "meetingId": "751",
+  "tickets": [
+    {
+      "templateId": "7ff3455b-9835-5e0d-a74c-bc2eb1f3d7e8",
+      "title": "Update household profile fields",
+      "text": "Update the Maplesprocket household profile to reflect the addition of daughter Isla Maplesprocket, changing the dependent count and adjusting cash-flow assumptions and projection inputs for a three-person household.",
+      "priority": null,
+      "dueDate": "2024-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin reported Isla’s birth and asked that the advisory record, dependent count, cash-flow assumptions, and projection inputs reflect a three-person household; the agreed household profile and planning assumptions update is dated 2024-02-21."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile equity award record discrepancies",
+      "text": "Reconcile the Teacup Comet Robotics equity award record by comparing the stock-plan portal data (1,850 unvested RSUs and 420 vested shares) with Corin's personal spreadsheet, specifically addressing the difference in how unvested units and estimated tax withholding are treated.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin’s personal spreadsheet showed a higher Teacup Comet Robotics equity value than the stock-plan portal because unvested units and estimated tax withholding appeared to be treated differently; the agreed equity award record reconciliation follow-up is dated 2024-02-29."
+    },
+    {
+      "templateId": null,
+      "title": "Review life and disability insurance needs",
+      "text": "Review the Maplesprocket household's life and disability insurance coverage against their stated survivor income, mortgage payoff, childcare, and education funding targets after adding Isla as a dependent, noting current coverage includes $250,000 employer group life, $750,000 supplemental term, $500,000 individual term, and LTD replacing 60% and 50% of pay respectively.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The review indicated that existing coverage may be below the family’s stated survivor income, mortgage payoff, childcare, and education funding targets after adding Isla as a dependent; the agreed life and disability insurance needs review follow-up is dated 2024-03-01."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate with estate attorney on planning memo",
+      "text": "Coordinate with estate attorney Priya Lanternmoss to prepare a planning memo covering guardian nominees, backup trustee choices, beneficiary alignment, and whether the existing wills and powers of attorney (signed in 2019 naming Jessa Maplesprocket as representative) still fit the household.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin requested a planning memo for estate attorney Priya Lanternmoss covering guardian nominees, backup trustee choices, beneficiary alignment, and whether the existing documents still fit the household; the agreed estate attorney coordination follow-up is dated 2024-03-08."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain newborn identity documents",
+      "text": "Obtain the issued birth certificate and Social Security card for Isla Maplesprocket to enable custodial account titling, beneficiary record updates, and education account administration, as the hospital proof of birth is currently insufficient.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin has hospital proof of birth but not the issued birth certificate or Social Security card needed for custodial account titling, beneficiary records, and education account administration; the agreed newborn identity document follow-up is dated 2024-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm employer health plan dependent enrollment",
+      "text": "Confirm the enrollment of Isla Maplesprocket as a dependent in the Teacup Comet Robotics benefits portal and verify the member record status with the insurer, as the portal currently shows enrollment as pending and the insurer search did not yet show a member record.",
+      "priority": null,
+      "dueDate": "2024-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The Teacup Comet Robotics benefits portal showed Isla’s dependent enrollment as pending, and the insurer search did not yet show a member record for newborn claims; the agreed employer health plan dependent enrollment follow-up is dated 2024-02-20."
+    },
+    {
+      "templateId": null,
+      "title": "Provide education funding recommendations",
+      "text": "Provide recommendations comparing education account ownership options, initial contribution levels, investment track selections, and strategies for coordinating grandparent gifts without disrupting the household reserve target.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Corin asked for a comparison of education account ownership, initial contribution level, investment track selection, and how grandparent gifts could be coordinated without disrupting the household reserve target; the agreed education funding recommendation follow-up is dated 2024-03-06."
+    },
+    {
+      "templateId": null,
+      "title": "Develop revised short-term cash-flow model",
+      "text": "Develop a revised short-term cash-flow model and monthly surplus estimate for the Maplesprocket household, accounting for Malia's partially unpaid parental leave, infant care tuition at Cloudberry Kite Early Learning ($2,250/month), and upcoming payroll benefit changes.",
+      "priority": null,
+      "dueDate": "2024-02-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Malia’s partially unpaid leave, infant care tuition, and upcoming payroll benefit changes require a revised short-term cash reserve and monthly surplus estimate before Corin adjusts deferrals; the agreed cash-flow model follow-up is dated 2024-02-23."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "meetingId": "941",
+  "tickets": [
+    {
+      "templateId": "fcc97859-b94b-574b-9ef8-66594525339a",
+      "title": "Review Debt Refinance Opportunity",
+      "text": "Compare current loan terms with proposed refinance terms for Daria and Liam Velvetreed's primary residence mortgage, including rate, term, payment change, closing costs, break-even period, cash flow impact, and planning risks before advising next steps. The comparison covers the current 7/1 adjustable-rate loan at Teacup Comet Bank (3.25% rate, ~$4,120/month P&I, ~$812,000 balance) with a projected reset to ~6.875% and ~$5,980/month, a fixed-rate refinance quote from Silver Marmot Mortgage, and a no-cash-out quote from Teacup Comet Bank.",
+      "priority": "medium",
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison for October 25, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current debt documents for loan analysis",
+      "text": "Obtain the current mortgage note, most recent HELOC statement, HELOC draw-period terms, and payoff figures for the credit cards and auto loan for Daria and Liam Velvetreed to test restructuring options using current balances and terms.",
+      "priority": null,
+      "dueDate": "2024-10-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain those documents to test restructuring options using current balances and terms by October 24, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve HELOC limit and advance availability discrepancy",
+      "text": "Resolve the discrepancy between Daria Velvetreed's household spreadsheet showing a $200,000 HELOC limit and the Teacup Comet Bank portal screenshot showing a lower available line with restricted new advances. Confirm the actual limit and draw status.",
+      "priority": null,
+      "dueDate": "2024-10-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The actual limit and draw status remain unresolved and need follow-up by October 30, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Develop cash-flow bridge plan for higher loan payments",
+      "text": "Develop a cash-flow bridge plan for Daria and Liam Velvetreed to address the projected monthly shortfall from the combined increase in mortgage and HELOC payments, using bonus timing, reserve thresholds, and discretionary spending reductions.",
+      "priority": null,
+      "dueDate": "2024-11-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to develop that bridge plan for November 8, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Test repayment sequence for high-interest consumer debt",
+      "text": "Test the payoff order for Daria and Liam Velvetreed's high-interest consumer debt against liquidity needs rather than simply paying the smallest balance first, given credit card rates of 18.9%–22.4% materially exceed secured debt rates.",
+      "priority": null,
+      "dueDate": "2024-10-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to test the repayment sequence by October 29, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Compare taxable investment use for debt reduction",
+      "text": "Compare taxes, concentration risk, and interest savings for Daria and Liam Velvetreed regarding use of their ~$620,000 taxable brokerage account at Velvet Acorn Custody to retire credit card debt and reduce the $146,000 HELOC, noting the largest liquid position is ~$235,000 of Clockwork Clover Biologics stock with ~$74,000 cost basis.",
+      "priority": null,
+      "dueDate": "2024-10-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare taxes, concentration risk, and interest savings by October 31, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate tax planning with Cora Bramblequill",
+      "text": "Coordinate with Cora Bramblequill at Paper Otter Tax Studio on estimated tax planning for Daria and Liam Velvetreed so that any sale of Clockwork Clover Biologics stock, use of bonus proceeds, or change in withholding is reflected in the household's tax planning.",
+      "priority": null,
+      "dueDate": "2024-11-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate that tax planning by November 6, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain updated estimate of Liam's business revenue and expenses",
+      "text": "Obtain an updated estimate of Liam Velvetreed's expected business revenue and expenses from Buttonwood Balloon Studio for the refinance application, as his largest design contract is winding down and current household income will be used.",
+      "priority": null,
+      "dueDate": "2024-11-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "An updated estimate of Liam’s expected business revenue and expenses remains needed by November 5, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Address HELOC feed issue in planning portal",
+      "text": "Address the planning portal issue for Daria Velvetreed where the HELOC balance has not updated for several weeks and still shows the old interest-only payment, which is affecting the cash-flow projection.",
+      "priority": null,
+      "dueDate": "2024-10-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the HELOC feed issue by October 23, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current insurance declarations for refinancing",
+      "text": "Obtain current homeowners and umbrella insurance declarations for Daria and Liam Velvetreed from Amber Teapot Insurance for the refinance package checklist, as only an older homeowners declaration page was available during the call.",
+      "priority": null,
+      "dueDate": "2024-11-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain current insurance declarations by November 4, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain trust and title documents for lender underwriting",
+      "text": "Obtain trust certification and title vesting evidence for Daria and Liam Velvetreed's primary residence, which appears to be titled in their revocable trust, for the lender's refinance underwriting checklist.",
+      "priority": null,
+      "dueDate": "2024-11-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Those trust and title materials remain needed by November 1, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Summarize rate-lock trade-offs and open risks",
+      "text": "Summarize the financial trade-offs and open risks for Daria and Liam Velvetreed before they decide whether to proceed with the refinance lender that includes a limited rate-lock window.",
+      "priority": null,
+      "dueDate": "2024-10-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to summarize the financial trade-offs and open risks before the household decides whether to proceed with that lender, with a date of October 27, 2024."
+    }
+  ]
+}

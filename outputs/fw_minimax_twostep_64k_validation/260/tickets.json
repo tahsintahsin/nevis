@@ -1,0 +1,47 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset portal credentials and strengthen MFA",
+      "text": "Perform an approved-channel clean credential reset, session review, and stronger MFA setup for Jared Wrenpuddle's Velvet Acorn Custody Roth IRA portal access after repeated lockouts following an uninitiated password-reset email. Use the portal as primary delivery for statements and service requests.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Perform clean credential reset",
+          "text": "Reset Jared Wrenpuddle's portal credentials through approved channels after the uninitiated password-reset email that caused repeated lockouts on the Velvet Acorn Custody Roth IRA portal.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review active sessions",
+          "text": "Review and terminate any active sessions on Jared Wrenpuddle's Velvet Acorn Custody Roth IRA portal access as part of the security cleanup.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Set up stronger MFA",
+          "text": "Configure stronger multi-factor authentication for Jared Wrenpuddle's portal access to prevent future lockouts and unauthorized reset attempts.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18"
+    },
+    {
+      "templateId": null,
+      "title": "Review pending Teacup Comet Bank link",
+      "text": "Review the pending Teacup Comet Bank link on the Wrenpuddle household accounts, along with any associated transfer instructions and profile changes, since Jared reported the household has no relationship with Teacup Comet Bank. Cover the joint taxable brokerage account and Jared's Velvet Acorn Custody Roth IRA.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "associated transfer-instruction/profile-change review was agreed for 2024-03-19"
+    }
+  ]
+}

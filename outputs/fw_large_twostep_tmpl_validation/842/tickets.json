@@ -1,0 +1,154 @@
+{
+  "meetingId": "842",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Equity Award Review",
+      "text": "Coordinate the manual transfer path for restricted Paper Otter Systems shares from Velvet Acorn Custody to Thimble Harbor Custody for Daria Nettlewhisk by 2025-01-08.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate that manual transfer path by 2025-01-08."
+    },
+    {
+      "templateId": null,
+      "title": "Correct IRA registration name variance",
+      "text": "Correct the IRA registration name variance for Daria Nettlewhisk’s traditional IRA, ensuring the name matches Daria M. Nettlewhisk, by 2025-01-07.",
+      "priority": null,
+      "dueDate": "2025-01-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the IRA registration name variance by 2025-01-07."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain latest Jonas rollover IRA statement",
+      "text": "Obtain the most recent statement for Jonas Nettlewhisk’s rollover IRA from Velvet Acorn Custody and deliver it for transfer processing by 2025-01-06.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed to obtain the most recent Jonas rollover IRA statement by 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Set up inherited IRA receiving account",
+      "text": "Set up a separate receiving account for the inherited IRA of Daria Nettlewhisk, originally from Iris Juniperjingle, at Thimble Harbor Custody by 2025-01-09.",
+      "priority": null,
+      "dueDate": "2025-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to set up the inherited IRA receiving account by 2025-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Place residual cash sweep instruction",
+      "text": "Place a residual cash and income sweep instruction with the transfer desk for Daria and Jonas Nettlewhisk’s account to capture dividends and interest after the initial asset list by 2025-01-03.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to place the residual cash and income sweep instruction by 2025-01-03."
+    },
+    {
+      "templateId": null,
+      "title": "Secure transfer‑on‑death beneficiary packet",
+      "text": "Secure the signed transfer‑on‑death beneficiary confirmation packet for Daria and Jonas Nettlewhisk’s new taxable account at Thimble Harbor Custody by 2025-01-10.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed on the transfer-on-death beneficiary confirmation packet by 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Review cost‑basis import for taxable lots",
+      "text": "Review and correct the cost‑basis import for the Copper Firefly municipal bond fund lots in Daria Nettlewhisk’s taxable account to align with the latest statements by 2025-01-17.",
+      "priority": null,
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the cost-basis import for taxable lots by 2025-01-17."
+    },
+    {
+      "templateId": null,
+      "title": "Provide transfer‑position report to CPA",
+      "text": "Provide a transfer‑position report for Daria and Jonas Nettlewhisk’s taxable positions to CPA Lena Mossbutton for tax coordination during the asset transfer by 2025-01-13.",
+      "priority": null,
+      "dueDate": "2025-01-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to provide that tax coordination for taxable positions during the transfer by 2025-01-13."
+    },
+    {
+      "templateId": "a710055f-d918-54b3-bc17-1d80e9974526",
+      "title": "Review recurring payment change request",
+      "text": "Evaluate the requested recurring payment change using these criteria and collect evidence before processing:\n\nReview criteria:\n- Confirm the payment type: deposit, withdrawal, bill payment, ACH, journal, charitable gift, or scheduled transfer.\n- Confirm whether the request is to start, stop, pause, resume, change amount, change frequency, or change funding source.\n- Verify client authorization and any required custodian form or e-signature.\n- Confirm payee or receiving account details without relying on verbal-only instructions for sensitive changes.\n- Review account cash availability and expected timing of income or settlements.\n- Identify tax, penalty, overdraft, or missed-payment risks.\n- Check whether the change affects retirement income, RMD satisfaction, charitable giving, insurance premiums, or household budget assumptions.\n\nEvidence to collect:\n- Written client instruction or approved form\n- Current recurring payment record or screenshot from custodian system\n- New payment amount, cadence, and source account\n- Payee or destination verification\n- Notes confirming impact review and approval to implement\n\nRelocate the recurring household cash transfer from the Velvet Acorn Custody money market source to the new Thimble Harbor Custody cash sleeve for Daria and Jonas Nettlewhisk by 2025-01-15.",
+      "priority": "high",
+      "dueDate": "2025-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to relocate the recurring household income transfer by 2025-01-15."
+    },
+    {
+      "templateId": null,
+      "title": "Establish cash reserve sleeve",
+      "text": "Establish a cash reserve sleeve at Thimble Harbor Custody for Daria and Jonas Nettlewhisk to cover property‑tax, tuition, and caregiving expenses before trading, by 2025-01-10.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to establish the cash reserve at the receiving custodian by 2025-01-10."
+    },
+    {
+      "templateId": "e399f327-5544-58b2-b9e0-4d6560d263b5",
+      "title": "Update Household Profile and Planning Assumptions",
+      "text": "Refresh the household profile for Daria and Jonas Nettlewhisk. Confirm current household members, contact preferences, employment status, retirement target assumptions, tax filing status, dependent or caregiving changes, key professional contacts, and any new planning priorities. Record evidence sources in the CRM and flag items that affect retirement income planning, IRA rollover guidance, or tax-conscious investment management.\n\nUpdate the trusted contact and household profile as needed for Selma Nettlewhisk’s inclusion, completing changes by 2025-01-20.",
+      "priority": "medium",
+      "dueDate": "2025-01-20",
+      "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90",
+      "subTasks": [
+        {
+          "title": "Confirm Household and Contact Details",
+          "text": "Verify household members, preferred names, addresses, phone numbers, email preferences, trusted contact status, and communication permissions for {client_or_household_name}. Note any missing confirmations or outdated fields.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        },
+        {
+          "title": "Refresh Employment, Income, and Retirement Assumptions",
+          "text": "Update employer status, expected retirement timing, recurring income sources, benefits changes, and IRA or 401(k) rollover considerations. Capture the evidence reviewed, such as client confirmation, pay information, benefit summaries, or account statements.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        },
+        {
+          "title": "Review Tax, Estate, and Professional Contact Fields",
+          "text": "Confirm tax filing status, CPA or attorney contact placeholders, estate document status, beneficiary review needs, and any household life event changes. Leave placeholders blank when the client has not provided the information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        },
+        {
+          "title": "Document Changes and Route Follow-Ups",
+          "text": "Summarize completed updates, unresolved questions, and planning impacts. Create follow-up tasks for missing documents, advice updates, or client outreach where needed.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "d9eec8f0-c9fe-5f36-97b3-753c7c9a6c90"
+        }
+      ],
+      "evidence": "Follow-up is needed on the trusted contact and household profile change by 2025-01-20."
+    },
+    {
+      "templateId": null,
+      "title": "Complete replacement affidavit for certificates",
+      "text": "Complete the paper certificate replacement affidavit process for the two legacy Silver Marmot Energy certificates associated with the taxable account of Daria and Jonas Nettlewhisk, and submit the paperwork by 2025-01-14.",
+      "priority": null,
+      "dueDate": "2025-01-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the paper certificate replacement affidavit process by 2025-01-14."
+    }
+  ]
+}

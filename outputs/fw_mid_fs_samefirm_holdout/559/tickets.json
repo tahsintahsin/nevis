@@ -1,0 +1,35 @@
+{
+  "meetingId": "559",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Assemble and deliver requested financial documents to divorce counsel",
+      "text": "Assemble and deliver Mira Quillwhistle’s account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports to Dana Wrenpuddle of Paper Otter Legal, as requested for the divorce file. Include all items not yet in the secure folder.",
+      "priority": null,
+      "dueDate": "2024-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira asked for Dana’s requested account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports to be assembled because several items were not yet in the secure folder; the agreed follow-up is due 2024-12-06."
+    },
+    {
+      "templateId": null,
+      "title": "Create inventory of individual and joint accounts, liabilities, and payments",
+      "text": "Create a detailed inventory distinguishing Mira Quillwhistle’s individual accounts, Simon Quillwhistle’s known separate accounts, joint property, joint liabilities, beneficiary designations, and recurring household payments. Prepare this for ownership-change discussion with counsel before any transfers occur.",
+      "priority": null,
+      "dueDate": "2024-12-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira requested an inventory distinguishing her individual accounts, Simon’s known separate accounts, joint property, joint liabilities, beneficiary designations, and recurring household payments so ownership changes can be discussed with counsel before transfers occur; the agreed follow-up is due 20"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Cloudberry Kite Systems vesting totals",
+      "text": "Reconcile the differing Cloudberry Kite Systems vesting totals between the equity portal and counsel’s spreadsheet. Include grants, vested shares, unvested shares, withholding, and sale history for legal review.",
+      "priority": null,
+      "dueDate": "2024-12-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena identified differing Cloudberry Kite Systems vesting totals between the equity portal and counsel’s spreadsheet; the agreed follow-up is to reconcile grants, vested shares, unvested shares, withholding, and sale history for legal review, due 2024-12-10."
+    }
+  ]
+}

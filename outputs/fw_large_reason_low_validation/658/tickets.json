@@ -1,0 +1,85 @@
+{
+  "meetingId": "658",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare month-by-month tuition schedule",
+      "text": "Prepare a month-by-month schedule showing how much of Marzipan Meadow charges can be covered by Elin’s 529, the Teacup Comet tuition set-aside, and the Paper Otter Treasury fund without changing retirement contributions for Mira Quillwhistle.",
+      "priority": null,
+      "dueDate": "2023-12-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that schedule by December 19, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain itemized billing packet",
+      "text": "Obtain the itemized student account PDF billing packet for Marzipan Meadow College to substantiate the payment plan and qualified expense categories for Mira Quillwhistle.",
+      "priority": null,
+      "dueDate": "2023-12-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain the itemized billing packet by December 12, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve 529 balance mismatch",
+      "text": "Resolve the balance mismatch for Elin’s 529 account, where Mira reported a screenshot of $67,400 but the statement showed $72,270, for Mira Quillwhistle.",
+      "priority": null,
+      "dueDate": "2023-12-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to resolve the balance mismatch by December 15, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Identify payment or reimbursement workflow",
+      "text": "Identify an acceptable direct payment or reimbursement workflow for the college portal that rejected the bank verification for a 529 payment for Mira Quillwhistle.",
+      "priority": null,
+      "dueDate": "2023-12-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to identify the payment or reimbursement workflow by December 18, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Rowan education funding projection",
+      "text": "Prepare a separate education funding projection for Rowan Quillwhistle using the existing 529 balance, expected test and application costs, and a first‑year college savings target that does not rely on borrowing.",
+      "priority": null,
+      "dueDate": "2023-12-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that projection by December 29, 2023."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare cost‑gap estimate for Rowan",
+      "text": "Prepare a cost‑gap estimate for Rowan Quillwhistle to compare merit aid offers before the first school deposit decision, based on the scholarship and aid timing calendar.",
+      "priority": null,
+      "dueDate": "2024-02-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the cost-gap estimate by February 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare off‑campus housing projection",
+      "text": "Prepare a projection of rent, food, and utility amounts for Elin Quillwhistle’s off‑campus apartment option and assess how they fit into the education funding plan versus parent cash flow.",
+      "priority": null,
+      "dueDate": "2024-01-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that projection by January 19, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare sale‑sequencing and tax estimate",
+      "text": "Prepare a sale‑sequencing plan and tax estimate for using the Paper Otter taxable account’s education reserve, considering unrealized gains in the equity index fund and Treasury position for Mira Quillwhistle.",
+      "priority": null,
+      "dueDate": "2024-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the sale-sequencing and tax estimate by January 3, 2024."
+    }
+  ]
+}

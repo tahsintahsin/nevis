@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"294\", \"tickets\": [\n{\"title\": \"Prepare transfer instructions for charitable share donation\", \"text\": \"Prepare transfer instructions for donating about $50,000 of long-held Copper Firefly Utilities shares from Nora and Martin Nettlewhisk's $1.42 million joint taxable brokerage account to Nora's donor-advised fund at Velvet Acorn Charitable. The shares carry substantial unrealized appreciation.\", \"priority\": null, \"dueDate\": \"2024-08-02\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"The agreed August 2 follow-up is to prepare transfer instructions for donating about $50,000 of Copper Firefly Utilities shares to Nora's donor-advised fund at Velvet Acorn Charitable.\", \"templateId\": null},\n{\"title\": \"Obtain charitable status letter for Paper Otter Medical Research Trust\", \"text\": \"Obtain a current charitable status letter or receipt-language sample for Paper Otter Medical Research Trust for Nora and Martin Nettlewhisk, who prioritize medical research giving and averaged about $18,000 yearly giving over the prior three years.\", \"priority\": null, \"dueDate\": \"2024-08-09\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"Needed by August 9 are a current charitable status letter or receipt-language sample for Paper Otter Medical Research Trust\", \"templateId\": null},\n{\"title\": \"Resolve Marzipan Meadow Arts School/Foundation EIN mismatch\", \"text\": \"Resolve the EIN payee mismatch between Marzipan Meadow Arts School and Marzipan Meadow Arts Foundation for Nora and Martin Nettlewhisk, who prioritize local arts education giving.\", \"priority\": null, \"dueDate\": \"2024-08-05\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"needed by August 5 is resolution of the Marzipan Meadow Arts School/Foundation EIN payee mismatch.\", \"templateId\": null}\n]}",
+   "usage": {
+    "input_tokens": 1732,
+    "output_tokens": 454,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2123
+   },
+   "stop": "stop"
+  }
+ ]
+}

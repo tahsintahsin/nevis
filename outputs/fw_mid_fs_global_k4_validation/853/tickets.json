@@ -1,0 +1,25 @@
+{
+  "meetingId": "853",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review unfamiliar-device alert and coordinate custodian security steps",
+      "text": "Review the Velvet Acorn Custody unfamiliar-device alert that rejected Leona Thimblefern's usual authentication code. Check for any profile or distribution-instruction changes that may have been triggered, and coordinate pre-upload custodian security steps to restore service access.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps."
+    },
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update Leona Thimblefern’s household profile in the client record, including cash accounts, contact preferences, and any distribution-instruction changes that may have resulted from the portal authentication failure. Ensure the profile reflects her current service access and trusted-contact status.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Needed: failure blocks phone/email/trusted-contact review; during call, service access versus outdated household profile remained unresolved."
+    }
+  ]
+}

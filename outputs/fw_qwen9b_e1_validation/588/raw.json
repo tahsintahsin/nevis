@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_e1",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"588\", \"tickets\": [{\"title\": \"Review mortgage reset and refinance comparison\", \"text\": \"Prepare a side-by-side review of Liora Nettlewhisk’s current adjustable-rate mortgage against fixed-rate and shorter-term refinance quotes. Include closing costs, monthly payment impact, and the point at which refinancing would offset upfront costs.\", \"priority\": null, \"dueDate\": \"2025-06-03\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2025-06-03.\"}, {\"title\": \"Analyze loan reset timing and refinance lock\", \"text\": \"Review the mortgage servicer’s notice showing the upcoming rate change window. Provide a recommendation early enough for Liora Nettlewhisk to decide whether to lock a refinance quote or remain with the current lender.\", \"priority\": null, \"dueDate\": \"2025-05-30\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2025-05-30.\"}, {\"title\": \"Collect missing HELOC pages\", \"text\": \"Obtain the missing pages of Liora Nettlewhisk’s HELOC statement from the portal file. Include the margin, draw-period terms, and repayment conversion language needed to model the combined debt picture.\", \"priority\": null, \"dueDate\": \"2025-05-20\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2025-05-20.\"}, {\"title\": \"Review cash-flow discrepancy review\", \"text\": \"Review the mortgage servicer’s escrow estimate and Liora Nettlewhisk’s household budget. Resolve the different monthly property tax and insurance amounts and clarify the projected payment after the loan reset.\", \"priority\": null, \"dueDate\": \"2025-05-27\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2025-05-27.\"}, {\"title\": \"Follow up on bank autopay issue and reserve protection\", \"text\": \"Follow up on the Teacup Comet Bank HELOC autopay issue. Address the double draft in one cycle, the temporary reduction in the checking account cushion, and the transfer from savings before payroll posted.\", \"priority\": null, \"dueDate\": \"2025-05-21\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2025-05-21.\"}, {\"title\": \"Review debt repayment funding review\", \"text\": \"Review the portfolio review showing that selling enough Cloudberry Kite Robotics shares to pay off the credit card balance and part of the auto loan could reduce concentration risk. Account for the tax lots’ varying holding periods and unrealized gains.\", \"priority\": null, \"dueDate\": \"2025-06-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"the agreed follow-up is due 2025-06-10.\"}]}",
+   "usage": {
+    "input_tokens": 4260,
+    "output_tokens": 750,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}

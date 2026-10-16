@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_reason_low",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"110\",\n\"tickets\": [\n{\n\"templateId\": \"16995f94-ef6c-5a22-ab66-51b66b8e9006\",\n\"title\": \"Start retirement plan rollover\",\n\"text\": \"Prepare the Silver Marmot Laboratories 401(k) rollover for Nadia Copperwisp, including receiving the account registration and the company‑stock portion.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"They agreed by 2024-09-06 to start preparing the Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and company-stock portion.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain formal pension election packet\",\n\"text\": \"Obtain the formal pension election packet for Nadia Copperwisp, as only portal estimates are currently available.\",\n\"priority\": null,\n\"dueDate\": \"2024-08-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2024-08-23, the formal pension election packet is needed because only portal estimates were available.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review first-year retirement income and withholding\",\n\"text\": \"Review Nadia Copperwisp’s first-year retirement income and withholding, incorporating her final paycheck, unused vacation payout, and the timing of her first pension.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"They agreed by 2024-09-13 to review first-year retirement income and withholding because Tobin noted final paycheck, unused vacation payout, and first pension timing were not yet in the tax projection.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2713,
+    "output_tokens": 746,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2460
+   },
+   "stop": "stop"
+  }
+ ]
+}

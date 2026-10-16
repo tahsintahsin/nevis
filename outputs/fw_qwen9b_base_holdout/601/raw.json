@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"601\",\n\"tickets\": [\n{\n\"title\": \"Update residency profile with Velvet Acorn\",\n\"text\": \"Update Nolan and Lena Pebblefizz's profile and route new address/residency information to Velvet Acorn Custody, Paper Otter Insurance, and the CPA to correct statements still showing Oregon.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-10\",\n\"assigneeId\": \"d8fe8317-1b9f-5ed2-aec3-d28071e724c7\",\n\"subTasks\": [],\n\"evidence\": \"By 2025-03-10, they agreed to update the profile and route new address/residency to Velvet Acorn Custody, Paper Otter Insurance, and the CPA because several statements still show Oregon.\"\n,\n\"templateId\": \"a367693a-ffd0-5db2-ab0f-653fa242744d\"\n},\n{\n\"title\": \"Complete post-closing mortgage file\",\n\"text\": \"Complete the post-closing mortgage and insurance file for Nolan and Lena Pebblefizz by obtaining the final closing disclosure, current mortgage statement, and insurance declaration page for their Mesa home.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-17\",\n\"assigneeId\": \"d8fe8317-1b9f-5ed2-aec3-d28071e724c7\",\n\"subTasks\": [],\n\"evidence\": \"By 2025-03-17, they agreed to complete the post-closing mortgage and insurance file; it contains the purchase contract and estimated closing figures but lacks the final closing disclosure, current mortgage statement, and insurance declaration page.\"\n,\n\"templateId\": \"a367693a-ffd0-5db2-ab0f-653fa242744d\"\n},\n{\n\"title\": \"Resolve payroll withholding discrepancy\",\n\"text\": \"Address the payroll withholding evidence discrepancy for Nolan Pebblefizz where Moonbadger Analytics paystubs show Oregon withholding while the HR portal indicates an Arizona mailing/work location.\",\n\"priority\": null,\n\"dueDate\": \"2025-03-21\",\n\"assigneeId\": \"d8fe8317-1b9f-5ed2-aec3-d28071e724c7\",\n\"subTasks\": [],\n\"evidence\": \"By 2025-03-21, they agreed to address payroll withholding evidence: Nolan's Moonbadger Analytics paystub showed Oregon withholding while HR portal showed Arizona mailing/work location.\"\n,\n\"templateId\": \"a367693a-ffd0-5db2-ab0f-653fa242744d\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1086,
+    "output_tokens": 665,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 4096
+   },
+   "stop": "stop"
+  }
+ ]
+}

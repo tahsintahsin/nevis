@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "101",
+  "104"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"110\", \"tickets\": [{\"title\": \"Start retirement plan rollover\", \"text\": \"Start preparing the Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and processing the company-stock portion. Nadia Copperwisp's 401(k) has $914,000 with 38% in company stock, 52% in diversified equity funds, and 10% in stable value holdings.\", \"priority\": \"medium\", \"dueDate\": \"2024-09-06\", \"assigneeId\": null, \"templateId\": \"16995f94-ef6c-5a22-ab66-51b66b8e9006\", \"subTasks\": [{\"title\": \"Confirm distribution request details\", \"text\": \"Document the requested amount, source account, intended use, timing preference, delivery method, and whether the request is gross or net of withholding.\", \"priority\": \"medium\", \"dueDate\": null, \"assigneeId\": \"d843f9b3-ec71-510c-8fab-5e703ac8ee75\"}, {\"title\": \"Review liquidity and tax considerations\", \"text\": \"Evaluate available cash, required trades, gain/loss impact, retirement distribution rules, potential penalties, and estimated withholding or tax reporting implications.\", \"priority\": \"medium\", \"dueDate\": null, \"assigneeId\": \"eb6a55df-9b05-56e8-aa62-4073d542b4ff\"}, {\"title\": \"Obtain authorization and submit request\", \"text\": \"Prepare the distribution paperwork or custodian instructions, obtain required client authorization, and submit through the approved channel.\", \"priority\": \"medium\", \"dueDate\": null, \"assigneeId\": \"d843f9b3-ec71-510c-8fab-5e703ac8ee75\"}, {\"title\": \"Confirm completion and update records\", \"text\": \"Verify funds were sent as instructed, save confirmation, update cash planning notes, and note any follow-up tax document expectations.\", \"priority\": \"low\", \"dueDate\": null, \"assigneeId\": \"faccd1c1-fdc0-5a53-8dd5-9044d1660686\"}], \"evidence\": \"They agreed by 2024-09-06 to start preparing the Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and company-stock portion.\"}, {\"title\": \"Collect pension election packet details\", \"text\": \"Obtain the formal pension election packet for Nadia Copperwisp's retirement, as only portal estimates were available as of 2024-08-11. The packet is needed by 2024-08-23.\", \"priority\": null, \"dueDate\": \"2024-08-23\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"By 2024-08-23, the formal pension election packet is needed because only portal estimates were available.\"}, {\"title\": \"Review first-year retirement income and withholding\", \"text\": \"Review Nadia Copperwisp's first-year retirement income and withholding, incorporating the final paycheck, unused vacation payout, and first pension timing into the tax projection.\", \"priority\": null, \"dueDate\": \"2024-09-13\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-13 to review first-year retirement income and withholding because Tobin noted final paycheck, unused vacation payout, and first pension timing were not yet in the tax projection.\"}]}",
+   "usage": {
+    "input_tokens": 20437,
+    "output_tokens": 881,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

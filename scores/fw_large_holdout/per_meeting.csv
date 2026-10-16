@@ -1,0 +1,81 @@
+meetingId,org_id,length,ref_tickets,empty_meeting,declined_in_summary,firm,firm_size,firm_templates,name_collision,twin_in_tune,file_ok,valid,n_given,n_invalid_tickets,problems,n_pred,n_ref,matched,north_star,correct_items,different_task,extra_declined,tickets_with_invention,invented_facts,invented_names
+11,b2d409c4-54a3-5aa7-af80-46f06e5cca21,long (>900),8+,False,False,"hold-out, seen firm",2-3 members,4-6,other firm's member name,True,True,True,10,0,,10,10,7,0.6833333333333333,41,3,0,0,0,0
+51,3d746abf-89c9-5691-8047-9a1658ae1623,medium,4-7,False,False,"hold-out, seen firm",4+ members,10-12,none,True,True,True,7,0,,7,7,7,0.9285714285714286,39,0,0,0,0,0
+81,67d8fc5b-a03d-54ff-859c-ce3144676924,short (<400 words),1-3,False,False,"hold-out, seen firm",4+ members,7-9,none,True,True,True,3,0,,3,3,3,0.9444444444444444,17,0,0,0,0,0
+93,be81a3f7-0e0b-55ad-a890-736515aec3d5,short (<400 words),0,True,True,"hold-out, seen firm",1 member,7-9,none,False,True,True,0,0,,0,0,0,1.0,0,0,0,0,0,0
+134,5b9c7d17-5dda-5a3a-b634-60bce7ec6a03,short (<400 words),1-3,False,False,"hold-out, seen firm",2-3 members,4-6,none,False,True,True,2,0,,2,2,2,0.9166666666666666,11,0,0,0,0,0
+159,a1dd82f5-9a84-5885-8ff7-48df2319413c,medium,4-7,False,False,"hold-out, seen firm",1 member,4-6,none,False,True,True,7,0,,7,7,6,0.7619047619047619,32,0,0,0,0,0
+174,c33bdaca-8b9d-5b5a-9b6c-d175a3f45354,long (>900),8+,False,False,"hold-out, seen firm",4+ members,7-9,other firm's member name,True,True,True,12,0,,12,12,12,0.8333333333333334,60,0,0,0,0,0
+184,b828d0e6-10de-56f9-b5bc-db9b95dfe101,long (>900),4-7,False,True,"hold-out, seen firm",1 member,7-9,none,False,True,True,7,0,,7,7,7,0.9285714285714286,39,0,0,0,0,0
+219,00f4ceb9-9954-5bf1-9aa9-7dd966535bd8,short (<400 words),1-3,False,False,"hold-out, seen firm",1 member,10-12,none,False,True,True,3,0,,3,3,3,1.0,18,0,0,0,0,0
+223,2c6dff6f-2093-56c0-acbd-abcb96cd9235,long (>900),8+,False,False,"hold-out, seen firm",2-3 members,10-12,other firm's member name,True,True,True,12,0,,12,12,12,0.9722222222222222,70,0,0,0,0,0
+254,aa331b77-3f77-5edf-bc98-86384c3511c2,medium,4-7,False,True,"hold-out, seen firm",2-3 members,7-9,none,False,True,True,6,0,,6,5,5,0.8787878787878789,29,0,0,0,0,0
+294,563c969a-c026-5be8-aaa4-ef6963135002,short (<400 words),1-3,False,False,"hold-out, seen firm",4+ members,4-6,none,False,True,True,3,0,,3,3,3,1.0,18,0,0,0,0,0
+359,9f034df1-efc1-55a4-9937-1970b1a2c2d8,long (>900),8+,False,False,"hold-out, seen firm",4+ members,10-12,none,False,True,True,12,0,,12,12,11,0.9027777777777778,65,1,0,0,0,0
+367,175cb234-23fb-5ea7-b286-e9d71696f641,long (>900),8+,False,False,"hold-out, seen firm",1 member,10-12,none,False,True,True,17,0,,17,11,9,0.5714285714285714,48,2,0,0,0,0
+398,d2537212-7ed5-5cd9-9fd3-2f1866baa0b8,long (>900),4-7,False,False,"hold-out, seen firm",1 member,4-6,other firm's member name,False,True,True,4,0,,4,4,4,0.7916666666666666,19,0,0,0,0,0
+433,1bcdfc94-9e13-5672-84d2-ce7c171592f1,medium,4-7,False,False,"hold-out, seen firm",2-3 members,10-12,none,True,True,True,6,0,,6,6,6,0.9444444444444444,34,0,0,0,0,0
+472,cc008e96-9c05-5125-bbad-92da35a26da0,medium,4-7,False,False,"hold-out, seen firm",4+ members,10-12,none,True,True,True,7,0,,7,7,7,0.9285714285714286,39,0,0,0,0,0
+488,652ad6fc-7a56-5640-bfdd-38cccda31343,medium,4-7,False,False,"hold-out, seen firm",1 member,10-12,none,False,True,True,7,0,,7,7,7,0.9285714285714286,39,0,0,0,0,0
+514,cf12554b-10aa-5048-a130-95a04e12f397,medium,0,True,False,"hold-out, seen firm",1 member,4-6,none,False,True,True,0,0,,0,0,0,1.0,0,0,0,0,0,0
+519,d28ef448-6d16-5730-ad8e-b442020344a3,long (>900),8+,False,False,"hold-out, unseen firm",2-3 members,4-6,other firm's member name,False,True,True,11,0,,11,11,11,0.9545454545454546,63,0,0,0,0,0
+520,d28ef448-6d16-5730-ad8e-b442020344a3,long (>900),0,True,False,"hold-out, unseen firm",2-3 members,4-6,other firm's member name,False,True,True,0,0,,0,0,0,1.0,0,0,0,0,0,0
+521,d28ef448-6d16-5730-ad8e-b442020344a3,long (>900),0,True,True,"hold-out, unseen firm",2-3 members,4-6,other firm's member name,False,True,True,0,0,,0,0,0,1.0,0,0,0,0,0,0
+522,d28ef448-6d16-5730-ad8e-b442020344a3,long (>900),8+,False,False,"hold-out, unseen firm",2-3 members,4-6,other firm's member name,False,True,True,11,0,,11,11,11,0.9545454545454546,63,0,0,0,0,0
+523,d28ef448-6d16-5730-ad8e-b442020344a3,short (<400 words),1-3,False,False,"hold-out, unseen firm",2-3 members,4-6,none,False,True,True,2,0,,2,2,1,0.5,6,1,0,0,0,0
+526,d28ef448-6d16-5730-ad8e-b442020344a3,long (>900),8+,False,False,"hold-out, unseen firm",2-3 members,4-6,none,False,True,True,8,0,,8,8,8,0.9583333333333334,46,0,0,0,0,0
+527,d28ef448-6d16-5730-ad8e-b442020344a3,medium,4-7,False,True,"hold-out, unseen firm",2-3 members,4-6,other firm's member name,False,True,True,7,0,,7,7,7,0.8571428571428571,36,0,0,0,0,0
+528,d28ef448-6d16-5730-ad8e-b442020344a3,medium,4-7,False,False,"hold-out, unseen firm",2-3 members,4-6,other firm's member name,False,True,True,4,0,,4,4,4,0.9583333333333334,23,0,0,0,0,0
+559,9f645020-d57f-57fb-8dc1-a611ddc4c3dd,short (<400 words),1-3,False,False,"hold-out, unseen firm",4+ members,7-9,other firm's member name,False,True,True,3,0,,3,3,3,1.0,18,0,0,0,0,0
+562,9f645020-d57f-57fb-8dc1-a611ddc4c3dd,short (<400 words),1-3,False,False,"hold-out, unseen firm",4+ members,7-9,other firm's member name,False,True,True,3,0,,3,3,3,1.0,18,0,0,0,0,0
+563,9f645020-d57f-57fb-8dc1-a611ddc4c3dd,long (>900),4-7,False,True,"hold-out, unseen firm",4+ members,7-9,other firm's member name,False,True,True,9,0,,9,6,6,0.7333333333333334,33,0,0,0,0,0
+566,9f645020-d57f-57fb-8dc1-a611ddc4c3dd,medium,8+,False,False,"hold-out, unseen firm",4+ members,7-9,other firm's member name,False,True,True,8,0,,8,8,8,0.9791666666666666,47,0,0,0,0,0
+567,9f645020-d57f-57fb-8dc1-a611ddc4c3dd,medium,8+,False,False,"hold-out, unseen firm",4+ members,7-9,other firm's member name,False,True,True,8,0,,8,8,8,0.9791666666666666,47,0,0,0,0,0
+568,9f645020-d57f-57fb-8dc1-a611ddc4c3dd,long (>900),8+,False,False,"hold-out, unseen firm",4+ members,7-9,none,False,True,True,13,0,,13,9,9,0.803030303030303,53,0,0,0,0,0
+569,669f69b7-9258-5551-af4a-3ff3772e8908,short (<400 words),1-3,False,False,"hold-out, seen firm",1 member,10-12,other firm's member name,True,True,True,3,0,,3,3,3,0.8888888888888888,16,0,0,0,0,0
+587,0b8def3c-4200-5ef6-8134-1b172bcb9450,medium,4-7,False,False,"hold-out, seen firm",2-3 members,4-6,other firm's member name,False,True,True,7,0,,7,7,6,0.7857142857142857,33,1,0,0,0,0
+597,af0a1517-7426-5099-ac88-04420e32dc31,medium,8+,False,False,"hold-out, seen firm",4+ members,7-9,none,False,True,True,8,0,,8,8,8,0.9166666666666666,44,0,0,0,0,0
+598,c11c74a2-dca8-5ba3-80ba-45850258638a,short (<400 words),1-3,False,False,"hold-out, unseen firm",1 member,10-12,none,False,True,True,3,0,,3,3,3,1.0,18,0,0,0,0,0
+599,c11c74a2-dca8-5ba3-80ba-45850258638a,short (<400 words),0,True,False,"hold-out, unseen firm",1 member,10-12,none,False,True,True,1,0,,1,0,0,0.0,0,0,0,0,0,0
+601,c11c74a2-dca8-5ba3-80ba-45850258638a,short (<400 words),1-3,False,False,"hold-out, unseen firm",1 member,10-12,none,False,True,True,3,0,,3,3,3,1.0,18,0,0,0,0,0
+602,c11c74a2-dca8-5ba3-80ba-45850258638a,medium,4-7,False,True,"hold-out, unseen firm",1 member,10-12,none,False,True,True,6,0,,6,6,4,0.6666666666666666,24,2,0,0,0,0
+603,c11c74a2-dca8-5ba3-80ba-45850258638a,short (<400 words),0,True,False,"hold-out, unseen firm",1 member,10-12,none,False,True,True,0,0,,0,0,0,1.0,0,0,0,0,0,0
+605,c11c74a2-dca8-5ba3-80ba-45850258638a,long (>900),8+,False,False,"hold-out, unseen firm",1 member,10-12,other firm's member name,False,True,True,11,0,,11,11,10,0.8787878787878788,58,1,0,0,0,0
+606,c11c74a2-dca8-5ba3-80ba-45850258638a,medium,1-3,False,False,"hold-out, unseen firm",1 member,10-12,other firm's member name,False,True,True,6,0,,6,3,3,0.6666666666666666,18,0,0,0,0,0
+607,c11c74a2-dca8-5ba3-80ba-45850258638a,long (>900),4-7,False,False,"hold-out, unseen firm",1 member,10-12,other firm's member name,False,True,True,11,0,,11,7,7,0.7222222222222223,39,0,0,1,0,1
+612,fe0bc501-a61c-5c3d-b8f6-cfdd0b6472c0,short (<400 words),1-3,False,True,"hold-out, seen firm",2-3 members,10-12,none,False,True,True,3,0,,3,3,3,0.9444444444444444,17,0,0,0,0,0
+645,debe035a-f610-5f81-b99c-dff3b71d6df3,medium,4-7,False,False,"hold-out, seen firm",2-3 members,4-6,none,False,True,True,8,0,,8,5,5,0.5897435897435898,23,0,0,0,0,0
+655,af28b3c1-5aba-59b7-bf81-1a32ff150387,long (>900),8+,False,False,"hold-out, seen firm",4+ members,10-12,none,False,True,True,12,0,,12,12,10,0.8055555555555556,58,2,0,0,0,0
+661,d93fade8-e245-530d-b645-57b1a5620176,medium,8+,False,False,"hold-out, seen firm",1 member,7-9,other firm's member name,False,True,True,8,0,,8,8,6,0.7291666666666665,35,2,0,0,0,0
+692,b4ca0251-6d56-597c-ae21-7c0209fa800d,short (<400 words),1-3,False,False,"hold-out, seen firm",1 member,4-6,none,False,True,True,2,0,,2,2,2,0.9166666666666666,11,0,0,0,0,0
+716,26955684-47f8-5d52-b8ef-c96bb3645bea,medium,4-7,False,False,"hold-out, seen firm",4+ members,4-6,none,False,True,True,6,0,,6,6,6,0.9722222222222222,35,0,0,0,0,0
+735,b5a23d14-4bd0-5b1b-a8b1-03ad5ce20dc5,medium,4-7,False,False,"hold-out, seen firm",2-3 members,7-9,none,False,True,True,5,0,,5,4,4,0.888888888888889,24,0,0,0,0,0
+751,b8351b67-f35f-522b-a782-2cc2bff6d5f2,medium,8+,False,False,"hold-out, seen firm",1 member,4-6,other firm's member name,True,True,True,8,0,,8,8,8,0.9166666666666666,44,0,0,0,0,0
+768,96c841ab-b1f1-5cf2-b698-3594297d4ef3,short (<400 words),1-3,False,False,"hold-out, unseen firm",4+ members,4-6,none,False,True,True,3,0,,3,3,3,0.9444444444444444,17,0,0,0,0,0
+771,96c841ab-b1f1-5cf2-b698-3594297d4ef3,short (<400 words),1-3,False,False,"hold-out, unseen firm",4+ members,4-6,none,False,True,True,3,0,,3,3,3,0.8333333333333334,15,0,0,0,0,0
+772,96c841ab-b1f1-5cf2-b698-3594297d4ef3,short (<400 words),1-3,False,True,"hold-out, unseen firm",4+ members,4-6,none,False,True,True,3,0,,3,3,3,0.9444444444444444,17,0,0,0,0,0
+774,96c841ab-b1f1-5cf2-b698-3594297d4ef3,medium,0,True,True,"hold-out, unseen firm",4+ members,4-6,other firm's member name,False,True,True,0,0,,0,0,0,1.0,0,0,0,0,0,0
+775,96c841ab-b1f1-5cf2-b698-3594297d4ef3,long (>900),8+,False,False,"hold-out, unseen firm",4+ members,4-6,other firm's member name,False,True,True,16,0,,16,16,16,0.96875,93,0,0,0,0,0
+793,33f0333d-8f85-53a6-9e6b-85deeacb3e5a,short (<400 words),1-3,False,False,"hold-out, seen firm",2-3 members,10-12,none,False,True,True,2,0,,2,2,2,1.0,12,0,0,0,0,0
+806,d9f30da6-307e-5ea8-afb5-730110277d33,medium,8+,False,False,"hold-out, unseen firm",1 member,10-12,other firm's member name,False,True,True,8,0,,8,8,7,0.7708333333333333,37,1,0,0,0,0
+809,d9f30da6-307e-5ea8-afb5-730110277d33,medium,8+,False,False,"hold-out, unseen firm",1 member,10-12,other firm's member name,False,True,True,8,0,,8,8,8,0.875,42,0,0,0,0,0
+810,d9f30da6-307e-5ea8-afb5-730110277d33,medium,8+,False,True,"hold-out, unseen firm",1 member,10-12,none,False,True,True,8,0,,8,8,8,0.8958333333333334,43,0,0,0,0,0
+811,d9f30da6-307e-5ea8-afb5-730110277d33,short (<400 words),0,True,False,"hold-out, unseen firm",1 member,10-12,none,False,True,True,0,0,,0,0,0,1.0,0,0,0,0,0,0
+813,d9f30da6-307e-5ea8-afb5-730110277d33,medium,4-7,False,False,"hold-out, unseen firm",1 member,10-12,other firm's member name,False,True,True,6,0,,6,6,6,1.0,36,0,0,0,0,0
+814,d9f30da6-307e-5ea8-afb5-730110277d33,medium,8+,False,False,"hold-out, unseen firm",1 member,10-12,other firm's member name,False,True,True,8,0,,8,8,7,0.7291666666666665,35,1,0,0,0,0
+815,d9f30da6-307e-5ea8-afb5-730110277d33,medium,4-7,False,False,"hold-out, unseen firm",1 member,10-12,none,False,True,True,7,0,,7,7,7,1.0,42,0,0,0,0,0
+843,dcedc221-06e5-5468-a8fa-2e1dab5488df,short (<400 words),1-3,False,False,"hold-out, seen firm",1 member,10-12,none,False,True,True,3,0,,3,3,2,0.5555555555555556,10,1,0,0,0,0
+845,4db24416-72b9-5290-9f80-79fb6a217c79,long (>900),8+,False,False,"hold-out, seen firm",2-3 members,4-6,other firm's member name,False,True,True,15,0,,15,15,15,0.9111111111111111,82,0,0,0,0,0
+865,544ae613-ed72-570d-b425-48c4e99b9e44,medium,4-7,False,False,"hold-out, seen firm",1 member,4-6,other firm's member name,True,True,True,7,0,,7,7,7,0.9285714285714286,39,0,0,0,0,0
+885,906bae1c-f4f3-50bc-8f13-3f898a60d7f7,medium,8+,False,False,"hold-out, seen firm",4+ members,10-12,other firm's member name,True,True,True,8,0,,8,8,8,0.9166666666666666,44,0,0,0,0,0
+920,51bb6292-1558-57bd-b056-00de47672716,short (<400 words),0,True,False,"hold-out, seen firm",4+ members,7-9,none,False,True,True,0,0,,0,0,0,1.0,0,0,0,0,0,0
+923,374c28b7-6a7a-5104-8180-ccd711f948c8,long (>900),8+,False,False,"hold-out, seen firm",1 member,10-12,none,True,True,True,12,0,,12,12,12,0.9583333333333334,69,0,0,0,0,0
+937,872b0726-a240-5bc4-b073-733214e43a39,medium,8+,False,False,"hold-out, unseen firm",4+ members,10-12,none,False,True,True,8,0,,8,8,8,0.9166666666666666,44,0,0,0,0,0
+940,872b0726-a240-5bc4-b073-733214e43a39,medium,8+,False,False,"hold-out, unseen firm",4+ members,10-12,none,False,True,True,8,0,,8,8,8,0.9166666666666666,44,0,0,0,0,0
+941,872b0726-a240-5bc4-b073-733214e43a39,long (>900),8+,False,True,"hold-out, unseen firm",4+ members,10-12,none,False,True,True,12,0,,12,12,11,0.875,63,1,0,0,0,0
+944,872b0726-a240-5bc4-b073-733214e43a39,short (<400 words),1-3,False,False,"hold-out, unseen firm",4+ members,10-12,none,False,True,True,2,0,,2,3,2,0.8,12,0,0,0,0,0
+945,872b0726-a240-5bc4-b073-733214e43a39,long (>900),8+,False,False,"hold-out, unseen firm",4+ members,10-12,none,False,True,True,10,0,,10,8,6,0.5740740740740741,31,2,0,0,0,0
+946,872b0726-a240-5bc4-b073-733214e43a39,short (<400 words),1-3,False,False,"hold-out, unseen firm",4+ members,10-12,none,False,True,True,3,0,,3,2,2,0.6666666666666667,10,0,0,0,0,0
+951,fb402124-f129-5a32-9ea8-2289572c5712,short (<400 words),4-7,False,False,"hold-out, seen firm",1 member,4-6,none,False,True,True,5,0,,5,5,5,0.9333333333333333,28,0,0,0,0,0
+974,57f09839-d993-5b03-9101-2b44c43551af,medium,4-7,False,False,"hold-out, seen firm",4+ members,10-12,other firm's member name,False,True,True,7,0,,7,6,6,0.8974358974358975,35,0,0,0,0,0
+984,0cc9bb70-ee6d-5576-ba62-9dc08ca6d7da,medium,4-7,False,False,"hold-out, seen firm",1 member,10-12,none,False,True,True,7,0,,7,5,5,0.8333333333333333,30,0,0,0,0,0

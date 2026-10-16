@@ -1,0 +1,15 @@
+{
+  "meetingId": "853",
+  "tickets": [
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update Leona Thimblefern’s household profile by reviewing the Velvet Acorn Custody unfamiliar-device alert, checking for any profile or distribution-instruction changes, and coordinating the pre-upload custodian security steps.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps."
+    }
+  ]
+}

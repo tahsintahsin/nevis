@@ -1,0 +1,64 @@
+{
+  "meetingId": "849",
+  "tickets": [
+    {
+      "templateId": "5b32df43-64e8-57a6-a96f-81094794d36d",
+      "title": "Update household profile",
+      "text": "Update the household profile to record Lena as dependent and capture Nadia's revised Cloudberry Kite parental-leave income estimate. Also update childcare/medical cash flow based on the agreed changes.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": "8423b23a-973f-539d-b62d-62a0ac491015",
+      "subTasks": [],
+      "evidence": "By 2025-02-14, agreed to record Lena as dependent, update childcare/medical cash flow, and capture Nadia’s revised Cloudberry Kite parental-leave income estimate."
+    },
+    {
+      "templateId": "6d91b3c5-f350-52b1-949e-0902b766d90a",
+      "title": "Coordinate retirement plan rollover request",
+      "text": "Coordinate the retirement plan rollover request for Owen Pebblefizz's 401(k) and Nadia's group life benefit review, including obtaining both spouses' disability details and Owen's individual term policy declaration page.",
+      "priority": "medium",
+      "dueDate": "2025-02-18",
+      "assigneeId": "a937bf6e-3ad5-5284-b240-883a5ae3e40a",
+      "subTasks": [],
+      "evidence": "Needed by 2025-02-18: Owen’s individual term policy declaration page and both spouses’ disability details; only Nadia’s group life benefit summary is in portal, leaving protection review incomplete."
+    },
+    {
+      "templateId": "486c718d-7936-5ae9-bfc8-5eea34decf10",
+      "title": "Complete client onboarding workflow",
+      "text": "Provide a family-attorney checklist because the 2021 will and healthcare documents predate Lena and lack a minor-child guardian.",
+      "priority": "medium",
+      "dueDate": "2025-02-21",
+      "assigneeId": "8423b23a-973f-539d-b62d-62a0ac491015",
+      "subTasks": [
+        {
+          "title": "Confirm engagement scope and welcome logistics",
+          "text": "Send the welcome message, confirm the primary contacts, preferred communication method, household decision-makers, and the initial planning topics to be covered.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "8423b23a-973f-539d-b62d-62a0ac491015"
+        },
+        {
+          "title": "Set up client records and document portal",
+          "text": "Create or update the internal client record, enable secure portal access, and provide instructions for uploading statements, tax documents, estate documents, insurance pages, and employer benefit materials.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "a937bf6e-3ad5-5284-b240-883a5ae3e40a"
+        },
+        {
+          "title": "Review submitted documents for planning readiness",
+          "text": "Check that core documents are legible, current, and sufficient for the initial plan build. Note missing items, unclear ownership, beneficiary gaps, or conflicting household details for advisor review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "f49d12b0-487f-53d2-8030-d959c6b63a5d"
+        },
+        {
+          "title": "Prepare first planning meeting agenda",
+          "text": "Draft an agenda covering goals, cash flow, retirement timing, tax considerations, investment accounts, business ownership issues if applicable, and open questions from the onboarding review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "f49d12b0-487f-53d2-8030-d959c6b63a5d"
+        }
+      ],
+      "evidence": "By 2025-02-21, agreed to provide a family-attorney checklist because 2021 will/healthcare documents predate Lena and lack a minor-child guardian."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "meetingId": "771",
+  "tickets": [
+    {
+      "templateId": "7e079875-a636-5be9-84a0-36c6f079b4eb",
+      "title": "Open new client account",
+      "text": "Open the approved new joint taxable account using the existing custodian workflow. Confirm account type as joint taxable, ownership for Lila Copperwisp and Rowan Thistlefable, funding source from Teacup Comet Bank savings, and set up online access with electronic statements for both spouses.",
+      "priority": "high",
+      "dueDate": "2024-10-18",
+      "assigneeId": "5c5439fe-19f1-52ba-8646-5d8a3755e27e",
+      "subTasks": [],
+      "evidence": "They agreed to open a joint taxable account at the existing custodian, initially funded from Teacup Comet Bank savings, with online access and electronic statements for both spouses, due 2024-10-18."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare retirement beneficiary forms",
+      "text": "Prepare retirement beneficiary forms for Lila Copperwisp, naming Rowan Thistlefable as primary beneficiary and Camila Copperwisp as contingent where allowed.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare retirement beneficiary forms naming Rowan primary and Camila Copperwisp contingent where allowed, due 2024-10-25."
+    },
+    {
+      "templateId": "129a0b7f-8c53-50bf-9cf0-a61ab4d220da",
+      "title": "Collect mortgage document packet",
+      "text": "Collect the certified marriage certificate for Lila Copperwisp and Rowan Thistlefable to update custodian and bank records.",
+      "priority": null,
+      "dueDate": "2024-10-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to collect the certified marriage certificate because custodian and bank records still show Lila’s prior household status, due 2024-10-14."
+    }
+  ]
+}

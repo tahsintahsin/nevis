@@ -1,0 +1,25 @@
+{
+  "meetingId": "793",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare liquidity destination note for Raina Bramblequill",
+      "text": "Prepare a concise destination note for Raina Bramblequill covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions after the Cloudberry Kite Design Studio sale. Reflect the $2,765,000 Teacup Comet Bank deposit, the $4.6 million gross consideration, the $350,000 indemnity escrow holdback, and the $1.74 million in Velvet Acorn Custody accounts.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Raina asked for a concise destination note covering operating cash, reserves, estimated taxes, investment staging, and CPA and attorney questions; the agreed follow-up is due January 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain executed escrow agreement and working-capital schedule",
+      "text": "Obtain the executed escrow agreement and final working-capital schedule missing from Raina Bramblequill's Cloudberry Kite Design Studio sale file. These documents are needed to reconcile the $4.6 million gross consideration against the $2,765,000 Teacup Comet Bank deposit.",
+      "priority": null,
+      "dueDate": "2025-01-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed January 3, 2025 follow-up is to obtain the executed escrow agreement and final working-capital schedule missing from the sale file."
+    }
+  ]
+}

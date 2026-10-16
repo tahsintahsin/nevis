@@ -1,0 +1,35 @@
+{
+  "meetingId": "768",
+  "tickets": [
+    {
+      "templateId": "7e079875-a636-5be9-84a0-36c6f079b4eb",
+      "title": "Open new client account",
+      "text": "Open the approved new account using the selected custodian workflow. Confirm account type, registration, ownership details, funding source, beneficiary or authorized party requirements when applicable, advisory fee setup, document status, and delivery preferences before submitting the application package. Open the joint taxable account for Lila Copperwisp and Rowan Thistlefable at Velvet Acorn Custody, initially funded from Teacup Comet Bank savings, with both spouses receiving online access and electronic statements.",
+      "priority": "high",
+      "dueDate": "2024-10-18",
+      "assigneeId": "5c5439fe-19f1-52ba-8646-5d8a3755e27e",
+      "subTasks": [],
+      "evidence": "open a joint taxable account at the existing custodian by 2024-10-18, initially funded from Teacup Comet Bank savings, with both spouses receiving online access and electronic statements"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare beneficiary change forms",
+      "text": "Prepare beneficiary change forms for Lila Copperwisp naming Rowan Thistlefable as primary and Camila Copperwisp as contingent where allowed.",
+      "priority": null,
+      "dueDate": "2024-10-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "prepare beneficiary change forms by 2024-10-25 naming Rowan primary and Camila Copperwisp contingent where allowed"
+    },
+    {
+      "templateId": null,
+      "title": "Collect household identity records",
+      "text": "Collect household identity records for Lila Copperwisp and Rowan Thistlefable because profiles still show Lila's prior household status and the file lacks the certified marriage certificate.",
+      "priority": null,
+      "dueDate": "2024-10-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "collect household identity records by 2024-10-14 because profiles still show Lila’s prior household status and the file lacks the certified marriage certificate"
+    }
+  ]
+}

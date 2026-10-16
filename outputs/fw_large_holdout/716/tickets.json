@@ -1,0 +1,65 @@
+{
+  "meetingId": "716",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare estate attorney outline of account and beneficiary information",
+      "text": "Prepare an outline of Daniel Copperwisp’s account and beneficiary details for his estate attorney, summarizing current trust, brokerage, IRA, and retirement assets to facilitate updates. Include the existing beneficiary designations and any gaps identified during the review.",
+      "priority": null,
+      "dueDate": "2025-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s review found Daniel’s trust and fiduciary appointments were drafted before the marriage, and Daniel asked for an outline of the account and beneficiary information his estate attorney would need to evaluate updates; the agreed follow-up is due 2025-01-15."
+    },
+    {
+      "templateId": "70ed524c-85e2-5a82-b10e-86adb63f1e5f",
+      "title": "Update client address and residency information",
+      "text": "Process a Daniel Copperwisp address or residency change after receiving written confirmation. Verify the new mailing address, legal residence, seasonal address if any, effective date, state tax implications to flag for the advisor, custodian forms required, and communication preferences. Record the update in the CRM and confirm completion to Daniel Copperwisp. Update the household record and custodian mailing information to reflect his move to Lea’s townhouse in Portland, Oregon.",
+      "priority": "medium",
+      "dueDate": "2025-01-07",
+      "assigneeId": "0c95f12a-aa0b-5e7d-82d7-30d510a640ca",
+      "subTasks": [],
+      "evidence": "For household address and residency records, Daniel said he is now living at Lea’s townhouse and asked that Apricot Compass Advisory update the household record and custodian mailing information once he sends written confirmation of the preferred mailing address and legal residence; the agreed follo"
+    },
+    {
+      "templateId": null,
+      "title": "Provide materials for account registration and beneficiary changes",
+      "text": "Provide Daniel Copperwisp with materials reviewing options to keep his taxable brokerage account individually titled, add transfer‑on‑death instructions, and update primary beneficiaries on advisory‑held retirement assets following his marriage. Include comparison of individual versus joint titling and required forms.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For account registration and beneficiary-change paperwork, Daniel asked for materials to review options for keeping his taxable brokerage account individually titled, adding transfer-on-death instructions, and updating primary beneficiaries on advisory-held retirement assets in light of the marriage"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain legal identification and marriage certificate",
+      "text": "Obtain from Daniel Copperwisp his spouse Lea’s full legal identifying information and a copy of their marriage certificate to enable the custodian to complete household and beneficiary record updates.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The custodian cannot complete the requested household and beneficiary record updates from the conversation alone because Daniel has not yet provided Lea’s full legal identifying information or a copy of the marriage certificate;"
+    },
+    {
+      "templateId": null,
+      "title": "Resolve beneficiary record discrepancies",
+      "text": "Resolve the beneficiary‑record issue for Daniel Copperwisp by updating the IRA beneficiary from Owen to Lea and adding a transfer‑on‑death beneficiary to the taxable brokerage account as identified.",
+      "priority": null,
+      "dueDate": "2025-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "During the account review, Mira noted that Daniel described Lea as his intended primary beneficiary, while the IRA record still lists Owen and the taxable account has no transfer-on-death beneficiary on file; resolving the beneficiary-record issue remains needed by 2025-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare investment income and tax filing summary",
+      "text": "Prepare a concise summary for Daniel Copperwisp outlining investment income, potential capital‑gain exposure, withholding information, and filing‑status questions to support his discussion with his CPA.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Daniel wanted Apricot Compass Advisory to prepare a concise summary of investment income, potential capital-gain exposure, withholding information, and filing-status questions for that discussion; the agreed follow-up is due 2025-01-10."
+    }
+  ]
+}

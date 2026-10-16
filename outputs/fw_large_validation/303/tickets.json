@@ -1,0 +1,55 @@
+{
+  "meetingId": "303",
+  "tickets": [
+    {
+      "templateId": "fa8ebcc2-e3bb-5862-a32e-36b07cd19a82",
+      "title": "Coordinate divorce-related financial document package",
+      "text": "Compile and organize financial planning records requested for divorce-related analysis for Anika Meadowbobbin. Use only authorized documents, confirm permitted communication channels, and separate planning notes from legal advice. Coordinate with Tobin Mossbutton of Silver Marmot Legal when written authorization is on file. Include investment, bank, retirement, debt, and cash‑flow records needed for the pending property discussion.",
+      "priority": "high",
+      "dueDate": "2025-03-14",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "They agreed that the divorce financial document package will compile authorized investment, bank, retirement, debt, and household cash-flow records requested by Tobin Mossbutton for the pending property discussion by March 14, 2025."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Access recovery request\n\nClient name: Anika Meadowbobbin\nAffected portal or institution: Velvet Acorn Custody joint taxable account portal\nUser ID or known login email: [________________]\nIssue type: verification prompts to spouse phone preventing statement download\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [________________]\nSecurity notes or restrictions: verification prompts sent to Reid’s phone\nNext action required: Recover access to the joint taxable account portal",
+      "priority": "high",
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the Velvet Acorn Custody joint taxable login sends verification prompts to Reid’s phone and prevents Anika from downloading statements, access recovery was agreed by March 10, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Paper Otter Fabrication records",
+      "text": "Obtain the ownership valuation exhibit, recent K‑1 support, and buy‑sell agreement pages for Paper Otter Fabrication on behalf of Anika Meadowbobbin, as requested by Tobin Mossbutton of Silver Marmot Legal.",
+      "priority": null,
+      "dueDate": "2025-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the shared portal lacked the Paper Otter Fabrication ownership valuation exhibit, recent K-1 support, and buy-sell agreement pages needed by Silver Marmot Legal, the agreed follow-up is to obtain those records by March 18, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Compare and label mortgage source documents",
+      "text": "Compare the mortgage balance figures from the mediation worksheet with the Teacup Comet Bank portal statements and label the source documents for Anika Meadowbobbin's planning exhibits.",
+      "priority": null,
+      "dueDate": "2025-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the mediation worksheet showed a lower mortgage balance than the Teacup Comet Bank portal, the agreed follow-up is to compare and label source documents before planning exhibits by March 12, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate account changes through legal channels",
+      "text": "Coordinate the removal of Reid Meadowbobbin from Anika Meadowbobbin's Roth IRA, term life policy, and joint taxable account through authorized legal channels as directed by Silver Marmot Legal.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s planning inventory review found Reid still listed on Anika’s Roth IRA, term life policy, and joint taxable account; any changes are to be coordinated through authorized legal channels by March 21, 2025."
+    }
+  ]
+}

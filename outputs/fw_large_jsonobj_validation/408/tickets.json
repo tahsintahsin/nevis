@@ -1,0 +1,86 @@
+{
+  "type": "object",
+  "meetingId": "408",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Mortgage Comparison Analysis",
+      "text": "Prepare a side‑by‑side view of the adjustable mortgage reset versus the fixed‑rate refinance quote, including HELOC treatment, payment estimates, closing costs, and impact on cash reserves for Liora Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2025-01-24."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Missing Lender Documentation",
+      "text": "Collect the current pay stub, Jonah Nettlewhisk’s year‑to‑date profit‑and‑loss statement, the latest business bank statement, and the complete prior‑year tax return packet for the Silver Marmot Mortgage refinance file for Liora Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That document packet remains an unresolved issue needing follow-up by 2025-01-28."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Mortgage Payoff Discrepancy",
+      "text": "Investigate the mortgage payoff balance discrepancy between the portal‑listed $642,000 principal and the loan officer worksheet amount of $655,800 to determine the correct figure for Liora Nettlewhisk’s refinance analysis.",
+      "priority": null,
+      "dueDate": "2025-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2025-01-23."
+    },
+    {
+      "templateId": "432e4a09-cd76-510d-b173-4fe70356ef9a",
+      "title": "Recover Client Portal Access",
+      "text": "Recover client portal access for Liora Nettlewhisk by resolving the two‑factor authentication prompts being sent to Jonah’s old phone number, enabling export of recent HELOC and checking statements from Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2025-01-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "That access issue remains unresolved and needs follow-up by 2025-01-27."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Cash‑Flow Stress Test",
+      "text": "Complete a cash‑flow stress test modeling the reset mortgage payment, HELOC interest, credit‑card payoff target, Eleni’s upcoming school costs, and potential support for Hazel Willowdoodle against Liora Nettlewhisk’s monthly income and spending.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that modeling by 2025-01-31."
+    },
+    {
+      "templateId": "9e10aee4-f276-52cb-be0c-39f25dd71780",
+      "title": "Review Concentrated Position",
+      "text": "Assess the Clockwork Clover Systems stock position size, tax basis, liquidity needs, risk tolerance, trading restrictions, and diversification options for Liora Nettlewhisk before recommending any action.",
+      "priority": "medium",
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction by 2025-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Address Appraisal and Rate‑Lock Readiness",
+      "text": "Address appraisal and rate‑lock readiness items for Liora Nettlewhisk by providing the required insurance declarations, property tax bill, and HOA confirmation before underwriting review.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those readiness items by 2025-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Show Non‑Retirement Funding Options",
+      "text": "Show non‑retirement funding options for debt restructuring for Liora Nettlewhisk, presenting alternatives that do not involve IRA or 401(k) withdrawals before any retirement‑account cash‑flow scenario.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the retirement-account boundary for debt restructuring, Liora stated that IRA or 401(k) withdrawals should be treated only as a last-resort scenario, and the agreed planning analysis is to show non-retirement funding options before any retirement-account cash-flow scenario by 2025-02-03."
+    }
+  ]
+}

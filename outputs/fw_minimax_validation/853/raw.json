@@ -1,0 +1,18 @@
+{
+ "config": "fw_minimax",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"853\", \"tickets\": [{\"title\": \"Review Velvet Acorn security alert and coordinate response\", \"text\": \"Review the Velvet Acorn Custody unfamiliar-device alert for Leona Thimblefern, check for any profile or distribution-instruction changes, and coordinate pre-upload custodian security steps so portal authentication and trusted-contact review can resume.\", \"priority\": null, \"dueDate\": \"2026-02-06\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [{\"title\": \"Review the unfamiliar-device alert\", \"text\": \"Examine the Velvet Acorn Custody unfamiliar-device alert reported by Leona Thimblefern and document the timing relative to the rejected authentication code on the Copper Firefly Advisory portal.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null}, {\"title\": \"Check profile and distribution-instruction changes\", \"text\": \"Review Leona Thimblefern's household profile and distribution instructions for any unauthorized changes that may have accompanied the alert.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null}, {\"title\": \"Coordinate pre-upload custodian security steps\", \"text\": \"Work with Velvet Acorn Custody on the pre-upload security steps required to restore Leona Thimblefern's portal authentication and trusted-contact review access.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null}], \"evidence\": \"Agreed by 2026-02-06: review the alert, check profile/distribution-instruction changes, and coordinate pre-upload custodian security steps.\"}]}",
+   "usage": {
+    "input_tokens": 1251,
+    "output_tokens": 1174,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2205
+   },
+   "stop": "stop"
+  }
+ ]
+}

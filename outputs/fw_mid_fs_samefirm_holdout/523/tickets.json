@@ -1,0 +1,35 @@
+{
+  "meetingId": "523",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Raise Velvet Acorn Custody monthly checking transfer $3,500-to-$4,200 next cycle",
+      "text": "Increase the monthly transfer from Velvet Acorn Custody to Teacup Comet Bank checking to $3,500–$4,200 for the next cycle, based on Liora Pebblefizz’s utilities and home-maintenance cash needs.",
+      "priority": null,
+      "dueDate": "2024-07-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-07-24 to raise Velvet Acorn Custody monthly checking transfer $3,500-to-$4,200 next cycle."
+    },
+    {
+      "templateId": null,
+      "title": "File $3,500 versus Liora’s about-$4,200 utilities/home-maintenance cash sleeve decision",
+      "text": "Determine whether the short-term cash sleeve should be set at $3,500 or about $4,200 to cover Liora Pebblefizz’s utilities and home-maintenance expenses for several months without equity sales.",
+      "priority": null,
+      "dueDate": "2024-07-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2024-07-26, support is needed: file $3,500 versus Liora’s about-$4,200 utilities/home-maintenance."
+    },
+    {
+      "templateId": null,
+      "title": "Confirm $18,000 lake-cottage withdrawal completed and reserve effect",
+      "text": "Document the completed $18,000 lake-cottage withdrawal to Teacup Comet Bank checking on 2024-07-12 and its effect on the preferred reserve level.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Completed 2024-07-12: $18,000 lake-cottage withdrawal to checking, preferred-reserve effect."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meetingId": "254",
+  "tickets": [
+    {
+      "templateId": "1124beeb-0453-59d2-807a-654a5a3ab287",
+      "title": "Complete address and residency update checks",
+      "text": "Use this checklist when Lina and Rowan Thimblefern report a move or residency change:\n- Confirm new mailing address, physical residence, phone number, and preferred email.\n- Determine effective move date and whether the change is temporary or permanent.\n- Update CRM, custodial records, planning software, billing records, and household profile as applicable.\n- Check whether state residency affects tax withholding, municipal bond exposure, 529 plans, insurance, or estate documents.\n- Ask whether employer benefits, Medicare, Social Security, voter registration, or driver records also need attention.\n- Confirm whether any trusted contacts, beneficiaries, or household members also require address updates.\n- Save written confirmation of the requested change and any submitted forms.\n\nThe Thimblefern household is moving from Colorado to Oregon, with the Bend home purchase closing in April 2025 at $895,000; update mailing records, account profiles, household assumptions, tax coordination, and trusted-contact information accordingly.",
+      "priority": "medium",
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to update those records and coordination items by 2025-03-21."
+    },
+    {
+      "templateId": "7ebb20a1-5164-54a5-84fb-250220874ada",
+      "title": "Benefits Enrollment Launchpad",
+      "text": "Compare Lina Thimblefern's Clockwork Clover Robotics benefits portal elections (family HSA coverage, disability buy-up, and group life coverage) with Rowan Thimblefern's self-employed coverage options before the portal closes on 2025-04-04. Document the comparison and any recommended changes for the household's review.",
+      "priority": null,
+      "dueDate": "2025-04-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare those elections by 2025-04-04."
+    },
+    {
+      "templateId": "26f8f279-7f21-51f9-963f-f7d672969f30",
+      "title": "Review year-end planning deadlines",
+      "text": "Check time-sensitive year-end items for Lina and Rowan Thimblefern such as retirement contributions, RMDs, tax-loss harvesting, charitable gifts, education funding, and pending account paperwork before the calendar turns.\n\nThe joint taxable account at Velvet Acorn Custody (valued at $1.34 million as of 2025-03-10) is about 38% invested in low-basis Clockwork Clover Robotics shares; address the concentrated employer stock position alongside expected 2025 bonus income, restricted stock vesting (~$52,000), charitable gifts (~$18,000/year to Moonbadger Arts Fund and school community), and possible inheritance proceeds (~$275,000 from Faye Thistlefable's estate).",
+      "priority": "high",
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address concentrated employer stock and year-end tax actions by 2025-11-14."
+    },
+    {
+      "templateId": "9da3a81e-8082-5994-90c1-80b4df1d83f3",
+      "title": "Process education distribution request",
+      "text": "Confirm the requested education distribution amount, payee, delivery method, qualified education expense category, and timing for Ivy Thimblefern's Marzipan Meadow School tuition. Verify whether payment should go to the school, the beneficiary, or the account owner, and document any tax-reporting considerations before submission.\n\nIvy's 529 account has a balance of $164,000; process the spring tuition distribution with payee and delivery method coordinated to Marzipan Meadow School's billing office by 2025-04-15.",
+      "priority": "medium",
+      "dueDate": "2025-04-15",
+      "assigneeId": "266cc7fb-bdb7-57a5-b3fe-d9d90d2af831",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to process that distribution by 2025-04-15."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn Custody IRA beneficiary form rejection",
+      "text": "Resolve the rejection of Rowan Thimblefern's IRA beneficiary form at Velvet Acorn Custody, where the legal name in the account profile did not match the uploaded identification. Coordinate with the custodian to correct the name mismatch and resubmit the form so the beneficiary designation is properly recorded.",
+      "priority": null,
+      "dueDate": "2025-03-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address the custodial beneficiary update problem by 2025-03-28."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Velvet Acorn Custody dividend income with Greta's tax organizer",
+      "text": "Reconcile the income report from Velvet Acorn Custody with the dividend total in Greta Dewspindle's tax organizer for the Thimblefern household. Resolve the variance so the withholding estimate can be finalized for the 2025 tax year.",
+      "priority": null,
+      "dueDate": "2025-03-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the dividend income variance for tax estimates remains needed by 2025-03-31."
+    }
+  ]
+}

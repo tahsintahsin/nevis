@@ -1,0 +1,47 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset credentials and strengthen MFA for Jared Wrenpuddle",
+      "text": "Complete an approved-channel clean credential reset, session review, and stronger MFA setup for Jared Wrenpuddle's portal access, after he reported repeated lockouts following an uninitiated password-reset email on his Apricot Compass Wealth Advisory accounts.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Clean credential reset",
+          "text": "Reset Jared Wrenpuddle's portal credentials through an approved channel.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Session review",
+          "text": "Review active sessions for unauthorized access following the uninitiated password-reset email.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Stronger MFA setup",
+          "text": "Set up stronger MFA on Jared Wrenpuddle's portal account.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Jared reported repeated lockouts after an uninitiated password-reset email; approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review pending Teacup Comet Bank link and transfer instructions",
+      "text": "Review the pending Teacup Comet Bank link and associated transfer instructions and profile changes on Jared and Ava Wrenpuddle's joint taxable brokerage account, since Jared stated the household has no relationship with Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Account activity showed a pending Teacup Comet Bank link; Jared said the household had none there, and associated transfer-instruction/profile-change review was agreed for 2024-03-19."
+    }
+  ]
+}

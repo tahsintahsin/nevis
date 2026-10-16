@@ -1,0 +1,57 @@
+{
+  "meetingId": "404",
+  "tickets": [
+    {
+      "templateId": "d7b4bdf3-ad00-5206-9988-f8090aa6f2cf",
+      "title": "Coordinate Divorce Planning Documents",
+      "text": "Use this workflow to request, organize, and route divorce-related planning documents for Nadia Pebblefizz's separation from Rowan Pebblefizz. Keep communications neutral and factual, confirm authorization before sharing information with outside professionals, and separate advisory planning needs from legal advice. Coordinate with attorney Corin Nettlewhisk and CPA Jules Thimblefern after written authorization, preparing a planning packet covering draft settlement terms, asset schedules, support estimates, retirement-account order questions, and current statements.",
+      "priority": "high",
+      "dueDate": "2026-07-17",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm document scope and permissions",
+          "text": "Identify which documents are needed for Nadia Pebblefizz's separation from Rowan Pebblefizz, such as draft or final settlement terms, asset schedules, support obligations, retirement account orders, tax returns, and current statements. Confirm the client's written permission before coordinating with attorney Corin Nettlewhisk and CPA Jules Thimblefern.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5"
+        },
+        {
+          "title": "Create secure collection folder",
+          "text": "Set up a secure upload location for Nadia Pebblefizz's divorce planning documents, list missing items including the joint return, property tax bill, and Teacup Comet Bank mortgage payoff, and label received documents by category. Do not request or store unnecessary sensitive documents beyond the planning scope.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "405a0bba-bb14-5076-904a-cb26172e4fcb"
+        },
+        {
+          "title": "Prepare planning summary for advisor review",
+          "text": "Summarize available assets for Nadia Pebblefizz, including the $910,000 marital residence with $384,000 Teacup Comet Bank mortgage, $74,000 at Paper Otter Bank, the $286,000 Velvet Acorn Custody IRA, and the $412,000 employer plan at Clockwork Clover Systems, plus liabilities, income obligations, beneficiary concerns, account titling issues, and open questions for the advisor. Flag any urgent implementation constraints without providing legal conclusions.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "9268210f-ef66-5a4b-88ad-788a4cfe5d2d"
+        }
+      ],
+      "evidence": "They agreed by 2026-07-17 to coordinate with attorney Corin Nettlewhisk and CPA Jules Thimblefern after written authorization, with a planning packet covering draft settlement terms, asset schedules, support estimates, retirement-account order questions, and current statements."
+    },
+    {
+      "templateId": null,
+      "title": "Collect cash-flow and basis review documents",
+      "text": "Collect the most recent joint tax return, latest property tax bill, and current Teacup Comet Bank mortgage payoff from Nadia Pebblefizz for the cash-flow and basis review of the marital residence and household finances.",
+      "priority": null,
+      "dueDate": "2026-07-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the most recent joint return, latest property tax bill, and current Teacup Comet Bank mortgage payoff are still needed by 2026-07-15"
+    },
+    {
+      "templateId": null,
+      "title": "Review beneficiary change forms against restrictions",
+      "text": "Review the Velvet Acorn Custody IRA and Clockwork Clover Systems employer plan beneficiary change forms for Nadia Pebblefizz against attorney Corin Nettlewhisk's temporary restrictions before any beneficiary update is submitted, since Rowan Pebblefizz is still listed on both records.",
+      "priority": null,
+      "dueDate": "2026-07-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up by 2026-07-24 is to check forms against Corin’s temporary restrictions before any beneficiary change is submitted."
+    }
+  ]
+}

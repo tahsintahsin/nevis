@@ -1,0 +1,35 @@
+{
+  "meetingId": "110",
+  "tickets": [
+    {
+      "templateId": "16995f94-ef6c-5a22-ab66-51b66b8e9006",
+      "title": "Start retirement plan rollover",
+      "text": "Start preparing the Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and processing the company-stock portion. Nadia Copperwisp's 401(k) has $914,000 with 38% in company stock, 52% in diversified equity funds, and 10% in stable value holdings.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-06 to start preparing the Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and company-stock portion."
+    },
+    {
+      "templateId": null,
+      "title": "Collect pension election packet details",
+      "text": "Obtain the formal pension election packet for Nadia Copperwisp's retirement, as only portal estimates were available as of 2024-08-11. The packet is needed by 2024-08-23.",
+      "priority": null,
+      "dueDate": "2024-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2024-08-23, the formal pension election packet is needed because only portal estimates were available."
+    },
+    {
+      "templateId": null,
+      "title": "Review first-year retirement income and withholding",
+      "text": "Review Nadia Copperwisp's first-year retirement income and withholding, incorporating the final paycheck, unused vacation payout, and first pension timing into the tax projection.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2024-09-13 to review first-year retirement income and withholding because Tobin noted final paycheck, unused vacation payout, and first pension timing were not yet in the tax projection."
+    }
+  ]
+}

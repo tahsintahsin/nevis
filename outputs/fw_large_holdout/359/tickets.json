@@ -1,0 +1,125 @@
+{
+  "meetingId": "359",
+  "tickets": [
+    {
+      "templateId": "25f12d10-20d2-5147-8b25-a3648032f5b3",
+      "title": "Run Liquidity Planning Check",
+      "text": "Review expected cash needs, available reserves, upcoming withdrawals, and any planned large expenses before recommending trades or distributions. Update the cash reserve for Asha and Ronan Velvetreed based on their desire to hold at least 12 months of core spending given the upcoming consulting gap.",
+      "priority": "medium",
+      "dueDate": "2024-03-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2024-03-13 is to update the cash reserve."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare concentration analysis for Moonbadger Robotics holdings",
+      "text": "Prepare a side‑by‑side concentration analysis of the Velvetreed household’s Moonbadger Robotics holdings, using tax lots from both the brokerage and stock‑plan accounts, to compare selling a portion versus holding through the next open window.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2024-03-08 is to prepare the concentration analysis for Moonbadger Robotics holdings."
+    },
+    {
+      "templateId": null,
+      "title": "Develop portfolio concentration comfort range",
+      "text": "Develop a target portfolio concentration comfort range for the Velvetreed household that accounts for future Moonbadger Robotics restricted stock unit vesting and aligns with their stated comfort level.",
+      "priority": null,
+      "dueDate": "2024-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2024-03-20 is to develop the portfolio concentration comfort range."
+    },
+    {
+      "templateId": null,
+      "title": "Review trading-window compliance",
+      "text": "Review the Velvetreed household’s compliance with Moonbadger Robotics trading‑window policies, including pre‑clearance requirements and blackout periods, to determine if a planned sale can be entered before the next window.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2024-03-05 is to review trading-window compliance."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain employer trading materials",
+      "text": "Obtain Moonbadger Robotics’s insider‑trading policy, blackout calendar, and pre‑clearance contact information for Asha Velvetreed to support the trading‑window compliance review.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the needed follow-up for 2024-03-05 is to obtain the employer trading materials."
+    },
+    {
+      "templateId": "25f12d10-20d2-5147-8b25-a3648032f5b3",
+      "title": "Run Liquidity Planning Check",
+      "text": "Review expected cash needs, available reserves, upcoming withdrawals, and any planned large expenses before recommending trades or distributions. Review the liquidity impact of the upcoming restricted stock unit vest for Asha Velvetreed, separating cash‑flow needs for tuition, taxes, and mortgage payments from long‑term investment decisions.",
+      "priority": "medium",
+      "dueDate": "2024-03-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2024-03-20 is to complete the upcoming vest liquidity check."
+    },
+    {
+      "templateId": null,
+      "title": "Model long-dated option exercise alternatives",
+      "text": "Model the tax and cash‑flow outcomes of exercise‑and‑hold, same‑day sale, and staged exercise scenarios for Asha Velvetreed’s incentive and non‑qualified stock options, incorporating current share counts and grant details.",
+      "priority": null,
+      "dueDate": "2024-03-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2024-03-14 is to model the long-dated option exercise alternatives."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing award agreements and withholding elections",
+      "text": "Obtain the signed award agreements and tax‑withholding election forms for Asha Velvetreed’s most recent equity grant to complete the option‑exercise analysis.",
+      "priority": null,
+      "dueDate": "2024-03-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the needed follow-up for 2024-03-04 is to obtain the missing award agreements and withholding elections."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve incentive stock option share-count mismatch",
+      "text": "Resolve the discrepancy between Asha Velvetreed’s personal spreadsheet and the employer portal regarding the count of exercisable incentive stock options to ensure accurate tax projections.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the needed follow-up for 2024-03-06 is to resolve the incentive stock option share-count mismatch."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate payroll withholding and estimated tax planning",
+      "text": "Coordinate with CPA Kellan Nettlewhisk to adjust Asha Velvetreed’s payroll withholding and estimated tax payments in light of upcoming restricted stock vesting, option exercises, and bonus timing.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2024-03-18 is to coordinate payroll withholding and estimated tax planning."
+    },
+    {
+      "templateId": null,
+      "title": "Address cost-basis import issue for transferred company shares",
+      "text": "Address the blank acquisition‑date fields in the custodian’s imported cost basis for the transferred Moonbadger Robotics shares in the Velvetreed household’s brokerage account to ensure accurate gain calculations.",
+      "priority": null,
+      "dueDate": "2024-03-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2024-03-11 is to address the cost-basis import issue for transferred company shares."
+    },
+    {
+      "templateId": null,
+      "title": "Review beneficiary and trust titling discrepancy",
+      "text": "Review the Velvetreed household’s beneficiary designations and the Pocket Lantern Family Trust titling to resolve the discrepancy where the trust is referenced in estate documents but investment accounts remain individually titled.",
+      "priority": null,
+      "dueDate": "2024-03-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the needed follow-up for 2024-03-22 is to review the beneficiary and trust titling discrepancy."
+    }
+  ]
+}

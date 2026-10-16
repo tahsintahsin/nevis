@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"307\",\n\"tickets\": [\n{\n\"title\": \"Compile option and RSU vesting calendar\",\n\"text\": \"Create a single calendar detailing option and RSU vesting schedules, blackout periods, and pre-clearance steps for Tobin Mossbutton to replace reliance on memory or portal screenshots.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-12\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2026-08-12, the agreed follow-up is a single calendar of option and RSU vesting, blackout periods, and pre-clearance steps, requested because planning was relying on memory or portal screenshots.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Prepare sale vs exercise illustration\",\n\"text\": \"Generate an illustration comparing same-day sale, cash exercise, and partial exercise strategies against cash reserves and payroll withholding capacity for Tobin Mossbutton.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-19\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2026-08-19, the agreed follow-up is an illustration comparing same-day sale, cash exercise, or partial exercise against cash reserves and payroll withholding capacity, after the review found several vested option strike prices and no household comparison.\"\n,\n\"templateId\": null\n},\n{\n\"title\": \"Collect equity plan and insider trading docs\",\n\"text\": \"Obtain the full equity plan agreement, grant notices, and insider trading policy for Tobin Mossbutton to confirm exercise limits and sale restrictions, as he currently only showed the portal balance.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-05\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By 2026-08-05, the needed documents are the full equity plan agreement, grant notices, and insider trading policy to confirm exercise limits and sale restrictions; Tobin showed only the current portal balance.\"\n,\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 1244,
+    "output_tokens": 482,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 3072
+   },
+   "stop": "stop"
+  }
+ ]
+}

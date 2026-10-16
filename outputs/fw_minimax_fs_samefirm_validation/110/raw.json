@@ -1,0 +1,21 @@
+{
+ "config": "fw_minimax_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "101",
+  "104"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"110\", \"tickets\": [{\"title\": \"Start retirement plan rollover\", \"text\": \"Prepare the Silver Marmot Laboratories 401(k) move for Nadia Copperwisp after her separation at the end of September 2024. Capture the account registration details and the company-stock portion (38% of the approximately $914,000 balance) alongside the diversified equity funds and stable value holdings, and coordinate the rollover to the receiving account.\", \"priority\": null, \"dueDate\": \"2024-09-06\", \"assigneeId\": null, \"templateId\": \"16995f94-ef6c-5a22-ab66-51b66b8e9006\", \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-06 to start preparing the Silver Marmot Laboratories 401(k) move after separation, including receiving account registration and company-stock portion.\"}, {\"title\": \"Obtain formal pension election packet\", \"text\": \"Obtain the formal pension election packet from Silver Marmot Laboratories for Nadia Copperwisp, since only portal estimates were available. The packet is needed to finalize the pension election before her targeted retirement at the end of September 2024 and should cover the single-life pension, joint-and-survivor pension for Galen, and delayed Social Security options.\", \"priority\": null, \"dueDate\": \"2024-08-23\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"By 2024-08-23, the formal pension election packet is needed because only portal estimates were available.\"}, {\"title\": \"Review first-year retirement income and withholding\", \"text\": \"Review Nadia Copperwisp's first-year retirement income and tax withholding, incorporating the final paycheck, unused vacation payout, and first pension timing into the tax projection. Account for the approximately $118,000 in Teacup Comet Bank savings, the single-life pension, joint-and-survivor pension for Galen, and delayed Social Security options against estimated monthly retirement spending of about $8,400.\", \"priority\": null, \"dueDate\": \"2024-09-13\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-09-13 to review first-year retirement income and withholding because Tobin noted final paycheck, unused vacation payout, and first pension timing were not yet in the tax projection.\"}]}",
+   "usage": {
+    "input_tokens": 16171,
+    "output_tokens": 1742,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2205
+   },
+   "stop": "stop"
+  }
+ ]
+}

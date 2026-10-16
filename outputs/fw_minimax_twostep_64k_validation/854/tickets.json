@@ -1,0 +1,85 @@
+{
+  "meetingId": "854",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Confirm beneficiary designations across retirement and insurance accounts",
+      "text": "Confirm current beneficiary designations for Alden Pebblefizz and Priya Pebblefizz across all retirement and insurance accounts. Review the Paper Otter Robotics 401(k) (where Priya is listed), the Willow Pudding Components prior plan, Priya's 403(b) at Marzipan Meadow Clinic, Alden's group life and long-term disability coverage, and Priya's term life policy with Silver Marmot Insurance; resolve the older contingent beneficiary (Alden's sister) noted on the insurance summary.",
+      "priority": null,
+      "dueDate": "2024-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "confirmation of current beneficiary designations across retirement and insurance accounts is needed by 2024-05-08"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain complete estate documents for the Pebblefizz household",
+      "text": "Obtain complete copies of wills, powers of attorney, and healthcare directives for Alden Pebblefizz and Priya Pebblefizz. The uploaded estate folder contains only signature pages and an unsigned draft trust memo; the documents signed around 2016 need to be replaced with full versions before the planning team can summarize the estate arrangement.",
+      "priority": null,
+      "dueDate": "2024-05-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "complete copies are needed by 2024-05-08 before the planning team can summarize the estate arrangement"
+    },
+    {
+      "templateId": null,
+      "title": "Complete remaining sections of the Pebblefizz household profile packet",
+      "text": "Complete the remaining contact, authorization, risk tolerance, and communication preference sections of the household profile packet for Alden Pebblefizz and Priya Pebblefizz so the new client record can be finalized. The packet was started but not finished during onboarding.",
+      "priority": null,
+      "dueDate": "2024-04-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is completion of those remaining sections by 2024-04-26"
+    },
+    {
+      "templateId": null,
+      "title": "Reset portal access and confirm upload instructions for the Pebblefizz household",
+      "text": "Reset secure portal access for the Pebblefizz household and confirm upload instructions with both Alden Pebblefizz and Priya Pebblefizz. Priya did not receive the secure portal invitation, and Alden's upload attempt timed out when attaching the brokerage statement from Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2024-04-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to reset portal access and confirm upload instructions with both household decision-makers by 2024-04-23"
+    },
+    {
+      "templateId": "6d91b3c5-f350-52b1-949e-0902b766d90a",
+      "title": "Coordinate retirement plan rollover request",
+      "text": "Manage the reusable retirement plan rollover process for Alden Pebblefizz's Willow Pudding Components prior employer plan (approximate balance $148,000, not actively reviewed since he left in 2021). Confirm the source plan type, destination account readiness, distribution method, tax withholding instructions, transfer restrictions, and documentation needed before Alden initiates the rollover. Track receipt of funds and flag any tax, investment, or timing issues for advisor review. Begin the evaluation once the plan statement and distribution options are available.",
+      "priority": "medium",
+      "dueDate": "2024-05-03",
+      "assigneeId": "a937bf6e-3ad5-5284-b240-883a5ae3e40a",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that evaluation once those records are available, due 2024-05-03"
+    },
+    {
+      "templateId": null,
+      "title": "Include equity award considerations in the first Pebblefizz planning meeting",
+      "text": "Include equity award considerations in the first planning meeting for Alden Pebblefizz. Cover vesting concentration, tax withholding, and whether to sell shares after vesting for the upcoming Paper Otter Robotics annual equity award elections.",
+      "priority": null,
+      "dueDate": "2024-05-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to include those equity award considerations in the first planning meeting by 2024-05-10"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain tax returns and CPA authorization for the Pebblefizz household",
+      "text": "Obtain the most recent federal and Oregon joint tax returns for Alden Pebblefizz and Priya Pebblefizz, plus written authorization to coordinate with their CPA Rowan Thimblefern. These materials are needed to complete the tax baseline before the first plan build.",
+      "priority": null,
+      "dueDate": "2024-05-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those materials and authorization are needed by 2024-05-01"
+    },
+    {
+      "templateId": null,
+      "title": "Gather updated education funding assumptions for Nora Pebblefizz",
+      "text": "Gather updated education funding assumptions for the Pebblefizz household reflecting Nora's (age 15) recent interest in an out-of-state engineering program. The change could materially affect the household's education funding target and the 529 spending timeline for the accounts at Pocket Lantern College Savings (combined value about $84,000).",
+      "priority": null,
+      "dueDate": "2024-05-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "updated education funding assumptions are needed by 2024-05-15"
+    }
+  ]
+}

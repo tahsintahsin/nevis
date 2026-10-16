@@ -1,0 +1,86 @@
+{
+  "type": "object",
+  "meetingId": "309",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Review benefits elections for Pocket Lantern",
+      "text": "Review the benefits election options for Lena Copperwisp at Pocket Lantern Analytics, comparing household cost and coverage tradeoffs to support her decision before the enrollment deadline.",
+      "priority": null,
+      "dueDate": "2026-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the benefits elections by 2026-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Compare retirement plan options for Lena",
+      "text": "Compare the options of leaving the Tin Sparrow Retirement Services 401(k) in place, moving it to Pocket Lantern Analytics, or rolling eligible amounts to an IRA for Lena Copperwisp, considering pre‑tax and Roth balances.",
+      "priority": null,
+      "dueDate": "2026-02-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to compare those retirement plan options by 2026-02-13."
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing Tin Sparrow plan documents",
+      "text": "Collect the Velvet Acorn Robotics plan fee disclosure, summary plan description, and the most recent quarter’s transaction history for the Tin Sparrow Retirement Services 401(k) to enable fee and restriction evaluation for Lena Copperwisp.",
+      "priority": null,
+      "dueDate": "2026-02-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "those records are needed to evaluate fees, investment restrictions, and any transfer limitations by 2026-02-06."
+    },
+    {
+      "templateId": null,
+      "title": "Investigate 401(k) balance discrepancy for Lena",
+      "text": "Investigate the difference between the Tin Sparrow login balance and the last statement amount for Lena Copperwisp’s 401(k) to determine if market movement, a distribution, or posting delay caused the mismatch.",
+      "priority": null,
+      "dueDate": "2026-02-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "that issue needs follow-up by 2026-02-12."
+    },
+    {
+      "templateId": null,
+      "title": "Verify beneficiary designations for retirement plan",
+      "text": "Verify whether Jonah and Emery Copperwisp are listed as beneficiaries on the Tin Sparrow Retirement Services 401(k) for Lena Copperwisp and update records as needed.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "this information needs follow-up by 2026-02-27."
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Access recovery request\n\nClient name: [________________]\nAffected portal or institution: [________________]\nUser ID or known login email: [________________]\nIssue type: [locked account / forgotten password / MFA reset / outdated email / other: ________]\nBest callback number: [________________]\nAuthorized contact to assist, if any: [________________]\nPreferred verification method: [________________]\nLast successful access date or approximate period: [________________]\nDocuments or screenshots received: [yes / no / location: ________]\nSecurity notes or restrictions: [________________]\nNext action required: [________________]\n\nThe issue concerns Lena Copperwisp’s Tin Sparrow Retirement Services login MFA prompt using an old work phone number.",
+      "priority": "high",
+      "dueDate": "2026-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the access problem by 2026-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh cash‑flow and withholding for Copperwisp",
+      "text": "Refresh paycheck withholding and reserve target calculations for Lena and Jonah Copperwisp based on Lena’s new salary, bonus timing, benefits deductions, and Jonah’s variable self‑employment income.",
+      "priority": null,
+      "dueDate": "2026-02-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to refresh those items by 2026-02-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review restricted stock unit equity concentration",
+      "text": "Review the size, vesting schedule, and any trading‑window rules of Lena Copperwisp’s new restricted stock units from Pocket Lantern Analytics to assess potential employer‑stock exposure alongside her taxable brokerage holdings.",
+      "priority": null,
+      "dueDate": "2026-02-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review those equity details together by 2026-02-20."
+    }
+  ]
+}

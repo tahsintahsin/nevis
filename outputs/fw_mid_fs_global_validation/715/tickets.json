@@ -1,0 +1,85 @@
+{
+  "meetingId": "715",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare manual transfer package for joint taxable account",
+      "text": "Prepare a manual transfer package preserving in-kind transfer instructions for the taxable holdings from Silver Marmot Brokerage to Velvet Acorn Custody, after Silver Marmot Brokerage rejected the automated transfer due to account number format mismatch.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Silver Marmot Brokerage rejected the automated transfer request after its account number format did not match the receiving custodian’s intake record. They agreed that a manual package preserving the in-kind transfer instruction for the taxable holdings would be prepared, due 2024-08-02."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve identity verification loop for new registration",
+      "text": "Help Lena Copperwisp resolve the repeated upload loop for identity verification on the new Velvet Acorn Custody registration, rather than asking her to resubmit the same identification through the portal again.",
+      "priority": null,
+      "dueDate": "2024-07-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Velvet Acorn Custody showed the new receiving registration as conditionally open because the identity check was not fully cleared. Lena asked Apricot Compass Advisory to help resolve the repeated upload loop rather than asking her to resubmit the same identification through the portal again; the agr"
+    },
+    {
+      "templateId": null,
+      "title": "Confirm cost basis import settings for low-basis stock lots",
+      "text": "Coordinate with Velvet Acorn Custody to confirm cost basis import treatment for the low-basis Pocket Lantern Robotics shares transferred to the new taxable account, so the transferred lots are not booked as unidentified positions.",
+      "priority": null,
+      "dueDate": "2024-08-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the transfer review noted that the receiving account setup still needed cost basis import treatment confirmed for the low-basis Pocket Lantern Robotics shares. They agreed to coordinate with Velvet Acorn Custody so the transferred lots are not booked as unidentified positions, due 2024-08-06."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain trust certification for taxable account registration",
+      "text": "Obtain an acceptable trust certification or equivalent trustee authority document for the Copper Firefly Revocable Trust so the receiving custodian can finalize the taxable account registration.",
+      "priority": null,
+      "dueDate": "2024-08-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the taxable account is intended to align with the Copper Firefly Revocable Trust structure, but the receiving custodian still needs an acceptable trust certification or equivalent trustee authority document before the registration can be finalized; this remains needed, with a 2024-08-05 date."
+    },
+    {
+      "templateId": null,
+      "title": "Start rollover IRA setup and coordinate direct-rollover instructions",
+      "text": "Start the Velvet Acorn Custody rollover IRA setup and coordinate direct-rollover instructions for Lena’s Pocket Lantern Robotics 401(k) assets after plan access is confirmed, following her separation from Pocket Lantern Robotics on 2024-06-30.",
+      "priority": null,
+      "dueDate": "2024-08-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena’s separation from Pocket Lantern Robotics created a new rollover need for her workplace plan assets. They agreed to start the Velvet Acorn Custody rollover IRA setup and coordinate direct-rollover instructions after plan access is confirmed, due 2024-08-09."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile owner name mismatch on Colin’s inherited IRA",
+      "text": "Reconcile the titling on Colin Copperwisp’s inherited IRA at Silver Marmot Brokerage with the draft receiving paperwork so the inherited IRA registration is not rejected.",
+      "priority": null,
+      "dueDate": "2024-08-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the inherited IRA record at Silver Marmot Brokerage lists Colin’s legal name differently from the draft receiving paperwork. They agreed to reconcile the titling before submitting another transfer request so the inherited IRA registration is not rejected, due 2024-08-07."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain most recent statement for Colin’s inherited IRA",
+      "text": "Obtain a current statement from Silver Marmot Brokerage showing the inherited IRA registration for Colin’s inherited IRA, as online access did not display the needed document during the call.",
+      "priority": null,
+      "dueDate": "2024-08-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the receiving custodian requested a current statement showing the inherited IRA registration, but Colin’s online access at Silver Marmot Brokerage did not display the needed document during the call; obtaining the statement remains needed, with a 2024-08-04 date."
+    },
+    {
+      "templateId": null,
+      "title": "Track transfer sequence against client-imposed fee change deadline",
+      "text": "Track the transfer sequence of main household accounts from Silver Marmot Brokerage to Velvet Acorn Custody against the client-imposed timing target of completing moves before the prior custodian’s announced household service fee increase.",
+      "priority": null,
+      "dueDate": "2024-08-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena said she wants the main household accounts moved before the prior custodian’s announced household service fee increase, and they agreed to track the transfer sequence against that client-imposed timing target, due 2024-08-23."
+    }
+  ]
+}

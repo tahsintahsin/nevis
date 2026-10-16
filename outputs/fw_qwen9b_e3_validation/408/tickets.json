@@ -1,0 +1,85 @@
+{
+  "meetingId": "408",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare mortgage reset and refinance comparison",
+      "text": "Prepare a side-by-side comparison for Liora and Jonah Nettlewhisk of keeping the adjustable mortgage after the reset, using the fixed-rate refinance quote, and combining or leaving the HELOC separate. Include payment estimates, closing costs, and cash reserve impact.",
+      "priority": null,
+      "dueDate": "2025-01-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2025-01-24."
+    },
+    {
+      "templateId": null,
+      "title": "Follow up on missing refinance lender documents",
+      "text": "Follow up on the missing lender document packet for the Nettlewhisks’ refinance file: current pay stub, Jonah’s year-to-date profit-and-loss statement, the most recent business bank statement, and a complete prior-year tax return packet.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the current pay stub, Jonah’s year-to-date profit-and-loss statement, the most recent business bank statement, and a complete prior-year tax return packet are not in the refinance file. That document packet remains an unresolved issue needing follow-up by 2025-01-28."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile mortgage payoff balance discrepancy",
+      "text": "Reconcile the mortgage principal balance discrepancy affecting loan-to-value and cash-to-close estimates. Liora’s mortgage portal shows $642,000, while the loan officer worksheet uses $655,800.",
+      "priority": null,
+      "dueDate": "2025-01-23",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A mortgage payoff balance discrepancy remains unresolved because Liora’s mortgage portal shows a principal balance of $642,000, while the loan officer worksheet uses $655,800; the difference affects loan-to-value and cash-to-close estimates. Follow-up is needed by 2025-01-23."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Teacup Comet Bank statement access and two-factor issues",
+      "text": "Resolve the failed Teacup Comet Bank exports and two-factor prompts going to Jonah’s old phone number so recent HELOC and checking statements are available for lender review.",
+      "priority": null,
+      "dueDate": "2025-01-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Teacup Comet Bank exports failed during the call, and Liora said two-factor prompts were going to Jonah’s old phone number, leaving recent HELOC and checking statements unavailable for lender review. That access issue remains unresolved and needs follow-up by 2025-01-27."
+    },
+    {
+      "templateId": null,
+      "title": "Model debt-repayment cash-flow stress test",
+      "text": "Model the Nettlewhisks’ debt-repayment cash flow against monthly income and spending. Include the reset payment, HELOC interest, credit card payoff target, Eleni’s school costs, and Hazel’s possible voluntary support amount.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the reset payment, HELOC interest, credit card payoff target, Eleni’s school costs, and Hazel’s possible voluntary support amount need to be modeled against monthly income and spending. The agreed follow-up is to complete that modeling by 2025-01-31."
+    },
+    {
+      "templateId": "9e10aee4-f276-52cb-be0c-39f25dd71780",
+      "title": "Review Concentrated Position",
+      "text": "Assess position size, tax basis, liquidity needs, risk tolerance, trading restrictions, and diversification options before recommending any action. For Liora and Jonah Nettlewhisk, compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction using the approximately $156,000 Clockwork Clover Systems stock position in the joint taxable brokerage account at Velvet Acorn Custody, with an estimated cost basis of $42,000.",
+      "priority": "medium",
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the Clockwork Clover Systems stock position is large relative to the joint account and has a low basis; the agreed follow-up is to compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction by 2025-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare appraisal and rate-lock readiness items",
+      "text": "Address appraisal and rate-lock readiness items for the Nettlewhisks’ refinance, including insurance declarations, the property tax bill, and HOA confirmation before underwriting review. Account for the loan officer’s rate-lock window and appraisal checklist.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the loan officer’s rate-lock window and appraisal checklist create a timing constraint for providing insurance declarations, the property tax bill, and HOA confirmation before underwriting review. The agreed follow-up is to address those readiness items by 2025-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare retirement-account boundary analysis for debt restructuring",
+      "text": "Prepare a planning analysis showing non-retirement funding options before any retirement-account cash-flow scenario. Treat IRA or 401(k) withdrawals as a last-resort scenario for the Nettlewhisks’ debt restructuring.",
+      "priority": null,
+      "dueDate": "2025-02-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Liora stated that IRA or 401(k) withdrawals should be treated only as a last-resort scenario, and the agreed planning analysis is to show non-retirement funding options before any retirement-account cash-flow scenario by 2025-02-03."
+    }
+  ]
+}

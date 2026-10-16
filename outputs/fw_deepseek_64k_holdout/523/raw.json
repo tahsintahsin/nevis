@@ -1,0 +1,18 @@
+{
+ "config": "fw_deepseek_64k",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"523\", \"tickets\": [{\"templateId\": null, \"title\": \"Raise Velvet Acorn Custody monthly checking transfer\", \"text\": \"Raise the monthly transfer from Velvet Acorn Custody to Teacup Comet Bank checking for Liora Pebblefizz from $3,500 to $4,200 starting next cycle, supporting taxable-account distributions that supplement pension and Social Security income.\", \"priority\": null, \"dueDate\": \"2024-07-24\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2024-07-24 to raise Velvet Acorn Custody monthly checking transfer $3,500-to-$4,200 next cycle.\"}, {\"templateId\": null, \"title\": \"Reconcile $3,500 transfer against Liora's utilities and home maintenance\", \"text\": \"Provide support to reconcile the $3,500 monthly transfer from Velvet Acorn Custody against Liora Pebblefizz's approximately $4,200 in utilities and home-maintenance costs, given her Teacup Comet Bank checking balance of about $24,000.\", \"priority\": null, \"dueDate\": \"2024-07-26\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"By 2024-07-26, support is needed: file $3,500 versus Liora's about-$4,200 utilities/home-maintenance.\"}]}",
+   "usage": {
+    "input_tokens": 4366,
+    "output_tokens": 4256,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

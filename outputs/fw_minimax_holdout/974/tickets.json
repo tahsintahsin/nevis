@@ -1,0 +1,75 @@
+{
+  "meetingId": "974",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Organize Moonbadger Custody IRA beneficiary claim paperwork",
+      "text": "Organize the Moonbadger Custody beneficiary claim paperwork for Harold Cloudpuddle's traditional IRA for Lydia Cloudpuddle. Confirm inherited account opening requirements, beneficiary percentages (Lydia 60%, Marcus Cloudpuddle 40%), and tax withholding election language before she signs any forms.",
+      "priority": null,
+      "dueDate": "2025-02-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lydia asked Apricot Compass Advisory to help organize the Moonbadger Custody beneficiary claim paperwork for Harold’s traditional IRA, including inherited account opening requirements, beneficiary percentage confirmation for Lydia and Marcus, and tax withholding election language before she signs an"
+    },
+    {
+      "templateId": null,
+      "title": "Assemble Teacup Comet Bank ownership evidence for Sylvie",
+      "text": "Assemble the available bank statement, memo, and title evidence for the Teacup Comet Bank checking account associated with Harold Cloudpuddle for Sylvie Willowdoodle of Amber Teapot Law to review. The estate binder lists the account with Harold's materials, but an older memo describes it as joint with rights of survivorship.",
+      "priority": null,
+      "dueDate": "2025-01-31",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to assemble the available bank statement, memo, and title evidence for Sylvie to review by January 31, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain certified death certificates and executor authority letters",
+      "text": "Obtain certified death certificates and letters confirming Lydia Cloudpuddle's executor authority so Moonbadger Custody and Teacup Comet Bank will discuss Harold Cloudpuddle's accounts with her. Harold died on November 29, 2024, and Lydia is named executor under his will dated May 18, 2016.",
+      "priority": null,
+      "dueDate": "2025-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Moonbadger Custody and Teacup Comet Bank each requested certified documentation before discussing Harold’s accounts with Lydia, and the meeting file did not yet contain certified death certificates or letters confirming Lydia’s executor authority; certified authority documents are needed by February"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare probate asset valuation packet for Sylvie",
+      "text": "Prepare date-of-death values for the Moonbadger Custody taxable account (about $1.18 million), a copy of the residence price opinion for 44 Lark Way (about $640,000), and a separately labeled beneficiary IRA value schedule for Sylvie Willowdoodle of Amber Teapot Law and tax reference.",
+      "priority": null,
+      "dueDate": "2025-02-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare date-of-death values for the Moonbadger taxable account, a copy of the residence price opinion, and a separately labeled beneficiary IRA value schedule for attorney and tax reference by February 14, 2025."
+    },
+    {
+      "templateId": "a2f44ece-8863-5f91-91e3-d2bf237eded2",
+      "title": "Login Access Recovery Request",
+      "text": "Escalate the Moonbadger Custody estate portal access issue through the custodian service channel using Lydia Cloudpuddle's executor contact information. The activation link was sent to Harold Cloudpuddle's inactive email address and Moonbadger Custody would not reset it through Lydia's personal login.",
+      "priority": null,
+      "dueDate": "2025-01-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to escalate the access issue through the custodian service channel using Lydia’s executor contact information by January 28, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare estate document issue list for Amber Teapot Law",
+      "text": "Prepare a short issue list for Lydia Cloudpuddle to discuss with Amber Teapot Law. Harold Cloudpuddle still appears in a successor fiduciary role in Lydia and Owen Cloudpuddle's 2017 estate documents.",
+      "priority": null,
+      "dueDate": "2025-02-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare a short issue list for Lydia to discuss with Amber Teapot Law by February 21, 2025."
+    },
+    {
+      "templateId": null,
+      "title": "Model revised retirement and education funding plan",
+      "text": "Model a revised plan for Lydia and Owen Cloudpuddle using the expected beneficiary IRA share, current household spending (about $14,500 per month), mortgage balance ($413,000 at 3.125%), and existing investment accounts (Velvet Acorn Custody joint taxable about $720,000, Owen's rollover IRA about $310,000, Lydia's Paper Otter Instruments 401(k) about $690,000).",
+      "priority": null,
+      "dueDate": "2025-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to model a revised plan using the expected beneficiary IRA share, current household spending, mortgage balance, and existing investment accounts by March 6, 2025."
+    }
+  ]
+}

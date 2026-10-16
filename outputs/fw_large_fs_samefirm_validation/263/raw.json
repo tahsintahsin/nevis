@@ -1,0 +1,21 @@
+{
+ "config": "fw_large_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"263\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Reset credentials, review session, strengthen MFA\",\n\"text\": \"Reset Jared Wrenpuddle’s portal credentials, review his recent sessions, and implement stronger multi-factor authentication via approved channels for Velvet Acorn Custody’s portal.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-18\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-18 agreed work: credential reset, session review, stronger MFA via approved channels.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Check transfer instructions and profile changes\",\n\"text\": \"Check the pending Teacup Comet Bank link for Jared Wrenpuddle’s account and verify or update transfer instructions and profile changes as needed.\",\n\"priority\": null,\n\"dueDate\": \"2024-03-19\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"2024-03-19 agreed work: check transfer instructions/profile changes.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2741,
+    "output_tokens": 978,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 12202
+   },
+   "stop": "stop"
+  }
+ ]
+}

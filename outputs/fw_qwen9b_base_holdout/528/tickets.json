@@ -1,0 +1,45 @@
+{
+  "meetingId": "528",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Identify bookkeeper and CPA record requirements",
+      "text": "Identify the specific records Lena Bramblequill's bookkeeper and Nia Thimblefern, CPA, need to receive once Pocket Lantern Studio LLC client deposits begin, to ensure proper separation of business and household finances.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to identify those records by 2024-09-13."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare quarterly tax payment calendar",
+      "text": "Prepare a quarterly tax payment calendar for Lena Bramblequill that reflects expected invoice timing from Pocket Lantern Studio LLC and household cash availability, addressing the gap where her CPA has not yet calculated estimated taxes for the new consulting income.",
+      "priority": null,
+      "dueDate": "2024-09-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that calendar by 2024-09-20."
+    },
+    {
+      "templateId": null,
+      "title": "Address Velvet Acorn Custody feed issue",
+      "text": "Address the issue where the Velvet Acorn Custody household dashboard stopped pulling the former employer brokerage feed, leaving the advisory portal without current equity position values for Lena Bramblequill's Copper Firefly Design restricted stock units.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the feed issue by 2024-09-10."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate documents and beneficiary designations",
+      "text": "Review the existing wills and beneficiary designations for Lena Bramblequill and Evan Bramblequill to determine if updates are needed now that Lena owns Pocket Lantern Studio LLC and expects business receivables to become part of the household balance sheet.",
+      "priority": null,
+      "dueDate": "2024-10-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the estate documents and beneficiary designations by 2024-10-04."
+    }
+  ]
+}

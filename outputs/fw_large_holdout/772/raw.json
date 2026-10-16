@@ -1,0 +1,18 @@
+{
+ "config": "fw_large",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"772\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Evaluate appreciated shares for charitable gift\",\n\"text\": \"Evaluate Nadia Willowdoodle’s appreciated Copper Firefly Energy shares to determine suitability for her planned $18,000 Moonbadger Literacy Foundation donation.\",\n\"priority\": null,\n\"dueDate\": \"2023-11-15\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"They agreed by November 15, 2023 to evaluate appreciated shares for Nadia’s planned $18,000 Moonbadger Literacy Foundation gift before holiday travel.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain latest restricted stock vesting details\",\n\"text\": \"Obtain the most recent restricted stock vesting confirmation or payroll withholding details from Cloudberry Kite Robotics for Nadia Willowdoodle to estimate her 2023 tax exposure.\",\n\"priority\": null,\n\"dueDate\": \"2023-10-20\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"By October 20, 2023, the latest restricted stock vesting confirmation or payroll withholding detail from Cloudberry Kite Robotics is needed to estimate 2023 tax exposure.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Review cash reserves and bonus allocation\",\n\"text\": \"Review Nadia Willowdoodle’s cash holdings exceeding the six‑month reserve target together with her expected bonus to compare options for college savings, taxable investments, and mortgage principal payments.\",\n\"priority\": null,\n\"dueDate\": \"2023-12-08\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"They agreed by December 8, 2023 to review cash above the stated six-month reserve target and the expected bonus for college savings, taxable investment, and mortgage principal comparisons.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 4138,
+    "output_tokens": 1647,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"946\", \"tickets\": [{\"title\": \"Compare former 401(k) options: keep, move to new plan, or roll to IRA\", \"text\": \"Compare keeping Dana Wrenpuddle’s former Cloudberry Kite Design 401(k) ($58,000 Roth, $354,000 pre-tax), moving it to the new Silver Marmot Analytics plan, or rolling eligible assets to an IRA. Cover Roth money, investment menus, fees, and simplicity of no more than two primary investment accounts outside checking and savings.\", \"priority\": \"medium\", \"dueDate\": \"2024-03-29\", \"assigneeId\": null, \"templateId\": \"d5a7c920-0675-56d6-a029-4ea40b62764f\", \"subTasks\": [{\"title\": \"Gather plan and account details\", \"text\": \"Request current plan statement, investment menu, fee disclosures, distribution paperwork, and any employer separation or plan eligibility details from the client.\", \"priority\": \"medium\", \"assigneeId\": \"d8e692ff-a8b4-590c-a1fc-b950bd8e57e2\", \"dueDate\": null}, {\"title\": \"Analyze rollover alternatives\", \"text\": \"Compare keeping assets in the current plan, rolling to a new employer plan, rolling to an IRA, or taking other permissible action. Include fees, services, creditor protection considerations, investment access, and tax implications.\", \"priority\": \"medium\", \"assigneeId\": \"9e041d4d-509e-588f-a2a9-2f29f4b97a54\", \"dueDate\": null}, {\"title\": \"Prepare recommendation summary\", \"text\": \"Draft a concise summary of the recommended path, required client decisions, anticipated transfer method, and any cautions for advisor review.\", \"priority\": \"medium\", \"assigneeId\": \"4667bc56-66a8-50b5-9e6c-5140770cc465\", \"dueDate\": null}, {\"title\": \"Track transfer and confirm investment plan\", \"text\": \"After client authorization, monitor rollover status, confirm receipt of funds, and coordinate reinvestment according to the approved allocation.\", \"priority\": \"medium\", \"assigneeId\": \"b93ee058-c11a-51d8-8005-81fe1e23bd94\", \"dueDate\": null}], \"evidence\": \"Dana asked to compare keeping the former 401(k), moving it to the new plan, or rolling eligible assets to an IRA, covering Roth money, menus, fees, and simplicity; the agreed follow-up is due 2024-03-29.\"}, {\"title\": \"Obtain Silver Marmot Analytics benefits packet\", \"text\": \"Obtain the Silver Marmot Analytics benefits packet while enrollment is open.\", \"priority\": null, \"dueDate\": \"2024-03-22\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The Silver Marmot Analytics benefits packet is still needed by 2024-03-22 while enrollment is open.\"}, {\"title\": \"Review 401(k) deferral percentage adequacy\", \"text\": \"Review whether the old 401(k) deferral percentage will produce the same annual savings level at the new salary of $168,000, especially if bonus deferrals are separate.\", \"priority\": null, \"dueDate\": \"2024-04-05\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Mira’s review of Dana’s prior pay stub and stated salary found the old 401(k) deferral percentage may not produce the same annual savings level, especially if bonus deferrals are separate; follow-up is needed by 2024-04-05.\"}]}",
+   "usage": {
+    "input_tokens": 17334,
+    "output_tokens": 931,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

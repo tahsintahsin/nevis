@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"219\", \"tickets\": [\n{\"title\": \"Prepare updated cash-flow projection\", \"text\": \"Prepare an updated cash-flow projection for Lenora Cloudpuddle reflecting the Moonbadger Home Care aide schedule (twice weekly, four hours per visit at $38 per hour), possible increased visits, reduced work hours, and caregiver help from Gideon Cloudpuddle and Maren Pebblefizz.\", \"priority\": null, \"dueDate\": \"2026-04-17\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"The agreed follow-up for 2026-04-17 is an updated cash-flow projection reflecting the aide schedule, possible increased visits, reduced work hours, and caregiver help from Gideon and adult daughter Maren Pebblefizz.\"},\n{\"title\": \"Obtain complete long-term care policy evidence\", \"text\": \"Obtain complete policy evidence for Lenora Cloudpuddle's 2014 Silver Marmot Insurance long-term care policy showing home-care benefit language, elimination period, and claim notice instructions; the file currently only has a policy summary showing a $186,000 benefit pool.\", \"priority\": null, \"dueDate\": \"2026-04-14\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Complete policy evidence showing home-care benefit language, elimination period, and claim notice instructions is needed by 2026-04-14.\"},\n{\"title\": \"Reconcile medical spending baseline\", \"text\": \"Reconcile a medical spending baseline for Lenora Cloudpuddle because the file's annual out-of-pocket costs are far below her described monthly prescriptions, therapy copays, and home-care support.\", \"priority\": null, \"dueDate\": \"2026-04-20\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"A reconciled medical spending baseline is needed by 2026-04-20 because the file's annual out-of-pocket costs are far below Lenora's described monthly prescriptions, therapy copays, and home-care support.\"}\n]}",
+   "usage": {
+    "input_tokens": 2495,
+    "output_tokens": 495,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2123
+   },
+   "stop": "stop"
+  }
+ ]
+}

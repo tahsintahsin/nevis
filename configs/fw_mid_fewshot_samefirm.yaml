@@ -1,0 +1,15 @@
+# Mid model + 2 few-shot examples from the SAME firm's tune meetings (global tune examples when the firm has none).
+provider: fireworks
+model: accounts/fireworks/models/nemotron-lightning-3p5-30b-a3b
+deployment: serverless
+prompt: main
+pipeline: single
+few_shot: same_firm      # none | global | same_firm
+few_shot_k: 2
+few_shot_seed: 0
+structured_output: json_schema
+temperature: 0.0
+max_tokens: 32000
+concurrency: 8
+notes: mid 30B-A3B, few-shot same firm (k=2)
+extra_body: {reasoning_effort: none}   # Lightning thinks past 32k tokens otherwise (probe 2026-10-14)

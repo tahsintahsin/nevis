@@ -1,0 +1,65 @@
+{
+  "meetingId": "588",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare mortgage reset options and refinance quotes",
+      "text": "Perform a side-by-side review of Liora Nettlewhisk's current adjustable mortgage against fixed-rate and shorter-term refinance quotes. Include closing costs, monthly payment impact, and the break-even point for refinancing. This analysis is needed for the household's decision on whether to lock a quote or stay with the current lender.",
+      "priority": null,
+      "dueDate": "2025-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the mortgage reset and refinance comparison, Liora asked for a side-by-side review of the current adjustable mortgage against fixed-rate and shorter-term refinance quotes, including closing costs, monthly payment impact, and the point at which refinancing would offset upfront costs; the agreed f"
+    },
+    {
+      "templateId": null,
+      "title": "Analyze loan reset timing and refinance strategy",
+      "text": "Provide a recommendation on loan reset timing for Liora Nettlewhisk based on the mortgage servicer's notice of an upcoming rate change window. The goal is to decide early enough whether to lock a refinance quote or remain with the current lender.",
+      "priority": null,
+      "dueDate": "2025-05-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For loan reset timing analysis, the mortgage servicer’s notice shows an upcoming rate change window, and the household wants a recommendation early enough to decide whether to lock a refinance quote or remain with the current lender; the agreed follow-up is due 2025-05-30."
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing HELOC document pages",
+      "text": "Retrieve the missing pages from the HELOC portal file for Liora Nettlewhisk. Specifically, obtain the margin, draw-period terms, and repayment conversion language required to model the combined debt picture.",
+      "priority": null,
+      "dueDate": "2025-05-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For HELOC document collection, the portal file contains only a partial HELOC statement, and the missing pages include the margin, draw-period terms, and repayment conversion language needed to model the combined debt picture; the agreed follow-up is due 2025-05-20."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile cash-flow discrepancy in escrow estimate",
+      "text": "Review the discrepancy between the mortgage servicer's escrow estimate and Liora Nettlewhisk's household budget regarding monthly property tax and insurance amounts. Resolve the uncertainty in the projected payment after the loan reset.",
+      "priority": null,
+      "dueDate": "2025-05-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the cash-flow discrepancy review, the mortgage servicer’s escrow estimate and Liora’s household budget show different monthly property tax and insurance amounts, creating uncertainty in the projected payment after the loan reset; the agreed follow-up is due 2025-05-27."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Teacup Comet Bank autopay issue",
+      "text": "Investigate and resolve the issue where Teacup Comet Bank drafted the HELOC autopay twice in one cycle for Liora Nettlewhisk. This double draft temporarily reduced the checking account cushion and forced a transfer from savings before payroll posted.",
+      "priority": null,
+      "dueDate": "2025-05-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the bank autopay issue and reserve protection, Liora reported that Teacup Comet Bank drafted the HELOC autopay twice in one cycle, temporarily reducing the checking account cushion and forcing a transfer from savings before payroll posted; the agreed follow-up is due 2025-05-21."
+    },
+    {
+      "templateId": null,
+      "title": "Review debt repayment funding and tax lot impact",
+      "text": "Conduct a portfolio review for Liora Nettlewhisk to assess selling Cloudberry Kite Robotics shares to pay off the credit card balance and part of the auto loan. Analyze the varying tax lots by holding period and unrealized gain to determine concentration risk reduction.",
+      "priority": null,
+      "dueDate": "2025-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the debt repayment funding review, a portfolio review showed that selling enough Cloudberry Kite Robotics shares to pay off the credit card balance and part of the auto loan could reduce concentration risk, but the tax lots vary significantly by holding period and unrealized gain; the agreed fol"
+    }
+  ]
+}

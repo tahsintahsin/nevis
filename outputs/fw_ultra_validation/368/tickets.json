@@ -1,0 +1,15 @@
+{
+  "meetingId": "368",
+  "tickets": [
+    {
+      "templateId": "76c48877-9b1c-5e9f-97ea-e5ea98d722bd",
+      "title": "Review and coordinate cash distribution request",
+      "text": "Confirm the requested distribution amount, source account, destination, timing preference, tax withholding instructions, liquidity source, and any investment or retirement income impact before processing. Document client authorization and retain confirmation after the distribution is completed. For Rowan Cloudpuddle and Elena Mossbutton, coordinate a $50,000 one-time transfer from Velvet Acorn Custody to Teacup Comet Bank and increase the monthly IRA distribution from $4,000 to $5,500, using cash, money market, or bond maturities as liquidity source per household preference, with 12% federal withholding. Verify destination account: standing instructions show checking ending 1184, but Rowan identified newer household checking ending 7729.",
+      "priority": "high",
+      "dueDate": "2026-02-18",
+      "assigneeId": "d2138733-4eed-5dba-9dc8-8769f5f820f2",
+      "subTasks": [],
+      "evidence": "For the one-time withdrawal and higher recurring distribution, Rowan asked Apricot Compass Advisory to coordinate a $50,000 transfer to Teacup Comet Bank and to increase the monthly IRA distribution from $4,000 to $5,500. The agreed follow-up is to confirm the source account, destination account, li"
+    }
+  ]
+}

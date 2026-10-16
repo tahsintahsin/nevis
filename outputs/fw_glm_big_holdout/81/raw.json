@@ -1,0 +1,18 @@
+{
+ "config": "fw_glm_big",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"81\", \"tickets\": [{\"title\": \"Update address-related advisory and custodian records\", \"text\": \"Update address records for Lila and Rowan Copperwisp with Apricot Compass Advisory and Velvet Acorn Custody after the Seattle lease begins on 2025-04-01; also note the pending Silver Marmot Mutual policy address change.\", \"priority\": null, \"dueDate\": \"2025-04-04\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"They agreed by 2025-04-04 to update address-related advisory and custodian records after the lease begins\", \"templateId\": null}, {\"title\": \"Obtain lease and Washington utility confirmation\", \"text\": \"Obtain from Lila and Rowan Copperwisp the signed Seattle apartment lease beginning 2025-04-01 and the Washington utility confirmation that are missing from the file.\", \"priority\": null, \"dueDate\": \"2025-04-09\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"by 2025-04-09 to obtain the lease and Washington utility confirmation missing from the file\", \"templateId\": null}, {\"title\": \"Review Oregon bond fund, RSU concentration, and cash needs\", \"text\": \"Review with Lila Copperwisp the Oregon municipal bond fund and roughly $86,000 of Tin Sparrow Robotics shares in the Velvet Acorn Custody taxable account (about $612,000 as of 2025-03-10), plus move-related cash needs against the $18,000 reserved at Teacup Comet Bank.\", \"priority\": null, \"dueDate\": \"2025-04-25\", \"assigneeId\": null, \"subTasks\": [], \"evidence\": \"by 2025-04-25 to review the Oregon bond fund, Tin Sparrow Robotics concentration, and move-related cash needs\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 2212,
+    "output_tokens": 493,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2123
+   },
+   "stop": "stop"
+  }
+ ]
+}

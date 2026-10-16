@@ -1,0 +1,94 @@
+{
+  "meetingId": "980",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update household mailing address across records",
+      "text": "Replace the Portland mailing address with the Fort Collins household address for Elena and Robin Mossbutton across the advisory profile, custodian records, portal delivery settings, the IRA at Velvet Acorn Custody, and Robin's household contact record once move-in confirmation is available.",
+      "priority": null,
+      "dueDate": "2025-07-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena asked Apricot Compass Advisory to replace the Portland mailing address with the Fort Collins household address across the advisory profile, custodian records, portal delivery settings, IRA records, and Robin’s household contact record once move-in confirmation is available; the agreed follow-u"
+    },
+    {
+      "templateId": "bf1a1f75-3fe2-5cb6-8261-3d4ebbddb335",
+      "title": "Collect tax documents for planning review",
+      "text": "Please collect the following tax materials for the planning file:\n\nTax year: [Tax Year]\nClient household or entity: Elena and Robin Mossbutton\nCPA or tax preparer contact: Nia Bramblequill at Clockwork Clover Tax\nExpected filing status: [Filing Status]\nDocuments requested: Elena's latest Moonbadger Analytics paystub; Robin's Tin Sparrow Learning Cooperative year-to-date payroll report; moving reimbursement information; written permission for Nia Bramblequill to coordinate with the advisory team\nDocuments already received: [Received Items]\nDocuments still outstanding: [Outstanding Items]\nSecure upload location or delivery method: [Secure Upload Method]\nSpecial planning questions to review: cross-state tax planning for the Oregon-to-Colorado relocation\nPermission to coordinate with tax preparer: written permission still needed\nGather these cross-state tax planning materials for the Mossbutton household ahead of the Oregon-to-Colorado move.",
+      "priority": "medium",
+      "dueDate": "2025-07-11",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the planning file does not yet include Elena’s latest Moonbadger Analytics paystub, Robin’s Tin Sparrow Learning Cooperative year-to-date payroll report, moving reimbursement information, or written permission for Nia Bramblequill at Clockwork Clover Tax to coordinate with the advisory team; the agr"
+    },
+    {
+      "templateId": "bd12f883-8acf-5b18-99ca-5dc82f67b3c8",
+      "title": "Coordinate custodian transfer tracking",
+      "text": "Track a custodian transfer through each handoff point, including paperwork status, sending-firm release, receiving-firm receipt, asset reconciliation, and client communication. Use placeholders for account names and transfer identifiers; do not store full account numbers in the template. Prepare the transfer package for Elena Mossbutton's taxable brokerage account (about $1.18 million at Paper Otter Wealth as of 2025-06-20) to Velvet Acorn Custody, and resolve the delivery-settings issue: Paper Otter Wealth sent two account notices to the former Portland address after mail forwarding began and its service desk could not confirm corrected delivery settings.",
+      "priority": "high",
+      "dueDate": "2025-07-18",
+      "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936",
+      "subTasks": [
+        {
+          "title": "Prepare and verify transfer package",
+          "text": "Confirm transfer form completeness, registration match, delivery method, and any statement or acceptance paperwork required before submission for Elena Mossbutton's taxable brokerage transfer from Paper Otter Wealth to Velvet Acorn Custody.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936"
+        },
+        {
+          "title": "Submit to receiving custodian and record tracking details",
+          "text": "Send the transfer package through the approved channel and record the submission confirmation, transfer type, and expected status checkpoints using placeholders.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936"
+        },
+        {
+          "title": "Monitor external release and resolve exceptions",
+          "text": "Follow up on pending, rejected, or partial transfer statuses; document any required corrected paperwork, liquidation instruction, or contra-firm requirement, including Paper Otter Wealth's unconfirmed corrected delivery settings after two notices went to the former Portland address.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Reconcile assets and communicate completion",
+          "text": "Compare received assets and cash to the prior statement, flag residual sweeps or missing positions, and prepare a completion update for the client record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c089d7f5-dba5-5cf9-bafe-c7fb83348936"
+        }
+      ],
+      "evidence": "the agreed work covers a transfer package for the taxable brokerage to Velvet Acorn Custody by 2025-07-18."
+    },
+    {
+      "templateId": "7e5df057-b6d6-59e3-b7ef-4b6f7ca3a27c",
+      "title": "Collect Mortgage Document Packet",
+      "text": "Assemble the financial packet for Elena and Robin Mossbutton's Fort Collins townhouse purchase mortgage (purchase price $690,000, expected mortgage balance about $310,000) using the advisory record, gathering recent brokerage, retirement, bank, and insurance statements requested by the townhouse lender before underwriting can finish. Send statements without full account numbers by email, per Elena's instruction.",
+      "priority": null,
+      "dueDate": "2025-06-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the townhouse lender asked for recent brokerage, retirement, bank, and insurance statements before underwriting can finish, and Elena wants the advisory record used to assemble the financial packet without sending full account numbers by email; the agreed follow-up is due 2025-06-30."
+    },
+    {
+      "templateId": "f4c9cebf-44bc-53c4-8301-3d3ac2e2e7cf",
+      "title": "Review insurance policies on a recurring cadence",
+      "text": "Every year, review each relevant insurance policy for coverage amount, premium status, ownership, beneficiary designations, cash value or loan activity if applicable, policy performance, and continued fit with the client's financial plan. Note any changes in family status, retirement income needs, estate planning goals, or tax considerations that may require carrier or attorney coordination. Compare Elena Mossbutton's Silver Marmot Insurance policies and provider list against the Fort Collins household setup, since the relocation changes the insured residence, vehicle garaging location, local medical network, and emergency contacts.",
+      "priority": "medium",
+      "dueDate": "2025-07-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elena wants her Silver Marmot Insurance policies and provider list compared against the Fort Collins household setup; the agreed follow-up is due 2025-07-25."
+    },
+    {
+      "templateId": "a9d3b8a3-fcdf-5a99-bb86-dc976b2554d7",
+      "title": "Complete beneficiary update checklist",
+      "text": "Use this checklist before submitting or recording beneficiary updates:\n\n- Confirm the account registration and account type requiring a beneficiary review.\n- Verify current primary and contingent beneficiaries on file.\n- Confirm full legal names, relationships, dates of birth if required, and allocation percentages.\n- Check that total primary percentages equal 100% and total contingent percentages equal 100% when applicable.\n- Identify whether spouse consent, trust documentation, or plan administrator approval is required.\n- Confirm whether IRA, retirement plan, transfer-on-death, insurance, or annuity rules apply.\n- Send the correct custodian or carrier form through the approved secure process.\n- Save confirmation of submission and final acceptance in the client record.\n- Note any estate planning follow-up needed with the client's attorney.\nConduct a consolidated review of Elena and Robin Mossbutton's household beneficiary records: the IRA at Velvet Acorn Custody, the taxable transfer-on-death note at Paper Otter Wealth, and the Silver Marmot Insurance life policy still reference the Oregon trust documents and Lara Thimblefern as successor contact, so coordinate attorney notes for the relocation.",
+      "priority": "high",
+      "dueDate": "2025-08-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed beneficiary and estate-document alignment work covers a consolidated review of household beneficiary records and attorney coordination notes by 2025-08-08."
+    }
+  ]
+}

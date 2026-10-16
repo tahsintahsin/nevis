@@ -1,0 +1,75 @@
+{
+  "meetingId": "865",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain Term Life Reinstatement Requirements",
+      "text": "Obtain the carrier's reinstatement requirements and identify any interim underwriting or replacement quote information needed for Serena Willowdoodle's term life policy, as the carrier portal no longer shows it as in force.",
+      "priority": null,
+      "dueDate": "2025-04-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-08 the follow-up is to obtain the carrier’s reinstatement requirements and identify any interim underwriting or replacement quote information needed if reinstatement is unavailable."
+    },
+    {
+      "templateId": "652157be-e8e6-5f89-b001-6e15103f7c88",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Collect the full benefits guide, rate sheet, beneficiary form, and long-term disability certificate from Amber Teapot Robotics for Serena Willowdoodle so the group life, disability, HSA, and beneficiary choices can be reviewed.",
+      "priority": "medium",
+      "dueDate": "2025-04-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-07 the follow-up is to collect those documents so the group life, disability, HSA, and beneficiary choices can be reviewed together."
+    },
+    {
+      "templateId": null,
+      "title": "Update Life and Disability Coverage Analysis",
+      "text": "Update the life and disability coverage analysis for Serena and Jonah Willowdoodle using current income, debt, savings, and college funding assumptions to reflect Serena's new compensation, Jonah's variable self-employment income, the coast cottage mortgage, and the children's remaining education years.",
+      "priority": null,
+      "dueDate": "2025-04-25",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-25 the follow-up is to update the life and disability coverage analysis using current income, debt, savings, and college funding assumptions."
+    },
+    {
+      "templateId": null,
+      "title": "Compare Home Auto Umbrella Coverage Quotes",
+      "text": "Compare current bundled coverage from Cloudberry Kite Insurance with at least one alternate quote for Serena and Jonah Willowdoodle while preserving liability limits appropriate for the primary residence, cottage, and teenage-driver planning horizon.",
+      "priority": null,
+      "dueDate": "2025-04-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-16 the follow-up is to compare current bundled coverage with at least one alternate quote while preserving liability limits appropriate for the primary residence, cottage, and teenage-driver planning horizon."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Insurance Beneficiary Records",
+      "text": "Reconcile the carrier records with the trust documents for Serena and Jonah Willowdoodle to resolve the inconsistency regarding contingent beneficiaries for the children's share before any new policy or renewal beneficiary forms are signed.",
+      "priority": null,
+      "dueDate": "2025-04-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-04-18 the follow-up is to reconcile the carrier records with the trust documents before any new policy or renewal beneficiary forms are signed."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh Retirement and Cash-Flow Projections",
+      "text": "Refresh the retirement and cash-flow projection for Serena and Jonah Willowdoodle after updated premium estimates are available, incorporating the higher coast cottage carrying cost and Serena's new benefit deductions.",
+      "priority": null,
+      "dueDate": "2025-05-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-05-09 the follow-up is to refresh the projection after updated premium estimates are available."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Insurance Inventory for Professionals",
+      "text": "Prepare a concise inventory of current policies, renewal contacts, owners, insureds, beneficiaries, premium amounts, and known gaps for Serena and Jonah Willowdoodle without full account or policy numbers to share with Tobin Mossbutton and Mira Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2025-05-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-05-16 the follow-up is to prepare a version without full account or policy numbers for email circulation."
+    }
+  ]
+}

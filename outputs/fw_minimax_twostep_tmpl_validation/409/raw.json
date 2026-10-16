@@ -1,0 +1,29 @@
+{
+ "config": "fw_minimax_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\"meetingId\": \"409\", \"followups\": [{\"evidence\": \"the agreed follow-up is to obtain those records by April 18, 2024\", \"action\": \"Obtain the Velvet Acorn consolidated tax form and charitable giving summary by April 18, 2024.\", \"templateId\": \"ca0beb64-4823-5deb-8d28-1f7a5f7d128e\"}, {\"evidence\": \"resolution of the custodian income variance is needed by April 24, 2024\", \"action\": \"Resolve the custodian income variance (IRS $14,860 vs. return worksheet $7,440 in ordinary dividends) by April 24, 2024.\", \"templateId\": null}, {\"evidence\": \"Anika authorized coordination with Beren and requested that only the notice, relevant tax forms, and account statements be sent through secure delivery by April 16, 2024\", \"action\": \"Send the IRS notice, relevant tax forms, and account statements to Beren via secure delivery by April 16, 2024.\", \"templateId\": null}]}",
+   "usage": {
+    "input_tokens": 2822,
+    "output_tokens": 1208,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1279
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\"meetingId\": \"409\", \"tickets\": [{\"title\": \"Collect Client Tax Documents\", \"text\": \"Request and organize current tax documents for planning review, including prior-year federal and state returns, W-2s, 1099s, K-1s, estimated tax payment records, charitable giving summaries, and any tax notices. Track missing items and route complete packet to the planning team. For Anika Pebblefizz's IRS notice review, obtain the Velvet Acorn Custody consolidated tax form and the charitable giving summary that her CPA Beren Nettlewhisk of Paper Otter Tax Services requested, so the $3,186 of proposed additional tax and interest tied to 2022 taxable investment income can be verified.\", \"priority\": \"medium\", \"dueDate\": \"2024-04-18\", \"assigneeId\": \"405a0bba-bb14-5076-904a-cb26172e4fcb\", \"subTasks\": [], \"templateId\": \"ca0beb64-4823-5deb-8d28-1f7a5f7d128e\", \"evidence\": \"the agreed follow-up is to obtain those records by April 18, 2024\"}, {\"title\": \"Resolve Velvet Acorn ordinary dividends variance\", \"text\": \"Resolve the ordinary dividends variance on Anika Pebblefizz's 2022 federal return: the IRS correspondence reports $14,860 of ordinary dividends from the Velvet Acorn Custody individual taxable account, while the return worksheet reviewed during the call shows $7,440 for the same income category. Coordinate with Beren Nettlewhisk of Paper Otter Tax Services to reconcile the figures and confirm the correct amount before April 24, 2024.\", \"priority\": null, \"dueDate\": \"2024-04-24\", \"assigneeId\": null, \"subTasks\": [], \"templateId\": null, \"evidence\": \"resolution of the custodian income variance is needed by April 24, 2024\"}, {\"title\": \"Send tax documents to Beren via secure delivery\", \"text\": \"Send Anika Pebblefizz's IRS notice, relevant tax forms, and account statements to Beren Nettlewhisk of Paper Otter Tax Services through secure delivery by April 16, 2024. Limit the package to the notice, relevant tax forms, and account statements only, as Anika authorized, and confirm receipt so the $3,186 proposed additional tax and interest can be reviewed.\", \"priority\": null, \"dueDate\": \"2024-04-16\", \"assigneeId\": null, \"subTasks\": [], \"templateId\": null, \"evidence\": \"Anika authorized coordination with Beren and requested that only the notice, relevant tax forms, and account statements be sent through secure delivery by April 16, 2024\"}]}",
+   "usage": {
+    "input_tokens": 586,
+    "output_tokens": 2109,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 4057
+   },
+   "stop": "stop"
+  }
+ ]
+}

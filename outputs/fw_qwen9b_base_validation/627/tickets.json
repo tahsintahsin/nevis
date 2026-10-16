@@ -1,0 +1,104 @@
+{
+  "meetingId": "627",
+  "tickets": [
+    {
+      "templateId": "b9bbc98a-1f36-58b9-822a-d05a22356a28",
+      "title": "Complete household profile update",
+      "text": "Update Daria Willowdoodle's household profile to reflect her monthly contribution to her mother, Patrice Dewspindle, who recently moved to assisted living, ensuring this support amount is included in retirement cash-flow assumptions.",
+      "priority": "medium",
+      "dueDate": "2024-04-03",
+      "assigneeId": "4c50b52d-b095-5034-aa4e-727cb24fa800",
+      "subTasks": [
+        {
+          "title": "Collect profile change information",
+          "text": "Request or compile updates for household members, addresses, contact preferences, employment, dependents, and major recent or expected life events.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "1616b784-b182-570a-93f0-464e57273315"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Revise income, savings, spending, retirement timing, education funding, and family support assumptions in the planning record as applicable.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4c50b52d-b095-5034-aa4e-727cb24fa800"
+        },
+        {
+          "title": "Identify advice impacts",
+          "text": "Flag changes that may affect tax planning, risk management, estate coordination, cash flow, or investment allocation recommendations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "77bba01f-a9ba-5af1-8070-be336e499218"
+        },
+        {
+          "title": "Confirm profile completion",
+          "text": "Review the updated profile for consistency and note any remaining open questions for the next client conversation.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "29e3bddf-1fa1-5d47-a1a5-65045f866fc7"
+        }
+      ],
+      "evidence": "The agreed follow-up is to incorporate this household profile and family support assumption by 2024-04-03."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare retirement income timing projections",
+      "text": "Prepare side-by-side cash flow projections for Daria Willowdoodle comparing her planned separation from Clockwork Clover Systems with working two additional quarters, including pension timing, Social Security delay assumptions, portfolio withdrawals, cash reserves, and estimated tax withholding.",
+      "priority": "medium",
+      "dueDate": "2024-03-29",
+      "assigneeId": "2d669abe-d92d-5d48-a594-9fd8b13bb51e",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare those projections by 2024-03-29."
+    },
+    {
+      "templateId": null,
+      "title": "Review Clockwork Clover Systems pension election",
+      "text": "Review the Clockwork Clover Systems pension packet options (single-life and joint-survivor) with Daria Willowdoodle to assist with her retirement transition election, as she has not yet selected an option.",
+      "priority": null,
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Further review of the pension benefit election is needed by 2024-08-30."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain retiree medical and HSA transition details",
+      "text": "Obtain the rate sheet, eligibility terms, and HSA transfer instructions for the possible employer retiree medical bridge described by Daria Willowdoodle, as these details were not available during the meeting.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Those retiree medical and HSA transition details are needed by 2024-04-05."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile 401(k) Roth source balance discrepancy",
+      "text": "Reconcile the 401(k) source balance for Daria Willowdoodle's Clockwork Clover Systems plan, resolving the difference between the plan statement showing a $214,000 Roth 401(k) source and the Velvet Acorn Custody feed showing no Roth source.",
+      "priority": "high",
+      "dueDate": "2024-03-22",
+      "assigneeId": "2d669abe-d92d-5d48-a594-9fd8b13bb51e",
+      "subTasks": [],
+      "evidence": "Reconciliation of the 401(k) source balance is needed by 2024-03-22."
+    },
+    {
+      "templateId": null,
+      "title": "Complete employer stock and RSU concentration analysis",
+      "text": "Complete the employer stock and RSU concentration analysis for Daria Willowdoodle, addressing the situation where Clockwork Clover Systems equity exceeds her stated single-stock comfort level when combining vested RSUs and company stock exposure.",
+      "priority": null,
+      "dueDate": "2024-04-12",
+      "assigneeId": "2d669abe-d92d-5d48-a594-9fd8b13bb51e",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete the employer stock and RSU concentration analysis by 2024-04-12."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn Custody beneficiary update error",
+      "text": "Address the failed beneficiary update for Daria Willowdoodle and Eli Willowdoodle's joint taxable account at Velvet Acorn Custody, which was rejected due to an Eli date-of-birth verification issue.",
+      "priority": null,
+      "dueDate": "2024-03-20",
+      "assigneeId": "83f5993f-b44b-5f86-aa22-fff29e3ffb47",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the beneficiary update service correction by 2024-03-20."
+    }
+  ]
+}

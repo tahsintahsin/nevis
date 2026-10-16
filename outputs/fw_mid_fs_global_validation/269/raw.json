@@ -1,0 +1,21 @@
+{
+ "config": "fw_mid_fs_global",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\"meetingId\": \"269\", \"tickets\": [{\"title\": \"Update planning records for self-employment transition and compare retirement plan choices\", \"text\": \"Update planning records for Arlen Nettlewhisk's shift to Pocket Lantern Studio self-employment and compare retirement plan choices using forecast net profit, no current employees, and Arlen's preferred contribution range.\", \"priority\": \"medium\", \"dueDate\": \"2024-06-21\", \"assigneeId\": null, \"templateId\": \"5d3934d9-cdd2-568e-b71d-880bf3b37545\", \"subTasks\": [], \"evidence\": \"For the business launch profile and retirement plan analysis, Arlen asked Apricot Compass Wealth Advisory to update planning records for his shift to Pocket Lantern Studio self-employment and compare retirement plan choices using forecast net profit, no current employees, and his preferred contribution range; the agreed follow-up is due 2024-06-21.\"}, {\"title\": \"Prepare cash-flow schedule for estimated tax coordination\", \"text\": \"Prepare a cash-flow schedule for setting aside taxes from irregular client retainers and coordinate with CPA Lila Juniperjingle before Arlen's next estimated tax payment.\", \"priority\": null, \"dueDate\": \"2024-06-10\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"For estimated tax coordination for uneven business receipts, Arlen requested a cash-flow schedule for setting aside taxes from irregular client retainers and permission-based coordination with CPA Lila Juniperjingle before his next estimated payment; the agreed follow-up is due 2024-06-10.\"}, {\"title\": \"Collect missing business account opening records\", \"text\": \"Obtain the Teacup Comet Bank signature card, first statement, and online balance export for the Pocket Lantern Studio business checking account from the secure portal.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"A follow-up is needed on missing business account opening records because the team could not review the Pocket Lantern Studio operating account without the Teacup Comet Bank signature card, first statement, and online balance export in the secure portal; no date was supplied.\"}, {\"title\": \"Reconcile income forecast discrepancy\", \"text\": \"Reconcile the difference between the call projection of $168,000 annual gross revenue and the Marzipan Meadow Bookkeeping worksheet showing $132,000, which excluded one signed retainer.\", \"priority\": null, \"dueDate\": null, \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"A follow-up is needed on the income forecast discrepancy because the call projection showed annual gross revenue of $168,000, while the Marzipan Meadow Bookkeeping worksheet showed $132,000 and excluded one signed retainer; no date was supplied.\"}, {\"title\": \"Follow up on duplicated portal transactions\", \"text\": \"Investigate and resolve duplicated transactions in the Apricot Compass Wealth Advisory portal after the Teacup Comet Bank connection changed from personal checking to business checking.\", \"priority\": null, \"dueDate\": \"2024-06-06\", \"assigneeId\": null, \"templateId\": null, \"subTasks\": [], \"evidence\": \"Arlen reported duplicated portal transactions after the Teacup Comet Bank connection changed from personal checking to business checking; the agreed follow-up is due 2024-06-06.\"}]}",
+   "usage": {
+    "input_tokens": 16839,
+    "output_tokens": 820,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  }
+ ]
+}

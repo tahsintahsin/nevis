@@ -1,0 +1,18 @@
+{
+ "config": "fw_large_reason_low",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"404\",\n\"tickets\": [\n{\n\"templateId\": \"d7b4bdf3-ad00-5206-9988-f8090aa6f2cf\",\n\"title\": \"Coordinate Divorce Planning Documents\",\n\"text\": \"Coordinate with attorney Corin Nettlewhisk and CPA Jules Thimblefern after written authorization to gather planning documents covering draft settlement terms, asset schedules, support estimates, retirement-account order questions, and current statements.\",\n\"priority\": \"high\",\n\"dueDate\": \"2026-07-17\",\n\"assigneeId\": null,\n\"subTasks\": [\n{\n\"title\": \"Confirm document scope and permissions\",\n\"text\": \"Identify which documents are needed, such as draft or final settlement terms, asset schedules, support obligations, retirement account orders, tax returns, and current statements. Confirm the client’s written permission before coordinating with an attorney, CPA, or mediator.\",\n\"priority\": \"high\",\n\"dueDate\": null,\n\"assigneeId\": \"566065b0-a2b0-53ae-ab9b-e451b9b96dd5\"\n},\n{\n\"title\": \"Create secure collection folder\",\n\"text\": \"Set up a secure upload location, list missing items, and label received documents by category. Do not request or store unnecessary sensitive documents beyond the planning scope.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": \"405a0bba-bb14-5076-904a-cb26172e4fcb\"\n},\n{\n\"title\": \"Prepare planning summary for advisor review\",\n\"text\": \"Summarize available assets, liabilities, income obligations, beneficiary concerns, account titling issues, and open questions for the advisor. Flag any urgent implementation constraints without providing legal conclusions.\",\n\"priority\": \"medium\",\n\"dueDate\": null,\n\"assigneeId\": \"9268210f-ef66-5a4b-88ad-788a4cfe5d2d\"\n}\n],\n\"evidence\": \"They agreed by 2026-07-17 to coordinate with attorney Corin Nettlewhisk and CPA Jules Thimblefern after written authorization, with a planning packet covering draft settlement terms, asset schedules, support estimates, retirement-account order questions, and current statements.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Obtain cash-flow and basis documents\",\n\"text\": \"Obtain the most recent joint tax return, the latest property tax bill, and the current Teacup Comet Bank mortgage payoff statement for Nadia Pebblefizz to complete the cash-flow and basis review.\",\n\"priority\": null,\n\"dueDate\": \"2026-07-15\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"For the cash-flow and basis review, the most recent joint return, latest property tax bill, and current Teacup Comet Bank mortgage payoff are still needed by 2026-07-15, though current brokerage statements and pay stubs are in the secure folder.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Check forms against temporary restrictions\",\n\"text\": \"Review the settlement and retirement account forms against attorney Corin Nettlewhisk’s temporary restrictions before submitting any beneficiary change for Nadia Pebblefizz.\",\n\"priority\": null,\n\"dueDate\": \"2026-07-24\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up by 2026-07-24 is to check forms against Corin’s temporary restrictions before any beneficiary change is submitted.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 5332,
+    "output_tokens": 1471,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 65
+   },
+   "stop": "stop"
+  }
+ ]
+}

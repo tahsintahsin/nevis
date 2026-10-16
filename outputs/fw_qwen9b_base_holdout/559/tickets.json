@@ -1,0 +1,35 @@
+{
+  "meetingId": "559",
+  "tickets": [
+    {
+      "templateId": "13da0c8e-66fc-5a77-a481-4fcfe337d3ff",
+      "title": "Coordinate divorce-related financial documents",
+      "text": "Assemble the requested account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports for Mira Quillwhistle to deliver to her attorney, Dana Wrenpuddle of Paper Otter Legal, as several items were missing from the secure folder.",
+      "priority": "high",
+      "dueDate": "2024-12-06",
+      "assigneeId": "78c72d9a-42b1-5f04-988f-6d410a5f1f57",
+      "subTasks": [],
+      "evidence": "Mira asked for Dana’s requested account statements, tax returns, pay stubs, benefit statements, insurance pages, mortgage records, and equity compensation reports to be assembled because several items were not yet in the secure folder; the agreed follow-up is due 2024-12-06."
+    },
+    {
+      "templateId": null,
+      "title": "Create inventory of assets, liabilities, and payments for Mira Quillwhistle",
+      "text": "Create an inventory distinguishing Mira Quillwhistle's individual accounts, Simon Quillwhistle's known separate accounts, joint property, joint liabilities, beneficiary designations, and recurring household payments so ownership changes can be discussed with counsel before transfers occur.",
+      "priority": "high",
+      "dueDate": "2024-12-13",
+      "assigneeId": "447e6d1a-1dba-59e0-ae92-d44d00519d6f",
+      "subTasks": [],
+      "evidence": "Mira requested an inventory distinguishing her individual accounts, Simon’s known separate accounts, joint property, joint liabilities, beneficiary designations, and recurring household payments so ownership changes can be discussed with counsel before transfers occur; the agreed follow-up is due 20"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Cloudberry Kite Systems equity vesting totals for legal review",
+      "text": "Reconcile the differing Cloudberry Kite Systems vesting totals between the equity portal and counsel's spreadsheet by reviewing grants, vested shares, unvested shares, withholding, and sale history for Mira Quillwhistle.",
+      "priority": "high",
+      "dueDate": "2024-12-10",
+      "assigneeId": "ebf0ccb7-9890-5e67-b290-ce06011799f4",
+      "subTasks": [],
+      "evidence": "Lena identified differing Cloudberry Kite Systems vesting totals between the equity portal and counsel’s spreadsheet; the agreed follow-up is to reconcile grants, vested shares, unvested shares, withholding, and sale history for legal review, due 2024-12-10."
+    }
+  ]
+}

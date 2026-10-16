@@ -1,0 +1,133 @@
+{
+  "meetingId": "472",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update household contact and delivery preferences across providers",
+      "text": "Update the household mailing address, tax-residence note, and electronic delivery preferences for Alina and Theo Wrenpuddle across the advisory profile, Velvet Acorn Custody accounts, the Moonbadger Robotics retirement plan contact record, and Silver Marmot Life policy records because mail is still routing through the former Portland address.",
+      "priority": null,
+      "dueDate": "2025-08-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-08-26 the household mailing address, tax-residence note, and electronic delivery preferences should be updated across the advisory profile, Velvet Acorn Custody accounts, the Moonbadger Robotics retirement plan contact record, and Silver Marmot Life policy records because ma"
+    },
+    {
+      "templateId": "c6fa8f8f-5036-5799-93bb-9e25eb38dc12",
+      "title": "Document account security follow-up",
+      "text": "Client name: Alina Wrenpuddle\nHousehold or entity: Alina and Theo Wrenpuddle household\nReported concern or alert: Two mailed notices returned to sender after address forwarding; missing taxable-account trade confirmation email expected through electronic delivery\nDate concern was reported: 2025-08-19\nAccounts or platforms involved: Velvet Acorn Custody (taxable brokerage and rollover IRA)\nClient contact method used for verification: Video meeting\nIdentity verification steps completed: [STEPS]\nImmediate restrictions or holds requested: [YES / NO / DETAILS]\nPassword, MFA, or login guidance provided: [DETAILS]\nCustodian or platform case reference: [REFERENCE IF AVAILABLE]\nFollow-up needed from client: [ITEMS]\nFollow-up needed from Pocket Lantern Advisory: [ITEMS]\nResolution status: OPEN\nNotes for compliance file: [NOTES]",
+      "priority": "high",
+      "dueDate": "2025-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They also agreed that by 2025-08-22 the Velvet Acorn Custody mail and notification problem should be addressed, after two mailed notices were returned to sender following address forwarding and Alina reported not receiving a taxable-account trade confirmation email expected through electronic delive"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate relocation tax-residency planning",
+      "text": "Coordinate tax-residency planning for Alina and Theo Wrenpuddle's move from Portland, Oregon, to Boulder, Colorado, covering part-year Oregon and Colorado filing facts, payroll withholding questions for Alina's Moonbadger Robotics wages, RSU sourcing questions, and estimated payment considerations for Theo's Willow Pudding Studio freelance income.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed that by 2025-09-12 relocation tax-residency coordination should address part-year Oregon and Colorado filing facts, payroll withholding questions for Alina’s Moonbadger Robotics wages, RSU sourcing questions, and estimated payment considerations for Theo’s freelance income."
+    },
+    {
+      "templateId": "71eec55c-f686-508e-ba44-bc8e4b4a4636",
+      "title": "Request mortgage documents",
+      "text": "Subject: Mortgage document request for planning review\n\nHello Alina Wrenpuddle,\n\nWe are updating the planning file for Alina and Theo Wrenpuddle and would appreciate copies of the mortgage materials listed below, if available:\n- Most recent mortgage statement\n- Current interest rate, payment amount, escrow amount, and maturity information\n- Loan estimate or closing disclosure, if this is a new or pending mortgage\n- Refinance proposal or payoff quote, if applicable\n- Property tax and homeowners insurance details, if not shown on the statement\n\nPlease upload documents through [SECURE UPLOAD METHOD] or let us know the best secure delivery method. If any item is unavailable, a brief note with the current figures is still helpful.\n\nThank you,\n[TEAM MEMBER NAME]\nPocket Lantern Advisory\n\nSpecifically, please provide the Boulder closing disclosure, the first full mortgage statement for the new home (Cloudberry Kite Mortgage, $740,000 at 6.125% with $4,995 monthly payment), and a current statement for the Portland condo after its conversion to rental use.",
+      "priority": "medium",
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-08-29, the agreed follow-up is to collect the Boulder closing disclosure, the first full mortgage statement for the new home, and a current statement for the Portland condo after its conversion to rental use, because those items are missing from the planning file."
+    },
+    {
+      "templateId": "f1cbbff2-b92c-56b4-9747-6f2204454950",
+      "title": "Moonbadger Benefits Enrollment Starter",
+      "text": "Review Alina Wrenpuddle's benefits enrollment after the household's relocation from Portland, Oregon, to Boulder, Colorado, covering the Moonbadger Robotics employer portal's relocation special enrollment window for health coverage, HSA eligibility, disability elections, and dependent coverage for son Milo Wrenpuddle.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-09-05, the agreed benefits enrollment review after the state change should cover the employer portal’s relocation special enrollment window for health coverage, HSA eligibility, disability elections, and dependent coverage."
+    },
+    {
+      "templateId": "66457651-ce36-5892-a226-cc73458e0897",
+      "title": "Complete beneficiary update workflow",
+      "text": "Review the Wrenpuddle household's current beneficiary designations, identify requested changes, prepare the correct custodian or carrier forms, and confirm the updates are recorded consistently with the client's estate planning intent. The review screen showed Alina's $1.18 million rollover IRA at Velvet Acorn Custody naming Theo as primary beneficiary, while the Moonbadger Robotics 401(k) ($410,000 balance) lists the Oregon revocable trust as primary with no contingent beneficiaries; Alina expects Theo to be primary and the trust to be contingent on retirement accounts.",
+      "priority": "high",
+      "dueDate": "2025-09-19",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect current beneficiary records",
+          "text": "Gather existing beneficiary confirmations, account registrations, insurance beneficiary pages, and any relevant estate planning notes for comparison.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c50b76cf-15a2-574e-bcc1-16e87f0f226d"
+        },
+        {
+          "title": "Review alignment with estate plan",
+          "text": "Check whether proposed beneficiary changes align with known estate documents, trust provisions, and legacy planning goals. Escalate any ambiguity before forms are sent.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "2dfb0acf-e393-53d2-9424-f8e8e4baf6b5"
+        },
+        {
+          "title": "Prepare and route update forms",
+          "text": "Prepare the required custodian or carrier forms, note signature and witness requirements, and send them for client completion using approved communication channels.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c50b76cf-15a2-574e-bcc1-16e87f0f226d"
+        },
+        {
+          "title": "Confirm processing and archive evidence",
+          "text": "Verify the custodian or carrier accepted the changes, save confirmation records, and update the planning file with the effective status.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "abadd5f4-bacc-5314-a4c6-0a02d4f113c5"
+        }
+      ],
+      "evidence": "They agreed that by 2025-09-19 beneficiary alignment across retirement records should be reviewed because a review screen showed Alina’s rollover IRA naming Theo as primary beneficiary, while the Moonbadger Robotics 401(k) lists the Oregon revocable trust as primary and no contingent beneficiaries; "
+    },
+    {
+      "templateId": "a0deb3f0-218c-5acc-a3f0-ef57e7cd7967",
+      "title": "Coordinate financial plan review",
+      "text": "Prepare the plan review by dividing data gathering, analysis, advisor review, and client-ready deliverables among the planning team. Confirm that assumptions, evidence, and recommendations are internally consistent before presentation. Update the Wrenpuddle household's post-move financial plan assumptions: the current planning model still reflects Oregon housing costs, a condo sale assumption, and pre-move cash-flow estimates rather than the Boulder mortgage ($740,000 at 6.125% with $4,995 monthly payment through Cloudberry Kite Mortgage), expected rental income from the Portland condo ($2,650 per month before property management fees), and new school-related expenses for son Milo entering middle school in Boulder.",
+      "priority": "high",
+      "dueDate": "2025-10-10",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Refresh planning inputs",
+          "text": "Collect updated income, spending, assets, liabilities, insurance, tax, estate, and goal information. Flag missing or stale items for advisor review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "c2005835-b573-53b4-8f46-7d65488e340c"
+        },
+        {
+          "title": "Analyze investment and tax-aware planning items",
+          "text": "Review portfolio allocation, tax location, realized gain considerations, charitable strategies, and retirement income implications relevant to the plan update.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "c7083c2e-9e8a-5e7e-9418-be1aae4aa949"
+        },
+        {
+          "title": "Check estate and legacy coordination points",
+          "text": "Review beneficiary alignment, titling concerns, trust references, and any attorney coordination items that may affect plan recommendations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "2dfb0acf-e393-53d2-9424-f8e8e4baf6b5"
+        },
+        {
+          "title": "Finalize advisor review packet",
+          "text": "Compile the summary, open questions, recommendation list, and evidence references for lead advisor review before client delivery.",
+          "priority": "high",
+          "dueDate": null,
+          "assigneeId": "52559f9c-6190-592c-897e-be5ce10e21f3"
+        }
+      ],
+      "evidence": "They also agreed that by 2025-10-10 the post-move financial plan assumptions should be updated because the current planning model still reflects Oregon housing costs, a condo sale assumption, and pre-move cash-flow estimates rather than the Boulder mortgage, expected rental income, and new school-re"
+    }
+  ]
+}

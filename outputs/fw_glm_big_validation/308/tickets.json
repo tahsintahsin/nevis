@@ -1,0 +1,55 @@
+{
+  "meetingId": "308",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare life insurance coverage analysis for Mossbutton household",
+      "text": "Prepare a life insurance coverage analysis for Alina and Derek Mossbutton reflecting Nora Mossbutton's adoption, Derek's reduced household income during his unpaid leave from Velvet Acorn Pediatrics, the $412,000 remaining mortgage balance, and current coverage: Alina's employer group life at one times her $156,000 salary and Derek's $250,000 term policy with Moonbadger Life through 2041.",
+      "priority": null,
+      "dueDate": "2026-03-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to prepare life insurance coverage analysis by 2026-03-09 reflecting Nora’s adoption, Derek’s reduced household income during leave, the mortgage balance, and current group and term policies."
+    },
+    {
+      "templateId": null,
+      "title": "Create childcare and education funding tradeoff view",
+      "text": "Create one view of childcare and education funding tradeoffs for Alina and Derek Mossbutton, because the $2,150 per month daycare quote and the desired college savings contribution would draw from the same monthly surplus. Show reserve impact, dependent-care reimbursements, and possible education account funding levels.",
+      "priority": null,
+      "dueDate": "2026-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2026-03-12 to create one view of childcare and education funding tradeoffs because the daycare quote and desired college savings contribution would draw from the same monthly surplus, showing reserve impact, dependent-care reimbursements, and possible education account funding levels."
+    },
+    {
+      "templateId": null,
+      "title": "Update estate documents and beneficiaries for Nora",
+      "text": "Update the Mossbutton household's estate planning records, which currently hold pre-child 2019 documents naming each other as primary agents with Leona Bramblequill as backup agent, to add a guardian nomination, testamentary trust language, and beneficiary designations with provisions for Nora Mossbutton.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is needed because the file has pre-child estate documents and account beneficiaries but no guardian nomination, testamentary trust language, or beneficiary designations with provisions for Nora."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain adoption decree, birth certificate, and SSN for vault",
+      "text": "Obtain for the client vault the final adoption decree (adoption finalized 2026-02-12), the amended birth certificate, and Nora Mossbutton's Social Security number, which are needed to verify beneficiary and education account paperwork.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Follow-up is also needed because the vault lacks the final adoption decree, amended birth certificate, or Social Security number needed to verify beneficiary and education account paperwork."
+    },
+    {
+      "templateId": null,
+      "title": "Address dependent-care enrollment timing before portal window closes",
+      "text": "Address dependent-care enrollment timing for Alina and Derek Mossbutton because Derek's employer portal at Velvet Acorn Pediatrics shows a benefits enrollment window closing soon, and Alina was unsure which parent's dependent-care arrangement should be used given the expected daycare start and leave transition.",
+      "priority": null,
+      "dueDate": "2026-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2026-02-27 to address dependent-care enrollment timing because Derek’s employer portal shows a benefits enrollment window closing soon, and Alina was unsure which parent’s dependent-care arrangement should be used given the expected daycare start and leave transition."
+    }
+  ]
+}

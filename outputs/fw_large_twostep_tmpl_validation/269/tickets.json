@@ -1,0 +1,97 @@
+{
+  "meetingId": "269",
+  "tickets": [
+    {
+      "templateId": "32d114ba-8f40-54cb-953d-781d5ca26c93",
+      "title": "Complete household profile update",
+      "text": "Refresh the household profile using the latest information provided by Arlen Nettlewhisk. Confirm household members, employment status, dependents, key contacts, income sources, recurring obligations, benefits, risk preferences, and communication preferences. Note any planning implications that should be routed to the advisory team. Update the profile to reflect Arlen Nettlewhisk’s transition from his W‑2 role at Silver Marmot Analytics to self‑employment with Pocket Lantern Studio, including the $12,000 monthly retainer contract beginning July 2024 and the new business checking account at Teacup Comet Bank.",
+      "priority": "medium",
+      "dueDate": "2024-06-21",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect household changes",
+          "text": "Request updates for household members, employment, dependents, contact information, outside advisors, and major life changes since the prior profile review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "ef41105d-921f-5052-8549-4d1a0f81fa3f"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Record changes to income, savings, spending, insurance coverage, benefits, goals, and risk tolerance in the planning record.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4cbe713b-b420-5401-9de5-20d1f947c70e"
+        },
+        {
+          "title": "Advisor review of planning impacts",
+          "text": "Review the updated household profile for retirement income, tax-aware investment, equity compensation, or estate coordination implications that warrant follow-up.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "368cf34f-7766-520c-b44f-afbfa66af4ab"
+        }
+      ],
+      "evidence": "For the business launch profile and retirement plan analysis, Arlen asked Apricot Compass Wealth Advisory to update planning records for his shift to Pocket Lantern Studio self-employment and compare retirement plan choices using forecast net profit, no current employees, and his preferred contribut"
+    },
+    {
+      "templateId": "0196e408-433b-57f1-a890-141454e7e214",
+      "title": "Run recurring self-employed plan setup check",
+      "text": "On a recurring annual planning cadence, review Arlen Nettlewhisk and business‑owner prospects for retirement plan setup or redesign opportunities. Check business income pattern, employee status, desired contribution level, payroll or bookkeeping readiness, plan type fit, funding capacity, and coordination needs with CPA Lila Juniperjingle. Use a relative cadence only; set specific timing when the task is created for a household. For Arlen Nettlewhisk, evaluate retirement plan options based on the projected net profit from Pocket Lantern Studio and his preferred contribution range, coordinating with CPA Lila Juniperjingle as needed.",
+      "priority": "medium",
+      "dueDate": "2024-06-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the business launch profile and retirement plan analysis, Arlen asked Apricot Compass Wealth Advisory to update planning records for his shift to Pocket Lantern Studio self-employment and compare retirement plan choices using forecast net profit, no current employees, and his preferred contribut"
+    },
+    {
+      "templateId": null,
+      "title": "Prepare cash‑flow schedule for tax set‑aside",
+      "text": "Prepare a cash‑flow schedule to set aside taxes from Arlen Nettlewhisk’s irregular client retainers. Include monthly allocations based on the $12,000 Pocket Lantern Studio retainer and coordinate with CPA Lila Juniperjingle prior to the upcoming estimated tax payment.",
+      "priority": null,
+      "dueDate": "2024-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For estimated tax coordination for uneven business receipts, Arlen requested a cash-flow schedule for setting aside taxes from irregular client retainers and permission-based coordination with CPA Lila Juniperjingle before his next estimated payment; the agreed follow-up is due 2024-06-10."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate with CPA Lila Juniperjingle",
+      "text": "Coordinate with CPA Lila Juniperjingle to plan Arlen Nettlewhisk’s upcoming estimated tax payment. Obtain her review of the cash‑flow schedule and confirm timing for tax‑withholding allocations before the due date.",
+      "priority": null,
+      "dueDate": "2024-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For estimated tax coordination for uneven business receipts, Arlen requested a cash-flow schedule for setting aside taxes from irregular client retainers and permission-based coordination with CPA Lila Juniperjingle before his next estimated payment; the agreed follow-up is due 2024-06-10."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain missing business account records",
+      "text": "Obtain the missing business account opening records for Pocket Lantern Studio, including the Teacup Comet Bank signature card, the first statement, and an online balance export for upload to the secure portal for Arlen Nettlewhisk.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A follow-up is needed on missing business account opening records because the team could not review the Pocket Lantern Studio operating account without the Teacup Comet Bank signature card, first statement, and online balance export in the secure portal; no date was supplied."
+    },
+    {
+      "templateId": null,
+      "title": "Investigate income forecast discrepancy",
+      "text": "Investigate the income forecast discrepancy for Arlen Nettlewhisk’s Pocket Lantern Studio, comparing the call projection of $168,000 annual gross revenue with the Marzipan Meadow Bookkeeping worksheet showing $132,000 and missing the signed retainer.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "A follow-up is needed on the income forecast discrepancy because the call projection showed annual gross revenue of $168,000, while the Marzipan Meadow Bookkeeping worksheet showed $132,000 and excluded one signed retainer; no date was supplied."
+    },
+    {
+      "templateId": null,
+      "title": "Review duplicated portal transactions",
+      "text": "Review and resolve the duplicated portal transactions that occurred after changing the Teacup Comet Bank connection from personal checking to the Pocket Lantern Studio business checking account for Arlen Nettlewhisk.",
+      "priority": null,
+      "dueDate": "2024-06-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Arlen reported duplicated portal transactions after the Teacup Comet Bank connection changed from personal checking to business checking; the agreed follow-up is due 2024-06-06."
+    }
+  ]
+}

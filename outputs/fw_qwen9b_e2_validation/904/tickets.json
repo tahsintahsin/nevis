@@ -1,0 +1,35 @@
+{
+  "meetingId": "904",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete inherited account beneficiary package",
+      "text": "Complete the beneficiary package for Elian Thimblefern’s inherited IRA and taxable brokerage account at Velvet Acorn Custody. The completed paperwork is needed for the estate’s next transfer batch.",
+      "priority": null,
+      "dueDate": "2024-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Velvet Acorn Custody sent beneficiary claim packets for the inherited IRA and taxable account, and Nessa indicated completed paperwork is needed for the estate’s next transfer batch; the agreed follow-up is to complete the inherited account beneficiary package by 2024-02-09."
+    },
+    {
+      "templateId": "b69561c0-d94b-5366-9da1-17d83160108e",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Review Elian Thimblefern’s financial plan for current assumptions, retirement income projections, investment allocation alignment, tax-aware planning opportunities, and open action items. Account for the expected inherited taxable assets, inherited IRA, and lake cabin interest, which would materially change retirement timing assumptions, cash reserve position, tax picture, and investment allocation. Confirm whether new facts require updated recommendations or a follow-up meeting agenda.",
+      "priority": "medium",
+      "dueDate": "2024-02-23",
+      "assigneeId": "2ca7893e-43b2-59f5-aea6-48ca520deb27",
+      "subTasks": [],
+      "evidence": "Mira’s review noted that expected taxable assets, inherited IRA, and cabin interest would materially change Elian’s retirement timing assumptions, cash reserve position, tax picture, and investment allocation; the agreed post-inheritance plan refresh is due 2024-02-23."
+    },
+    {
+      "templateId": null,
+      "title": "Review Elian Thimblefern’s estate arrangement after family changes",
+      "text": "Review Elian Thimblefern’s estate documents signed in 2012, which name late spouse Corin Mossbutton as primary health-care agent and personal representative. Address the continued naming of Corin in primary fiduciary roles and the new property and beneficiary coordination questions arising from the inherited assets.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elian’s estate documents were signed in 2012 and name late spouse Corin Mossbutton as primary health-care agent and personal representative; because those documents still name Corin in primary fiduciary roles and the inherited assets add new property and beneficiary coordination questions, the agree"
+    }
+  ]
+}

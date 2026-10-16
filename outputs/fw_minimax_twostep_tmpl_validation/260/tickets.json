@@ -1,0 +1,62 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Reset portal credentials and strengthen MFA for Jared Wrenpuddle",
+      "text": "Perform an approved-channel clean credential reset, session review, and stronger MFA setup for Jared Wrenpuddle's portal access on his Velvet Acorn Custody Roth IRA. Address the repeated lockouts following the uninitiated password-reset email and confirm secure access before 2024-03-18.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Reset portal credentials",
+          "text": "Perform an approved-channel clean credential reset for Jared Wrenpuddle's portal access on his Velvet Acorn Custody Roth IRA to address the uninitiated password-reset email.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review active sessions",
+          "text": "Review active sessions on Jared Wrenpuddle's portal account and terminate any unrecognized sessions.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Strengthen MFA setup",
+          "text": "Configure stronger MFA methods for Jared Wrenpuddle's portal access to prevent future lockouts.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18."
+    },
+    {
+      "templateId": null,
+      "title": "Review pending Teacup Comet Bank link and profile changes",
+      "text": "Review the pending Teacup Comet Bank link, associated transfer instructions, and profile changes for Jared and Ava Wrenpuddle's household. Jared reported no relationship with Teacup Comet Bank, so confirm whether the link is unauthorized and take protective action before 2024-03-19.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Review Teacup Comet Bank link",
+          "text": "Investigate the pending Teacup Comet Bank link on Jared and Ava Wrenpuddle's household accounts and confirm whether it is authorized.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Review transfer instructions and profile changes",
+          "text": "Review any associated transfer instructions and profile changes linked to the Teacup Comet Bank reference for the Wrenpuddle household.",
+          "priority": null,
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "associated transfer-instruction/profile-change review was agreed for 2024-03-19."
+    }
+  ]
+}

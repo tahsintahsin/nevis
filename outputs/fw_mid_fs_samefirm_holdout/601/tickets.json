@@ -1,0 +1,35 @@
+{
+  "meetingId": "601",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Update household profile and route new address/residency",
+      "text": "Update Nolan and Lena Pebblefizz’s household profile with the new Mesa, Arizona address and route updated information to Velvet Acorn Custody, Paper Otter Insurance, and the CPA. Several statements still show Oregon.",
+      "priority": null,
+      "dueDate": "2025-03-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-03-10, they agreed to update the profile and route new address/residency to Velvet Acorn Custody, Paper Otter Insurance, and the CPA because several statements still show Oregon."
+    },
+    {
+      "templateId": "7a01cf30-e455-55f4-92f2-f4ca51e7fee1",
+      "title": "Review mortgage document collection needs",
+      "text": "Complete the post-closing mortgage and insurance file for the Mesa home purchase. The file currently contains the purchase contract and estimated closing figures but lacks the final closing disclosure, current mortgage statement, and insurance declaration page.",
+      "priority": "medium",
+      "dueDate": "2025-03-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-03-17, they agreed to complete the post-closing mortgage and insurance file; it contains the purchase contract and estimated closing figures but lacks the final closing disclosure, current mortgage statement, and insurance declaration page."
+    },
+    {
+      "templateId": null,
+      "title": "Address payroll withholding evidence discrepancy",
+      "text": "Address the payroll withholding evidence discrepancy: Nolan’s Moonbadger Analytics paystub showed Oregon withholding while the HR portal showed Arizona mailing/work location.",
+      "priority": null,
+      "dueDate": "2025-03-21",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "By 2025-03-21, they agreed to address payroll withholding evidence: Nolan’s Moonbadger Analytics paystub showed Oregon withholding while HR portal showed Arizona mailing/work location."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "meetingId": "806",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Complete one-time IRA withdrawal for home accessibility remodel deposit",
+      "text": "Complete a one-time gross distribution of $38,000 from Dorian Pebblefizz’s traditional IRA at Velvet Acorn Custody and send it to Teacup Comet Bank checking for the first contractor deposit on the home accessibility remodel.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian asked for a $38,000 gross distribution from the traditional IRA at Velvet Acorn Custody to be sent to Teacup Comet Bank checking for the first contractor deposit, and they agreed to complete the one-time IRA withdrawal by 2025-08-15."
+    },
+    {
+      "templateId": null,
+      "title": "Adjust recurring IRA cash flow and withholding assumptions",
+      "text": "Increase the regular gross monthly IRA distribution from $4,000 to $6,500 and document the revised bank destination and withholding assumptions before the next payment cycle.",
+      "priority": null,
+      "dueDate": "2025-08-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian also asked to raise the regular IRA cash flow from $4,000 gross per month to $6,500 gross per month and to document the revised bank destination and withholding assumptions before the next payment cycle; they agreed to complete the recurring IRA distribution adjustment by 2025-08-20."
+    },
+    {
+      "templateId": null,
+      "title": "Update advisory records for new Nevada residency",
+      "text": "Update advisory records, mailing information, meeting location notes, and retirement distribution withholding assumptions using the new Henderson, Nevada residency facts Dorian provided.",
+      "priority": null,
+      "dueDate": "2025-08-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The move from Oregon to Nevada requires advisory records, mailing information, meeting location notes, and retirement distribution withholding assumptions to be updated using the new residency facts Dorian provided, and they agreed to complete those updates by 2025-08-22."
+    },
+    {
+      "templateId": null,
+      "title": "Address Oregon state withholding discrepancy on IRA payments",
+      "text": "Correct the custodian record to remove Oregon state withholding on recurring IRA distributions, since Dorian’s primary residence is now Henderson, Nevada and he does not expect Oregon withholding on future payments.",
+      "priority": null,
+      "dueDate": "2025-08-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The custodian record still shows Oregon state withholding on the recurring IRA distribution even though Dorian described the Henderson home as the current primary residence and did not expect Oregon withholding on future payments; they agreed to address the Oregon withholding discrepancy on IRA paym"
+    },
+    {
+      "templateId": null,
+      "title": "Check payment timing and bank instruction history",
+      "text": "Check the payment timing and bank instruction history for the IRA ACH deposit that reached Teacup Comet Bank later than expected, which caused Dorian to manually move money from savings to cover household bills.",
+      "priority": null,
+      "dueDate": "2025-08-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian reported that a recent IRA ACH deposit reached Teacup Comet Bank later than expected and caused him to move money manually from savings to cover household bills. They agreed that the payment timing and bank instruction history need to be checked by 2025-08-18."
+    },
+    {
+      "templateId": null,
+      "title": "Complete distribution and tax planning deadline review",
+      "text": "Complete a year-end cash flow and withholding review with Tobin Mossbutton using the household’s higher IRA withdrawals, possible Portland sale proceeds, and Elena’s wages as inputs for final estimated tax planning.",
+      "priority": null,
+      "dueDate": "2025-11-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The household’s higher IRA withdrawals, possible Portland sale proceeds, and Elena’s wages were identified as inputs for a year-end cash flow and withholding review with Tobin Mossbutton before final estimated tax planning, and they agreed to complete the distribution and tax planning deadline revie"
+    },
+    {
+      "templateId": null,
+      "title": "Collect current estate documents for recordkeeping and planning review",
+      "text": "Collect current wills, powers of attorney, trust amendment pages if applicable, and beneficiary confirmations for Dorian and Elena Pebblefizz, since only older estate papers are available in the advisory file.",
+      "priority": null,
+      "dueDate": "2025-09-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian keeps copies of the 2018 wills and powers of attorney but does not have current beneficiary confirmations or the most recent trust amendment in the advisory document vault. Because only older estate papers are available in the advisory file, they agreed that current wills, powers of attorney,"
+    },
+    {
+      "templateId": null,
+      "title": "Compare cash-raising plan options without assuming employer stock as first source",
+      "text": "Compare IRA distributions, taxable cash, and selective sales as funding sources for the home remodel and other cash needs, without assuming the Paper Otter Components employer stock position is the first source, and review the plan by 2025-09-12.",
+      "priority": null,
+      "dueDate": "2025-09-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Dorian prefers to avoid selling the Paper Otter Components shares quickly unless tax impact and concentration risk are reviewed together. Mira’s review noted a large Paper Otter Components position in the joint taxable account, so they agreed that the cash-raising plan should compare IRA distributio"
+    }
+  ]
+}

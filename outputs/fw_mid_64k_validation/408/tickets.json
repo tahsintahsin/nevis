@@ -1,0 +1,85 @@
+{
+  "meetingId": "408",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Refinance Comparison",
+      "text": "Prepare a side-by-side comparison of keeping the adjustable mortgage after the reset, using the fixed-rate refinance quote, and combining or leaving the HELOC separate, including payment estimates, closing costs, and cash reserve impact for Liora and Jonah Nettlewhisk.",
+      "priority": "high",
+      "dueDate": "2025-01-24",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that comparison by 2025-01-24."
+    },
+    {
+      "templateId": null,
+      "title": "Collect Lender Document Packet",
+      "text": "Collect the lender document packet for Liora and Jonah Nettlewhisk, including current pay stub, Jonah's year-to-date profit-and-loss statement, the most recent business bank statement, and a complete prior-year tax return packet for the Silver Marmot Mortgage refinance file.",
+      "priority": "high",
+      "dueDate": "2025-01-28",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "That document packet remains an unresolved issue needing follow-up by 2025-01-28"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile Mortgage Payoff Balance Discrepancy",
+      "text": "Reconcile the mortgage payoff balance discrepancy for Liora and Jonah Nettlewhisk: portal shows $642,000 principal balance, loan officer worksheet uses $655,800; difference affects loan-to-value and cash-to-close estimates.",
+      "priority": "high",
+      "dueDate": "2025-01-23",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "Follow-up is needed by 2025-01-23"
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Bank Statement Access",
+      "text": "Obtain recent Teacup Comet Bank HELOC and checking statements for Liora and Jonah Nettlewhisk, as two-factor prompts were sent to Jonah's old phone number, leaving exports unavailable for lender review.",
+      "priority": "high",
+      "dueDate": "2025-01-27",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "That access issue remains unresolved and needs follow-up by 2025-01-27"
+    },
+    {
+      "templateId": null,
+      "title": "Complete Cash-Flow Stress Test",
+      "text": "Complete cash-flow stress test for debt repayment modeling for Liora and Jonah Nettlewhisk, including reset payment, HELOC interest, credit card payoff target, Eleni's school costs, and Hazel's possible voluntary support amount against monthly income and spending.",
+      "priority": "high",
+      "dueDate": "2025-01-31",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that modeling by 2025-01-31"
+    },
+    {
+      "templateId": null,
+      "title": "Compare Concentrated Stock and Debt Payoff Options",
+      "text": "Compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction for Liora and Jonah Nettlewhisk, addressing the Clockwork Clover Systems stock position large relative to the joint account with low basis.",
+      "priority": "high",
+      "dueDate": "2025-02-03",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to compare partial sale, staged sale, pledged-asset alternatives, and no-sale options for debt reduction by 2025-02-03"
+    },
+    {
+      "templateId": null,
+      "title": "Address Appraisal and Rate-Lock Readiness Items",
+      "text": "Address appraisal and rate-lock readiness items for Liora and Jonah Nettlewhisk, including providing insurance declarations, the property tax bill, and HOA confirmation before underwriting review.",
+      "priority": "high",
+      "dueDate": "2025-02-05",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address those readiness items by 2025-02-05"
+    },
+    {
+      "templateId": null,
+      "title": "Show Non-Retirement Funding Options Before Retirement-Account Scenarios",
+      "text": "Show non-retirement funding options before any retirement-account cash-flow scenario for debt restructuring for Liora and Jonah Nettlewhisk, respecting Liora's statement that IRA or 401(k) withdrawals should be treated only as a last-resort scenario.",
+      "priority": "high",
+      "dueDate": "2025-02-03",
+      "assigneeId": "566065b0-a2b0-53ae-ab9b-e451b9b96dd5",
+      "subTasks": [],
+      "evidence": "the agreed planning analysis is to show non-retirement funding options before any retirement-account cash-flow scenario by 2025-02-03"
+    }
+  ]
+}

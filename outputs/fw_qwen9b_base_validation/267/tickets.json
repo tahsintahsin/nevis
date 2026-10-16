@@ -1,0 +1,55 @@
+{
+  "meetingId": "267",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Open operations escalation for Ellis statement notices",
+      "text": "Open an operations escalation to confirm the authorized email on the custodian profile for Ellis Wrenpuddle and report back with the fix or next escalation path, addressing the issue where Ellis stopped receiving electronic statement notices after the login migration while Renata still receives them.",
+      "priority": null,
+      "dueDate": "2025-08-01",
+      "assigneeId": "840931c0-06ac-50e6-ba6a-0153f80d3208",
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2025-08-01 is to open an operations escalation, confirm the authorized email on the custodian profile, and report back with the fix or next escalation path."
+    },
+    {
+      "templateId": null,
+      "title": "Request historical transfer file for tax lots",
+      "text": "Request the historical transfer file and compare it with Renata Wrenpuddle's Velvet Acorn Custody statements to resolve the issue where three transferred tax lots show acquisition dates but no original cost basis in the current portal.",
+      "priority": null,
+      "dueDate": "2025-08-08",
+      "assigneeId": "840931c0-06ac-50e6-ba6a-0153f80d3208",
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2025-08-08 is to request the historical transfer file and compare it with Renata’s Velvet Acorn Custody statements."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain full registration record to confirm title",
+      "text": "Obtain the full registration record and confirm the title for the joint taxable account before Renata Wrenpuddle forwards anything, as the portal currently shows Renata and Ellis as joint tenants but attorney Pavel Lanternmoss asked if the registration matches the 2018 revocable trusts.",
+      "priority": null,
+      "dueDate": "2025-08-05",
+      "assigneeId": "840931c0-06ac-50e6-ba6a-0153f80d3208",
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2025-08-05 is to obtain the full registration record and confirm the title before Renata forwards anything."
+    },
+    {
+      "templateId": null,
+      "title": "Set up secure upload access for Ellis business email",
+      "text": "Set up separate secure upload access for Ellis Wrenpuddle using his business email for Willow Pudding Studio tax documents, as Renata does not want to share her login and the signed household authorization page has not been provided.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": "840931c0-06ac-50e6-ba6a-0153f80d3208",
+      "subTasks": [],
+      "evidence": "By 2025-08-15, Ellis’s separate secure upload access remains needed because Willow Pudding Studio tax documents use a separate business email, Renata does not want to share her login, and the signed household authorization page has not been provided."
+    },
+    {
+      "templateId": null,
+      "title": "Check custodian and firm mailing-address coding",
+      "text": "Check custodian and firm mailing-address coding to ensure the temporary Thimble Harbor Academy address is not added as the household's primary address, so that tuition-related mail for Lena Wrenpuddle continues to the Portland home.",
+      "priority": null,
+      "dueDate": "2025-08-12",
+      "assigneeId": "840931c0-06ac-50e6-ba6a-0153f80d3208",
+      "subTasks": [],
+      "evidence": "the agreed follow-up for 2025-08-12 is to check custodian and firm mailing-address coding so the temporary school address is not added as the household’s primary address."
+    }
+  ]
+}

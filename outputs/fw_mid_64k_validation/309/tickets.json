@@ -1,0 +1,104 @@
+{
+  "meetingId": "309",
+  "tickets": [
+    {
+      "templateId": "fa8ebcc2-e3bb-5862-a32e-36b07cd19a82",
+      "title": "Coordinate divorce-related financial document package",
+      "text": "Review the benefits elections for Lena Copperwisp transitioning from Velvet Acorn Robotics to Pocket Lantern Analytics, focusing on household cost and coverage tradeoffs before submitting elections.",
+      "priority": "high",
+      "dueDate": "2026-02-09",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review the benefits elections by 2026-02-09."
+    },
+    {
+      "templateId": "58bbf56a-8706-581a-a372-e9900a9ef134",
+      "title": "Evaluate and set up self-employed retirement plan",
+      "text": "Compare the options for Lena Copperwisp's old Velvet Acorn Robotics 401(k) at Tin Sparrow Retirement Services: leaving the account in place, moving it to the new Pocket Lantern Analytics plan, or rolling eligible money to an IRA, with attention to pre-tax and Roth sources.",
+      "priority": "medium",
+      "dueDate": "2026-02-13",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [
+        {
+          "title": "Gather self-employment profile and contribution goals",
+          "text": "Collect business structure, earned income range, employee status, existing retirement accounts, cash-flow variability, and desired employer/employee contribution capacity.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "92319646-536d-5656-b496-3f76eed775bb"
+        },
+        {
+          "title": "Compare eligible plan structures",
+          "text": "Prepare a side-by-side summary of plan types, contribution limits, setup requirements, administration burden, Roth availability if relevant, loan provisions if relevant, and tax considerations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "92319646-536d-5656-b496-3f76eed775bb"
+        },
+        {
+          "title": "Coordinate setup documentation",
+          "text": "Identify required adoption agreements, custodian forms, funding instructions, and payroll or bookkeeping steps needed before contributions can begin.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm first-year operating checklist",
+          "text": "Create a reusable checklist for contribution timing, recordkeeping, annual filings if applicable, and coordination with the client's CPA.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "For old employer retirement plan options, Lena asked Apricot Compass Advisory to compare leaving the Tin Sparrow Retirement Services account in place, moving it to the new Pocket Lantern Analytics plan, or rolling eligible money to an IRA, with attention to the account’s pre-tax and Roth sources. Th"
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Address the Tin Sparrow login access problem for Lena Copperwisp where the multi-factor authentication prompt still uses a former work phone number, preventing retrieval of plan notices and beneficiary screens without custodian assistance.",
+      "priority": "high",
+      "dueDate": "2026-02-03",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "For the Tin Sparrow login access problem, Lena reported that her multi-factor authentication prompt still uses a former work phone number, preventing her from retrieving plan notices and beneficiary screens without custodian assistance. The agreed follow-up is to address the access problem by 2026-0"
+    },
+    {
+      "templateId": "c6d7d1af-e000-5924-a35f-01bc91d50973",
+      "title": "Collect tax documents for planning review",
+      "text": "Refresh paycheck withholding and reserve targets for Lena Copperwisp after her move from Velvet Acorn Robotics to Pocket Lantern Analytics, accounting for changes in salary, bonus timing, benefits deductions, and equity income potential while Jonah's self-employment income remains variable.",
+      "priority": "medium",
+      "dueDate": "2026-02-18",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "For the household cash-flow and withholding update, Lena’s move from Velvet Acorn Robotics to Pocket Lantern Analytics changes salary, bonus timing, benefits deductions, and equity income potential while Jonah’s self-employment income remains variable, creating a need to refresh paycheck withholding"
+    },
+    {
+      "templateId": "b64462f8-34be-598b-98ef-27befa5cee1d",
+      "title": "Contact client about concentrated position review",
+      "text": "Review the position size, vesting schedule, and trading-window rules for Lena Copperwisp's new restricted stock units at Pocket Lantern Analytics, together with the existing taxable brokerage allocation.",
+      "priority": "medium",
+      "dueDate": "2026-02-20",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "For the Pocket Lantern equity concentration review, Mira noted that Lena’s new restricted stock units could eventually add employer-stock exposure on top of the existing taxable brokerage allocation, so the position size, vesting schedule, and any trading-window rules need to be reviewed together. T"
+    },
+    {
+      "templateId": "f0f9ebd4-5e82-546c-980c-d68e810d2f63",
+      "title": "Complete access recovery intake",
+      "text": "Check the beneficiary information for Lena Copperwisp's old Velvet Acorn Robotics 401(k) at Tin Sparrow Retirement Services to determine whether Jonah and Emery are reflected under current designations.",
+      "priority": "high",
+      "dueDate": "2026-02-27",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "For the beneficiary information check, the old retirement plan screens available in Lena’s records do not clearly show whether Jonah and Emery are reflected under current beneficiary designations, and the estate documents predate the new employer benefits package; this information needs follow-up by"
+    },
+    {
+      "templateId": "c6d7d1af-e000-5924-a35f-01bc91d50973",
+      "title": "Collect tax documents for planning review",
+      "text": "Collect the missing Velvet Acorn Robotics plan fee disclosure, summary plan description, and complete transaction history for the most recent quarter from Tin Sparrow Retirement Services to evaluate fees, investment restrictions, and transfer limitations for Lena Copperwisp's old 401(k).",
+      "priority": "medium",
+      "dueDate": "2026-02-06",
+      "assigneeId": "92319646-536d-5656-b496-3f76eed775bb",
+      "subTasks": [],
+      "evidence": "For the old plan document gap, the current file does not include the Velvet Acorn Robotics plan fee disclosure, summary plan description, or a complete transaction history for the most recent quarter; those records are needed to evaluate fees, investment restrictions, and any transfer limitations by"
+    }
+  ]
+}

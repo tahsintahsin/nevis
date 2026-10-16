@@ -1,0 +1,45 @@
+{
+  "meetingId": "528",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Identify bookkeeper and CPA records for Pocket Lantern Studio LLC",
+      "text": "Identify the records Lena Bramblequill's bookkeeper and Nia Thimblefern, CPA, should receive once client deposits begin for Pocket Lantern Studio LLC, which currently has formation papers but no dedicated operating account.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "she asked Apricot Compass Advisory to help identify the records her bookkeeper and Nia Thimblefern should receive once client deposits begin. The agreed follow-up is to identify those records by 2024-09-13."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare quarterly estimated tax payment calendar",
+      "text": "Prepare a quarterly tax payment planning calendar for Lena Bramblequill that reflects expected invoice timing and household cash availability, since Nia Thimblefern, CPA, has not yet calculated estimated tax payments for the new consulting income from Pocket Lantern Studio LLC.",
+      "priority": null,
+      "dueDate": "2024-09-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "she wants a planning calendar that reflects expected invoice timing and household cash availability. The agreed follow-up is to prepare that calendar by 2024-09-20."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve Velvet Acorn Custody dashboard feed issue",
+      "text": "Address the Velvet Acorn Custody household dashboard feed issue for Lena Bramblequill, which stopped pulling the former employer brokerage feed from Copper Firefly Design and left the advisory portal without current equity position values.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena said the Velvet Acorn Custody household dashboard stopped pulling the former employer brokerage feed, leaving the advisory portal without current equity position values. The agreed follow-up is to address the feed issue by 2024-09-10."
+    },
+    {
+      "templateId": null,
+      "title": "Review estate documents and beneficiary designations",
+      "text": "Review the existing wills and beneficiary designations for Lena and Evan Bramblequill now that Lena owns Pocket Lantern Studio LLC and expects business receivables to become part of the household balance sheet; the estate documents were last updated several years before the business launch.",
+      "priority": null,
+      "dueDate": "2024-10-04",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lena asked whether the existing wills and beneficiary designations should be reviewed now that she owns an LLC and expects business receivables to become part of the household balance sheet. The agreed follow-up is to review the estate documents and beneficiary designations by 2024-10-04."
+    }
+  ]
+}

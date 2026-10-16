@@ -1,0 +1,114 @@
+{
+  "meetingId": "383",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Obtain marriage documentation for account records",
+      "text": "Obtain the marriage certificate and Lila Nettlewhisk's identification details to update the household profile and enable the addition of Lila to the jointly held brokerage account at Velvet Acorn Custody.",
+      "priority": null,
+      "dueDate": "2024-06-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The secure portal does not yet contain a marriage certificate or Lila’s identification details, and the custodian requires those records before adding Lila to jointly held account paperwork or household-level profile records. The agreed follow-up is to obtain the marriage documentation for account r"
+    },
+    {
+      "templateId": null,
+      "title": "Set up jointly registered brokerage account",
+      "text": "Set up a jointly registered taxable brokerage account at Velvet Acorn Custody to receive monthly surplus from the new household checking arrangement while keeping each spouse's existing retirement accounts separate.",
+      "priority": null,
+      "dueDate": "2024-07-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to set up the joint taxable account, with follow-up due July 12, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Complete marriage-based beneficiary review",
+      "text": "Complete a beneficiary review across Rowan Bramblequill's IRA, Roth IRA, employer retirement plan, term life policy, and group life coverage to reflect the recent marriage and update records accordingly.",
+      "priority": null,
+      "dueDate": "2024-07-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed to complete that marriage-based beneficiary review by July 17, 2024."
+    },
+    {
+      "templateId": "ea72a089-c993-5e8f-841d-f6200220eb97",
+      "title": "Guide benefits enrollment decision and submission",
+      "text": "Compare health, dental, vision, HSA, disability, life insurance, and payroll deduction choices available to Rowan Bramblequill and Lila Nettlewhisk against each other's coverage to inform upcoming elections.",
+      "priority": "medium",
+      "dueDate": "2024-07-10",
+      "assigneeId": "db7f890f-dd28-5307-94bc-2a4c312cac37",
+      "subTasks": [
+        {
+          "title": "Collect benefits materials and key enrollment constraints",
+          "text": "Request the current benefits guide, plan comparison sheets, premium schedule, employer contribution details, enrollment window, and any life event documentation needed for eligibility for both Rowan and Lila.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b8e2c7b7-c2eb-5c77-bd00-b52a6274fbbe"
+        },
+        {
+          "title": "Review plan fit and planning tradeoffs",
+          "text": "Compare health, disability, life insurance, HSA/FSA, retirement plan, deferred compensation, and equity-related elections as applicable. Note cash flow impact, tax implications, beneficiary needs, and coordination with existing coverage for the newly married couple.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "023f23f9-31e8-5017-b1bd-fb41f9bd99f0"
+        },
+        {
+          "title": "Prepare enrollment recommendations for client discussion",
+          "text": "Summarize proposed elections, open questions, documents needed, and any items requiring confirmation from the employer benefits team or outside tax professional for Rowan and Lila.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "b8e2c7b7-c2eb-5c77-bd00-b52a6274fbbe"
+        },
+        {
+          "title": "Confirm submission and retain evidence",
+          "text": "After the client submits elections, request confirmation pages or benefit summaries and save them to the client record for future planning reference.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "b3a630c1-61a9-5cb8-80b2-77d67083ab27"
+        }
+      ],
+      "evidence": "Rowan wants health, dental, vision, HSA, disability, life insurance, and payroll deduction choices compared against Lila’s available coverage before making elections. They agreed to the employer benefits election review, with follow-up due July 10, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile equity vesting records",
+      "text": "Reconcile the restricted stock unit vesting cadence between Rowan Bramblequill's personal spreadsheet and the equity portal export from Copper Firefly Design Studio to correct projected cash flow and tax withholding estimates.",
+      "priority": null,
+      "dueDate": "2024-07-22",
+      "assigneeId": "db7f890f-dd28-5307-94bc-2a4c312cac37",
+      "subTasks": [],
+      "evidence": "Rowan’s personal spreadsheet shows a different restricted stock unit vesting cadence than the equity portal export provided during the meeting, affecting projected cash flow and tax withholding estimates for the combined household plan. They agreed to reconcile the equity vesting records by July 22,"
+    },
+    {
+      "templateId": "a1390762-214b-50ce-9af1-cd6c13e97218",
+      "title": "Send address and residency update outreach",
+      "text": "Resolve the service issue where Rowan Bramblequill's prior online address changes did not appear on recent custodian statements and Lila Nettlewhisk did not receive the household portal invitation email.",
+      "priority": "medium",
+      "dueDate": "2024-07-03",
+      "assigneeId": "e59479ac-c4b2-5242-a6fb-da90b1e2651c",
+      "subTasks": [],
+      "evidence": "Rowan also reported that prior online address changes did not appear on recent custodian statements and that Lila did not receive the household portal invitation email, creating a service issue before the couple’s records are combined. They agreed to address the custodian address and portal access i"
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate estate document updates",
+      "text": "Coordinate updates to Rowan Bramblequill's estate documents (will, financial power of attorney, health care directive) to reflect the marriage, the two properties, and the desired decision-makers for financial and health care matters.",
+      "priority": null,
+      "dueDate": "2024-08-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The planning review found that Rowan’s estate documents predate the marriage and do not reflect Lila’s role, the two properties, or the desired decision-makers for financial and health care matters. They agreed to estate document coordination by August 2, 2024."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate residency and tax planning",
+      "text": "Coordinate with Rowan Bramblequill's CPA, Sasha Cloudpuddle, regarding the Oregon-to-Washington household move, including mailing address, legal residence, payroll withholding, and how the two owned properties should be reflected in planning records.",
+      "priority": null,
+      "dueDate": "2024-07-26",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Rowan requested coordination with Sasha Cloudpuddle on the Oregon-to-Washington household move, including mailing address, legal residence, payroll withholding, and how the two owned properties should be reflected in planning records. They agreed to residency and tax coordination, with follow-up due"
+    }
+  ]
+}

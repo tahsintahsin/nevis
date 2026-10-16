@@ -1,0 +1,95 @@
+{
+  "meetingId": "586",
+  "tickets": [
+    {
+      "templateId": "08361f27-bfef-5da9-85f9-5136b2a38dcc",
+      "title": "Prepare liquidity planning analysis",
+      "text": "Review expected cash needs, emergency reserve targets, recurring income sources, upcoming distributions, and potential funding sources. Summarize recommended cash cushion, any portfolio trades needed to raise cash, tax considerations, and questions for the lead advisor before client discussion. Address Mira’s stated preference for a six-month cash reserve and the impact of her remaining apartment rent.",
+      "priority": "medium",
+      "dueDate": "2024-03-18",
+      "assigneeId": "04250424-b280-5443-9318-1c2f184393c9",
+      "subTasks": [],
+      "evidence": "Mira said she wants a six-month cash reserve because Arlen’s school contract and Pippa’s activities create uneven expenses during the year. The review found that wedding costs, Mira’s remaining apartment rent, and the combined monthly spending estimate left the household below Mira’s stated six-mont"
+    },
+    {
+      "templateId": null,
+      "title": "Update household profile and address records",
+      "text": "Update Mira and Arlen’s household profile and address records to reflect the shared household while preserving Mira’s preferred separate ownership notes for her premarital accounts.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "After moving into Arlen’s townhouse, Mira asked that advisory records reflect the shared household while preserving her preferred separate ownership notes for premarital accounts; the agreed follow-up by 2024-03-06 is to update the household profile and address records."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain marriage certificate evidence",
+      "text": "Obtain a certified or scanned marriage certificate for Mira and Arlen’s account registration, beneficiary, and name-related records. Mossy Meteor Advisory did not have a copy in the client file.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The custodian and insurance carriers may require a certified or scanned marriage certificate for account registration, beneficiary, and name-related records, and Mossy Meteor Advisory did not have a copy in the client file; follow-up is needed by 2024-02-28 to obtain marriage certificate evidence."
+    },
+    {
+      "templateId": null,
+      "title": "Provide taxable account registration options",
+      "text": "Provide Mira with paperwork and a plain-language comparison for keeping her Velvet Acorn Custody taxable account individually titled versus opening a new joint account for future household savings.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira asked for paperwork and a plain-language comparison for keeping her Velvet Acorn Custody taxable account individually titled versus opening a new joint account for future household savings; the agreed follow-up by 2024-03-01 is to provide the taxable account registration options."
+    },
+    {
+      "templateId": null,
+      "title": "Address online access for a spouse and household view",
+      "text": "Address Arlen’s request for view-only access to the household dashboard without giving him trading authority over Mira’s individual IRA and taxable accounts.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "She also asked whether Arlen could receive view-only access to the household dashboard without giving him trading authority over her individual IRA and taxable accounts; the agreed follow-up by 2024-02-29 is to address online access for a spouse and household view."
+    },
+    {
+      "templateId": null,
+      "title": "Address custodian beneficiary update error",
+      "text": "Address the Velvet Acorn Custody error Mira encountered when trying to add Arlen as a contingent beneficiary. The failed session did not produce a confirmation number.",
+      "priority": null,
+      "dueDate": "2024-02-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira reported that Velvet Acorn Custody’s website returned an error when she tried to add Arlen as a contingent beneficiary, and the failed session did not produce a confirmation number; the agreed follow-up by 2024-02-27 is to address the custodian beneficiary update error."
+    },
+    {
+      "templateId": null,
+      "title": "Review employer benefit elections",
+      "text": "Review Mira and Arlen’s employer benefit elections for medical, life, and disability coverage. Consider Mira’s Clockwork Clover Robotics newlywed enrollment window and Arlen’s Paper Otter Preparatory benefit-change process for the combined household.",
+      "priority": null,
+      "dueDate": "2024-03-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira’s Clockwork Clover Robotics newlywed enrollment window and Arlen’s Paper Otter Preparatory benefit-change process affect medical, life, and disability coverage choices for the combined household; the agreed follow-up by 2024-03-05 is to review employer benefit elections."
+    },
+    {
+      "templateId": "8f09a5a6-7496-50a3-906b-2e2d49077496",
+      "title": "Request estate document collection",
+      "text": "Ask Mira and Arlen to provide copies of their signed wills and financial powers of attorney, along with any amendment pages, so the advisory team can update planning records.",
+      "priority": "medium",
+      "dueDate": "2024-03-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira and Arlen described older wills and powers of attorney, but Mossy Meteor Advisory did not have copies of the signed documents or any amendment pages in its planning record; the agreed follow-up by 2024-03-12 is to collect estate document copies and any amendment pages."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare joint tax withholding projection",
+      "text": "Prepare a coordinated 2024 withholding and estimated-tax projection for Mira and Arlen to share with Celia Fablethimble of Apricot Compass Tax. Account for the combined salaries, bonuses, investment income, and Mira’s $42,000 capital loss carryforward from prior taxable account sales.",
+      "priority": null,
+      "dueDate": "2024-04-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Mira and Arlen asked for a coordinated 2024 withholding and estimated-tax projection to share with Celia because the marriage combines two salaries, bonuses, investment income, and Mira’s capital loss carryforward; the agreed follow-up by 2024-04-05 is to prepare the joint tax withholding projection"
+    }
+  ]
+}

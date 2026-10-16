@@ -1,0 +1,165 @@
+{
+  "meetingId": "407",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare Updated Funds-Flow Schedule for Sale",
+      "text": "Prepare an updated funds-flow schedule for Julian Maplesprocket's Buttonwood Balloon Components sale to Copper Firefly Systems, separating gross consideration, escrow holdbacks, rollover equity, tax reserves, and transaction fees.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "An updated funds-flow schedule is needed to separate gross consideration, holdbacks, rollover equity, tax reserves, and transaction fees by 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Equity Ledger and Option-Cancellation Records",
+      "text": "Obtain the final capitalization table, option-cancellation records, and manager equity acknowledgments for Julian Maplesprocket's Buttonwood Balloon Components sale to Copper Firefly Systems to confirm his sale proceeds and retained obligations.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the draft transaction folder does not include the final capitalization table, option-cancellation records, or manager equity acknowledgments needed to confirm Julian’s sale proceeds and retained obligations, so those equity ledger and option-cancellation records are needed by 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Sale-Liquidity Staging Plan",
+      "text": "Prepare a sale-liquidity staging plan for Julian Maplesprocket showing how incoming Buttonwood Balloon Components sale cash could be separated among immediate household reserves, estimated tax reserves, renovation funds, debt decisions, and staged investment tranches.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the sale-liquidity staging plan by 2025-01-08."
+    },
+    {
+      "templateId": "9e10aee4-f276-52cb-be0c-39f25dd71780",
+      "title": "Review Concentrated Position",
+      "text": "Assess position size, tax basis, liquidity needs, risk tolerance, trading restrictions, and diversification options before recommending any action. Review Julian Maplesprocket's proposed $1.5 million rollover into Copper Firefly Systems preferred equity, including liquidity limits, dividend terms, redemption rights, and concentration risk.",
+      "priority": "medium",
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that preferred-equity rollover review by 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare CPA Sale-Tax Projection Package",
+      "text": "Prepare a coordinated CPA sale-tax projection package with Alma Dewspindle at Silver Marmot Tax Partners for Julian Maplesprocket covering federal, Oregon, basis, installment-payment assumptions, escrow taxation, and shareholder note treatment before he makes large cash-allocation decisions.",
+      "priority": null,
+      "dueDate": "2025-01-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the CPA sale-tax projection package by 2025-01-07."
+    },
+    {
+      "templateId": null,
+      "title": "Model Shareholder Note Payoff Treatment",
+      "text": "Model the $380,000 shareholder note payoff treatment separately from equity proceeds for Julian Maplesprocket's Buttonwood Balloon Components sale to Copper Firefly Systems so the advisory team and CPA can distinguish repayment cash from taxable sale consideration assumptions.",
+      "priority": null,
+      "dueDate": "2025-01-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to model the shareholder note payoff treatment by 2025-01-08."
+    },
+    {
+      "templateId": null,
+      "title": "Clarify Retention Bonus Pool Variance",
+      "text": "Clarify the employee retention bonus pool variance between the buyer’s schedule and board materials for Julian Maplesprocket's Buttonwood Balloon Components sale to Copper Firefly Systems, as it could affect net proceeds and working-capital adjustments.",
+      "priority": null,
+      "dueDate": "2025-01-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Clarification of the retention bonus pool variance is needed by 2025-01-06."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Escrow Holdback Reserve Analysis",
+      "text": "Prepare an escrow holdback reserve analysis for Julian Maplesprocket's Buttonwood Balloon Components sale to Copper Firefly Systems, including a separate reserve scenario that excludes escrow release proceeds because he may not receive the full escrowed amount for an extended period.",
+      "priority": null,
+      "dueDate": "2025-01-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the escrow holdback reserve analysis by 2025-01-13."
+    },
+    {
+      "templateId": null,
+      "title": "Verify Incoming-Wire Capacity and Instructions",
+      "text": "Verify incoming-wire capacity and receiving instructions at Teacup Comet Bank for Julian Maplesprocket's expected Buttonwood Balloon Components sale proceeds before funds are sent, given the bank previously held a large inbound wire for manual review.",
+      "priority": null,
+      "dueDate": "2025-01-02",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to verify incoming-wire capacity and receiving instructions by 2025-01-02."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Final Consulting Agreement Economics",
+      "text": "Obtain final consulting agreement economics for Julian Maplesprocket's post-sale involvement with Copper Firefly Systems, including compensation, expense reimbursement, termination, and noncompete interaction terms that affect his post-sale income forecast.",
+      "priority": null,
+      "dueDate": "2025-01-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Final consulting agreement economics are needed by 2025-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Post-Sale Investment Policy",
+      "text": "Prepare a written post-sale investment policy for Julian and Priya Maplesprocket reflecting staged deployment, cash comfort, tax exposure, and fossil-fuel screening preferences, with income reliability prioritized over maximizing transaction upside.",
+      "priority": null,
+      "dueDate": "2025-01-22",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare the post-sale investment policy by 2025-01-22."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Renovation and Mortgage Reserve Modeling",
+      "text": "Prepare renovation and mortgage reserve modeling for Julian and Priya Maplesprocket's Portland residence, lake cabin, existing mortgage terms, lake-cabin debt, and desired liquidity floor before deciding how much Buttonwood Balloon Components sale cash can be committed to property spending.",
+      "priority": null,
+      "dueDate": "2025-01-16",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare renovation and mortgage reserve modeling by 2025-01-16."
+    },
+    {
+      "templateId": null,
+      "title": "Review Insurance Transition After Business Sale",
+      "text": "Review the insurance transition for Julian and Priya Maplesprocket after the Buttonwood Balloon Components sale, covering reliance on business income, company-owned insurance, disability coverage assumptions, umbrella exposure, and potential personal-liability concerns after the transaction becomes public.",
+      "priority": null,
+      "dueDate": "2025-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to review the insurance transition after the business sale by 2025-01-15."
+    },
+    {
+      "templateId": null,
+      "title": "Complete Estate Liquidity and Fiduciary Review",
+      "text": "Complete an estate liquidity and fiduciary review for Julian and Priya Maplesprocket, addressing fiduciary roles, trust funding assumptions, privacy, and whether their 2016 estate plan still matches current family circumstances after the anticipated liquidity increase.",
+      "priority": null,
+      "dueDate": "2025-01-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete an estate liquidity and fiduciary review by 2025-01-17."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Residency and Sourcing Support File",
+      "text": "Prepare a residency and sourcing support file for Julian Maplesprocket's CPA sale-year tax analysis with Alma Dewspindle at Silver Marmot Tax Partners, including his travel calendar, Oregon workdays, and Washington apartment records from 2024.",
+      "priority": null,
+      "dueDate": "2025-01-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Julian’s travel calendar, Oregon workdays, and Washington apartment records create a concrete need for a residency and sourcing support file for the CPA’s sale-year tax analysis by 2025-01-10."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare Charitable Funding Structure Comparison",
+      "text": "Prepare a charitable funding structure comparison for Julian and Priya Maplesprocket using their usual $75,000 annual giving level, possible appreciated securities, and potential Buttonwood Balloon Components sale liquidity.",
+      "priority": null,
+      "dueDate": "2025-01-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the charitable funding structure comparison by 2025-01-14."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "meetingId": "488",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Compare cash exercise and sale alternatives",
+      "text": "Compare cash exercise, same‑day sale, sell‑to‑cover, and no‑exercise options for Lina Copperwisp’s vested nonqualified stock options using the $46.80 share price, $14.20 exercise price, estimated payroll withholding, and household cash reserve level.",
+      "priority": null,
+      "dueDate": "2024-09-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lina asked for a comparison of cash exercise, same-day sale, sell-to-cover, and no-exercise alternatives for the vested nonqualified options using the current portal share price, exercise price, estimated payroll withholding, and household cash reserve level; the agreed follow-up is due 2024-09-06."
+    },
+    {
+      "templateId": "67d48866-11e3-5e14-90bb-7b382f708440",
+      "title": "Equity Award Vesting Snapshot",
+      "text": "Prepare planning input for Lina Copperwisp regarding upcoming RSU vesting and limited trading window before any preclearance request or sale instruction, using current equity portal data from Cloudberry Kite Robotics.",
+      "priority": null,
+      "dueDate": "2024-09-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Lina wants planning input before any preclearance request or sale instruction is submitted; the agreed preparation is due 2024-09-10."
+    },
+    {
+      "templateId": null,
+      "title": "Review single‑stock concentration exposure",
+      "text": "Review the single‑stock concentration of Cloudberry Kite Robotics shares in Lina and Aron Copperwisp’s joint taxable account at Velvet Acorn Custody, which represents about $685,000 (58%) of the $1,180,000 account, and assess options to reduce exposure while managing tax impact.",
+      "priority": null,
+      "dueDate": "2024-09-13",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed single-stock concentration review follow-up is due 2024-09-13."
+    },
+    {
+      "templateId": "f9746a61-66dc-53ab-bc91-7726bf563288",
+      "title": "Refresh Household Profile and Planning Facts",
+      "text": "Review and update the household profile for Copperwisp household. Update planning assumptions to reflect Lina Copperwisp’s higher bonus target, expected equity vesting cadence, and reduced flexibility around sale timing.",
+      "priority": "medium",
+      "dueDate": "2024-09-18",
+      "assigneeId": "08fc3afb-b8c9-54c5-827b-de2ab7c8e5cb",
+      "subTasks": [
+        {
+          "title": "Confirm core household details",
+          "text": "Verify {{primary_contact_name}}, {{secondary_contact_name_if_any}}, mailing address, phone numbers, email addresses, preferred communication method, marital or partnership status, and household decision-makers. Record any discrepancies for follow-up.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Update family, employment, and support relationships",
+          "text": "Confirm dependents, adult children or relatives involved in planning, employer status, retirement timing expectations, trusted contacts, powers of attorney known to the firm, and any caregiving responsibilities that could affect cash flow or account access.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Identify planning impacts and documentation gaps",
+          "text": "Summarize changes that may affect income planning, beneficiary coordination, tax assumptions, risk tolerance, liquidity needs, or rollover recommendations. List documents or confirmations still needed, such as updated estate documents, employer plan details, insurance information, or tax records.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "08fc3afb-b8c9-54c5-827b-de2ab7c8e5cb"
+        }
+      ],
+      "evidence": "the agreed update to household planning assumptions is due 2024-09-18."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile share count and withholding",
+      "text": "Reconcile the 6,000 unvested RSU share count with the payroll withholding estimate for Lina Copperwisp to ensure tax projections are accurate.",
+      "priority": null,
+      "dueDate": "2024-08-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "reconciliation of the share count and withholding assumptions is needed before tax projections rely on the estimate, due 2024-08-30."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain current trading policy documents",
+      "text": "Obtain Cloudberry Kite Robotics insider‑trading policy, blackout calendar, and preclearance instructions for Lina Copperwisp to support planning under her new officer‑level trading restrictions.",
+      "priority": null,
+      "dueDate": "2024-08-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "current trading policy and preclearance evidence are needed by 2024-08-28."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve custodian tax‑lot display issue",
+      "text": "Resolve the duplicate and missing acquisition details on Velvet Acorn Custody’s tax‑lot page for Lina Copperwisp’s Cloudberry Kite Robotics shares to enable identification of lowest‑gain shares for potential sale.",
+      "priority": null,
+      "dueDate": "2024-08-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up on the custodian tax-lot display problem is due 2024-08-27."
+    }
+  ]
+}

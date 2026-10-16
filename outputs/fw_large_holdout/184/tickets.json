@@ -1,0 +1,104 @@
+{
+  "meetingId": "184",
+  "tickets": [
+    {
+      "templateId": "77b31f5b-c847-5ac9-aebc-b0f5c68df289",
+      "title": "Review benefits enrollment options",
+      "text": "Review the benefits enrollment choices for Rina Copperwisp with Amber Teapot Pediatrics’s online portal, ensuring medical, dental, vision, HSA, disability, and group life options are evaluated before the enrollment window closes.",
+      "priority": "medium",
+      "dueDate": "2023-11-24",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the portal presents medical, dental, vision, HSA, disability, and group life choices and the household wants the selections reviewed before the enrollment window closes, the agreed follow-up is to review the choices, dated 2023-11-24."
+    },
+    {
+      "templateId": "212c986c-b007-58f8-b360-9d190d930354",
+      "title": "Collect mortgage document packet",
+      "text": "Collect and organize the required mortgage, escrow, property tax, homeowners insurance, and asset documentation for the Asheville purchase for Elias and Rina Copperwisp, preparing a packet for Mossy Meteor Lending’s next underwriting review.",
+      "priority": "medium",
+      "dueDate": "2023-11-27",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Confirm mortgage request scope",
+          "text": "Clarify whether the packet is for a new purchase, refinance, home equity review, payoff planning, or lender documentation request. Note required document categories and any relative timing expectations.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Gather property and loan documents",
+          "text": "Request or locate the current mortgage statement, escrow statement if applicable, property tax bill, homeowners insurance declarations page, purchase or refinance closing disclosure if available, and any lender checklist provided by the client.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Check packet for gaps",
+          "text": "Compare received documents against the requested checklist. Flag missing pages, outdated statements, mismatched property addresses, or unclear ownership information for follow-up.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare advisor review summary",
+          "text": "Summarize loan type, rate structure, payment components, remaining term, escrow status, and open questions. Link the organized document packet in the secure file location.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "Mossy Meteor Lending requested current mortgage, escrow, property tax, homeowners insurance, and asset documentation for the Asheville purchase file, and the agreed follow-up is to organize the packet before the lender’s next underwriting review, dated 2023-11-27."
+    },
+    {
+      "templateId": null,
+      "title": "Escalate transfer limitation with Teacup Comet Bank",
+      "text": "Escalate the temporary online transfer limitation for Elias and Rina Copperwisp with Teacup Comet Bank to ensure verified closing funds can be moved without relying on mailed checks.",
+      "priority": null,
+      "dueDate": "2023-12-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Teacup Comet Bank placed a temporary online transfer limitation after the household used a forwarding address, and Elias wants the issue escalated so verified closing funds can move without relying on mailed checks;"
+    },
+    {
+      "templateId": "5af0dcaf-811a-58b0-9a83-10395a9d28ab",
+      "title": "Review financial plan assumptions and recommendations",
+      "text": "Update the financial plan assumptions for Elias and Rina Copperwisp to reflect the new Asheville home purchase, relocation cash flow, and changed tax and mortgage parameters.",
+      "priority": "medium",
+      "dueDate": "2023-12-18",
+      "assigneeId": "07499ffc-7a97-5fae-aa26-39c4ffaf213c",
+      "subTasks": [],
+      "evidence": "The advisor review found that the existing plan still uses the Portland mortgage payment, Oregon tax assumptions, and prior cash reserve target, so the agreed follow-up is to update the plan assumptions for the new home purchase and relocation cash flow, dated 2023-12-18."
+    },
+    {
+      "templateId": "6545a4a6-9969-5a62-aecc-21ad8c73e36c",
+      "title": "Review insurance policy coverage",
+      "text": "Review the Oregon‑based homeowners, auto, and umbrella policies for Elias and Rina Copperwisp against the new North Carolina residence and household risk profile.",
+      "priority": null,
+      "dueDate": "2023-12-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Because the move changes the insured residence, auto garaging location, and umbrella-policy underwriting details, the agreed follow-up is to review the Oregon-based policy structure against the new property and household risk profile, dated 2023-12-08."
+    },
+    {
+      "templateId": null,
+      "title": "Clarify address mismatch with payroll",
+      "text": "Clarify the discrepancy between the Oregon resident address and the North Carolina remote‑work location for Elias Copperwisp with his employer’s payroll department and coordinate with the household tax preparer.",
+      "priority": null,
+      "dueDate": "2023-12-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elias’s employer portal shows an Oregon resident address while the remote-work location field reflects North Carolina, creating an unresolved mismatch that needs clarification with payroll and the household’s tax preparer, dated 2023-12-06."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate mailing address change across records",
+      "text": "Coordinate the update of Elias and Rina Copperwisp’s mailing address across advisory records, custodian profiles, tax form delivery settings, and routine service‑provider records once the Asheville residence is usable for mail.",
+      "priority": null,
+      "dueDate": "2024-01-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Elias asked Pocket Lantern Advisory to coordinate the household mailing address change across advisory records, custodian profiles, tax form delivery settings, and routine service-provider records once the Asheville residence is usable for mail;"
+    }
+  ]
+}

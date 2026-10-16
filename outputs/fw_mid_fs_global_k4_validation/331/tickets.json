@@ -1,0 +1,75 @@
+{
+  "meetingId": "331",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate tax-aware investment liquidation review",
+      "text": "Review the tax impact of selling appreciated holdings in the joint taxable investment account at Velvet Acorn Custody for debt reduction. Estimate the tax consequences before using investments as a funding source for debt repayment.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "a review of the taxable account showed appreciated holdings that could be sold for debt reduction, and the tax impact needs to be estimated before using investments as a funding source. CPA coordination on interest treatment and investment sales was completed on 2024-04-09 after Julian asked that th"
+    },
+    {
+      "templateId": null,
+      "title": "Complete employer plan access recovery",
+      "text": "Complete recovery of access to the Moonbadger Robotics retirement plan portal at Velvet Acorn Custody. Julian could not open the portal because multi-factor authentication still used an old phone number, blocking review of plan loan rules and contribution settings.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Employer plan access recovery was completed on 2024-04-09 after Julian could not open the Moonbadger Robotics retirement plan portal because multi-factor authentication still used an old phone number, blocking review of plan loan rules and contribution settings."
+    },
+    {
+      "templateId": null,
+      "title": "Complete cash-flow update after household income change",
+      "text": "Complete the revised household cash-flow budget after Lena Mossbutton’s reduced work schedule. The reduced schedule lowered take-home pay from about $10,900 to about $9,250 per month; the budget is needed before setting a target for accelerated debt repayment.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The cash-flow update after the household income change was completed on 2024-04-09; Lena’s reduced work schedule lowered household take-home pay, and the revised budget is needed before setting a target for accelerated debt repayment."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate CPA on debt-restructure assumptions",
+      "text": "Coordinate with Julian and Lena Mossbutton’s CPA to receive the debt-restructure assumptions, potential investment-sale amounts, and questions about home-equity interest treatment for the current tax year. Julian requested that the CPA receive these details.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "CPA coordination on interest treatment and investment sales was completed on 2024-04-09 after Julian asked that the household’s CPA receive the debt-restructure assumptions, potential investment-sale amounts, and questions about home-equity interest treatment for the current tax year."
+    },
+    {
+      "templateId": null,
+      "title": "Complete HELOC reset response",
+      "text": "Complete the Teacup Comet Bank HELOC reset response, modeling the payment impact of moving from interest-only to amortizing payments (estimated new payment of about $925 per month) with and without rolling the line into a broader refinance structure.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The HELOC reset response was completed on 2024-04-09; the Teacup Comet Bank reset notice showed the home-equity payment moving from interest-only to amortizing, and Julian wanted the payment impact modeled with and without rolling the line into a broader refinance structure."
+    },
+    {
+      "templateId": null,
+      "title": "Complete loan document collection",
+      "text": "Complete collection of loan documents for Julian Mossbutton’s mortgage and HELOC. The current mortgage payoff quote, full HELOC statement, and prepayment-penalty language were not available during the conversation, limiting a complete refinance review.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Loan document collection was completed on 2024-04-09, with the current mortgage payoff quote, full HELOC statement, and any prepayment-penalty language not available during the conversation, limiting a complete refinance review."
+    },
+    {
+      "templateId": null,
+      "title": "Complete auto loan payoff reconciliation",
+      "text": "Reconcile the Thimble Harbor Credit Union auto loan payoff amount against the latest monthly statement. Julian reported a payoff amount from the phone system that did not match the statement, and the difference affects the debt-repayment order.",
+      "priority": null,
+      "dueDate": null,
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Auto loan payoff reconciliation was completed on 2024-04-09 after Julian reported one payoff amount from the Thimble Harbor Credit Union phone system that did not match the latest monthly statement, and the difference affects the debt-repayment order."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "meetingId": "645",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare payroll transition estimate",
+      "text": "Prepare a payroll transition estimate for Dana Cloudpuddle incorporating her $25,000 signing bonus, the anticipated $9,000 accrued vacation payout, expected first paycheck timing, 401(k) deferral options, state withholding, and the cash reserve needed due to the bonus clawback provision.",
+      "priority": null,
+      "dueDate": "2024-02-28",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare that estimate by 2024-02-28."
+    },
+    {
+      "templateId": null,
+      "title": "Address old retirement plan options",
+      "text": "Address the options for Dana Cloudpuddle’s Amber Teapot Systems 401(k) balance, including leaving it in the plan, rolling it to an IRA, or consolidating it with the new Coral Badger Analytics plan after eligibility opens.",
+      "priority": null,
+      "dueDate": "2024-03-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address those old retirement plan options by 2024-03-01."
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile final paystub and plan activity",
+      "text": "Obtain Dana Cloudpuddle’s final paystub and the updated Amber Teapot Systems 401(k) activity record to reconcile the contribution discrepancy before finalizing rollover guidance.",
+      "priority": null,
+      "dueDate": "2024-03-06",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "a final paystub and updated plan activity record are needed by 2024-03-06 to reconcile the amount before rollover guidance is finalized."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve old plan beneficiary portal issue",
+      "text": "Resolve the beneficiary update and address correction issue in Dana Cloudpuddle’s Amber Teapot Systems 401(k) portal, which currently shows a former mailing address and returns an error when accessing the beneficiary page.",
+      "priority": null,
+      "dueDate": "2024-02-29",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to address the old plan beneficiary and address portal issue by 2024-02-29."
+    },
+    {
+      "templateId": "334e7df3-8032-5277-ad95-4b72f525f10d",
+      "title": "Support benefits enrollment decision process",
+      "text": "Help Dana Cloudpuddle review available benefit choices, identify planning implications, and prepare enrollment follow-up. Confirm enrollment windows, employer or provider instructions, health plan selections, HSA or FSA eligibility, life and disability coverage choices, beneficiary updates, and any documentation Dana must submit directly. Additionally, gather the missing premium tables, HSA employer funding details, evidence‑of‑insurability thresholds, and dependent coverage rate tiers needed for evaluation.",
+      "priority": "medium",
+      "dueDate": "2024-02-20",
+      "assigneeId": "ae8d5f12-106a-54c1-9c8a-83ac2a00f251",
+      "subTasks": [],
+      "evidence": "complete enrollment materials are needed by 2024-02-20."
+    },
+    {
+      "templateId": "334e7df3-8032-5277-ad95-4b72f525f10d",
+      "title": "Support benefits enrollment decision process",
+      "text": "Help Dana Cloudpuddle review available benefit choices, identify planning implications, and prepare enrollment follow-up. Confirm enrollment windows, employer or provider instructions, health plan selections, HSA or FSA eligibility, life and disability coverage choices, beneficiary updates, and any documentation Dana must submit directly. Additionally, prepare a side‑by‑side comparison of the medical plan options, dependent coverage costs, HSA eligibility, group life, disability, and legal plan options as requested.",
+      "priority": "medium",
+      "dueDate": "2024-02-26",
+      "assigneeId": "ae8d5f12-106a-54c1-9c8a-83ac2a00f251",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to prepare the new employer benefit election comparison by 2024-02-26."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain equity award documents for review",
+      "text": "Obtain the Coral Badger Analytics option grant agreement, vesting schedule, exercise price, and tax withholding description for Dana Cloudpuddle to review the equity award details.",
+      "priority": null,
+      "dueDate": "2024-03-08",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the equity award documents are needed for review by 2024-03-08."
+    },
+    {
+      "templateId": "334e7df3-8032-5277-ad95-4b72f525f10d",
+      "title": "Support benefits enrollment decision process",
+      "text": "Help Dana Cloudpuddle review available benefit choices, identify planning implications, and prepare enrollment follow-up. Confirm enrollment windows, employer or provider instructions, health plan selections, HSA or FSA eligibility, life and disability coverage choices, beneficiary updates, and any documentation Dana must submit directly. Additionally, review the gap in life and disability coverage between her current Amber Teapot Systems benefits and the upcoming Coral Badger Analytics offerings to assess household income‑protection needs.",
+      "priority": "medium",
+      "dueDate": "2024-03-12",
+      "assigneeId": "ae8d5f12-106a-54c1-9c8a-83ac2a00f251",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to review the life and disability coverage gap by 2024-03-12."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "meetingId": "869",
+  "tickets": [
+    {
+      "templateId": "367c4dff-ce56-5c23-898d-102c55a40595",
+      "title": "Open New Client Account",
+      "text": "Use this workflow to collect account-opening requirements, prepare documentation, coordinate signatures, and confirm funding instructions for a new account. Verify the requested account registration, investment objective, tax considerations, and custodian requirements before submitting. The joint taxable account will be funded from excess cash reserves, and ownership and risk‑profile information must be collected before preparing paperwork.",
+      "priority": "medium",
+      "dueDate": "2025-08-05",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Gather account opening details",
+          "text": "Collect required registration type, ownership details, beneficiary or authorized-party information if applicable, tax identification documentation status, risk profile, and intended funding source using firm-approved intake materials.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Prepare and review application package",
+          "text": "Complete the custodian or platform forms, advisory agreement updates, fee schedule, disclosure delivery record, and any transfer or funding paperwork. Check for missing signatures, inconsistent names, and incomplete suitability information.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "7b1c238f-c077-58f3-abf7-cfef829c2abc"
+        },
+        {
+          "title": "Coordinate signatures and submission",
+          "text": "Send the application package through the approved signature process, track completion, and submit to the custodian or operations platform after verifying all required fields are complete.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        },
+        {
+          "title": "Confirm account setup and funding readiness",
+          "text": "Verify that the account is established, document the account title and registration, confirm funding or transfer instructions are ready, and notify the advisor that the account is available for investment review.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": null
+        }
+      ],
+      "evidence": "They agreed by 2025-08-05 to start intake for a new joint taxable account funded from excess cash reserve, with ownership and risk profile information to be collected before paperwork is prepared."
+    },
+    {
+      "templateId": "652157be-e8e6-5f89-b001-6e15103f7c88",
+      "title": "Collect Benefits Enrollment Information",
+      "text": "Complete the following placeholders before reviewing benefit enrollment choices:\n\nEmployee or participant name: Nora Thimblefern\nEmployer or plan sponsor: Amber Teapot Systems\nEnrollment event type: QUALIFYING LIFE EVENT\nCoverage effective period: [RELATIVE OR PLAN YEAR PERIOD]\nAvailable medical options: [PLAN OPTIONS]\nAvailable dental and vision options: [PLAN OPTIONS]\nHealth savings or flexible spending account eligibility: [HSA / FSA DETAILS]\nEmployer retirement plan election status: [401(k), 403(b), OR OTHER PLAN DETAILS]\nCurrent contribution percentage or amount: [CURRENT ELECTION]\nProposed contribution percentage or amount: [PROPOSED ELECTION]\nEmployer match formula: [MATCH DETAILS]\nBeneficiary update needed: [YES / NO / UNKNOWN]\nDocuments to request: [BENEFITS GUIDE, RATE SHEET, PLAN SUMMARY, BENEFICIARY FORM, OTHER]\nQuestions for advisor review: [OPEN QUESTIONS]\nObtain the selections for both spouses by 2025-08-09, noting that the couple has not yet decided whether Caleb will join Nora’s medical plan or retain separate coverage.",
+      "priority": "medium",
+      "dueDate": "2025-08-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Employer benefit elections remain needed by 2025-08-09 because Nora reported the marriage is a qualifying event and the couple has not decided whether Caleb should move to Nora’s medical plan or keep separate coverage."
+    },
+    {
+      "templateId": null,
+      "title": "Document Household Intentions, Update Beneficiary Forms",
+      "text": "Document the household intentions for Nora Thimblefern and Caleb Thimblefern and update their IRA, 401(k), and taxable account beneficiary and transfer‑on‑death forms to reflect joint ownership and contingent beneficiaries as discussed. Complete this by the agreed deadline.",
+      "priority": null,
+      "dueDate": "2025-08-15",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2025-08-15 to document current household intentions before updating beneficiary and transfer-on-death forms, after a review found Nora’s IRA, 401(k), and taxable account records still list pre-marriage beneficiaries or no contingent beneficiary."
+    },
+    {
+      "templateId": null,
+      "title": "Upload Proof of Marriage to Custodian",
+      "text": "Upload the marriage certificate for Nora Thimblefern and Caleb Thimblefern to the custodian via the secure portal to enable name and household registration updates. Ensure this is completed by the required date.",
+      "priority": null,
+      "dueDate": "2025-08-01",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Proof of marriage remains needed by 2025-08-01 because the custodian requires it for certain name and household registration updates, and Nora had not uploaded the certificate through the secure portal."
+    },
+    {
+      "templateId": null,
+      "title": "Refresh Monthly Cash‑Flow Worksheet for Household",
+      "text": "Refresh the monthly cash‑flow worksheet for Nora Thimblefern and Caleb Thimblefern using their combined income and updated expense targets, including the townhouse mortgage and Caleb’s student loan payment. Complete the update by the agreed deadline.",
+      "priority": null,
+      "dueDate": "2025-08-20",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "They agreed by 2025-08-20 to refresh the monthly cash flow worksheet using combined pay and the reserve target because Caleb’s student loan payment and the townhouse mortgage will now be considered in one household plan."
+    }
+  ]
+}

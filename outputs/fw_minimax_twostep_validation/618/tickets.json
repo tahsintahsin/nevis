@@ -1,0 +1,114 @@
+{
+  "meetingId": "618",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare estate planning note for Rowan Lanternmoss",
+      "text": "Prepare a planning note for the estate attorney covering Rowan and Jules Lanternmoss's adoption of Elia (finalized 2026-01-09), the preferred guardian discussion, successor trustee considerations (currently Casey Lanternmoss), and account ownership information needed before the attorney revises the 2020 will and revocable trust.",
+      "priority": null,
+      "dueDate": "2026-02-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that note by 2026-02-10."
+    },
+    {
+      "templateId": "b9bbc98a-1f36-58b9-822a-d05a22356a28",
+      "title": "Complete household profile update",
+      "text": "Refresh the Lanternmoss household profile using client-provided updates and recent planning notes. Confirm household members, contact preferences, employment status, dependents, trusted contacts, insurance context, estate document status, and any major life changes that may affect planning recommendations. Add Elia Lanternmoss as a dependent (adoption finalized 2026-01-09), include Jules Lanternmoss's updated employer benefits from Cloudberry Kite School Services, and reflect the household's revised monthly spending of approximately $10,800 after infant care costs.",
+      "priority": "medium",
+      "dueDate": "2026-02-03",
+      "assigneeId": null,
+      "subTasks": [
+        {
+          "title": "Collect profile change information",
+          "text": "Request or compile updates for the Lanternmoss household members, addresses, contact preferences, employment, dependents (including Elia), and major recent or expected life events.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "1616b784-b182-570a-93f0-464e57273315"
+        },
+        {
+          "title": "Update planning assumptions",
+          "text": "Revise income, savings, spending (~$10,800/month), retirement timing, education funding, and family support assumptions in the planning record as applicable for Rowan and Jules Lanternmoss.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "4c50b52d-b095-5034-aa4e-727cb24fa800"
+        },
+        {
+          "title": "Identify advice impacts",
+          "text": "Flag changes that may affect tax planning, risk management, estate coordination, cash flow, or investment allocation recommendations for the Lanternmoss household.",
+          "priority": "medium",
+          "dueDate": null,
+          "assigneeId": "77bba01f-a9ba-5af1-8070-be336e499218"
+        },
+        {
+          "title": "Confirm profile completion",
+          "text": "Review the updated Lanternmoss profile for consistency and note any remaining open questions for the next client conversation.",
+          "priority": "low",
+          "dueDate": null,
+          "assigneeId": "29e3bddf-1fa1-5d47-a1a5-65045f866fc7"
+        }
+      ],
+      "evidence": "The agreed follow-up is to refresh the household profile by 2026-02-03."
+    },
+    {
+      "templateId": null,
+      "title": "Obtain Elia Lanternmoss's adoption and identification records",
+      "text": "Obtain Elia Lanternmoss's final adoption decree (finalized 2026-01-09), birth certificate (born 2025-10-14), and Social Security number confirmation to support account beneficiary updates and education account paperwork for Rowan and Jules Lanternmoss.",
+      "priority": null,
+      "dueDate": "2026-02-05",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to obtain those adoption and identification records by 2026-02-05."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve portal upload rejection for adoption decree",
+      "text": "Troubleshoot the secure portal's rejection of the PDF of Elia Lanternmoss's adoption decree for Rowan and Jules Lanternmoss, or provide an alternate secure delivery method so the document can be received.",
+      "priority": null,
+      "dueDate": "2026-01-27",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to troubleshoot the upload issue or provide an alternate secure delivery method by 2026-01-27."
+    },
+    {
+      "templateId": null,
+      "title": "Complete insurance coverage analysis for Lanternmoss household",
+      "text": "Model survivor income, mortgage payoff, childcare, and education assumptions for Rowan Lanternmoss and Jules Lanternmoss, factoring in Rowan's $750,000 employer group life and $500,000 Silver Marmot individual term policy, Jules's $300,000 employer group life with no individual term policy, and the $512,000 Portland home mortgage.",
+      "priority": null,
+      "dueDate": "2026-02-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete that insurance coverage analysis by 2026-02-12."
+    },
+    {
+      "templateId": "daf3067e-a97c-53bc-b265-e4d0b6ab86f2",
+      "title": "Follow up on policy renewal details",
+      "text": "Contact Rowan Lanternmoss or the Silver Marmot Insurance professional to confirm renewal status, premium change, coverage changes, beneficiary updates needed, and any action required before the renewal window closes on the $500,000 individual term life policy. Record received documents and route planning questions to the advisor.",
+      "priority": "medium",
+      "dueDate": "2026-02-06",
+      "assigneeId": "1616b784-b182-570a-93f0-464e57273315",
+      "subTasks": [],
+      "evidence": "the agreed follow-up is to obtain the current premium, conversion language, beneficiary page, and any renewal action requirements before Rowan responds, due 2026-02-06."
+    },
+    {
+      "templateId": null,
+      "title": "Resolve beneficiary discrepancy on Rowan's term policy",
+      "text": "Address the beneficiary record discrepancy on Rowan Lanternmoss's $500,000 individual term life policy with Silver Marmot Insurance so Jules Lanternmoss is primary and Elia Lanternmoss is included under the updated estate plan structure, replacing the current designation of Casey Lanternmoss as primary.",
+      "priority": null,
+      "dueDate": "2026-02-09",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address that beneficiary record discrepancy by 2026-02-09."
+    },
+    {
+      "templateId": null,
+      "title": "Compare education funding account options for Elia",
+      "text": "Prepare a comparison of ownership, contribution, and investment options for opening an education funding account for Elia Lanternmoss, including whether grandparents can contribute directly without affecting the household's six-month core expenses cash reserve target at Teacup Comet Bank.",
+      "priority": null,
+      "dueDate": "2026-02-17",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that education funding account comparison by 2026-02-17."
+    }
+  ]
+}

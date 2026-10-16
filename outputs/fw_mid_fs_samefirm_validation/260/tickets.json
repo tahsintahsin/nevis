@@ -1,0 +1,25 @@
+{
+  "meetingId": "260",
+  "tickets": [
+    {
+      "templateId": "1dddaf09-0fc9-53d8-a432-b9d4dba60cc8",
+      "title": "Review equity award details",
+      "text": "Reset Jared Wrenpuddle's portal credentials after an uninitiated password-reset email caused repeated lockouts. Review active sessions and set up stronger MFA to prevent future access issues.",
+      "priority": null,
+      "dueDate": "2024-03-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Jared reported repeated lockouts after an uninitiated password-reset email; approved-channel clean credential reset/session review/stronger MFA setup was agreed for 2024-03-18."
+    },
+    {
+      "templateId": "1dddaf09-0fc9-53d8-a432-b9d4dba60cc8",
+      "title": "Review equity award details",
+      "text": "Review the pending Teacup Comet Bank link on Jared Wrenpuddle's account and confirm the household has no such account. Update profile-change instructions to prevent unauthorized transfers.",
+      "priority": null,
+      "dueDate": "2024-03-19",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "Account activity showed a pending Teacup Comet Bank link; Jared said the household had none there, and associated transfer-instruction/profile-change review was agreed for 2024-03-19."
+    }
+  ]
+}

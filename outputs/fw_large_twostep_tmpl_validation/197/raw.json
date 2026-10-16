@@ -1,0 +1,29 @@
+{
+ "config": "fw_large_twostep_tmpl",
+ "prompt_version": "two_step_tmpl-9efed385",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "step1",
+   "text": "{\n\"meetingId\": \"197\",\n\"followups\": [\n{\n\"evidence\": \"The agreed follow-up is to coordinate the exception by August 25, 2026.\",\n\"action\": \"Coordinate the IRA transfer address exception.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"The agreed follow-up is to address the mismatch by August 22, 2026.\",\n\"action\": \"Address the joint account registration mismatch.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026.\",\n\"action\": \"Resolve the duplicate temporary account shell.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"the agreed follow-up is to handle it by August 28, 2026.\",\n\"action\": \"Handle the restricted security manual transfer window for the Copper Firefly position.\",\n\"templateId\": null\n},\n{\n\"evidence\": \"The agreed follow-up is to address the cash holdback by August 21, 2026.\",\n\"action\": \"Address the cash holdback before the taxable transfer.\",\n\"templateId\": null\n}\n]\n}",
+   "usage": {
+    "input_tokens": 3451,
+    "output_tokens": 1182,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 0
+   },
+   "stop": "stop"
+  },
+  {
+   "step": "step2",
+   "text": "{\n\"meetingId\": \"197\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Coordinate IRA transfer address exception\",\n\"text\": \"Coordinate the IRA transfer address exception for Selma Copperwisp with Paper Otter Retirement Services and Velvet Acorn Custody, ensuring the rollover address is updated by the August 25, 2026 deadline.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-25\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to coordinate the exception by August 25, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Address joint account registration mismatch\",\n\"text\": \"Address the joint account registration mismatch for Selma and Graham Copperwisp at Clockwork Clover Brokerage, reconciling the tenancy‑by‑entirety record with the intended joint‑tenant‑with‑rights‑of‑survivorship status by August 22, 2026.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-22\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to address the mismatch by August 22, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Resolve duplicate temporary account shell\",\n\"text\": \"Resolve the duplicate temporary account shell issue for Selma Copperwisp at Velvet Acorn Custody and Clockwork Clover Brokerage, consolidating the unintended shell and aligning the ACATS request by August 23, 2026.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-23\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to resolve the duplicate shell issue by August 23, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Handle restricted security manual transfer window\",\n\"text\": \"Handle the restricted security manual transfer window for Selma Copperwisp’s Copper Firefly Semiconductors position at Clockwork Clover Brokerage, processing the manual transfer outside the standard ACATS feed by August 28, 2026.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-28\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up is to handle it by August 28, 2026.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Address cash holdback before taxable transfer\",\n\"text\": \"Address the cash holdback before the taxable transfer for Selma Copperwisp’s individual brokerage at Clockwork Clover Brokerage, preserving funds for property tax and estimated tax payments and adjusting the ACATS instruction by August 21, 2026.\",\n\"priority\": null,\n\"dueDate\": \"2026-08-21\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed follow-up is to address the cash holdback by August 21, 2026.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2380,
+    "output_tokens": 1805,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 1813
+   },
+   "stop": "stop"
+  }
+ ]
+}

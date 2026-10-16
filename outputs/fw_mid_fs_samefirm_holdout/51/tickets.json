@@ -1,0 +1,75 @@
+{
+  "meetingId": "51",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Coordinate with Paper Otter Law for estate document refresh",
+      "text": "Coordinate with Galen Copperwisp at Paper Otter Law to review the older trust, will, durable power, and health directive package against the household's current assets, dependents, and legacy preferences. Due 2024-06-07.",
+      "priority": null,
+      "dueDate": "2024-06-07",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the estate document refresh with outside counsel, Leah requested coordination with Galen Copperwisp at Paper Otter Law so the older trust, will, durable power, and health directive package can be reviewed against the household’s current assets, dependents, and legacy preferences; the agreed foll"
+    },
+    {
+      "templateId": null,
+      "title": "Research successor trustee alternatives",
+      "text": "Research successor trustee alternatives for the Nettlewhisk household's revocable trust, including naming Velvet Acorn Trust Company or another fiduciary, prompted by Edmund Nettlewhisk's death and Callie Nettlewhisk's relocation outside the United States. Due 2024-06-14.",
+      "priority": null,
+      "dueDate": "2024-06-14",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For successor trustee alternatives, the discussion was prompted by Edmund Nettlewhisk’s death and Callie Nettlewhisk’s relocation outside the United States, and Leah and Marcus want information on naming Velvet Acorn Trust Company or another fiduciary as successor trustee; the agreed follow-up is du"
+    },
+    {
+      "templateId": null,
+      "title": "Review employer benefit beneficiary designations",
+      "text": "Review Leah Nettlewhisk's Moonbadger Robotics benefits portal for current life insurance and retirement plan beneficiary screens before she finalizes employer benefit elections. Due 2024-06-03.",
+      "priority": null,
+      "dueDate": "2024-06-03",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the employer benefit beneficiary review, Leah’s Moonbadger Robotics benefits portal is in its current election window, and the life insurance and retirement plan beneficiary screens need to be checked before she finalizes employer benefit elections; the agreed follow-up is due 2024-06-03."
+    },
+    {
+      "templateId": null,
+      "title": "Collect missing estate and beneficiary records",
+      "text": "Collect missing estate and beneficiary records: obtain signed copies of health care directives, locate Marcus's SEP IRA beneficiary confirmation, and gather the full employer life insurance beneficiary page. Due 2024-06-10.",
+      "priority": null,
+      "dueDate": "2024-06-10",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For missing estate and beneficiary records, the estate binder did not include signed copies of the health care directives, Marcus could not locate his SEP IRA beneficiary confirmation, and Leah did not have the full employer life insurance beneficiary page available during the call; the agreed follo"
+    },
+    {
+      "templateId": null,
+      "title": "Reconcile beneficiary designations across accounts and estate plan",
+      "text": "Reconcile beneficiary designations across Leah's IRA, employer life insurance, Marcus's SEP IRA, and the estate plan, including matching contingent beneficiaries to the couple's current trustee and guardianship preferences. Due 2024-06-12.",
+      "priority": null,
+      "dueDate": "2024-06-12",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For beneficiary designation reconciliation, the records discussed in the meeting showed different beneficiary structures across Leah’s IRA, employer life insurance, Marcus’s SEP IRA, and the estate plan, including contingent beneficiaries that do not match the couple’s current trustee and guardiansh"
+    },
+    {
+      "templateId": null,
+      "title": "Update Velvet Acorn Custody portal estate records",
+      "text": "Update the Velvet Acorn Custody portal estate records, including trust certification and contact information, to resolve the discrepancy between the portal display and the uploaded documents. Due 2024-05-30.",
+      "priority": null,
+      "dueDate": "2024-05-30",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For the custodian portal estate record issue, Leah reported that the Velvet Acorn Custody portal still displays an obsolete trust certification and that a prior upload of updated contact information did not appear in the shared document vault; the agreed follow-up is due 2024-05-30."
+    },
+    {
+      "templateId": null,
+      "title": "Review account titling for estate alignment",
+      "text": "Review account titling for estate alignment: summarize the joint taxable account, cash reserve accounts, and one older individual account titles versus the revocable trust structure for attorney review. Due 2024-06-18.",
+      "priority": null,
+      "dueDate": "2024-06-18",
+      "assigneeId": null,
+      "subTasks": [],
+      "evidence": "For account titling review for estate alignment, Priya’s review found that the joint taxable account, cash reserve accounts, and one older individual account are titled differently from the revocable trust structure described in the estate documents, so the titling needs to be summarized for attorne"
+    }
+  ]
+}

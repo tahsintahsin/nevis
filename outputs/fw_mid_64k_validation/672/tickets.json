@@ -1,0 +1,95 @@
+{
+  "meetingId": "672",
+  "tickets": [
+    {
+      "templateId": null,
+      "title": "Prepare estate attorney coordination package",
+      "text": "Prepare an organized packet for Priya Cloudpuddle at Paper Otter Law showing current household assets, account titling, trustee concerns, and beneficiary records so the legal documents can be refreshed from the older estate plan.",
+      "priority": "medium",
+      "dueDate": "2025-12-05",
+      "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare that estate attorney coordination package by 2025-12-05."
+    },
+    {
+      "templateId": null,
+      "title": "Prepare successor trustee suitability notes",
+      "text": "Prepare successor trustee suitability notes evaluating Mark's practicality as first successor trustee after his health disclosure and out-of-state residence, and whether Lena, Renee, or a corporate fiduciary should be evaluated as alternatives.",
+      "priority": "medium",
+      "dueDate": "2026-01-12",
+      "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to prepare successor trustee suitability notes by 2026-01-12."
+    },
+    {
+      "templateId": null,
+      "title": "Review IRA beneficiary records and resolve inconsistency",
+      "text": "Review and resolve the IRA beneficiary inconsistency at Velvet Acorn Custody where the custodian portal shows a closing notice for benefit elections and contingent beneficiaries using old addresses for Lena and Owen, and the portal record does not align with the estate plan's family distribution structure.",
+      "priority": "medium",
+      "dueDate": "2025-11-25",
+      "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28",
+      "subTasks": [],
+      "evidence": "Nora reported that the Clockwork Clover Analytics portal shows a closing notice for benefit elections and still lists contingent beneficiaries using old addresses for Lena and Owen. The agreed follow-up is to address the employer plan beneficiary and benefit election package by 2025-11-25."
+    },
+    {
+      "templateId": null,
+      "title": "Review life insurance ownership and beneficiary records",
+      "text": "Review life insurance ownership and beneficiary records for the Silver Marmot Life term policy and employer group life coverage, ensuring they mirror the intended trustee and contingent beneficiary structure.",
+      "priority": "medium",
+      "dueDate": "2025-12-16",
+      "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28",
+      "subTasks": [],
+      "evidence": "The policy inventory showed multiple coverage sources, including the Silver Marmot Life term policy and employer group life coverage, with beneficiary records that may not mirror the intended trustee and contingent beneficiary structure. The agreed follow-up is to review life insurance ownership and"
+    },
+    {
+      "templateId": null,
+      "title": "Address current charitable transfer from donor-advised fund",
+      "text": "Address the current charitable transfer from the Pocket Lantern Charitable Fund to support year-end literacy giving while the estate bequest language is being clarified separately.",
+      "priority": "medium",
+      "dueDate": "2025-12-12",
+      "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to address the current charitable transfer from the donor-advised fund by 2025-12-12."
+    },
+    {
+      "templateId": null,
+      "title": "Complete inheritance intake from Ellen Thimblefern's estate",
+      "text": "Complete inheritance intake from Ellen Thimblefern's estate, including asset character, distribution timing, and tax reporting details from preliminary executor correspondence.",
+      "priority": "medium",
+      "dueDate": "2025-12-18",
+      "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to complete inheritance intake from Ellen Thimblefern’s estate by 2025-12-18."
+    },
+    {
+      "templateId": null,
+      "title": "Coordinate CPA materials for estate and tax assumptions",
+      "text": "Coordinate CPA materials for estate and tax assumptions involving unrealized gains in the taxable account, expected inheritance reporting, charitable bequests, and possible trust funding steps for Daniel Pebblefizz at Amber Teapot Tax.",
+      "priority": "medium",
+      "dueDate": "2026-01-09",
+      "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to coordinate CPA materials for estate and tax assumptions by 2026-01-09."
+    },
+    {
+      "templateId": null,
+      "title": "Review property title and mortgage documents",
+      "text": "Review property title and mortgage documents for the primary residence and lake cabin, especially how they fit with the trust plan given the cabin is in Nora's individual name while the residence is jointly owned.",
+      "priority": "medium",
+      "dueDate": "2025-12-10",
+      "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28",
+      "subTasks": [],
+      "evidence": "The agreed follow-up is to review property title and mortgage documents by 2025-12-10."
+    },
+    {
+      "templateId": null,
+      "title": "Provide digital asset and household contact inventory format",
+      "text": "Provide a digital asset and household contact inventory format that Calvin could use if Nora were incapacitated, consolidating passwords, subscription accounts, and household vendor contacts.",
+      "priority": "medium",
+      "dueDate": "2025-12-22",
+      "assigneeId": "ddcbc589-581b-5932-ab44-32849f1b3c28",
+      "subTasks": [],
+      "evidence": "Nora also described passwords, subscription accounts, and household vendor contacts as scattered across personal files and asked for a consolidated inventory format that Calvin could use if she were incapacitated. The agreed follow-up is to provide a digital asset and household contact inventory for"
+    }
+  ]
+}

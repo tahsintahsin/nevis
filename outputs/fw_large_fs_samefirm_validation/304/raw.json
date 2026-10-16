@@ -1,0 +1,21 @@
+{
+ "config": "fw_large_fs_samefirm",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [
+  "585",
+  "657"
+ ],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"304\",\n\"tickets\": [\n{\n\"templateId\": null,\n\"title\": \"Compare home equity line reset options\",\n\"text\": \"Compare the projected home equity line reset payment for Evan Cloudpuddle with refinance, a fixed home equity loan, and accelerated payoff alternatives. Use the Silver Marmot Credit Union terms and the existing Teacup Comet Bank mortgage details.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-06\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"the agreed follow-up due 2024-09-06 is to compare the projected home equity line reset payment with refinance, fixed home equity loan, and accelerated payoff alternatives.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Collect loan documents for home equity line\",\n\"text\": \"Collect the loan documents missing from the home equity line reset notice for Evan Cloudpuddle, including the full agreement, margin language, draw-period terms, and prepayment provisions.\",\n\"priority\": null,\n\"dueDate\": \"2024-08-26\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Loan document collection is needed by 2024-08-26 because the reset notice and full agreement were missing, and screenshots did not verify the margin, draw-period language, or prepayment terms.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Resolve credit‑monitoring balance discrepancy\",\n\"text\": \"Resolve the discrepancy between the $92,100 credit‑monitoring balance and the portal’s reported $86,400 balance for Evan Cloudpuddle’s home equity line.\",\n\"priority\": null,\n\"dueDate\": \"2024-08-30\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"Resolution is needed by 2024-08-30 for the $92,100 credit-monitoring balance versus the portal’s about $86,400.\"\n},\n{\n\"templateId\": null,\n\"title\": \"Prepare cash‑flow scenario for debt repayment\",\n\"text\": \"Prepare a cash‑flow scenario for Evan and Lena Cloudpuddle showing debt‑repayment tradeoffs after the home equity line reset payment, incorporating regular spending, the upcoming contract pause for Lena’s Paper Otter Studio (expected by 2024‑09‑04), and the $6,200 family rewards card payment.\",\n\"priority\": null,\n\"dueDate\": \"2024-09-13\",\n\"assigneeId\": null,\n\"subTasks\": [],\n\"evidence\": \"The agreed cash‑flow scenario due 2024-09-13 is to show debt‑repayment tradeoffs after Mira identified pressure from regular spending plus the estimated reset payment.\"\n}\n]\n}",
+   "usage": {
+    "input_tokens": 538,
+    "output_tokens": 1576,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 13752
+   },
+   "stop": "stop"
+  }
+ ]
+}

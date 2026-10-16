@@ -1,0 +1,18 @@
+{
+ "config": "fw_qwen9b_base",
+ "prompt_version": "main-e2d185a2",
+ "few_shot_examples": [],
+ "calls": [
+  {
+   "step": "single",
+   "text": "{\n\"meetingId\": \"768\",\n\"tickets\": [\n{\n\"title\": \"Open joint taxable account at Velvet Acorn Custody\",\n\"text\": \"Open a new joint taxable account at Velvet Acorn Custody for Lila and Rowan Thistlefable, initially funded from their Teacup Comet Bank savings, with both spouses granted online access and electronic statements.\",\n\"priority\": \"high\",\n\"dueDate\": \"2024-10-18\",\n\"assigneeId\": \"5c5439fe-19f1-52ba-8646-5d8a3755e27e\",\n\"templateId\": \"7e079875-a636-5be9-84a0-36c6f079b4eb\",\n\"evidence\": \"the agreed follow-ups are to open a joint taxable account at the existing custodian by 2024-10-18, initially funded from Teacup Comet Bank savings, with both spouses receiving online access and electronic statements\"\n,\n\"subTasks\": []\n},\n{\n\"title\": \"Prepare beneficiary change forms for Lila and Rowan Thistlefable\",\n\"text\": \"Prepare beneficiary change forms for Lila and Rowan Thistlefable by 2024-10-25, naming Rowan as primary beneficiary and Camila Copperwisp as contingent beneficiary where allowed.\",\n\"priority\": null,\n\"dueDate\": \"2024-10-25\",\n\"assigneeId\": null,\n\"templateId\": null,\n\"evidence\": \"prepare beneficiary change forms by 2024-10-25 naming Rowan primary and Camila Copperwisp contingent where allowed\"\n,\n\"subTasks\": []\n},\n{\n\"title\": \"Collect household identity records and marriage certificate\",\n\"text\": \"Collect household identity records and the certified marriage certificate for Lila and Rowan Thistlefable by 2024-10-14 because their current profiles show Lila's prior household status and the file lacks the certified marriage certificate.\",\n\"priority\": null,\n\"dueDate\": \"2024-10-14\",\n\"assigneeId\": null,\n\"templateId\": \"129a0b7f-8c53-50bf-9cf0-a61ab4d220da\",\n\"evidence\": \"collect household identity records by 2024-10-14 because profiles still show Lila's prior household status and the file lacks the certified marriage certificate\"\n,\n\"subTasks\": []\n}\n]\n}",
+   "usage": {
+    "input_tokens": 2153,
+    "output_tokens": 600,
+    "cache_write_tokens": 0,
+    "cache_read_tokens": 2048
+   },
+   "stop": "stop"
+  }
+ ]
+}
